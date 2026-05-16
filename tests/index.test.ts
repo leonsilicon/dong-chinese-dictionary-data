@@ -1,4 +1,7 @@
 import { describe, expect, test } from 'bun:test';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { jsonl } from 'js-jsonl';
 import characters from '../index.js';
 
 describe('characters', () => {
@@ -34,6 +37,38 @@ describe('characters', () => {
 		const data = await characters['你']?.();
 		expect(data).toHaveProperty('_id');
 		expect(data).toHaveProperty('char');
+	});
+
+	test('every jsonl entry is referenced in index.js', () => {
+		const assetsDir = join(import.meta.dir, '../assets');
+		const sourceFile = readdirSync(assetsDir)
+			.filter((f) => f.endsWith('.jsonl'))
+			.sort()
+			.at(-1);
+		if (!sourceFile) throw new Error('No .jsonl file found in assets/');
+
+		const IGNORED_ID_PREFIXES = ['AwEHQD', 'Xu5z76', 'wMjRhN', 'zXhHr8'];
+		const IGNORED_IDS = new Set(['5f523affde54193ed8735326']);
+
+		const data = readFileSync(join(assetsDir, sourceFile), 'utf8');
+		const entries = jsonl.parse(data) as Array<Record<string, unknown>>;
+
+		const missing: string[] = [];
+		const seen = new Set<string>();
+		for (const entry of entries) {
+			const id = entry['_id'] as string;
+			if (IGNORED_ID_PREFIXES.some((p) => id?.startsWith(p)) || IGNORED_IDS.has(id)) continue;
+			const char = (entry['char'] ?? entry['simp']) as string;
+			if (!char || seen.has(char)) continue;
+			seen.add(char);
+			if (!(char in characters)) missing.push(char);
+		}
+
+		if (missing.length > 0) {
+			throw new Error(
+				`${missing.length} character(s) from the JSONL are not referenced in index.js: ${missing.slice(0, 10).join(', ')}${missing.length > 10 ? '…' : ''}`
+			);
+		}
 	});
 
 	test('all entries resolve to a defined object', async () => {
