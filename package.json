@@ -1,0 +1,58 @@
+{
+	"name": "dong-chinese-dictionary-data",
+	"version": "2025.12.25-alpha.1",
+	"description": "Chinese dictionary data from dong-chinese.com, packaged as a single JSON file with TypeScript types.",
+	"keywords": [
+		"chinese",
+		"dictionary",
+		"hanzi",
+		"dong-chinese",
+		"cjk",
+		"mandarin",
+		"data",
+		"json"
+	],
+	"license": "MIT",
+	"author": "leonsilicon",
+	"homepage": "https://github.com/leonsilicon/dong-chinese-dictionary-data#readme",
+	"bugs": {
+		"url": "https://github.com/leonsilicon/dong-chinese-dictionary-data/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/leonsilicon/dong-chinese-dictionary-data.git"
+	},
+	"type": "module",
+	"main": "./index.js",
+	"types": "./index.d.ts",
+	"exports": {
+		".": {
+			"types": "./index.d.ts",
+			"default": "./index.js"
+		},
+		"./strokes/*": {
+		  "types": "./stroke-entry.d.ts",
+		  "default": "./strokes/*"
+		},
+		"./package.json": "./package.json"
+	},
+	"sideEffects": false,
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"character-data.d.ts",
+		"stroke-entry.d.ts",
+		"strokes"
+	],
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"build": "bun run scripts/parse.ts",
+		"prepack": "bun run scripts/parse.ts"
+	},
+	"packageManager": "bun@1.3.13",
+	"devDependencies": {
+		"js-jsonl": "^1.1.1"
+	}
+}

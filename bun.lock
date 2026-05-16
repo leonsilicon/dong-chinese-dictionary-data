@@ -1,0 +1,17 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "dong-chinese-dictionary-data",
+      "devDependencies": {
+        "js-jsonl": "^1.1.1",
+      },
+    },
+  },
+  "packages": {
+    "@sindresorhus/is": ["@sindresorhus/is@4.6.0", "", {}, "sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw=="],
+
+    "js-jsonl": ["js-jsonl@1.1.1", "", { "dependencies": { "@sindresorhus/is": "^4.6.0" } }, "sha512-VkkV3ac6N6tRaK32NIaXStzs9l3py/XK5pCbTEyiUt5Ch5We3H8ZcrSQndQ4TyIisfKMIjvoiTNWsb7mhQcZZw=="],
+  }
+}
