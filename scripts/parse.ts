@@ -38,8 +38,8 @@ const IGNORED_IDS = new Set([
 ]);
 
 const seen = new Map<string, Record<string, unknown>>();
-// Map from stroke count to list of entries
-const strokeGroups = new Map<number, Record<string, unknown>[]>();
+// Map from stroke count to char->entry mapping
+const strokeGroups = new Map<number, Record<string, Record<string, unknown>>>();
 
 for (const entry of entries) {
 	const id = entry['_id'] as string;
@@ -58,8 +58,8 @@ for (const entry of entries) {
 	} else {
 		seen.set(char, entry);
 		const strokeCount = typeof entry['strokeCount'] === 'number' ? entry['strokeCount'] : 0;
-		const group = strokeGroups.get(strokeCount) ?? [];
-		group.push(entry);
+		const group = strokeGroups.get(strokeCount) ?? {};
+		group[char] = entry;
 		strokeGroups.set(strokeCount, group);
 	}
 }
@@ -73,8 +73,9 @@ for (const [strokeCount, groupEntries] of strokeGroups) {
 
 const chars = [...seen.keys()];
 const indexLines = chars.map((c) => {
-	const strokeCount = typeof seen.get(c)!['strokeCount'] === 'number' ? seen.get(c)!['strokeCount'] : 0;
-	return `\t${JSON.stringify(c)}: async () => (await import('./strokes/${strokeCount}.json', { with: { type: 'json' } })).default.find(e => (e.char ?? e.simp) === ${JSON.stringify(c)})`;
+	const entry = seen.get(c)!;
+	const strokeCount = typeof entry['strokeCount'] === 'number' ? entry['strokeCount'] : 0;
+	return `\t${JSON.stringify(c)}: async () => (await import('./strokes/${strokeCount}.json', { with: { type: 'json' } })).default[${JSON.stringify(c)}]`;
 });
 const indexJs = `const characters = {\n${indexLines.join(',\n')}\n};\n\nexport default characters;\n`;
 fs.writeFileSync(path.join(rootDir, 'index.js'), indexJs);

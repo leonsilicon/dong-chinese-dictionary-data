@@ -35,4 +35,14 @@ describe('characters', () => {
 		expect(data).toHaveProperty('_id');
 		expect(data).toHaveProperty('char');
 	});
+
+	test('all entries resolve to a defined object', async () => {
+		const results = await Promise.all(
+			Object.entries(characters).map(async ([char, loader]) => ({ char, data: await loader() }))
+		);
+		const failed = results.filter(({ data }) => data === undefined || data === null);
+		if (failed.length > 0) {
+			throw new Error(`${failed.length} character(s) resolved to undefined/null: ${failed.slice(0, 10).map(f => f.char).join(', ')}${failed.length > 10 ? '…' : ''}`);
+		}
+	}, 60_000);
 });
