@@ -1,6 +1,6 @@
 {
 	"name": "dong-chinese-dictionary-data",
-	"version": "2025.12.25-alpha.1",
+	"version": "2025.12.25-alpha.2",
 	"description": "Chinese dictionary data from dong-chinese.com, packaged as a single JSON file with TypeScript types.",
 	"keywords": [
 		"chinese",

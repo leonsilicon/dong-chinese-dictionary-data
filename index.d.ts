@@ -12,6 +12,6 @@ export type {
 	DictionaryItem,
 } from './character-data.js';
 
-declare const characters: Record<string, () => Promise<Record<string, unknown>>>;
+declare const characters: Record<string, () => Promise<CharacterData>>;
 export default characters;
 
