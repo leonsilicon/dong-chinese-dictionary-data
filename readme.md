@@ -27,9 +27,9 @@ pnpm add dong-chinese-dictionary-data
 Loads only the JSON file for the requested character:
 
 ```ts
-import characters from 'dong-chinese-dictionary-data';
+import characters from "dong-chinese-dictionary-data";
 
-const data = await characters['你']?.();
+const data = await characters["你"]?.();
 ```
 
 Returns `undefined` if the character is not in the dictionary.
@@ -39,7 +39,7 @@ Returns `undefined` if the character is not in the dictionary.
 All entries conform to the `CharacterData` type, re-exported from the package root:
 
 ```ts
-import type { CharacterData } from 'dong-chinese-dictionary-data';
+import type { CharacterData } from "dong-chinese-dictionary-data";
 ```
 
 See [`character-data.d.ts`](./character-data.d.ts) for the full schema.
