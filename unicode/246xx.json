@@ -1,0 +1,2448 @@
+{
+  "𤚂": {
+    "_id": "5f523b00de54193ed8739bb8",
+    "char": "𤚂",
+    "codepoint": "U+24682",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚅": {
+    "_id": "5f523b00de54193ed8739bbb",
+    "char": "𤚅",
+    "codepoint": "U+24685",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚺": {
+    "_id": "5f523b00de54193ed8739bf0",
+    "char": "𤚺",
+    "codepoint": "U+246BA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚉": {
+    "_id": "5f523b00de54193ed8739bbf",
+    "char": "𤚉",
+    "codepoint": "U+24689",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚋": {
+    "_id": "5f523b00de54193ed8739bc1",
+    "char": "𤚋",
+    "codepoint": "U+2468B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚣": {
+    "_id": "5f523b00de54193ed8739bd9",
+    "char": "𤚣",
+    "codepoint": "U+246A3",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚨": {
+    "_id": "5f523b00de54193ed8739bde",
+    "char": "𤚨",
+    "codepoint": "U+246A8",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚫": {
+    "_id": "5f523b00de54193ed8739be1",
+    "char": "𤚫",
+    "codepoint": "U+246AB",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚲": {
+    "_id": "5f523b00de54193ed8739be8",
+    "char": "𤚲",
+    "codepoint": "U+246B2",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚸": {
+    "_id": "5f523b00de54193ed8739bee",
+    "char": "𤚸",
+    "codepoint": "U+246B8",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚿": {
+    "_id": "5f523b00de54193ed8739bf5",
+    "char": "𤚿",
+    "codepoint": "U+246BF",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚚": {
+    "_id": "5f523b00de54193ed8739bd0",
+    "char": "𤚚",
+    "codepoint": "U+2469A",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚡": {
+    "_id": "5f523b00de54193ed8739bd7",
+    "char": "𤚡",
+    "codepoint": "U+246A1",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚢": {
+    "_id": "5f523b00de54193ed8739bd8",
+    "char": "𤚢",
+    "codepoint": "U+246A2",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚪": {
+    "_id": "5f523b00de54193ed8739be0",
+    "char": "𤚪",
+    "codepoint": "U+246AA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚐": {
+    "_id": "5f523b00de54193ed8739bc6",
+    "char": "𤚐",
+    "codepoint": "U+24690",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚘": {
+    "_id": "5f523b00de54193ed8739bce",
+    "char": "𤚘",
+    "codepoint": "U+24698",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚾": {
+    "_id": "5f523b00de54193ed8739bf4",
+    "char": "𤚾",
+    "codepoint": "U+246BE",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚯": {
+    "_id": "5f523b00de54193ed8739be5",
+    "char": "𤚯",
+    "codepoint": "U+246AF",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚁": {
+    "_id": "5f523b00de54193ed8739bb7",
+    "char": "𤚁",
+    "codepoint": "U+24681",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚎": {
+    "_id": "5f523b00de54193ed8739bc4",
+    "char": "𤚎",
+    "codepoint": "U+2468E",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚙": {
+    "_id": "5f523b00de54193ed8739bcf",
+    "char": "𤚙",
+    "codepoint": "U+24699",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚝": {
+    "_id": "5f523b00de54193ed8739bd3",
+    "char": "𤚝",
+    "codepoint": "U+2469D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚠": {
+    "_id": "5f523b00de54193ed8739bd6",
+    "char": "𤚠",
+    "codepoint": "U+246A0",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚮": {
+    "_id": "5f523b00de54193ed8739be4",
+    "char": "𤚮",
+    "codepoint": "U+246AE",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚶": {
+    "_id": "5f523b00de54193ed8739bec",
+    "char": "𤚶",
+    "codepoint": "U+246B6",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_0.png",
+        "source": "academia-sinica",
+        "description": "沈子它簋蓋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_1.png",
+        "source": "academia-sinica",
+        "description": "毛公鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_2.png",
+        "source": "academia-sinica",
+        "description": "𦅫鎛(金)春秋中期",
+        "type": "Bronze",
+        "era": "Mid Spring and Autumn (~600 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_3.png",
+        "source": "academia-sinica",
+        "description": "余贎乘兒鐘(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_4.png",
+        "source": "academia-sinica",
+        "description": "鄂君啟舟節(金)戰國中期",
+        "type": "Bronze",
+        "era": "Mid Warring States (~300 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_5.png",
+        "source": "academia-sinica",
+        "description": "郭.語4.24(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_6.png",
+        "source": "academia-sinica",
+        "description": "郭.唐.8(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_7.png",
+        "source": "academia-sinica",
+        "description": "上(1).孔.21(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_8.png",
+        "source": "academia-sinica",
+        "description": "郭.語1.33(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_9.png",
+        "source": "academia-sinica",
+        "description": "郭.語2.5(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_10.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_11.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_12.png",
+        "source": "academia-sinica",
+        "description": "說文‧烏部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9A%B6_13.png",
+        "source": "academia-sinica",
+        "description": "睡.秦76(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "shuowen": "《說文》：“烏，孝鳥也。象形。孔子曰：‘烏，呼也。’取其助气，故以為烏呼。，古文烏，象形。於，象古文烏省。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“‘鳥’字點睛，‘烏’則不，以純黑故不見其睛也。”"
+      }
+    ],
+    "variants": [
+      { "char": "烏", "parts": "灬", "source": "academia-sinica" },
+      { "char": "於", "parts": "㫃", "source": "academia-sinica" }
+    ]
+  },
+  "𤚏": {
+    "_id": "5f523b00de54193ed8739bc5",
+    "char": "𤚏",
+    "codepoint": "U+2468F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚔": {
+    "_id": "5f523b00de54193ed8739bca",
+    "char": "𤚔",
+    "codepoint": "U+24694",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚜": {
+    "_id": "5f523b00de54193ed8739bd2",
+    "char": "𤚜",
+    "codepoint": "U+2469C",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚤": {
+    "_id": "5f523b00de54193ed8739bda",
+    "char": "𤚤",
+    "codepoint": "U+246A4",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚥": {
+    "_id": "5f523b00de54193ed8739bdb",
+    "char": "𤚥",
+    "codepoint": "U+246A5",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚼": {
+    "_id": "5f523b00de54193ed8739bf2",
+    "char": "𤚼",
+    "codepoint": "U+246BC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚍": {
+    "_id": "5f523b00de54193ed8739bc3",
+    "char": "𤚍",
+    "codepoint": "U+2468D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚀": {
+    "_id": "5f523b00de54193ed8739bb6",
+    "char": "𤚀",
+    "codepoint": "U+24680",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚗": {
+    "_id": "5f523b00de54193ed8739bcd",
+    "char": "𤚗",
+    "codepoint": "U+24697",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚛": {
+    "_id": "5f523b00de54193ed8739bd1",
+    "char": "𤚛",
+    "codepoint": "U+2469B",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚧": {
+    "_id": "5f523b00de54193ed8739bdd",
+    "char": "𤚧",
+    "codepoint": "U+246A7",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚟": {
+    "_id": "5f523b00de54193ed8739bd5",
+    "char": "𤚟",
+    "codepoint": "U+2469F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚦": {
+    "_id": "5f523b00de54193ed8739bdc",
+    "char": "𤚦",
+    "codepoint": "U+246A6",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚬": {
+    "_id": "5f523b00de54193ed8739be2",
+    "char": "𤚬",
+    "codepoint": "U+246AC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚵": {
+    "_id": "5f523b00de54193ed8739beb",
+    "char": "𤚵",
+    "codepoint": "U+246B5",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚽": {
+    "_id": "5f523b00de54193ed8739bf3",
+    "char": "𤚽",
+    "codepoint": "U+246BD",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚑": {
+    "_id": "5f523b00de54193ed8739bc7",
+    "char": "𤚑",
+    "codepoint": "U+24691",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚓": {
+    "_id": "5f523b00de54193ed8739bc9",
+    "char": "𤚓",
+    "codepoint": "U+24693",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚕": {
+    "_id": "5f523b00de54193ed8739bcb",
+    "char": "𤚕",
+    "codepoint": "U+24695",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚖": {
+    "_id": "5f523b00de54193ed8739bcc",
+    "char": "𤚖",
+    "codepoint": "U+24696",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚴": {
+    "_id": "5f523b00de54193ed8739bea",
+    "char": "𤚴",
+    "codepoint": "U+246B4",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚹": {
+    "_id": "5f523b00de54193ed8739bef",
+    "char": "𤚹",
+    "codepoint": "U+246B9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚻": {
+    "_id": "5f523b00de54193ed8739bf1",
+    "char": "𤚻",
+    "codepoint": "U+246BB",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚃": {
+    "_id": "5f523b00de54193ed8739bb9",
+    "char": "𤚃",
+    "codepoint": "U+24683",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚆": {
+    "_id": "5f523b00de54193ed8739bbc",
+    "char": "𤚆",
+    "codepoint": "U+24686",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚌": {
+    "_id": "5f523b00de54193ed8739bc2",
+    "char": "𤚌",
+    "codepoint": "U+2468C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚒": {
+    "_id": "5f523b00de54193ed8739bc8",
+    "char": "𤚒",
+    "codepoint": "U+24692",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚩": {
+    "_id": "5f523b00de54193ed8739bdf",
+    "char": "𤚩",
+    "codepoint": "U+246A9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚷": {
+    "_id": "5f523b00de54193ed8739bed",
+    "char": "𤚷",
+    "codepoint": "U+246B7",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚰": {
+    "_id": "5f523b00de54193ed8739be6",
+    "char": "𤚰",
+    "codepoint": "U+246B0",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚳": {
+    "_id": "5f523b00de54193ed8739be9",
+    "char": "𤚳",
+    "codepoint": "U+246B3",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚇": {
+    "_id": "5f523b00de54193ed8739bbd",
+    "char": "𤚇",
+    "codepoint": "U+24687",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚄": {
+    "_id": "5f523b00de54193ed8739bba",
+    "char": "𤚄",
+    "codepoint": "U+24684",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚞": {
+    "_id": "5f523b00de54193ed8739bd4",
+    "char": "𤚞",
+    "codepoint": "U+2469E",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𤚈": {
+    "_id": "5f523b00de54193ed8739bbe",
+    "char": "𤚈",
+    "codepoint": "U+24688",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚊": {
+    "_id": "5f523b00de54193ed8739bc0",
+    "char": "𤚊",
+    "codepoint": "U+2468A",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤚭": {
+    "_id": "5f523b00de54193ed8739be3",
+    "char": "𤚭",
+    "codepoint": "U+246AD",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤚱": {
+    "_id": "5f523b00de54193ed8739be7",
+    "char": "𤚱",
+    "codepoint": "U+246B1",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛆": {
+    "_id": "5f523b00de54193ed8739bfc",
+    "char": "𤛆",
+    "codepoint": "U+246C6",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛈": {
+    "_id": "5f523b00de54193ed8739bfe",
+    "char": "𤛈",
+    "codepoint": "U+246C8",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛋": {
+    "_id": "5f523b00de54193ed8739c01",
+    "char": "𤛋",
+    "codepoint": "U+246CB",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛝": {
+    "_id": "5f523b00de54193ed8739c13",
+    "char": "𤛝",
+    "codepoint": "U+246DD",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛴": {
+    "_id": "5f523b00de54193ed8739c2a",
+    "char": "𤛴",
+    "codepoint": "U+246F4",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%B4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，牛羊無子也。从牛，聲。讀若糗糧之糗。”",
+    "comments": [{ "source": "academia-sinica", "text": "朱駿聲通訓定聲：“今字作㹗。”" }],
+    "variants": [{ "char": "㹗", "parts": "牜壽", "source": "academia-sinica" }]
+  },
+  "𤛉": {
+    "_id": "5f523b00de54193ed8739bff",
+    "char": "𤛉",
+    "codepoint": "U+246C9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛲": {
+    "_id": "5f523b00de54193ed8739c28",
+    "char": "𤛲",
+    "codepoint": "U+246F2",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛳": {
+    "_id": "5f523b00de54193ed8739c29",
+    "char": "𤛳",
+    "codepoint": "U+246F3",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛂": {
+    "_id": "5f523b00de54193ed8739bf8",
+    "char": "𤛂",
+    "codepoint": "U+246C2",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛃": {
+    "_id": "5f523b00de54193ed8739bf9",
+    "char": "𤛃",
+    "codepoint": "U+246C3",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛓": {
+    "_id": "5f523b00de54193ed8739c09",
+    "char": "𤛓",
+    "codepoint": "U+246D3",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛚": {
+    "_id": "5f523b00de54193ed8739c10",
+    "char": "𤛚",
+    "codepoint": "U+246DA",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛩": {
+    "_id": "5f523b00de54193ed8739c1f",
+    "char": "𤛩",
+    "codepoint": "U+246E9",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛾": {
+    "_id": "5f523b00de54193ed8739c34",
+    "char": "𤛾",
+    "codepoint": "U+246FE",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𤛍": {
+    "_id": "5f523b00de54193ed8739c03",
+    "char": "𤛍",
+    "codepoint": "U+246CD",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛡": {
+    "_id": "5f523b00de54193ed8739c17",
+    "char": "𤛡",
+    "codepoint": "U+246E1",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛪": {
+    "_id": "5f523b00de54193ed8739c20",
+    "char": "𤛪",
+    "codepoint": "U+246EA",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛫": {
+    "_id": "5f523b00de54193ed8739c21",
+    "char": "𤛫",
+    "codepoint": "U+246EB",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛮": {
+    "_id": "5f523b00de54193ed8739c24",
+    "char": "𤛮",
+    "codepoint": "U+246EE",
+    "strokeCount": 16,
+    "simpVariants": ["𤙯"],
+    "sources": ["unicode"]
+  },
+  "𤛯": {
+    "_id": "5f523b00de54193ed8739c25",
+    "char": "𤛯",
+    "codepoint": "U+246EF",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛊": {
+    "_id": "5f523b00de54193ed8739c00",
+    "char": "𤛊",
+    "codepoint": "U+246CA",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛽": {
+    "_id": "5f523b00de54193ed8739c33",
+    "char": "𤛽",
+    "codepoint": "U+246FD",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𤛌": {
+    "_id": "5f523b00de54193ed8739c02",
+    "char": "𤛌",
+    "codepoint": "U+246CC",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛵": {
+    "_id": "5f523b00de54193ed8739c2b",
+    "char": "𤛵",
+    "codepoint": "U+246F5",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛄": {
+    "_id": "5f523b00de54193ed8739bfa",
+    "char": "𤛄",
+    "codepoint": "U+246C4",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛑": {
+    "_id": "5f523b00de54193ed8739c07",
+    "char": "𤛑",
+    "codepoint": "U+246D1",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%91_0.png",
+        "source": "academia-sinica",
+        "description": "古地圖(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "𤛑", "parts": "牜庸", "source": "academia-sinica" }]
+  },
+  "𤛜": {
+    "_id": "5f523b00de54193ed8739c12",
+    "char": "𤛜",
+    "codepoint": "U+246DC",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛶": {
+    "_id": "5f523b00de54193ed8739c2c",
+    "char": "𤛶",
+    "codepoint": "U+246F6",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛿": {
+    "_id": "5f523b00de54193ed8739c35",
+    "char": "𤛿",
+    "codepoint": "U+246FF",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%BF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%BF_1.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡19.169(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%BF_2.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，耕也。从牛，黎聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "《康熙字典．牛部》：“𤛿，與犂同。”" }],
+    "variants": [{ "char": "𤛿", "parts": "黎牛", "source": "academia-sinica" }]
+  },
+  "𤛒": {
+    "_id": "5f523b00de54193ed8739c08",
+    "char": "𤛒",
+    "codepoint": "U+246D2",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%92_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，牛羊無子也。从牛，聲。讀若糗糧之糗。”",
+    "comments": [{ "source": "academia-sinica", "text": "朱駿聲通訓定聲：“今字作㹗。”" }],
+    "variants": [{ "char": "㹗", "parts": "牜壽", "source": "academia-sinica" }]
+  },
+  "𤛙": {
+    "_id": "5f523b00de54193ed8739c0f",
+    "char": "𤛙",
+    "codepoint": "U+246D9",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛰": {
+    "_id": "5f523b00de54193ed8739c26",
+    "char": "𤛰",
+    "codepoint": "U+246F0",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛱": {
+    "_id": "5f523b00de54193ed8739c27",
+    "char": "𤛱",
+    "codepoint": "U+246F1",
+    "strokeCount": 17,
+    "simpVariants": ["𫞢"],
+    "sources": ["unicode"]
+  },
+  "𤛀": {
+    "_id": "5f523b00de54193ed8739bf6",
+    "char": "𤛀",
+    "codepoint": "U+246C0",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛏": {
+    "_id": "5f523b00de54193ed8739c05",
+    "char": "𤛏",
+    "codepoint": "U+246CF",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛦": {
+    "_id": "5f523b00de54193ed8739c1c",
+    "char": "𤛦",
+    "codepoint": "U+246E6",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛭": {
+    "_id": "5f523b00de54193ed8739c23",
+    "char": "𤛭",
+    "codepoint": "U+246ED",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛇": {
+    "_id": "5f523b00de54193ed8739bfd",
+    "char": "𤛇",
+    "codepoint": "U+246C7",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛔": {
+    "_id": "5f523b00de54193ed8739c0a",
+    "char": "𤛔",
+    "codepoint": "U+246D4",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛕": {
+    "_id": "5f523b00de54193ed8739c0b",
+    "char": "𤛕",
+    "codepoint": "U+246D5",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛧": {
+    "_id": "5f523b00de54193ed8739c1d",
+    "char": "𤛧",
+    "codepoint": "U+246E7",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛁": {
+    "_id": "5f523b00de54193ed8739bf7",
+    "char": "𤛁",
+    "codepoint": "U+246C1",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛠": {
+    "_id": "5f523b00de54193ed8739c16",
+    "char": "𤛠",
+    "codepoint": "U+246E0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛼": {
+    "_id": "5f523b00de54193ed8739c32",
+    "char": "𤛼",
+    "codepoint": "U+246FC",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𤛨": {
+    "_id": "5f523b00de54193ed8739c1e",
+    "char": "𤛨",
+    "codepoint": "U+246E8",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛹": {
+    "_id": "5f523b00de54193ed8739c2f",
+    "char": "𤛹",
+    "codepoint": "U+246F9",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𤛅": {
+    "_id": "5f523b00de54193ed8739bfb",
+    "char": "𤛅",
+    "codepoint": "U+246C5",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤛛": {
+    "_id": "5f523b00de54193ed8739c11",
+    "char": "𤛛",
+    "codepoint": "U+246DB",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛟": {
+    "_id": "5f523b00de54193ed8739c15",
+    "char": "𤛟",
+    "codepoint": "U+246DF",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%9F_0.png",
+        "source": "academia-sinica",
+        "description": "毛公鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%9F_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“犕，《易》曰：‘犕牛乘馬。’从牛，聲。”",
+    "variants": [
+      { "char": "犕", "parts": "牜𤰇", "source": "academia-sinica" },
+      { "char": "𤰈", "parts": "用", "source": "academia-sinica" }
+    ]
+  },
+  "𤛣": {
+    "_id": "5f523b00de54193ed8739c19",
+    "char": "𤛣",
+    "codepoint": "U+246E3",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛬": {
+    "_id": "5f523b00de54193ed8739c22",
+    "char": "𤛬",
+    "codepoint": "U+246EC",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%AC_0.png",
+        "source": "academia-sinica",
+        "description": "睡.為17(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "variants": [{ "char": "𤛬", "parts": "牜買", "source": "academia-sinica" }]
+  },
+  "𤛺": {
+    "_id": "5f523b00de54193ed8739c30",
+    "char": "𤛺",
+    "codepoint": "U+246FA",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𤛎": {
+    "_id": "5f523b00de54193ed8739c04",
+    "char": "𤛎",
+    "codepoint": "U+246CE",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛐": {
+    "_id": "5f523b00de54193ed8739c06",
+    "char": "𤛐",
+    "codepoint": "U+246D0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛖": {
+    "_id": "5f523b00de54193ed8739c0c",
+    "char": "𤛖",
+    "codepoint": "U+246D6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛗": {
+    "_id": "5f523b00de54193ed8739c0d",
+    "char": "𤛗",
+    "codepoint": "U+246D7",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛘": {
+    "_id": "5f523b00de54193ed8739c0e",
+    "char": "𤛘",
+    "codepoint": "U+246D8",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛞": {
+    "_id": "5f523b00de54193ed8739c14",
+    "char": "𤛞",
+    "codepoint": "U+246DE",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤛥": {
+    "_id": "5f523b00de54193ed8739c1b",
+    "char": "𤛥",
+    "codepoint": "U+246E5",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%9B%A5_0.png",
+        "source": "academia-sinica",
+        "description": "居延簡甲2280(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "𤛥", "parts": "牜黃", "source": "academia-sinica" }]
+  },
+  "𤛷": {
+    "_id": "5f523b00de54193ed8739c2d",
+    "char": "𤛷",
+    "codepoint": "U+246F7",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛸": {
+    "_id": "5f523b00de54193ed8739c2e",
+    "char": "𤛸",
+    "codepoint": "U+246F8",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𤛢": {
+    "_id": "5f523b00de54193ed8739c18",
+    "char": "𤛢",
+    "codepoint": "U+246E2",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛤": {
+    "_id": "5f523b00de54193ed8739c1a",
+    "char": "𤛤",
+    "codepoint": "U+246E4",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𤛻": {
+    "_id": "5f523b00de54193ed8739c31",
+    "char": "𤛻",
+    "codepoint": "U+246FB",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𤘆": {
+    "_id": "5f523b00de54193ed8739b3c",
+    "char": "𤘆",
+    "codepoint": "U+24606",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘎": {
+    "_id": "5f523b00de54193ed8739b44",
+    "char": "𤘎",
+    "codepoint": "U+2460E",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘕": {
+    "_id": "5f523b00de54193ed8739b4b",
+    "char": "𤘕",
+    "codepoint": "U+24615",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𤘖": {
+    "_id": "5f523b00de54193ed8739b4c",
+    "char": "𤘖",
+    "codepoint": "U+24616",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𤘵": {
+    "_id": "5f523b00de54193ed8739b6b",
+    "char": "𤘵",
+    "codepoint": "U+24635",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘈": {
+    "_id": "5f523b00de54193ed8739b3e",
+    "char": "𤘈",
+    "codepoint": "U+24608",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_0.png",
+        "source": "academia-sinica",
+        "description": "十三年𤼈壺(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_1.png",
+        "source": "academia-sinica",
+        "description": "尸丌敖簋蓋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_2.png",
+        "source": "academia-sinica",
+        "description": "師克盨(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_3.png",
+        "source": "academia-sinica",
+        "description": "郭.語3.9(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_4.png",
+        "source": "academia-sinica",
+        "description": "曾165(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_5.png",
+        "source": "academia-sinica",
+        "description": "郭.緇.9(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_6.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_7.png",
+        "source": "academia-sinica",
+        "description": "說文‧牙部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_8.png",
+        "source": "academia-sinica",
+        "description": "春秋事語87(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_9.png",
+        "source": "academia-sinica",
+        "description": "孫子128(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_10.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%88_11.png",
+        "source": "academia-sinica",
+        "description": "魏上尊號奏(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“牙，牡齒也。象上下相錯之形。，古文牙。”",
+    "comments": [{ "source": "academia-sinica", "text": "鈕樹玉校錄：“《九經字樣》作‘壯齒也。’”" }],
+    "variants": [{ "char": "牙", "parts": "牙", "source": "academia-sinica" }]
+  },
+  "𤙚": {
+    "_id": "5f523b00de54193ed8739b90",
+    "char": "𤙚",
+    "codepoint": "U+2465A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤘙": {
+    "_id": "5f523b00de54193ed8739b4f",
+    "char": "𤘙",
+    "codepoint": "U+24619",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𤙜": {
+    "_id": "5f523b00de54193ed8739b92",
+    "char": "𤙜",
+    "codepoint": "U+2465C",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘞": {
+    "_id": "5f523b00de54193ed8739b54",
+    "char": "𤘞",
+    "codepoint": "U+2461E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙢": {
+    "_id": "5f523b00de54193ed8739b98",
+    "char": "𤙢",
+    "codepoint": "U+24662",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘹": {
+    "_id": "5f523b00de54193ed8739b6f",
+    "char": "𤘹",
+    "codepoint": "U+24639",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙶": {
+    "_id": "5f523b00de54193ed8739bac",
+    "char": "𤙶",
+    "codepoint": "U+24676",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙀": {
+    "_id": "5f523b00de54193ed8739b76",
+    "char": "𤙀",
+    "codepoint": "U+24640",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙂": {
+    "_id": "5f523b00de54193ed8739b78",
+    "char": "𤙂",
+    "codepoint": "U+24642",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙅": {
+    "_id": "5f523b00de54193ed8739b7b",
+    "char": "𤙅",
+    "codepoint": "U+24645",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙎": {
+    "_id": "5f523b00de54193ed8739b84",
+    "char": "𤙎",
+    "codepoint": "U+2464E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤘅": {
+    "_id": "5f523b00de54193ed8739b3b",
+    "char": "𤘅",
+    "codepoint": "U+24605",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "a very young child"
+  },
+  "𤘇": {
+    "_id": "5f523b00de54193ed8739b3d",
+    "char": "𤘇",
+    "codepoint": "U+24607",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤘢": {
+    "_id": "5f523b00de54193ed8739b58",
+    "char": "𤘢",
+    "codepoint": "U+24622",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘱": {
+    "_id": "5f523b00de54193ed8739b67",
+    "char": "𤘱",
+    "codepoint": "U+24631",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘴": {
+    "_id": "5f523b00de54193ed8739b6a",
+    "char": "𤘴",
+    "codepoint": "U+24634",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_0.png",
+        "source": "academia-sinica",
+        "description": "乙1277(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_1.png",
+        "source": "academia-sinica",
+        "description": "前5.27.1(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_2.png",
+        "source": "academia-sinica",
+        "description": "乙2626(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_3.png",
+        "source": "academia-sinica",
+        "description": "寧滬1.397(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_4.png",
+        "source": "academia-sinica",
+        "description": "粹504(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_5.png",
+        "source": "academia-sinica",
+        "description": "存2006(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_6.png",
+        "source": "academia-sinica",
+        "description": "燕589(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_7.png",
+        "source": "academia-sinica",
+        "description": "𢼝又罍(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_8.png",
+        "source": "academia-sinica",
+        "description": "𢼝父丁罍(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_9.png",
+        "source": "academia-sinica",
+        "description": "亞彳牧鬲(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_10.png",
+        "source": "academia-sinica",
+        "description": "又䍩父癸鼎(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_11.png",
+        "source": "academia-sinica",
+        "description": "小臣言簋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_12.png",
+        "source": "academia-sinica",
+        "description": "鄭牧馬受簋蓋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_13.png",
+        "source": "academia-sinica",
+        "description": "南宮柳鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_14.png",
+        "source": "academia-sinica",
+        "description": "曾147(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_15.png",
+        "source": "academia-sinica",
+        "description": "說文‧攴部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_16.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡14.84(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_17.png",
+        "source": "academia-sinica",
+        "description": "老子甲136(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_18.png",
+        "source": "academia-sinica",
+        "description": "老子乙238上(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_19.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_20.png",
+        "source": "academia-sinica",
+        "description": "西狹頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B4_21.png",
+        "source": "academia-sinica",
+        "description": "夏承碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“牧，養牛人也。从攴，从牛。《詩》曰：‘牧人乃夢。’”",
+    "variants": [
+      { "char": "牧", "parts": "牜攵", "source": "academia-sinica" },
+      { "char": "䍩", "parts": "羊攵", "source": "academia-sinica" },
+      { "char": "", "parts": "彳牧", "source": "academia-sinica" },
+      { "char": "", "parts": "彳羊攵", "source": "academia-sinica" },
+      { "char": "", "parts": "辶牧", "source": "academia-sinica" }
+    ]
+  },
+  "𤘺": {
+    "_id": "5f523b00de54193ed8739b70",
+    "char": "𤘺",
+    "codepoint": "U+2463A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤘾": {
+    "_id": "5f523b00de54193ed8739b74",
+    "char": "𤘾",
+    "codepoint": "U+2463E",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%BE_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，牛駁如星。从牛，平聲。”",
+    "variants": [{ "char": "𤘾", "parts": "牜平", "source": "academia-sinica" }]
+  },
+  "𤙛": {
+    "_id": "5f523b00de54193ed8739b91",
+    "char": "𤙛",
+    "codepoint": "U+2465B",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%9B_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，黄牛虎文。从牛，余聲。讀若塗。”",
+    "variants": [{ "char": "𤙛", "parts": "牜余", "source": "academia-sinica" }]
+  },
+  "𤙫": {
+    "_id": "5f523b00de54193ed8739ba1",
+    "char": "𤙫",
+    "codepoint": "U+2466B",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘊": {
+    "_id": "5f523b00de54193ed8739b40",
+    "char": "𤘊",
+    "codepoint": "U+2460A",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘳": {
+    "_id": "5f523b00de54193ed8739b69",
+    "char": "𤘳",
+    "codepoint": "U+24633",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘿": {
+    "_id": "5f523b00de54193ed8739b75",
+    "char": "𤘿",
+    "codepoint": "U+2463F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙊": {
+    "_id": "5f523b00de54193ed8739b80",
+    "char": "𤙊",
+    "codepoint": "U+2464A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤘄": {
+    "_id": "5f523b00de54193ed8739b3a",
+    "char": "𤘄",
+    "codepoint": "U+24604",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𤘋": {
+    "_id": "5f523b00de54193ed8739b41",
+    "char": "𤘋",
+    "codepoint": "U+2460B",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘒": {
+    "_id": "5f523b00de54193ed8739b48",
+    "char": "𤘒",
+    "codepoint": "U+24612",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𤘘": {
+    "_id": "5f523b00de54193ed8739b4e",
+    "char": "𤘘",
+    "codepoint": "U+24618",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "cattle"
+  },
+  "𤘩": {
+    "_id": "5f523b00de54193ed8739b5f",
+    "char": "𤘩",
+    "codepoint": "U+24629",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘽": {
+    "_id": "5f523b00de54193ed8739b73",
+    "char": "𤘽",
+    "codepoint": "U+2463D",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙈": {
+    "_id": "5f523b00de54193ed8739b7e",
+    "char": "𤙈",
+    "codepoint": "U+24648",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙐": {
+    "_id": "5f523b00de54193ed8739b86",
+    "char": "𤙐",
+    "codepoint": "U+24650",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙒": {
+    "_id": "5f523b00de54193ed8739b88",
+    "char": "𤙒",
+    "codepoint": "U+24652",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙱": {
+    "_id": "5f523b00de54193ed8739ba7",
+    "char": "𤙱",
+    "codepoint": "U+24671",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙽": {
+    "_id": "5f523b00de54193ed8739bb3",
+    "char": "𤙽",
+    "codepoint": "U+2467D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙿": {
+    "_id": "5f523b00de54193ed8739bb5",
+    "char": "𤙿",
+    "codepoint": "U+2467F",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘃": {
+    "_id": "5f523b00de54193ed8739b39",
+    "char": "𤘃",
+    "codepoint": "U+24603",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𤘥": {
+    "_id": "5f523b00de54193ed8739b5b",
+    "char": "𤘥",
+    "codepoint": "U+24625",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘯": {
+    "_id": "5f523b00de54193ed8739b65",
+    "char": "𤘯",
+    "codepoint": "U+2462F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙉": {
+    "_id": "5f523b00de54193ed8739b7f",
+    "char": "𤙉",
+    "codepoint": "U+24649",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙓": {
+    "_id": "5f523b00de54193ed8739b89",
+    "char": "𤙓",
+    "codepoint": "U+24653",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%93_0.png",
+        "source": "academia-sinica",
+        "description": "天卜(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "𤙓", "parts": "牜同", "source": "academia-sinica" }]
+  },
+  "𤙔": {
+    "_id": "5f523b00de54193ed8739b8a",
+    "char": "𤙔",
+    "codepoint": "U+24654",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙡": {
+    "_id": "5f523b00de54193ed8739b97",
+    "char": "𤙡",
+    "codepoint": "U+24661",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙤": {
+    "_id": "5f523b00de54193ed8739b9a",
+    "char": "𤙤",
+    "codepoint": "U+24664",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙦": {
+    "_id": "5f523b00de54193ed8739b9c",
+    "char": "𤙦",
+    "codepoint": "U+24666",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙴": {
+    "_id": "5f523b00de54193ed8739baa",
+    "char": "𤙴",
+    "codepoint": "U+24674",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(Cant.) gore"
+  },
+  "𤙸": {
+    "_id": "5f523b00de54193ed8739bae",
+    "char": "𤙸",
+    "codepoint": "U+24678",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙻": {
+    "_id": "5f523b00de54193ed8739bb1",
+    "char": "𤙻",
+    "codepoint": "U+2467B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘉": {
+    "_id": "5f523b00de54193ed8739b3f",
+    "char": "𤘉",
+    "codepoint": "U+24609",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤘌": {
+    "_id": "5f523b00de54193ed8739b42",
+    "char": "𤘌",
+    "codepoint": "U+2460C",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%8C_0.png",
+        "source": "academia-sinica",
+        "description": "十五年上郡守壽戈(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%8C_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧牙部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，武牙也。从牙，从奇，奇亦聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "鈕樹玉校錄：“宋本及《繫傳》‘虎’作‘武’，蓋沿唐人諱。”"
+      }
+    ],
+    "variants": [{ "char": "𤘌", "parts": "牙奇", "source": "academia-sinica" }]
+  },
+  "𤘏": {
+    "_id": "5f523b00de54193ed8739b45",
+    "char": "𤘏",
+    "codepoint": "U+2460F",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘬": {
+    "_id": "5f523b00de54193ed8739b62",
+    "char": "𤘬",
+    "codepoint": "U+2462C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙟": {
+    "_id": "5f523b00de54193ed8739b95",
+    "char": "𤙟",
+    "codepoint": "U+2465F",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙩": {
+    "_id": "5f523b00de54193ed8739b9f",
+    "char": "𤙩",
+    "codepoint": "U+24669",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘝": {
+    "_id": "5f523b00de54193ed8739b53",
+    "char": "𤘝",
+    "codepoint": "U+2461D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘤": {
+    "_id": "5f523b00de54193ed8739b5a",
+    "char": "𤘤",
+    "codepoint": "U+24624",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘭": {
+    "_id": "5f523b00de54193ed8739b63",
+    "char": "𤘭",
+    "codepoint": "U+2462D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙁": {
+    "_id": "5f523b00de54193ed8739b77",
+    "char": "𤙁",
+    "codepoint": "U+24641",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙇": {
+    "_id": "5f523b00de54193ed8739b7d",
+    "char": "𤙇",
+    "codepoint": "U+24647",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙏": {
+    "_id": "5f523b00de54193ed8739b85",
+    "char": "𤙏",
+    "codepoint": "U+2464F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙬": {
+    "_id": "5f523b00de54193ed8739ba2",
+    "char": "𤙬",
+    "codepoint": "U+2466C",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘔": {
+    "_id": "5f523b00de54193ed8739b4a",
+    "char": "𤘔",
+    "codepoint": "U+24614",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𤘠": {
+    "_id": "5f523b00de54193ed8739b56",
+    "char": "𤘠",
+    "codepoint": "U+24620",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘧": {
+    "_id": "5f523b00de54193ed8739b5d",
+    "char": "𤘧",
+    "codepoint": "U+24627",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘸": {
+    "_id": "5f523b00de54193ed8739b6e",
+    "char": "𤘸",
+    "codepoint": "U+24638",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，牛徐行也。从牛，聲。讀若滔。”",
+    "variants": [{ "char": "𤘸", "parts": "牜𠬢", "source": "academia-sinica" }]
+  },
+  "𤘼": {
+    "_id": "5f523b00de54193ed8739b72",
+    "char": "𤘼",
+    "codepoint": "U+2463C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙍": {
+    "_id": "5f523b00de54193ed8739b83",
+    "char": "𤙍",
+    "codepoint": "U+2464D",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%8D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，二歲牛。从牛，市聲。”",
+    "variants": [{ "char": "㸬", "parts": "牜巿", "source": "academia-sinica" }]
+  },
+  "𤙗": {
+    "_id": "5f523b00de54193ed8739b8d",
+    "char": "𤙗",
+    "codepoint": "U+24657",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙙": {
+    "_id": "5f523b00de54193ed8739b8f",
+    "char": "𤙙",
+    "codepoint": "U+24659",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙧": {
+    "_id": "5f523b00de54193ed8739b9d",
+    "char": "𤙧",
+    "codepoint": "U+24667",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙮": {
+    "_id": "5f523b00de54193ed8739ba4",
+    "char": "𤙮",
+    "codepoint": "U+2466E",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙹": {
+    "_id": "5f523b00de54193ed8739baf",
+    "char": "𤙹",
+    "codepoint": "U+24679",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘁": {
+    "_id": "5f523b00de54193ed8739b37",
+    "char": "𤘁",
+    "codepoint": "U+24601",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𤘑": {
+    "_id": "5f523b00de54193ed8739b47",
+    "char": "𤘑",
+    "codepoint": "U+24611",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𤙷": {
+    "_id": "5f523b00de54193ed8739bad",
+    "char": "𤙷",
+    "codepoint": "U+24677",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘜": {
+    "_id": "5f523b00de54193ed8739b52",
+    "char": "𤘜",
+    "codepoint": "U+2461C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘫": {
+    "_id": "5f523b00de54193ed8739b61",
+    "char": "𤘫",
+    "codepoint": "U+2462B",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙃": {
+    "_id": "5f523b00de54193ed8739b79",
+    "char": "𤙃",
+    "codepoint": "U+24643",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙠": {
+    "_id": "5f523b00de54193ed8739b96",
+    "char": "𤙠",
+    "codepoint": "U+24660",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙨": {
+    "_id": "5f523b00de54193ed8739b9e",
+    "char": "𤙨",
+    "codepoint": "U+24668",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙰": {
+    "_id": "5f523b00de54193ed8739ba6",
+    "char": "𤙰",
+    "codepoint": "U+24670",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙾": {
+    "_id": "5f523b00de54193ed8739bb4",
+    "char": "𤙾",
+    "codepoint": "U+2467E",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘡": {
+    "_id": "5f523b00de54193ed8739b57",
+    "char": "𤘡",
+    "codepoint": "U+24621",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%A1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧牛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，牛舌病喔。从牛，今聲。”",
+    "variants": [{ "char": "𤘡", "parts": "牜今", "source": "academia-sinica" }]
+  },
+  "𤘣": {
+    "_id": "5f523b00de54193ed8739b59",
+    "char": "𤘣",
+    "codepoint": "U+24623",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘨": {
+    "_id": "5f523b00de54193ed8739b5e",
+    "char": "𤘨",
+    "codepoint": "U+24628",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘲": {
+    "_id": "5f523b00de54193ed8739b68",
+    "char": "𤘲",
+    "codepoint": "U+24632",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘷": {
+    "_id": "5f523b00de54193ed8739b6d",
+    "char": "𤘷",
+    "codepoint": "U+24637",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙄": {
+    "_id": "5f523b00de54193ed8739b7a",
+    "char": "𤙄",
+    "codepoint": "U+24644",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙖": {
+    "_id": "5f523b00de54193ed8739b8c",
+    "char": "𤙖",
+    "codepoint": "U+24656",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙘": {
+    "_id": "5f523b00de54193ed8739b8e",
+    "char": "𤙘",
+    "codepoint": "U+24658",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙥": {
+    "_id": "5f523b00de54193ed8739b9b",
+    "char": "𤙥",
+    "codepoint": "U+24665",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘦": {
+    "_id": "5f523b00de54193ed8739b5c",
+    "char": "𤘦",
+    "codepoint": "U+24626",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘪": {
+    "_id": "5f523b00de54193ed8739b60",
+    "char": "𤘪",
+    "codepoint": "U+2462A",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙝": {
+    "_id": "5f523b00de54193ed8739b93",
+    "char": "𤙝",
+    "codepoint": "U+2465D",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙣": {
+    "_id": "5f523b00de54193ed8739b99",
+    "char": "𤙣",
+    "codepoint": "U+24663",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙯": {
+    "_id": "5f523b00de54193ed8739ba5",
+    "char": "𤙯",
+    "codepoint": "U+2466F",
+    "strokeCount": 12,
+    "tradVariants": ["𤛮"],
+    "sources": ["unicode"]
+  },
+  "𤙲": {
+    "_id": "5f523b00de54193ed8739ba8",
+    "char": "𤙲",
+    "codepoint": "U+24672",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙳": {
+    "_id": "5f523b00de54193ed8739ba9",
+    "char": "𤙳",
+    "codepoint": "U+24673",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘐": {
+    "_id": "5f523b00de54193ed8739b46",
+    "char": "𤘐",
+    "codepoint": "U+24610",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%90_0.png",
+        "source": "academia-sinica",
+        "description": "乙3661(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%90_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧牙部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%98%90_2.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，齒蠹也。从牙，禹聲。齲，或从齒。”",
+    "comments": [{ "source": "academia-sinica", "text": "桂馥義證：“禹，蟲也。故文从禹。”" }],
+    "variants": [
+      { "char": "齲", "parts": "齒禹", "source": "academia-sinica" },
+      { "char": "𤘐", "parts": "牙禹", "source": "academia-sinica" }
+    ]
+  },
+  "𤘚": {
+    "_id": "5f523b00de54193ed8739b50",
+    "char": "𤘚",
+    "codepoint": "U+2461A",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𤘟": {
+    "_id": "5f523b00de54193ed8739b55",
+    "char": "𤘟",
+    "codepoint": "U+2461F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘮": {
+    "_id": "5f523b00de54193ed8739b64",
+    "char": "𤘮",
+    "codepoint": "U+2462E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘶": {
+    "_id": "5f523b00de54193ed8739b6c",
+    "char": "𤘶",
+    "codepoint": "U+24636",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤙆": {
+    "_id": "5f523b00de54193ed8739b7c",
+    "char": "𤙆",
+    "codepoint": "U+24646",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙑": {
+    "_id": "5f523b00de54193ed8739b87",
+    "char": "𤙑",
+    "codepoint": "U+24651",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_0.png",
+        "source": "academia-sinica",
+        "description": "包2.38(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_1.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_3.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡12.47(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_4.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡28.3(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_5.png",
+        "source": "academia-sinica",
+        "description": "武威簡.特牲40(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_6.png",
+        "source": "academia-sinica",
+        "description": "上大山鏡二(隸)東漢至魏晉",
+        "type": "Clerical",
+        "era": "Jin dynasty (266-420 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A4%99%91_7.png",
+        "source": "academia-sinica",
+        "description": "曹全碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“駕，馬在軛中。从馬，加聲。，籀文駕。”",
+    "comments": [{ "source": "academia-sinica", "text": "朱駿聲通訓定聲：“籀文从牛，各聲。”" }],
+    "variants": [
+      { "char": "駕", "parts": "加馬", "source": "academia-sinica" },
+      { "char": "𤙑", "parts": "牜各", "source": "academia-sinica" }
+    ]
+  },
+  "𤙭": {
+    "_id": "5f523b00de54193ed8739ba3",
+    "char": "𤙭",
+    "codepoint": "U+2466D",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙺": {
+    "_id": "5f523b00de54193ed8739bb0",
+    "char": "𤙺",
+    "codepoint": "U+2467A",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘂": {
+    "_id": "5f523b00de54193ed8739b38",
+    "char": "𤘂",
+    "codepoint": "U+24602",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𤘓": {
+    "_id": "5f523b00de54193ed8739b49",
+    "char": "𤘓",
+    "codepoint": "U+24613",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𤘛": {
+    "_id": "5f523b00de54193ed8739b51",
+    "char": "𤘛",
+    "codepoint": "U+2461B",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𤙋": {
+    "_id": "5f523b00de54193ed8739b81",
+    "char": "𤙋",
+    "codepoint": "U+2464B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙌": {
+    "_id": "5f523b00de54193ed8739b82",
+    "char": "𤙌",
+    "codepoint": "U+2464C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙞": {
+    "_id": "5f523b00de54193ed8739b94",
+    "char": "𤙞",
+    "codepoint": "U+2465E",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤙪": {
+    "_id": "5f523b00de54193ed8739ba0",
+    "char": "𤙪",
+    "codepoint": "U+2466A",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𤘀": {
+    "_id": "5f523b00de54193ed8739b36",
+    "char": "𤘀",
+    "codepoint": "U+24600",
+    "strokeCount": 18,
+    "simpVariants": ["𪺣"],
+    "sources": ["unicode"]
+  },
+  "𤘍": {
+    "_id": "5f523b00de54193ed8739b43",
+    "char": "𤘍",
+    "codepoint": "U+2460D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤘗": {
+    "_id": "5f523b00de54193ed8739b4d",
+    "char": "𤘗",
+    "codepoint": "U+24617",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𤘰": {
+    "_id": "5f523b00de54193ed8739b66",
+    "char": "𤘰",
+    "codepoint": "U+24630",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𤘻": {
+    "_id": "5f523b00de54193ed8739b71",
+    "char": "𤘻",
+    "codepoint": "U+2463B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𤙕": {
+    "_id": "5f523b00de54193ed8739b8b",
+    "char": "𤙕",
+    "codepoint": "U+24655",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𤙵": {
+    "_id": "5f523b00de54193ed8739bab",
+    "char": "𤙵",
+    "codepoint": "U+24675",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𤙼": {
+    "_id": "5f523b00de54193ed8739bb2",
+    "char": "𤙼",
+    "codepoint": "U+2467C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  }
+}

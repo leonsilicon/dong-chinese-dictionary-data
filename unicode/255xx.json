@@ -1,0 +1,1915 @@
+{
+  "𥔏": {
+    "_id": "5f523b00de54193ed873aa45",
+    "char": "𥔏",
+    "codepoint": "U+2550F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔧": {
+    "_id": "5f523b00de54193ed873aa5d",
+    "char": "𥔧",
+    "codepoint": "U+25527",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕜": {
+    "_id": "5f523b00de54193ed873aa92",
+    "char": "𥕜",
+    "codepoint": "U+2555C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕩": {
+    "_id": "5f523b00de54193ed873aa9f",
+    "char": "𥕩",
+    "codepoint": "U+25569",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕳": {
+    "_id": "5f523b00de54193ed873aaa9",
+    "char": "𥕳",
+    "codepoint": "U+25573",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔓": {
+    "_id": "5f523b00de54193ed873aa49",
+    "char": "𥔓",
+    "codepoint": "U+25513",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔺": {
+    "_id": "5f523b00de54193ed873aa70",
+    "char": "𥔺",
+    "codepoint": "U+2553A",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔼": {
+    "_id": "5f523b00de54193ed873aa72",
+    "char": "𥔼",
+    "codepoint": "U+2553C",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%BC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%BC_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%BC_2.png",
+        "source": "academia-sinica",
+        "description": "石門頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%BC_3.png",
+        "source": "academia-sinica",
+        "description": "郙閣頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“确，礊石也。从石，角聲。，确或从。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁注本據《韻會》改作“礊也”。" }],
+    "variants": [
+      { "char": "确", "parts": "石角", "source": "academia-sinica" },
+      { "char": "𥔳", "parts": "𣪊石", "source": "academia-sinica" }
+    ]
+  },
+  "𥔽": {
+    "_id": "5f523b00de54193ed873aa73",
+    "char": "𥔽",
+    "codepoint": "U+2553D",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔾": {
+    "_id": "5f523b00de54193ed873aa74",
+    "char": "𥔾",
+    "codepoint": "U+2553E",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕑": {
+    "_id": "5f523b00de54193ed873aa87",
+    "char": "𥕑",
+    "codepoint": "U+25551",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥔎": {
+    "_id": "5f523b00de54193ed873aa44",
+    "char": "𥔎",
+    "codepoint": "U+2550E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔑": {
+    "_id": "5f523b00de54193ed873aa47",
+    "char": "𥔑",
+    "codepoint": "U+25511",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔒": {
+    "_id": "5f523b00de54193ed873aa48",
+    "char": "𥔒",
+    "codepoint": "U+25512",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔔": {
+    "_id": "5f523b00de54193ed873aa4a",
+    "char": "𥔔",
+    "codepoint": "U+25514",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔙": {
+    "_id": "5f523b00de54193ed873aa4f",
+    "char": "𥔙",
+    "codepoint": "U+25519",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔚": {
+    "_id": "5f523b00de54193ed873aa50",
+    "char": "𥔚",
+    "codepoint": "U+2551A",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔮": {
+    "_id": "5f523b00de54193ed873aa64",
+    "char": "𥔮",
+    "codepoint": "U+2552E",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕆": {
+    "_id": "5f523b00de54193ed873aa7c",
+    "char": "𥕆",
+    "codepoint": "U+25546",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕓": {
+    "_id": "5f523b00de54193ed873aa89",
+    "char": "𥕓",
+    "codepoint": "U+25553",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕷": {
+    "_id": "5f523b00de54193ed873aaad",
+    "char": "𥕷",
+    "codepoint": "U+25577",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥕻": {
+    "_id": "5f523b00de54193ed873aab1",
+    "char": "𥕻",
+    "codepoint": "U+2557B",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔢": {
+    "_id": "5f523b00de54193ed873aa58",
+    "char": "𥔢",
+    "codepoint": "U+25522",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔴": {
+    "_id": "5f523b00de54193ed873aa6a",
+    "char": "𥔴",
+    "codepoint": "U+25534",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔸": {
+    "_id": "5f523b00de54193ed873aa6e",
+    "char": "𥔸",
+    "codepoint": "U+25538",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔻": {
+    "_id": "5f523b00de54193ed873aa71",
+    "char": "𥔻",
+    "codepoint": "U+2553B",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕔": {
+    "_id": "5f523b00de54193ed873aa8a",
+    "char": "𥕔",
+    "codepoint": "U+25554",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕝": {
+    "_id": "5f523b00de54193ed873aa93",
+    "char": "𥕝",
+    "codepoint": "U+2555D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕤": {
+    "_id": "5f523b00de54193ed873aa9a",
+    "char": "𥕤",
+    "codepoint": "U+25564",
+    "strokeCount": 16,
+    "tradVariants": ["礚"],
+    "sources": ["unicode"]
+  },
+  "𥔐": {
+    "_id": "5f523b00de54193ed873aa46",
+    "char": "𥔐",
+    "codepoint": "U+25510",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“磕，石聲。从石，盍聲。”",
+    "variants": [{ "char": "磕", "parts": "石盍", "source": "academia-sinica" }]
+  },
+  "𥔝": {
+    "_id": "5f523b00de54193ed873aa53",
+    "char": "𥔝",
+    "codepoint": "U+2551D",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔤": {
+    "_id": "5f523b00de54193ed873aa5a",
+    "char": "𥔤",
+    "codepoint": "U+25524",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔿": {
+    "_id": "5f523b00de54193ed873aa75",
+    "char": "𥔿",
+    "codepoint": "U+2553F",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(Cant.) classifier for cannons"
+  },
+  "𥕃": {
+    "_id": "5f523b00de54193ed873aa79",
+    "char": "𥕃",
+    "codepoint": "U+25543",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕅": {
+    "_id": "5f523b00de54193ed873aa7b",
+    "char": "𥕅",
+    "codepoint": "U+25545",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕉": {
+    "_id": "5f523b00de54193ed873aa7f",
+    "char": "𥕉",
+    "codepoint": "U+25549",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕒": {
+    "_id": "5f523b00de54193ed873aa88",
+    "char": "𥕒",
+    "codepoint": "U+25552",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕫": {
+    "_id": "5f523b00de54193ed873aaa1",
+    "char": "𥕫",
+    "codepoint": "U+2556B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕴": {
+    "_id": "5f523b00de54193ed873aaaa",
+    "char": "𥕴",
+    "codepoint": "U+25574",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥕹": {
+    "_id": "5f523b00de54193ed873aaaf",
+    "char": "𥕹",
+    "codepoint": "U+25579",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔅": {
+    "_id": "5f523b00de54193ed873aa3b",
+    "char": "𥔅",
+    "codepoint": "U+25505",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔆": {
+    "_id": "5f523b00de54193ed873aa3c",
+    "char": "𥔆",
+    "codepoint": "U+25506",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔞": {
+    "_id": "5f523b00de54193ed873aa54",
+    "char": "𥔞",
+    "codepoint": "U+2551E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔫": {
+    "_id": "5f523b00de54193ed873aa61",
+    "char": "𥔫",
+    "codepoint": "U+2552B",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕁": {
+    "_id": "5f523b00de54193ed873aa77",
+    "char": "𥕁",
+    "codepoint": "U+25541",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕎": {
+    "_id": "5f523b00de54193ed873aa84",
+    "char": "𥕎",
+    "codepoint": "U+2554E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕙": {
+    "_id": "5f523b00de54193ed873aa8f",
+    "char": "𥕙",
+    "codepoint": "U+25559",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕡": {
+    "_id": "5f523b00de54193ed873aa97",
+    "char": "𥕡",
+    "codepoint": "U+25561",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕯": {
+    "_id": "5f523b00de54193ed873aaa5",
+    "char": "𥕯",
+    "codepoint": "U+2556F",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥔄": {
+    "_id": "5f523b00de54193ed873aa3a",
+    "char": "𥔄",
+    "codepoint": "U+25504",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔥": {
+    "_id": "5f523b00de54193ed873aa5b",
+    "char": "𥔥",
+    "codepoint": "U+25525",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔩": {
+    "_id": "5f523b00de54193ed873aa5f",
+    "char": "𥔩",
+    "codepoint": "U+25529",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔪": {
+    "_id": "5f523b00de54193ed873aa60",
+    "char": "𥔪",
+    "codepoint": "U+2552A",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔱": {
+    "_id": "5f523b00de54193ed873aa67",
+    "char": "𥔱",
+    "codepoint": "U+25531",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(Cant.) to slip"
+  },
+  "𥔲": {
+    "_id": "5f523b00de54193ed873aa68",
+    "char": "𥔲",
+    "codepoint": "U+25532",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔷": {
+    "_id": "5f523b00de54193ed873aa6d",
+    "char": "𥔷",
+    "codepoint": "U+25537",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔃": {
+    "_id": "5f523b00de54193ed873aa39",
+    "char": "𥔃",
+    "codepoint": "U+25503",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔟": {
+    "_id": "5f523b00de54193ed873aa55",
+    "char": "𥔟",
+    "codepoint": "U+2551F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔨": {
+    "_id": "5f523b00de54193ed873aa5e",
+    "char": "𥔨",
+    "codepoint": "U+25528",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔰": {
+    "_id": "5f523b00de54193ed873aa66",
+    "char": "𥔰",
+    "codepoint": "U+25530",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕀": {
+    "_id": "5f523b00de54193ed873aa76",
+    "char": "𥕀",
+    "codepoint": "U+25540",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕥": {
+    "_id": "5f523b00de54193ed873aa9b",
+    "char": "𥕥",
+    "codepoint": "U+25565",
+    "strokeCount": 16,
+    "simpVariants": ["𥐰"],
+    "sources": ["unicode"]
+  },
+  "𥕸": {
+    "_id": "5f523b00de54193ed873aaae",
+    "char": "𥕸",
+    "codepoint": "U+25578",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥕺": {
+    "_id": "5f523b00de54193ed873aab0",
+    "char": "𥕺",
+    "codepoint": "U+2557A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔇": {
+    "_id": "5f523b00de54193ed873aa3d",
+    "char": "𥔇",
+    "codepoint": "U+25507",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔈": {
+    "_id": "5f523b00de54193ed873aa3e",
+    "char": "𥔈",
+    "codepoint": "U+25508",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕌": {
+    "_id": "5f523b00de54193ed873aa82",
+    "char": "𥕌",
+    "codepoint": "U+2554C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕛": {
+    "_id": "5f523b00de54193ed873aa91",
+    "char": "𥕛",
+    "codepoint": "U+2555B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕪": {
+    "_id": "5f523b00de54193ed873aaa0",
+    "char": "𥕪",
+    "codepoint": "U+2556A",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕿": {
+    "_id": "5f523b00de54193ed873aab5",
+    "char": "𥕿",
+    "codepoint": "U+2557F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔕": {
+    "_id": "5f523b00de54193ed873aa4b",
+    "char": "𥔕",
+    "codepoint": "U+25515",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔣": {
+    "_id": "5f523b00de54193ed873aa59",
+    "char": "𥔣",
+    "codepoint": "U+25523",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔶": {
+    "_id": "5f523b00de54193ed873aa6c",
+    "char": "𥔶",
+    "codepoint": "U+25536",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕂": {
+    "_id": "5f523b00de54193ed873aa78",
+    "char": "𥕂",
+    "codepoint": "U+25542",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕄": {
+    "_id": "5f523b00de54193ed873aa7a",
+    "char": "𥕄",
+    "codepoint": "U+25544",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕕": {
+    "_id": "5f523b00de54193ed873aa8b",
+    "char": "𥕕",
+    "codepoint": "U+25555",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕧": {
+    "_id": "5f523b00de54193ed873aa9d",
+    "char": "𥕧",
+    "codepoint": "U+25567",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕵": {
+    "_id": "5f523b00de54193ed873aaab",
+    "char": "𥕵",
+    "codepoint": "U+25575",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔀": {
+    "_id": "5f523b00de54193ed873aa36",
+    "char": "𥔀",
+    "codepoint": "U+25500",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "roar"
+  },
+  "𥔂": {
+    "_id": "5f523b00de54193ed873aa38",
+    "char": "𥔂",
+    "codepoint": "U+25502",
+    "strokeCount": 14,
+    "simpVariants": ["𮀲"],
+    "sources": ["unicode"]
+  },
+  "𥔌": {
+    "_id": "5f523b00de54193ed873aa42",
+    "char": "𥔌",
+    "codepoint": "U+2550C",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔜": {
+    "_id": "5f523b00de54193ed873aa52",
+    "char": "𥔜",
+    "codepoint": "U+2551C",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔠": {
+    "_id": "5f523b00de54193ed873aa56",
+    "char": "𥔠",
+    "codepoint": "U+25520",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕇": {
+    "_id": "5f523b00de54193ed873aa7d",
+    "char": "𥕇",
+    "codepoint": "U+25547",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕋": {
+    "_id": "5f523b00de54193ed873aa81",
+    "char": "𥕋",
+    "codepoint": "U+2554B",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕦": {
+    "_id": "5f523b00de54193ed873aa9c",
+    "char": "𥕦",
+    "codepoint": "U+25566",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕰": {
+    "_id": "5f523b00de54193ed873aaa6",
+    "char": "𥕰",
+    "codepoint": "U+25570",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔉": {
+    "_id": "5f523b00de54193ed873aa3f",
+    "char": "𥔉",
+    "codepoint": "U+25509",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔊": {
+    "_id": "5f523b00de54193ed873aa40",
+    "char": "𥔊",
+    "codepoint": "U+2550A",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔖": {
+    "_id": "5f523b00de54193ed873aa4c",
+    "char": "𥔖",
+    "codepoint": "U+25516",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔡": {
+    "_id": "5f523b00de54193ed873aa57",
+    "char": "𥔡",
+    "codepoint": "U+25521",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔦": {
+    "_id": "5f523b00de54193ed873aa5c",
+    "char": "𥔦",
+    "codepoint": "U+25526",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔬": {
+    "_id": "5f523b00de54193ed873aa62",
+    "char": "𥔬",
+    "codepoint": "U+2552C",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔹": {
+    "_id": "5f523b00de54193ed873aa6f",
+    "char": "𥔹",
+    "codepoint": "U+25539",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕘": {
+    "_id": "5f523b00de54193ed873aa8e",
+    "char": "𥕘",
+    "codepoint": "U+25558",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕞": {
+    "_id": "5f523b00de54193ed873aa94",
+    "char": "𥕞",
+    "codepoint": "U+2555E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕬": {
+    "_id": "5f523b00de54193ed873aaa2",
+    "char": "𥕬",
+    "codepoint": "U+2556C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥔍": {
+    "_id": "5f523b00de54193ed873aa43",
+    "char": "𥔍",
+    "codepoint": "U+2550D",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕱": {
+    "_id": "5f523b00de54193ed873aaa7",
+    "char": "𥕱",
+    "codepoint": "U+25571",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔘": {
+    "_id": "5f523b00de54193ed873aa4e",
+    "char": "𥔘",
+    "codepoint": "U+25518",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔵": {
+    "_id": "5f523b00de54193ed873aa6b",
+    "char": "𥔵",
+    "codepoint": "U+25535",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "variant of U+78C1 磁"
+  },
+  "𥕈": {
+    "_id": "5f523b00de54193ed873aa7e",
+    "char": "𥕈",
+    "codepoint": "U+25548",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕚": {
+    "_id": "5f523b00de54193ed873aa90",
+    "char": "𥕚",
+    "codepoint": "U+2555A",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕢": {
+    "_id": "5f523b00de54193ed873aa98",
+    "char": "𥕢",
+    "codepoint": "U+25562",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕨": {
+    "_id": "5f523b00de54193ed873aa9e",
+    "char": "𥕨",
+    "codepoint": "U+25568",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕽": {
+    "_id": "5f523b00de54193ed873aab3",
+    "char": "𥕽",
+    "codepoint": "U+2557D",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔁": {
+    "_id": "5f523b00de54193ed873aa37",
+    "char": "𥔁",
+    "codepoint": "U+25501",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔭": {
+    "_id": "5f523b00de54193ed873aa63",
+    "char": "𥔭",
+    "codepoint": "U+2552D",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥔯": {
+    "_id": "5f523b00de54193ed873aa65",
+    "char": "𥔯",
+    "codepoint": "U+2552F",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕏": {
+    "_id": "5f523b00de54193ed873aa85",
+    "char": "𥕏",
+    "codepoint": "U+2554F",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕖": {
+    "_id": "5f523b00de54193ed873aa8c",
+    "char": "𥕖",
+    "codepoint": "U+25556",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕗": {
+    "_id": "5f523b00de54193ed873aa8d",
+    "char": "𥕗",
+    "codepoint": "U+25557",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕟": {
+    "_id": "5f523b00de54193ed873aa95",
+    "char": "𥕟",
+    "codepoint": "U+2555F",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕠": {
+    "_id": "5f523b00de54193ed873aa96",
+    "char": "𥕠",
+    "codepoint": "U+25560",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕭": {
+    "_id": "5f523b00de54193ed873aaa3",
+    "char": "𥕭",
+    "codepoint": "U+2556D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕶": {
+    "_id": "5f523b00de54193ed873aaac",
+    "char": "𥕶",
+    "codepoint": "U+25576",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔳": {
+    "_id": "5f523b00de54193ed873aa69",
+    "char": "𥔳",
+    "codepoint": "U+25533",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%B3_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%B3_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%B3_2.png",
+        "source": "academia-sinica",
+        "description": "石門頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%94%B3_3.png",
+        "source": "academia-sinica",
+        "description": "郙閣頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“确，礊石也。从石，角聲。，确或从。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁注本據《韻會》改作“礊也”。" }],
+    "variants": [
+      { "char": "确", "parts": "石角", "source": "academia-sinica" },
+      { "char": "𥔳", "parts": "𣪊石", "source": "academia-sinica" }
+    ]
+  },
+  "𥕐": {
+    "_id": "5f523b00de54193ed873aa86",
+    "char": "𥕐",
+    "codepoint": "U+25550",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕣": {
+    "_id": "5f523b00de54193ed873aa99",
+    "char": "𥕣",
+    "codepoint": "U+25563",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕮": {
+    "_id": "5f523b00de54193ed873aaa4",
+    "char": "𥕮",
+    "codepoint": "U+2556E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕲": {
+    "_id": "5f523b00de54193ed873aaa8",
+    "char": "𥕲",
+    "codepoint": "U+25572",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥕼": {
+    "_id": "5f523b00de54193ed873aab2",
+    "char": "𥕼",
+    "codepoint": "U+2557C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥔋": {
+    "_id": "5f523b00de54193ed873aa41",
+    "char": "𥔋",
+    "codepoint": "U+2550B",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔗": {
+    "_id": "5f523b00de54193ed873aa4d",
+    "char": "𥔗",
+    "codepoint": "U+25517",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥔛": {
+    "_id": "5f523b00de54193ed873aa51",
+    "char": "𥔛",
+    "codepoint": "U+2551B",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𥕊": {
+    "_id": "5f523b00de54193ed873aa80",
+    "char": "𥕊",
+    "codepoint": "U+2554A",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𥕍": {
+    "_id": "5f523b00de54193ed873aa83",
+    "char": "𥕍",
+    "codepoint": "U+2554D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𥕾": {
+    "_id": "5f523b00de54193ed873aab4",
+    "char": "𥕾",
+    "codepoint": "U+2557E",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖅": {
+    "_id": "5f523b00de54193ed873aabb",
+    "char": "𥖅",
+    "codepoint": "U+25585",
+    "strokeCount": 17,
+    "simpVariants": ["𥐯"],
+    "sources": ["unicode"]
+  },
+  "𥖊": {
+    "_id": "5f523b00de54193ed873aac0",
+    "char": "𥖊",
+    "codepoint": "U+2558A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖐": {
+    "_id": "5f523b00de54193ed873aac6",
+    "char": "𥖐",
+    "codepoint": "U+25590",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖤": {
+    "_id": "5f523b00de54193ed873aada",
+    "char": "𥖤",
+    "codepoint": "U+255A4",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖥": {
+    "_id": "5f523b00de54193ed873aadb",
+    "char": "𥖥",
+    "codepoint": "U+255A5",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖫": {
+    "_id": "5f523b00de54193ed873aae1",
+    "char": "𥖫",
+    "codepoint": "U+255AB",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖲": {
+    "_id": "5f523b00de54193ed873aae8",
+    "char": "𥖲",
+    "codepoint": "U+255B2",
+    "strokeCount": 19,
+    "simpVariants": ["𪿞"],
+    "sources": ["unicode"]
+  },
+  "𥗏": {
+    "_id": "5f523b00de54193ed873ab05",
+    "char": "𥗏",
+    "codepoint": "U+255CF",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗒": {
+    "_id": "5f523b00de54193ed873ab08",
+    "char": "𥗒",
+    "codepoint": "U+255D2",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗪": {
+    "_id": "5f523b00de54193ed873ab20",
+    "char": "𥗪",
+    "codepoint": "U+255EA",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥖙": {
+    "_id": "5f523b00de54193ed873aacf",
+    "char": "𥖙",
+    "codepoint": "U+25599",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖞": {
+    "_id": "5f523b00de54193ed873aad4",
+    "char": "𥖞",
+    "codepoint": "U+2559E",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖡": {
+    "_id": "5f523b00de54193ed873aad7",
+    "char": "𥖡",
+    "codepoint": "U+255A1",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖬": {
+    "_id": "5f523b00de54193ed873aae2",
+    "char": "𥖬",
+    "codepoint": "U+255AC",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥗞": {
+    "_id": "5f523b00de54193ed873ab14",
+    "char": "𥗞",
+    "codepoint": "U+255DE",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗨": {
+    "_id": "5f523b00de54193ed873ab1e",
+    "char": "𥗨",
+    "codepoint": "U+255E8",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗯": {
+    "_id": "5f523b00de54193ed873ab25",
+    "char": "𥗯",
+    "codepoint": "U+255EF",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗻": {
+    "_id": "5f523b00de54193ed873ab31",
+    "char": "𥗻",
+    "codepoint": "U+255FB",
+    "strokeCount": 26,
+    "sources": ["unicode"]
+  },
+  "𥖟": {
+    "_id": "5f523b00de54193ed873aad5",
+    "char": "𥖟",
+    "codepoint": "U+2559F",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖓": {
+    "_id": "5f523b00de54193ed873aac9",
+    "char": "𥖓",
+    "codepoint": "U+25593",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖩": {
+    "_id": "5f523b00de54193ed873aadf",
+    "char": "𥖩",
+    "codepoint": "U+255A9",
+    "strokeCount": 18,
+    "simpVariants": ["𬒊"],
+    "sources": ["unicode"]
+  },
+  "𥖭": {
+    "_id": "5f523b00de54193ed873aae3",
+    "char": "𥖭",
+    "codepoint": "U+255AD",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥗟": {
+    "_id": "5f523b00de54193ed873ab15",
+    "char": "𥗟",
+    "codepoint": "U+255DF",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗷": {
+    "_id": "5f523b00de54193ed873ab2d",
+    "char": "𥗷",
+    "codepoint": "U+255F7",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𥖖": {
+    "_id": "5f523b00de54193ed873aacc",
+    "char": "𥖖",
+    "codepoint": "U+25596",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖱": {
+    "_id": "5f523b00de54193ed873aae7",
+    "char": "𥖱",
+    "codepoint": "U+255B1",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖶": {
+    "_id": "5f523b00de54193ed873aaec",
+    "char": "𥖶",
+    "codepoint": "U+255B6",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖼": {
+    "_id": "5f523b00de54193ed873aaf2",
+    "char": "𥖼",
+    "codepoint": "U+255BC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗸": {
+    "_id": "5f523b00de54193ed873ab2e",
+    "char": "𥗸",
+    "codepoint": "U+255F8",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𥗹": {
+    "_id": "5f523b00de54193ed873ab2f",
+    "char": "𥗹",
+    "codepoint": "U+255F9",
+    "strokeCount": 25,
+    "simpVariants": ["𰧈"],
+    "sources": ["unicode"]
+  },
+  "𥗾": {
+    "_id": "5f523b00de54193ed873ab34",
+    "char": "𥗾",
+    "codepoint": "U+255FE",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𥖉": {
+    "_id": "5f523b00de54193ed873aabf",
+    "char": "𥖉",
+    "codepoint": "U+25589",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖔": {
+    "_id": "5f523b00de54193ed873aaca",
+    "char": "𥖔",
+    "codepoint": "U+25594",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖛": {
+    "_id": "5f523b00de54193ed873aad1",
+    "char": "𥖛",
+    "codepoint": "U+2559B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖸": {
+    "_id": "5f523b00de54193ed873aaee",
+    "char": "𥖸",
+    "codepoint": "U+255B8",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥗛": {
+    "_id": "5f523b00de54193ed873ab11",
+    "char": "𥗛",
+    "codepoint": "U+255DB",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗝": {
+    "_id": "5f523b00de54193ed873ab13",
+    "char": "𥗝",
+    "codepoint": "U+255DD",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥖵": {
+    "_id": "5f523b00de54193ed873aaeb",
+    "char": "𥖵",
+    "codepoint": "U+255B5",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖏": {
+    "_id": "5f523b00de54193ed873aac5",
+    "char": "𥖏",
+    "codepoint": "U+2558F",
+    "strokeCount": 17,
+    "simpVariants": ["𮀪"],
+    "sources": ["unicode"]
+  },
+  "𥗣": {
+    "_id": "5f523b00de54193ed873ab19",
+    "char": "𥗣",
+    "codepoint": "U+255E3",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗤": {
+    "_id": "5f523b00de54193ed873ab1a",
+    "char": "𥗤",
+    "codepoint": "U+255E4",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗦": {
+    "_id": "5f523b00de54193ed873ab1c",
+    "char": "𥗦",
+    "codepoint": "U+255E6",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗲": {
+    "_id": "5f523b00de54193ed873ab28",
+    "char": "𥗲",
+    "codepoint": "U+255F2",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥖷": {
+    "_id": "5f523b00de54193ed873aaed",
+    "char": "𥖷",
+    "codepoint": "U+255B7",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖹": {
+    "_id": "5f523b00de54193ed873aaef",
+    "char": "𥖹",
+    "codepoint": "U+255B9",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖻": {
+    "_id": "5f523b00de54193ed873aaf1",
+    "char": "𥖻",
+    "codepoint": "U+255BB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗐": {
+    "_id": "5f523b00de54193ed873ab06",
+    "char": "𥗐",
+    "codepoint": "U+255D0",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗕": {
+    "_id": "5f523b00de54193ed873ab0b",
+    "char": "𥗕",
+    "codepoint": "U+255D5",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗗": {
+    "_id": "5f523b00de54193ed873ab0d",
+    "char": "𥗗",
+    "codepoint": "U+255D7",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗭": {
+    "_id": "5f523b00de54193ed873ab23",
+    "char": "𥗭",
+    "codepoint": "U+255ED",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗴": {
+    "_id": "5f523b00de54193ed873ab2a",
+    "char": "𥗴",
+    "codepoint": "U+255F4",
+    "strokeCount": 24,
+    "simpVariants": ["𬒓"],
+    "sources": ["unicode"]
+  },
+  "𥖆": {
+    "_id": "5f523b00de54193ed873aabc",
+    "char": "𥖆",
+    "codepoint": "U+25586",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖍": {
+    "_id": "5f523b00de54193ed873aac3",
+    "char": "𥖍",
+    "codepoint": "U+2558D",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖕": {
+    "_id": "5f523b00de54193ed873aacb",
+    "char": "𥖕",
+    "codepoint": "U+25595",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖰": {
+    "_id": "5f523b00de54193ed873aae6",
+    "char": "𥖰",
+    "codepoint": "U+255B0",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖴": {
+    "_id": "5f523b00de54193ed873aaea",
+    "char": "𥖴",
+    "codepoint": "U+255B4",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖿": {
+    "_id": "5f523b00de54193ed873aaf5",
+    "char": "𥖿",
+    "codepoint": "U+255BF",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗉": {
+    "_id": "5f523b00de54193ed873aaff",
+    "char": "𥗉",
+    "codepoint": "U+255C9",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗜": {
+    "_id": "5f523b00de54193ed873ab12",
+    "char": "𥗜",
+    "codepoint": "U+255DC",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗶": {
+    "_id": "5f523b00de54193ed873ab2c",
+    "char": "𥗶",
+    "codepoint": "U+255F6",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𥗽": {
+    "_id": "5f523b00de54193ed873ab33",
+    "char": "𥗽",
+    "codepoint": "U+255FD",
+    "strokeCount": 26,
+    "simpVariants": ["𬒗"],
+    "sources": ["unicode"]
+  },
+  "𥗈": {
+    "_id": "5f523b00de54193ed873aafe",
+    "char": "𥗈",
+    "codepoint": "U+255C8",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗊": {
+    "_id": "5f523b00de54193ed873ab00",
+    "char": "𥗊",
+    "codepoint": "U+255CA",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗍": {
+    "_id": "5f523b00de54193ed873ab03",
+    "char": "𥗍",
+    "codepoint": "U+255CD",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗎": {
+    "_id": "5f523b00de54193ed873ab04",
+    "char": "𥗎",
+    "codepoint": "U+255CE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗧": {
+    "_id": "5f523b00de54193ed873ab1d",
+    "char": "𥗧",
+    "codepoint": "U+255E7",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗵": {
+    "_id": "5f523b00de54193ed873ab2b",
+    "char": "𥗵",
+    "codepoint": "U+255F5",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𥗿": {
+    "_id": "5f523b00de54193ed873ab35",
+    "char": "𥗿",
+    "codepoint": "U+255FF",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𥖒": {
+    "_id": "5f523b00de54193ed873aac8",
+    "char": "𥖒",
+    "codepoint": "U+25592",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖇": {
+    "_id": "5f523b00de54193ed873aabd",
+    "char": "𥖇",
+    "codepoint": "U+25587",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖣": {
+    "_id": "5f523b00de54193ed873aad9",
+    "char": "𥖣",
+    "codepoint": "U+255A3",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖧": {
+    "_id": "5f523b00de54193ed873aadd",
+    "char": "𥖧",
+    "codepoint": "U+255A7",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥗄": {
+    "_id": "5f523b00de54193ed873aafa",
+    "char": "𥗄",
+    "codepoint": "U+255C4",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗩": {
+    "_id": "5f523b00de54193ed873ab1f",
+    "char": "𥗩",
+    "codepoint": "U+255E9",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗺": {
+    "_id": "5f523b00de54193ed873ab30",
+    "char": "𥗺",
+    "codepoint": "U+255FA",
+    "strokeCount": 26,
+    "simpVariants": ["𬒇"],
+    "sources": ["unicode"]
+  },
+  "𥖠": {
+    "_id": "5f523b00de54193ed873aad6",
+    "char": "𥖠",
+    "codepoint": "U+255A0",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥗀": {
+    "_id": "5f523b00de54193ed873aaf6",
+    "char": "𥗀",
+    "codepoint": "U+255C0",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗂": {
+    "_id": "5f523b00de54193ed873aaf8",
+    "char": "𥗂",
+    "codepoint": "U+255C2",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗓": {
+    "_id": "5f523b00de54193ed873ab09",
+    "char": "𥗓",
+    "codepoint": "U+255D3",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗔": {
+    "_id": "5f523b00de54193ed873ab0a",
+    "char": "𥗔",
+    "codepoint": "U+255D4",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗘": {
+    "_id": "5f523b00de54193ed873ab0e",
+    "char": "𥗘",
+    "codepoint": "U+255D8",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗥": {
+    "_id": "5f523b00de54193ed873ab1b",
+    "char": "𥗥",
+    "codepoint": "U+255E5",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥖑": {
+    "_id": "5f523b00de54193ed873aac7",
+    "char": "𥖑",
+    "codepoint": "U+25591",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖂": {
+    "_id": "5f523b00de54193ed873aab8",
+    "char": "𥖂",
+    "codepoint": "U+25582",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖜": {
+    "_id": "5f523b00de54193ed873aad2",
+    "char": "𥖜",
+    "codepoint": "U+2559C",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖦": {
+    "_id": "5f523b00de54193ed873aadc",
+    "char": "𥖦",
+    "codepoint": "U+255A6",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖨": {
+    "_id": "5f523b00de54193ed873aade",
+    "char": "𥖨",
+    "codepoint": "U+255A8",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖮": {
+    "_id": "5f523b00de54193ed873aae4",
+    "char": "𥖮",
+    "codepoint": "U+255AE",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖺": {
+    "_id": "5f523b00de54193ed873aaf0",
+    "char": "𥖺",
+    "codepoint": "U+255BA",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥗚": {
+    "_id": "5f523b00de54193ed873ab10",
+    "char": "𥗚",
+    "codepoint": "U+255DA",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗡": {
+    "_id": "5f523b00de54193ed873ab17",
+    "char": "𥗡",
+    "codepoint": "U+255E1",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗢": {
+    "_id": "5f523b00de54193ed873ab18",
+    "char": "𥗢",
+    "codepoint": "U+255E2",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥖗": {
+    "_id": "5f523b00de54193ed873aacd",
+    "char": "𥖗",
+    "codepoint": "U+25597",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥗅": {
+    "_id": "5f523b00de54193ed873aafb",
+    "char": "𥗅",
+    "codepoint": "U+255C5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗑": {
+    "_id": "5f523b00de54193ed873ab07",
+    "char": "𥗑",
+    "codepoint": "U+255D1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗖": {
+    "_id": "5f523b00de54193ed873ab0c",
+    "char": "𥗖",
+    "codepoint": "U+255D6",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗙": {
+    "_id": "5f523b00de54193ed873ab0f",
+    "char": "𥗙",
+    "codepoint": "U+255D9",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𥗫": {
+    "_id": "5f523b00de54193ed873ab21",
+    "char": "𥗫",
+    "codepoint": "U+255EB",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗰": {
+    "_id": "5f523b00de54193ed873ab26",
+    "char": "𥗰",
+    "codepoint": "U+255F0",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥖀": {
+    "_id": "5f523b00de54193ed873aab6",
+    "char": "𥖀",
+    "codepoint": "U+25580",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖁": {
+    "_id": "5f523b00de54193ed873aab7",
+    "char": "𥖁",
+    "codepoint": "U+25581",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖃": {
+    "_id": "5f523b00de54193ed873aab9",
+    "char": "𥖃",
+    "codepoint": "U+25583",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖢": {
+    "_id": "5f523b00de54193ed873aad8",
+    "char": "𥖢",
+    "codepoint": "U+255A2",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥗁": {
+    "_id": "5f523b00de54193ed873aaf7",
+    "char": "𥗁",
+    "codepoint": "U+255C1",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%97%81_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，斫也。从石，箸聲。”",
+    "variants": [{ "char": "𥗁", "parts": "石箸", "source": "academia-sinica" }]
+  },
+  "𥗇": {
+    "_id": "5f523b00de54193ed873aafd",
+    "char": "𥗇",
+    "codepoint": "U+255C7",
+    "strokeCount": 20,
+    "simpVariants": ["𪿵"],
+    "sources": ["unicode"]
+  },
+  "𥗠": {
+    "_id": "5f523b00de54193ed873ab16",
+    "char": "𥗠",
+    "codepoint": "U+255E0",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𥗬": {
+    "_id": "5f523b00de54193ed873ab22",
+    "char": "𥗬",
+    "codepoint": "U+255EC",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗮": {
+    "_id": "5f523b00de54193ed873ab24",
+    "char": "𥗮",
+    "codepoint": "U+255EE",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗱": {
+    "_id": "5f523b00de54193ed873ab27",
+    "char": "𥗱",
+    "codepoint": "U+255F1",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥗳": {
+    "_id": "5f523b00de54193ed873ab29",
+    "char": "𥗳",
+    "codepoint": "U+255F3",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𥖄": {
+    "_id": "5f523b00de54193ed873aaba",
+    "char": "𥖄",
+    "codepoint": "U+25584",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖈": {
+    "_id": "5f523b00de54193ed873aabe",
+    "char": "𥖈",
+    "codepoint": "U+25588",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖋": {
+    "_id": "5f523b00de54193ed873aac1",
+    "char": "𥖋",
+    "codepoint": "U+2558B",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖝": {
+    "_id": "5f523b00de54193ed873aad3",
+    "char": "𥖝",
+    "codepoint": "U+2559D",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖯": {
+    "_id": "5f523b00de54193ed873aae5",
+    "char": "𥖯",
+    "codepoint": "U+255AF",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖽": {
+    "_id": "5f523b00de54193ed873aaf3",
+    "char": "𥖽",
+    "codepoint": "U+255BD",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥖾": {
+    "_id": "5f523b00de54193ed873aaf4",
+    "char": "𥖾",
+    "codepoint": "U+255BE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗋": {
+    "_id": "5f523b00de54193ed873ab01",
+    "char": "𥗋",
+    "codepoint": "U+255CB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗌": {
+    "_id": "5f523b00de54193ed873ab02",
+    "char": "𥗌",
+    "codepoint": "U+255CC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥖌": {
+    "_id": "5f523b00de54193ed873aac2",
+    "char": "𥖌",
+    "codepoint": "U+2558C",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A5%96%8C_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文新附》：“硾，擣也。从石，垂聲。”",
+    "variants": [{ "char": "硾", "parts": "石垂", "source": "academia-sinica" }]
+  },
+  "𥖎": {
+    "_id": "5f523b00de54193ed873aac4",
+    "char": "𥖎",
+    "codepoint": "U+2558E",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𥖘": {
+    "_id": "5f523b00de54193ed873aace",
+    "char": "𥖘",
+    "codepoint": "U+25598",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖚": {
+    "_id": "5f523b00de54193ed873aad0",
+    "char": "𥖚",
+    "codepoint": "U+2559A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𥖪": {
+    "_id": "5f523b00de54193ed873aae0",
+    "char": "𥖪",
+    "codepoint": "U+255AA",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥖳": {
+    "_id": "5f523b00de54193ed873aae9",
+    "char": "𥖳",
+    "codepoint": "U+255B3",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𥗃": {
+    "_id": "5f523b00de54193ed873aaf9",
+    "char": "𥗃",
+    "codepoint": "U+255C3",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗆": {
+    "_id": "5f523b00de54193ed873aafc",
+    "char": "𥗆",
+    "codepoint": "U+255C6",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𥗼": {
+    "_id": "5f523b00de54193ed873ab32",
+    "char": "𥗼",
+    "codepoint": "U+255FC",
+    "strokeCount": 26,
+    "sources": ["unicode"]
+  }
+}

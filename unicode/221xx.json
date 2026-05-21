@@ -1,0 +1,3717 @@
+{
+  "𢄒": {
+    "_id": "5f523b00de54193ed8737648",
+    "char": "𢄒",
+    "codepoint": "U+22112",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄫": {
+    "_id": "5f523b00de54193ed8737661",
+    "char": "𢄫",
+    "codepoint": "U+2212B",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄴": {
+    "_id": "5f523b00de54193ed873766a",
+    "char": "𢄴",
+    "codepoint": "U+22134",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢄵": {
+    "_id": "5f523b00de54193ed873766b",
+    "char": "𢄵",
+    "codepoint": "U+22135",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢄽": {
+    "_id": "5f523b00de54193ed8737673",
+    "char": "𢄽",
+    "codepoint": "U+2213D",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅚": {
+    "_id": "5f523b00de54193ed8737690",
+    "char": "𢅚",
+    "codepoint": "U+2215A",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅜": {
+    "_id": "5f523b00de54193ed8737692",
+    "char": "𢅜",
+    "codepoint": "U+2215C",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%9C_0.png",
+        "source": "academia-sinica",
+        "description": "乙617(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      }
+    ],
+    "variants": [{ "char": "𢅜", "parts": "帚帚", "source": "academia-sinica" }]
+  },
+  "𢅣": {
+    "_id": "5f523b00de54193ed8737699",
+    "char": "𢅣",
+    "codepoint": "U+22163",
+    "strokeCount": 17,
+    "simpVariants": ["𭘚"],
+    "sources": ["unicode"]
+  },
+  "𢅼": {
+    "_id": "5f523b00de54193ed87376b2",
+    "char": "𢅼",
+    "codepoint": "U+2217C",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%BC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，地以巾之。从巾，夒聲。讀若水溫。一曰箸也。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“𤔿聲，各本作夒聲，篆體各本皆誤作𢅼，今正。按：許讀如㬮，大徐據《唐韻》乃昆切。……𤔿者，古文婚字。”"
+      }
+    ],
+    "variants": [{ "char": "𢅼", "parts": "巾夒", "source": "academia-sinica" }]
+  },
+  "𢆉": {
+    "_id": "5f523b00de54193ed87376bf",
+    "char": "𢆉",
+    "codepoint": "U+22189",
+    "strokeCount": 5,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%89_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧干部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从干，入一為干，入二為。讀若能，言稍甚也。”",
+    "variants": [{ "char": "𢆉", "parts": "丷干", "source": "academia-sinica" }]
+  },
+  "𢆊": {
+    "_id": "5f523b00de54193ed87376c0",
+    "char": "𢆊",
+    "codepoint": "U+2218A",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%8A_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧水部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%8A_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%8A_2.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“汀，平也。从水，丁聲。，汀或从平。”",
+    "variants": [
+      { "char": "汀", "parts": "氵丁", "source": "academia-sinica" },
+      { "char": "𢆊", "parts": "平丁", "source": "academia-sinica" }
+    ]
+  },
+  "𢆣": {
+    "_id": "5f523b00de54193ed87376d9",
+    "char": "𢆣",
+    "codepoint": "U+221A3",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢆫": {
+    "_id": "5f523b00de54193ed87376e1",
+    "char": "𢆫",
+    "codepoint": "U+221AB",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆴": {
+    "_id": "5f523b00de54193ed87376ea",
+    "char": "𢆴",
+    "codepoint": "U+221B4",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𢆿": {
+    "_id": "5f523b00de54193ed87376f5",
+    "char": "𢆿",
+    "codepoint": "U+221BF",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%BF_0.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%BF_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧糸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“緦，十五升布也。一曰兩麻一絲布也。从糸，思聲。，古文緦从糸省。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁改作“緦，十五升抽其半布也”，注云：“各本無‘抽其半’三字，當由不通人刪之，今補。緦者，布名，猶大功、小功皆布名也。……十五升去半者，十五升朝服之升數也。去其半則為七升有半。朝服用十五升，其布密。緦用其半，其布疏。謂之緦者，鄭曰：‘治其縷細如絲也。’”"
+      }
+    ],
+    "variants": [
+      { "char": "緦", "parts": "糹思", "source": "academia-sinica" },
+      { "char": "𢆿", "parts": "囟幺", "source": "academia-sinica" }
+    ]
+  },
+  "𢇄": {
+    "_id": "5f523b00de54193ed87376fa",
+    "char": "𢇄",
+    "codepoint": "U+221C4",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢇈": {
+    "_id": "5f523b00de54193ed87376fe",
+    "char": "𢇈",
+    "codepoint": "U+221C8",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𢇓": {
+    "_id": "5f523b00de54193ed8737709",
+    "char": "𢇓",
+    "codepoint": "U+221D3",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢇙": {
+    "_id": "5f523b00de54193ed873770f",
+    "char": "𢇙",
+    "codepoint": "U+221D9",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇞": {
+    "_id": "5f523b00de54193ed8737714",
+    "char": "𢇞",
+    "codepoint": "U+221DE",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢄛": {
+    "_id": "5f523b00de54193ed8737651",
+    "char": "𢄛",
+    "codepoint": "U+2211B",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄜": {
+    "_id": "5f523b00de54193ed8737652",
+    "char": "𢄜",
+    "codepoint": "U+2211C",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢅄": {
+    "_id": "5f523b00de54193ed873767a",
+    "char": "𢅄",
+    "codepoint": "U+22144",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅍": {
+    "_id": "5f523b00de54193ed8737683",
+    "char": "𢅍",
+    "codepoint": "U+2214D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅮": {
+    "_id": "5f523b00de54193ed87376a4",
+    "char": "𢅮",
+    "codepoint": "U+2216E",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢅴": {
+    "_id": "5f523b00de54193ed87376aa",
+    "char": "𢅴",
+    "codepoint": "U+22174",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆧": {
+    "_id": "5f523b00de54193ed87376dd",
+    "char": "𢆧",
+    "codepoint": "U+221A7",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢆽": {
+    "_id": "5f523b00de54193ed87376f3",
+    "char": "𢆽",
+    "codepoint": "U+221BD",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇏": {
+    "_id": "5f523b00de54193ed8737705",
+    "char": "𢇏",
+    "codepoint": "U+221CF",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_0.png",
+        "source": "academia-sinica",
+        "description": "鄴3下.45.5(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_1.png",
+        "source": "academia-sinica",
+        "description": "前5.1.3(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_2.png",
+        "source": "academia-sinica",
+        "description": "掇2.158(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_3.png",
+        "source": "academia-sinica",
+        "description": "堇臨作父乙方鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_4.png",
+        "source": "academia-sinica",
+        "description": "秦公簋(金)春秋中期",
+        "type": "Bronze",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_5.png",
+        "source": "academia-sinica",
+        "description": "蔡侯盤(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_6.png",
+        "source": "academia-sinica",
+        "description": "禾簋(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_7.png",
+        "source": "academia-sinica",
+        "description": "中山王昔壺(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_8.png",
+        "source": "academia-sinica",
+        "description": "曾姬無卹壺(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_9.png",
+        "source": "academia-sinica",
+        "description": "楚王酓章鎛(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_10.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_11.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_12.png",
+        "source": "academia-sinica",
+        "description": "說文‧糸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_13.png",
+        "source": "academia-sinica",
+        "description": "孔宙碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8F_14.png",
+        "source": "academia-sinica",
+        "description": "魏封孔羨碑(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“彝，宗廟常器也。从糸，糸，綦也。廾，持。米，器中寶也。彑聲。此與爵相似。《周禮》：‘六彝：雞彝、鳥彝、黄彝、虎彝、蟲彝、斝彝，以待裸將之禮。’ 、，皆古文彝。”",
+    "comments": [{ "source": "academia-sinica", "text": "徐鍇繫傳“寶”字作“實”。" }],
+    "variants": [{ "char": "彝", "parts": "彐米糸廾", "source": "academia-sinica" }]
+  },
+  "𢇐": {
+    "_id": "5f523b00de54193ed8737706",
+    "char": "𢇐",
+    "codepoint": "U+221D0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢇩": {
+    "_id": "5f523b00de54193ed873771f",
+    "char": "𢇩",
+    "codepoint": "U+221E9",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇼": {
+    "_id": "5f523b00de54193ed8737732",
+    "char": "𢇼",
+    "codepoint": "U+221FC",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄟": {
+    "_id": "5f523b00de54193ed8737655",
+    "char": "𢄟",
+    "codepoint": "U+2211F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄪": {
+    "_id": "5f523b00de54193ed8737660",
+    "char": "𢄪",
+    "codepoint": "U+2212A",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄷": {
+    "_id": "5f523b00de54193ed873766d",
+    "char": "𢄷",
+    "codepoint": "U+22137",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢄾": {
+    "_id": "5f523b00de54193ed8737674",
+    "char": "𢄾",
+    "codepoint": "U+2213E",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅌": {
+    "_id": "5f523b00de54193ed8737682",
+    "char": "𢅌",
+    "codepoint": "U+2214C",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅐": {
+    "_id": "5f523b00de54193ed8737686",
+    "char": "𢅐",
+    "codepoint": "U+22150",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅟": {
+    "_id": "5f523b00de54193ed8737695",
+    "char": "𢅟",
+    "codepoint": "U+2215F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅢": {
+    "_id": "5f523b00de54193ed8737698",
+    "char": "𢅢",
+    "codepoint": "U+22162",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅨": {
+    "_id": "5f523b00de54193ed873769e",
+    "char": "𢅨",
+    "codepoint": "U+22168",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅻": {
+    "_id": "5f523b00de54193ed87376b1",
+    "char": "𢅻",
+    "codepoint": "U+2217B",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𢅿": {
+    "_id": "5f523b00de54193ed87376b5",
+    "char": "𢅿",
+    "codepoint": "U+2217F",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𢆁": {
+    "_id": "5f523b00de54193ed87376b7",
+    "char": "𢆁",
+    "codepoint": "U+22181",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𢆗": {
+    "_id": "5f523b00de54193ed87376cd",
+    "char": "𢆗",
+    "codepoint": "U+22197",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢇂": {
+    "_id": "5f523b00de54193ed87376f8",
+    "char": "𢇂",
+    "codepoint": "U+221C2",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢇗": {
+    "_id": "5f523b00de54193ed873770d",
+    "char": "𢇗",
+    "codepoint": "U+221D7",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇹": {
+    "_id": "5f523b00de54193ed873772f",
+    "char": "𢇹",
+    "codepoint": "U+221F9",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄕": {
+    "_id": "5f523b00de54193ed873764b",
+    "char": "𢄕",
+    "codepoint": "U+22115",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄘": {
+    "_id": "5f523b00de54193ed873764e",
+    "char": "𢄘",
+    "codepoint": "U+22118",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄩": {
+    "_id": "5f523b00de54193ed873765f",
+    "char": "𢄩",
+    "codepoint": "U+22129",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢅓": {
+    "_id": "5f523b00de54193ed8737689",
+    "char": "𢅓",
+    "codepoint": "U+22153",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅔": {
+    "_id": "5f523b00de54193ed873768a",
+    "char": "𢅔",
+    "codepoint": "U+22154",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅕": {
+    "_id": "5f523b00de54193ed873768b",
+    "char": "𢅕",
+    "codepoint": "U+22155",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅯": {
+    "_id": "5f523b00de54193ed87376a5",
+    "char": "𢅯",
+    "codepoint": "U+2216F",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%AF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，以囊盛穀，大滿而裂也。从巾，奮聲。”",
+    "variants": [{ "char": "𢅯", "parts": "巾奮", "source": "academia-sinica" }]
+  },
+  "𢅺": {
+    "_id": "5f523b00de54193ed87376b0",
+    "char": "𢅺",
+    "codepoint": "U+2217A",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𢆏": {
+    "_id": "5f523b00de54193ed87376c5",
+    "char": "𢆏",
+    "codepoint": "U+2218F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢆓": {
+    "_id": "5f523b00de54193ed87376c9",
+    "char": "𢆓",
+    "codepoint": "U+22193",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢆻": {
+    "_id": "5f523b00de54193ed87376f1",
+    "char": "𢆻",
+    "codepoint": "U+221BB",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇁": {
+    "_id": "5f523b00de54193ed87376f7",
+    "char": "𢇁",
+    "codepoint": "U+221C1",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_0.png",
+        "source": "academia-sinica",
+        "description": "後2.8.7(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_1.png",
+        "source": "academia-sinica",
+        "description": "後2.8.8(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_2.png",
+        "source": "academia-sinica",
+        "description": "燕51(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_3.png",
+        "source": "academia-sinica",
+        "description": "簠天38(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_4.png",
+        "source": "academia-sinica",
+        "description": "商尊(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_5.png",
+        "source": "academia-sinica",
+        "description": "乃子克鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_6.png",
+        "source": "academia-sinica",
+        "description": "曶鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_7.png",
+        "source": "academia-sinica",
+        "description": "信2.015(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_8.png",
+        "source": "academia-sinica",
+        "description": "說文‧絲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_9.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡32.11(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_10.png",
+        "source": "academia-sinica",
+        "description": "相馬經20下(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_11.png",
+        "source": "academia-sinica",
+        "description": "一號墓竹簡261(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_12.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%81_13.png",
+        "source": "academia-sinica",
+        "description": "衡方碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 361 459 L 271 466 Q 247 467 251 481 Q 253 488 257 491 Q 302 558 355 622 Q 370 640 370 651 Q 368 670 331 712 Q 317 732 301 729 L 298 729 Q 288 729 291 714 Q 301 673 270 609 Q 258 583 232 534 Q 218 506 189 484 Q 170 469 171 452 Q 172 427 186 403 Q 193 389 204 394 Q 256 430 343 430 C 380 430 399 456 361 459 Z",
+            "M 423 310 Q 353 294 312 282 Q 295 275 296 285 Q 297 291 304 300 Q 418 475 481 534 Q 491 545 489 555 L 487 561 Q 479 584 443 612 Q 430 622 419 622 Q 409 620 409 597 Q 412 576 388 520 L 361 459 L 343 430 Q 243 278 223 271 Q 209 260 210 239 Q 212 224 237 199 Q 244 188 253 191 Q 257 191 263 197 Q 333 252 433 285 C 470 297 461 317 423 310 Z",
+            "M 433 285 Q 456 238 472 230 Q 480 227 486 233 Q 490 236 494 244 Q 498 255 495 272 L 495 274 L 495 282 Q 490 308 469 328 Q 435 363 421 371 Q 416 377 412 371 Q 403 361 414 338 L 423 310 L 433 285 Z",
+            "M 679 497 L 676 498 L 674 497 Q 626 500 576 500 Q 571 500 567 500 Q 553 502 557 511 Q 557 516 562 520 Q 608 594 649 644 Q 664 661 664 673 Q 661 689 625 729 Q 612 748 592 743 Q 583 743 585 731 Q 587 726 587 723 Q 595 693 569 633 Q 553 592 537 561 Q 524 536 498 511 Q 481 497 481 481 Q 485 459 498 434 Q 504 424 515 428 Q 543 449 664 469 C 702 475 717 495 679 497 Z",
+            "M 802 597 Q 791 625 757 650 Q 745 659 728 659 Q 721 654 721 631 Q 721 600 702 553 Q 693 528 679 497 L 664 469 Q 581 338 553 314 Q 537 300 540 285 Q 540 268 567 239 Q 576 229 587 232 Q 592 233 596 236 Q 656 286 752 314 L 757 314 C 795 322 784 341 746 339 Q 695 338 651 325 Q 625 317 626 328 Q 627 336 637 350 Q 794 569 797 572 Q 808 584 802 597 Z",
+            "M 757 314 Q 792 252 802 246 Q 809 244 814 249 Q 819 252 821 255 Q 829 271 829 303 Q 829 325 818 344 Q 811 355 802 364 Q 738 430 723 427 Q 718 424 716 408 Q 716 406 746 339 L 757 314 Z",
+            "M 252 146 Q 229 97 201 57 Q 186 35 190 11 Q 193 -2 201 -13 Q 207 -26 221 -22 Q 226 -21 233 -16 Q 284 22 284 88 Q 286 110 284 130 Q 283 136 279 147 Q 272 156 266 157 Q 258 156 252 146 Z",
+            "M 391 135 Q 424 31 446 19 Q 454 13 464 17 Q 470 21 473 26 Q 481 36 481 57 Q 480 82 456 104 Q 426 144 408 155 Q 402 158 398 155 Q 396 154 393 150 Q 389 146 391 137 L 391 135 Z",
+            "M 548 144 Q 602 39 622 33 Q 630 31 640 36 Q 641 37 648 43 Q 653 50 650 66 Q 650 73 650 75 Q 646 99 621 120 Q 580 156 562 167 Q 555 169 553 165 Q 543 156 548 144 Z",
+            "M 692 154 Q 737 105 796 26 Q 810 2 827 -4 Q 830 -5 837 -2 Q 841 -2 846 2 Q 859 11 855 49 L 855 61 Q 852 101 774 146 Q 718 178 698 186 Q 692 191 687 186 Q 680 175 687 162 Q 690 157 692 154 Z"
+          ],
+          "medians": [
+            [
+              [299.74, 718.4],
+              [312.34000000000003, 702.8],
+              [326.2, 652.88],
+              [227.92000000000002, 489.08],
+              [217.83999999999997, 453.2],
+              [270.76, 442.28],
+              [331.24, 443.84000000000003],
+              [352.65999999999997, 456.32]
+            ],
+            [
+              [423.22, 606.0799999999999],
+              [442.12, 554.6],
+              [377.86, 442.28],
+              [277.06, 298.76],
+              [266.98, 253.51999999999998],
+              [307.3, 255.07999999999998],
+              [413.14, 295.64],
+              [421.96000000000004, 286.28]
+            ],
+            [
+              [416.91999999999996, 361.15999999999997],
+              [463.54, 287.84000000000003],
+              [476.14, 253.51999999999998]
+            ],
+            [
+              [594.58, 730.88],
+              [607.18, 716.84],
+              [621.04, 671.6],
+              [535.36, 518.72],
+              [527.8, 482.84],
+              [571.9, 473.48],
+              [648.76, 478.15999999999997],
+              [663.88, 492.2]
+            ],
+            [
+              [734.44, 645.0799999999999],
+              [749.56, 613.88],
+              [753.34, 582.6800000000001],
+              [681.52, 446.96],
+              [622.3, 368.96000000000004],
+              [597.1, 306.56],
+              [598.36, 294.08],
+              [621.04, 290.96],
+              [736.96, 325.28],
+              [739.48, 319.03999999999996]
+            ],
+            [
+              [725.62, 414.2],
+              [794.9200000000001, 315.91999999999996],
+              [806.26, 259.76]
+            ],
+            [
+              [266.07, 143.88],
+              [248.22000000000003, 66.48999999999995],
+              [214.90000000000003, -9.81000000000006]
+            ],
+            [
+              [402.92, 146.06],
+              [442.19, 79.57],
+              [455.28, 33.789999999999964]
+            ],
+            [
+              [560, 155.87],
+              [617.12, 80.65999999999997],
+              [627.83, 46.86999999999995]
+            ],
+            [
+              [693.28, 178.76],
+              [803.95, 79.57],
+              [817.04, 59.94999999999999],
+              [828.94, 9.809999999999945]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 6, 7],
+          [3, 4, 5, 8, 9]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“絲，蠶所吐也。从二糸。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "羅振玉《增訂殷虛書契考釋》：“象束絲形，兩端則束餘之緒也。”"
+      }
+    ],
+    "variants": [
+      { "char": "絲", "parts": "糹糸", "source": "academia-sinica" },
+      { "char": "𢆶", "parts": "幺幺", "source": "academia-sinica" }
+    ],
+    "customSources": [
+      "Chinese Text Project|https://ctext.org/dictionary.pl?if=en&char=%F0%A2%87%81"
+    ],
+    "gloss": "run threads through a web",
+    "hint": "Variant of 𢇇. Depicts two twisted threads of silk. Similar to 𢆶.",
+    "isVerified": true,
+    "oldPronunciations": [
+      { "OC": "*kroːn", "MC": "kˠuan", "pinyin": "guān", "gloss": "run threads through a web" }
+    ],
+    "components": [
+      { "type": ["iconic"], "character": "糹", "hint": "糹 is a component form of 糸." },
+      { "type": ["iconic"], "character": "糹", "hint": "糹 is a component form of 糸." }
+    ],
+    "data": {
+      "strokes": [
+        "M 361 459 L 271 466 Q 247 467 251 481 Q 253 488 257 491 Q 302 558 355 622 Q 370 640 370 651 Q 368 670 331 712 Q 317 732 301 729 L 298 729 Q 288 729 291 714 Q 301 673 270 609 Q 258 583 232 534 Q 218 506 189 484 Q 170 469 171 452 Q 172 427 186 403 Q 193 389 204 394 Q 256 430 343 430 C 380 430 399 456 361 459 Z",
+        "M 423 310 Q 353 294 312 282 Q 295 275 296 285 Q 297 291 304 300 Q 418 475 481 534 Q 491 545 489 555 L 487 561 Q 479 584 443 612 Q 430 622 419 622 Q 409 620 409 597 Q 412 576 388 520 L 361 459 L 343 430 Q 243 278 223 271 Q 209 260 210 239 Q 212 224 237 199 Q 244 188 253 191 Q 257 191 263 197 Q 333 252 433 285 C 470 297 461 317 423 310 Z",
+        "M 433 285 Q 456 238 472 230 Q 480 227 486 233 Q 490 236 494 244 Q 498 255 495 272 L 495 274 L 495 282 Q 490 308 469 328 Q 435 363 421 371 Q 416 377 412 371 Q 403 361 414 338 L 423 310 L 433 285 Z",
+        "M 679 497 L 676 498 L 674 497 Q 626 500 576 500 Q 571 500 567 500 Q 553 502 557 511 Q 557 516 562 520 Q 608 594 649 644 Q 664 661 664 673 Q 661 689 625 729 Q 612 748 592 743 Q 583 743 585 731 Q 587 726 587 723 Q 595 693 569 633 Q 553 592 537 561 Q 524 536 498 511 Q 481 497 481 481 Q 485 459 498 434 Q 504 424 515 428 Q 543 449 664 469 C 702 475 717 495 679 497 Z",
+        "M 802 597 Q 791 625 757 650 Q 745 659 728 659 Q 721 654 721 631 Q 721 600 702 553 Q 693 528 679 497 L 664 469 Q 581 338 553 314 Q 537 300 540 285 Q 540 268 567 239 Q 576 229 587 232 Q 592 233 596 236 Q 656 286 752 314 L 757 314 C 795 322 784 341 746 339 Q 695 338 651 325 Q 625 317 626 328 Q 627 336 637 350 Q 794 569 797 572 Q 808 584 802 597 Z",
+        "M 757 314 Q 792 252 802 246 Q 809 244 814 249 Q 819 252 821 255 Q 829 271 829 303 Q 829 325 818 344 Q 811 355 802 364 Q 738 430 723 427 Q 718 424 716 408 Q 716 406 746 339 L 757 314 Z",
+        "M 252 146 Q 229 97 201 57 Q 186 35 190 11 Q 193 -2 201 -13 Q 207 -26 221 -22 Q 226 -21 233 -16 Q 284 22 284 88 Q 286 110 284 130 Q 283 136 279 147 Q 272 156 266 157 Q 258 156 252 146 Z",
+        "M 391 135 Q 424 31 446 19 Q 454 13 464 17 Q 470 21 473 26 Q 481 36 481 57 Q 480 82 456 104 Q 426 144 408 155 Q 402 158 398 155 Q 396 154 393 150 Q 389 146 391 137 L 391 135 Z",
+        "M 548 144 Q 602 39 622 33 Q 630 31 640 36 Q 641 37 648 43 Q 653 50 650 66 Q 650 73 650 75 Q 646 99 621 120 Q 580 156 562 167 Q 555 169 553 165 Q 543 156 548 144 Z",
+        "M 692 154 Q 737 105 796 26 Q 810 2 827 -4 Q 830 -5 837 -2 Q 841 -2 846 2 Q 859 11 855 49 L 855 61 Q 852 101 774 146 Q 718 178 698 186 Q 692 191 687 186 Q 680 175 687 162 Q 690 157 692 154 Z"
+      ],
+      "medians": [
+        [
+          [299.74, 718.4],
+          [312.34000000000003, 702.8],
+          [326.2, 652.88],
+          [227.92000000000002, 489.08],
+          [217.83999999999997, 453.2],
+          [270.76, 442.28],
+          [331.24, 443.84000000000003],
+          [352.65999999999997, 456.32]
+        ],
+        [
+          [423.22, 606.0799999999999],
+          [442.12, 554.6],
+          [377.86, 442.28],
+          [277.06, 298.76],
+          [266.98, 253.51999999999998],
+          [307.3, 255.07999999999998],
+          [413.14, 295.64],
+          [421.96000000000004, 286.28]
+        ],
+        [
+          [416.91999999999996, 361.15999999999997],
+          [463.54, 287.84000000000003],
+          [476.14, 253.51999999999998]
+        ],
+        [
+          [594.58, 730.88],
+          [607.18, 716.84],
+          [621.04, 671.6],
+          [535.36, 518.72],
+          [527.8, 482.84],
+          [571.9, 473.48],
+          [648.76, 478.15999999999997],
+          [663.88, 492.2]
+        ],
+        [
+          [734.44, 645.0799999999999],
+          [749.56, 613.88],
+          [753.34, 582.6800000000001],
+          [681.52, 446.96],
+          [622.3, 368.96000000000004],
+          [597.1, 306.56],
+          [598.36, 294.08],
+          [621.04, 290.96],
+          [736.96, 325.28],
+          [739.48, 319.03999999999996]
+        ],
+        [
+          [725.62, 414.2],
+          [794.9200000000001, 315.91999999999996],
+          [806.26, 259.76]
+        ],
+        [
+          [266.07, 143.88],
+          [248.22000000000003, 66.48999999999995],
+          [214.90000000000003, -9.81000000000006]
+        ],
+        [
+          [402.92, 146.06],
+          [442.19, 79.57],
+          [455.28, 33.789999999999964]
+        ],
+        [
+          [560, 155.87],
+          [617.12, 80.65999999999997],
+          [627.83, 46.86999999999995]
+        ],
+        [
+          [693.28, 178.76],
+          [803.95, 79.57],
+          [817.04, 59.94999999999999],
+          [828.94, 9.809999999999945]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]]
+  },
+  "𢇅": {
+    "_id": "5f523b00de54193ed87376fb",
+    "char": "𢇅",
+    "codepoint": "U+221C5",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%85_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧絲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，織絹从〔以〕糸貫杼也。从絲省，北聲。”",
+    "variants": [{ "char": "𢇇", "parts": "𢆶丱", "source": "academia-sinica" }]
+  },
+  "𢇋": {
+    "_id": "5f523b00de54193ed8737701",
+    "char": "𢇋",
+    "codepoint": "U+221CB",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢇎": {
+    "_id": "5f523b00de54193ed8737704",
+    "char": "𢇎",
+    "codepoint": "U+221CE",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢇔": {
+    "_id": "5f523b00de54193ed873770a",
+    "char": "𢇔",
+    "codepoint": "U+221D4",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢇚": {
+    "_id": "5f523b00de54193ed8737710",
+    "char": "𢇚",
+    "codepoint": "U+221DA",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇣": {
+    "_id": "5f523b00de54193ed8737719",
+    "char": "𢇣",
+    "codepoint": "U+221E3",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇨": {
+    "_id": "5f523b00de54193ed873771e",
+    "char": "𢇨",
+    "codepoint": "U+221E8",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇭": {
+    "_id": "5f523b00de54193ed8737723",
+    "char": "𢇭",
+    "codepoint": "U+221ED",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇾": {
+    "_id": "5f523b00de54193ed8737734",
+    "char": "𢇾",
+    "codepoint": "U+221FE",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄦": {
+    "_id": "5f523b00de54193ed873765c",
+    "char": "𢄦",
+    "codepoint": "U+22126",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄮": {
+    "_id": "5f523b00de54193ed8737664",
+    "char": "𢄮",
+    "codepoint": "U+2212E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢅁": {
+    "_id": "5f523b00de54193ed8737677",
+    "char": "𢅁",
+    "codepoint": "U+22141",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅇": {
+    "_id": "5f523b00de54193ed873767d",
+    "char": "𢅇",
+    "codepoint": "U+22147",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅎": {
+    "_id": "5f523b00de54193ed8737684",
+    "char": "𢅎",
+    "codepoint": "U+2214E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅒": {
+    "_id": "5f523b00de54193ed8737688",
+    "char": "𢅒",
+    "codepoint": "U+22152",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%92_0.png",
+        "source": "academia-sinica",
+        "description": "睡.秦147(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "variants": [{ "char": "𢅒", "parts": "巾亶", "source": "academia-sinica" }]
+  },
+  "𢅧": {
+    "_id": "5f523b00de54193ed873769d",
+    "char": "𢅧",
+    "codepoint": "U+22167",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅫": {
+    "_id": "5f523b00de54193ed87376a1",
+    "char": "𢅫",
+    "codepoint": "U+2216B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢅹": {
+    "_id": "5f523b00de54193ed87376af",
+    "char": "𢅹",
+    "codepoint": "U+22179",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𢆃": {
+    "_id": "5f523b00de54193ed87376b9",
+    "char": "𢆃",
+    "codepoint": "U+22183",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𢆑": {
+    "_id": "5f523b00de54193ed87376c7",
+    "char": "𢆑",
+    "codepoint": "U+22191",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢆘": {
+    "_id": "5f523b00de54193ed87376ce",
+    "char": "𢆘",
+    "codepoint": "U+22198",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢆞": {
+    "_id": "5f523b00de54193ed87376d4",
+    "char": "𢆞",
+    "codepoint": "U+2219E",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%9E_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧束部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小束也。从束，幵聲。”",
+    "variants": [{ "char": "𢆞", "parts": "幵束", "source": "academia-sinica" }],
+    "gloss": "a bunch"
+  },
+  "𢆡": {
+    "_id": "5f523b00de54193ed87376d7",
+    "char": "𢆡",
+    "codepoint": "U+221A1",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(Cant.) female breast"
+  },
+  "𢆵": {
+    "_id": "5f523b00de54193ed87376eb",
+    "char": "𢆵",
+    "codepoint": "U+221B5",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𢇕": {
+    "_id": "5f523b00de54193ed873770b",
+    "char": "𢇕",
+    "codepoint": "U+221D5",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢇘": {
+    "_id": "5f523b00de54193ed873770e",
+    "char": "𢇘",
+    "codepoint": "U+221D8",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇥": {
+    "_id": "5f523b00de54193ed873771b",
+    "char": "𢇥",
+    "codepoint": "U+221E5",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇲": {
+    "_id": "5f523b00de54193ed8737728",
+    "char": "𢇲",
+    "codepoint": "U+221F2",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%B2_0.png",
+        "source": "academia-sinica",
+        "description": "西陲簡22.10(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "variants": [{ "char": "𢇲", "parts": "广禾", "source": "academia-sinica" }]
+  },
+  "𢄁": {
+    "_id": "5f523b00de54193ed8737637",
+    "char": "𢄁",
+    "codepoint": "U+22101",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄠": {
+    "_id": "5f523b00de54193ed8737656",
+    "char": "𢄠",
+    "codepoint": "U+22120",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄧": {
+    "_id": "5f523b00de54193ed873765d",
+    "char": "𢄧",
+    "codepoint": "U+22127",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄲": {
+    "_id": "5f523b00de54193ed8737668",
+    "char": "𢄲",
+    "codepoint": "U+22132",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢅆": {
+    "_id": "5f523b00de54193ed873767c",
+    "char": "𢅆",
+    "codepoint": "U+22146",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢆟": {
+    "_id": "5f523b00de54193ed87376d5",
+    "char": "𢆟",
+    "codepoint": "U+2219F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢆰": {
+    "_id": "5f523b00de54193ed87376e6",
+    "char": "𢆰",
+    "codepoint": "U+221B0",
+    "strokeCount": 4,
+    "sources": ["unicode"]
+  },
+  "𢇑": {
+    "_id": "5f523b00de54193ed8737707",
+    "char": "𢇑",
+    "codepoint": "U+221D1",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢇒": {
+    "_id": "5f523b00de54193ed8737708",
+    "char": "𢇒",
+    "codepoint": "U+221D2",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢇦": {
+    "_id": "5f523b00de54193ed873771c",
+    "char": "𢇦",
+    "codepoint": "U+221E6",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇮": {
+    "_id": "5f523b00de54193ed8737724",
+    "char": "𢇮",
+    "codepoint": "U+221EE",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇸": {
+    "_id": "5f523b00de54193ed873772e",
+    "char": "𢇸",
+    "codepoint": "U+221F8",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄃": {
+    "_id": "5f523b00de54193ed8737639",
+    "char": "𢄃",
+    "codepoint": "U+22103",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄳": {
+    "_id": "5f523b00de54193ed8737669",
+    "char": "𢄳",
+    "codepoint": "U+22133",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅩": {
+    "_id": "5f523b00de54193ed873769f",
+    "char": "𢅩",
+    "codepoint": "U+22169",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢅵": {
+    "_id": "5f523b00de54193ed87376ab",
+    "char": "𢅵",
+    "codepoint": "U+22175",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢅾": {
+    "_id": "5f523b00de54193ed87376b4",
+    "char": "𢅾",
+    "codepoint": "U+2217E",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𢆅": {
+    "_id": "5f523b00de54193ed87376bb",
+    "char": "𢆅",
+    "codepoint": "U+22185",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𢆐": {
+    "_id": "5f523b00de54193ed87376c6",
+    "char": "𢆐",
+    "codepoint": "U+22190",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢆕": {
+    "_id": "5f523b00de54193ed87376cb",
+    "char": "𢆕",
+    "codepoint": "U+22195",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢆖": {
+    "_id": "5f523b00de54193ed87376cc",
+    "char": "𢆖",
+    "codepoint": "U+22196",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢆠": {
+    "_id": "5f523b00de54193ed87376d6",
+    "char": "𢆠",
+    "codepoint": "U+221A0",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢆸": {
+    "_id": "5f523b00de54193ed87376ee",
+    "char": "𢆸",
+    "codepoint": "U+221B8",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢆹": {
+    "_id": "5f523b00de54193ed87376ef",
+    "char": "𢆹",
+    "codepoint": "U+221B9",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇍": {
+    "_id": "5f523b00de54193ed8737703",
+    "char": "𢇍",
+    "codepoint": "U+221CD",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_0.png",
+        "source": "academia-sinica",
+        "description": "前1.24.3(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_1.png",
+        "source": "academia-sinica",
+        "description": "前5.36.7(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_2.png",
+        "source": "academia-sinica",
+        "description": "佚344(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_3.png",
+        "source": "academia-sinica",
+        "description": "前2.8.7(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_4.png",
+        "source": "academia-sinica",
+        "description": "中山王昔壺(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_5.png",
+        "source": "academia-sinica",
+        "description": "曾5(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_6.png",
+        "source": "academia-sinica",
+        "description": "郭.老乙.4(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_7.png",
+        "source": "academia-sinica",
+        "description": "郭.六.29(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_8.png",
+        "source": "academia-sinica",
+        "description": "郭.老甲.1(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_9.png",
+        "source": "academia-sinica",
+        "description": "望2.17(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_10.png",
+        "source": "academia-sinica",
+        "description": "望2.17(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_11.png",
+        "source": "academia-sinica",
+        "description": "上(1).孔.27(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_12.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_13.png",
+        "source": "academia-sinica",
+        "description": "說文‧糸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_14.png",
+        "source": "academia-sinica",
+        "description": "睡.日甲17背(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_15.png",
+        "source": "academia-sinica",
+        "description": "老子甲126(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_16.png",
+        "source": "academia-sinica",
+        "description": "縱橫家書94(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_17.png",
+        "source": "academia-sinica",
+        "description": "精白鏡(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%8D_18.png",
+        "source": "academia-sinica",
+        "description": "魏封孔羨碑(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 354 601 Q 321 602 295 601 Q 263 599 278 616 Q 317 677 355 723 Q 367 737 363 742 Q 361 753 322 772 Q 307 781 291 777 Q 282 774 287 763 Q 311 735 242 622 Q 233 614 221 603 Q 205 592 208 583 Q 213 570 226 557 Q 235 550 247 556 Q 264 566 322 580 Q 330 581 338 581 C 377 583 393 599 354 601 Z",
+            "M 368 473 Q 339 472 303 466 Q 268 457 291 480 Q 324 521 404 605 Q 429 631 450 648 Q 459 655 455 662 Q 446 676 415 689 Q 402 695 393 693 Q 383 690 386 678 Q 387 656 354 601 L 338 581 L 338 580 Q 248 469 221 459 Q 209 451 212 442 Q 213 431 237 418 Q 246 410 260 418 Q 303 443 374 461 C 412 470 407 476 368 473 Z",
+            "M 374 461 Q 390 429 406 425 Q 415 421 426 430 Q 432 438 430 454 Q 421 486 370 510 Q 365 513 360 506 Q 355 500 368 473 L 374 461 Z",
+            "M 651 610 Q 615 612 587 610 Q 564 609 576 622 Q 623 685 667 731 Q 679 742 677 748 Q 675 759 645 780 Q 633 789 618 787 Q 609 786 614 774 Q 626 749 565 655 Q 553 635 525 615 Q 510 604 512 597 Q 516 583 527 572 Q 535 564 545 568 Q 563 579 626 593 Q 631 594 639 594 C 675 596 687 609 651 610 Z",
+            "M 674 497 Q 641 496 600 487 Q 573 479 590 498 Q 714 630 750 651 Q 761 659 756 666 Q 747 682 719 697 Q 704 704 697 703 Q 689 700 690 688 Q 690 668 651 610 L 639 594 Q 638 594 638 593 Q 548 491 522 480 Q 510 473 512 462 Q 512 452 534 437 Q 542 427 557 436 Q 608 466 684 483 C 719 492 710 499 674 497 Z",
+            "M 684 483 Q 713 446 722 445 Q 731 444 738 451 Q 745 460 744 482 Q 740 502 680 532 Q 669 536 663 536 Q 659 535 657 525 Q 657 518 674 497 L 684 483 Z",
+            "M 181 356 Q 193 353 213 354 Q 402 379 807 384 C 845 384 851 385 830 403 Q 821 413 798 427 Q 778 437 736 433 Q 630 423 533 411 L 510 409 Q 336 396 188 391 C 151 390 143 360 181 356 Z",
+            "M 866 628 Q 865 670 874 699 Q 880 708 878 715 Q 871 720 823 738 Q 801 747 785 737 Q 781 735 787 726 Q 811 705 814 683 Q 817 655 820 624 L 823 596 Q 828 461 827 443 Q 811 394 833 367 Q 834 364 837 360 Q 844 351 851 349 Q 857 345 862 350 Q 876 357 880 378 L 880 401 Q 878 423 873 507 L 871 526 Q 871 559 868 601 L 866 628 Z",
+            "M 354 195 Q 321 196 295 195 Q 263 193 278 210 Q 317 271 355 317 Q 367 331 363 336 Q 361 347 322 366 Q 307 375 291 371 Q 282 368 287 357 Q 311 329 242 216 Q 233 208 221 197 Q 205 186 208 177 Q 213 164 226 151 Q 235 144 247 150 Q 264 160 322 174 Q 330 175 338 175 C 377 177 393 193 354 195 Z",
+            "M 368 67 Q 339 66 303 60 Q 268 51 291 74 Q 324 115 404 199 Q 429 225 450 242 Q 459 249 455 256 Q 446 270 415 283 Q 402 289 393 287 Q 383 284 386 272 Q 387 250 354 195 L 338 175 L 338 174 Q 248 63 221 53 Q 209 45 212 36 Q 213 25 237 12 Q 246 4 260 12 Q 303 37 374 55 C 412 64 407 70 368 67 Z",
+            "M 374 55 Q 390 23 406 19 Q 415 15 426 24 Q 432 32 430 48 Q 421 80 370 104 Q 365 107 360 100 Q 355 94 368 67 L 374 55 Z",
+            "M 651 194 Q 615 196 587 194 Q 564 193 576 206 Q 623 269 667 315 Q 679 326 677 332 Q 675 343 645 364 Q 633 373 618 371 Q 609 370 614 358 Q 626 333 565 239 Q 553 219 525 199 Q 510 188 512 181 Q 516 167 527 156 Q 535 148 545 152 Q 563 163 626 177 Q 631 178 639 178 C 675 180 687 193 651 194 Z",
+            "M 674 81 Q 641 80 600 71 Q 573 63 590 82 Q 714 214 750 235 Q 761 243 756 250 Q 747 266 719 281 Q 704 288 697 287 Q 689 284 690 272 Q 690 252 651 194 L 639 178 Q 638 178 638 177 Q 548 75 522 64 Q 510 57 512 46 Q 512 36 534 21 Q 542 11 557 20 Q 608 50 684 67 C 719 76 710 83 674 81 Z",
+            "M 684 67 Q 713 30 722 29 Q 731 28 738 35 Q 745 44 744 66 Q 740 86 680 116 Q 669 120 663 120 Q 659 119 657 109 Q 657 102 674 81 L 684 67 Z",
+            "M 181 -54 Q 193 -57 213 -56 Q 402 -31 807 -26 C 845 -26 851 -25 830 -7 Q 821 3 798 17 Q 778 27 736 23 Q 630 13 533 1 L 510 -1 Q 336 -14 188 -19 C 151 -20 143 -50 181 -54 Z",
+            "M 876 218 Q 875 260 884 289 Q 890 298 888 305 Q 881 310 833 328 Q 811 337 795 327 Q 791 325 797 316 Q 821 295 824 273 Q 827 245 830 214 L 833 186 Q 838 51 837 33 Q 821 -16 843 -43 Q 844 -46 847 -50 Q 854 -59 861 -61 Q 867 -65 872 -60 Q 886 -53 890 -32 L 890 -9 Q 888 13 883 97 L 881 116 Q 881 149 878 191 L 876 218 Z"
+          ],
+          "medians": [
+            [
+              [300.20000000000005, 768.5],
+              [326.20000000000005, 737],
+              [262.5, 628.85],
+              [248.2, 586.85],
+              [332.70000000000005, 590],
+              [343.1, 598.4000000000001]
+            ],
+            [
+              [397.70000000000005, 683.45],
+              [414.6, 656.1500000000001],
+              [354.79999999999995, 573.2],
+              [271.6, 479.75],
+              [269, 462.95000000000005],
+              [283.29999999999995, 452.45],
+              [304.1, 452.45],
+              [362.6, 464]
+            ],
+            [
+              [370.4, 499.70000000000005],
+              [412, 437.75]
+            ],
+            [
+              [625, 778.45],
+              [643, 745.9000000000001],
+              [556.6, 618.85],
+              [555.4, 602.05],
+              [589, 595.75],
+              [634.5999999999999, 602.05],
+              [643, 609.4000000000001]
+            ],
+            [
+              [700.5999999999999, 693.4000000000001],
+              [716.2, 664],
+              [651.4, 582.1],
+              [571, 498.1],
+              [568.6, 481.29999999999995],
+              [580.6, 471.85],
+              [599.8, 471.85],
+              [665.8, 489.70000000000005],
+              [673, 486.54999999999995]
+            ],
+            [
+              [669.4, 526.45],
+              [718.5999999999999, 478.15],
+              [725.8, 456.1]
+            ],
+            [
+              [189.5, 361],
+              [215.75, 374],
+              [654.5, 404],
+              [763.25, 409],
+              [819.5, 402]
+            ],
+            [
+              [795.8, 733.4],
+              [821, 720.8],
+              [841.7, 702.2],
+              [855.2, 357.20000000000005]
+            ],
+            [
+              [300.20000000000005, 362.5],
+              [326.20000000000005, 331],
+              [262.5, 222.85000000000002],
+              [248.2, 180.85000000000002],
+              [332.70000000000005, 184],
+              [343.1, 192.4000000000001]
+            ],
+            [
+              [397.70000000000005, 277.45000000000005],
+              [414.6, 250.1500000000001],
+              [354.79999999999995, 167.20000000000005],
+              [271.6, 73.75],
+              [269, 56.950000000000045],
+              [283.29999999999995, 46.44999999999999],
+              [304.1, 46.44999999999999],
+              [362.6, 58]
+            ],
+            [
+              [370.4, 93.70000000000005],
+              [412, 31.75]
+            ],
+            [
+              [625, 362.45000000000005],
+              [643, 329.9000000000001],
+              [556.6, 202.85000000000002],
+              [555.4, 186.04999999999995],
+              [589, 179.75],
+              [634.5999999999999, 186.04999999999995],
+              [643, 193.4000000000001]
+            ],
+            [
+              [700.5999999999999, 277.4000000000001],
+              [716.2, 248],
+              [651.4, 166.10000000000002],
+              [571, 82.10000000000002],
+              [568.6, 65.29999999999995],
+              [580.6, 55.85000000000002],
+              [599.8, 55.85000000000002],
+              [665.8, 73.70000000000005],
+              [673, 70.54999999999995]
+            ],
+            [
+              [669.4, 110.45000000000005],
+              [718.5999999999999, 62.14999999999998],
+              [725.8, 40.10000000000002]
+            ],
+            [
+              [189.5, -49],
+              [215.75, -36],
+              [654.5, -6],
+              [763.25, -1],
+              [819.5, -8]
+            ],
+            [
+              [805.8, 323.4],
+              [831, 310.79999999999995],
+              [851.7, 292.20000000000005],
+              [865.2, -52.79999999999998]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 3, 4, 5],
+          [8, 9, 10, 11, 12, 13],
+          [6, 7, 14, 15]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“絕，斷絲也。从糸，从刀，从卩。，古文絕，象不連體，絕二絲。”",
+    "variants": [
+      { "char": "絕", "parts": "糹", "source": "academia-sinica" },
+      { "char": "糿", "parts": "糹刀", "source": "academia-sinica" },
+      { "char": "", "parts": "索刂", "source": "academia-sinica" }
+    ],
+    "components": [
+      { "character": "𢆶", "type": ["iconic"] },
+      { "character": "𢆶", "type": ["iconic"] },
+      { "character": "刀", "type": ["iconic"], "isGlyphChanged": true }
+    ],
+    "data": {
+      "strokes": [
+        "M 354 601 Q 321 602 295 601 Q 263 599 278 616 Q 317 677 355 723 Q 367 737 363 742 Q 361 753 322 772 Q 307 781 291 777 Q 282 774 287 763 Q 311 735 242 622 Q 233 614 221 603 Q 205 592 208 583 Q 213 570 226 557 Q 235 550 247 556 Q 264 566 322 580 Q 330 581 338 581 C 377 583 393 599 354 601 Z",
+        "M 368 473 Q 339 472 303 466 Q 268 457 291 480 Q 324 521 404 605 Q 429 631 450 648 Q 459 655 455 662 Q 446 676 415 689 Q 402 695 393 693 Q 383 690 386 678 Q 387 656 354 601 L 338 581 L 338 580 Q 248 469 221 459 Q 209 451 212 442 Q 213 431 237 418 Q 246 410 260 418 Q 303 443 374 461 C 412 470 407 476 368 473 Z",
+        "M 374 461 Q 390 429 406 425 Q 415 421 426 430 Q 432 438 430 454 Q 421 486 370 510 Q 365 513 360 506 Q 355 500 368 473 L 374 461 Z",
+        "M 651 610 Q 615 612 587 610 Q 564 609 576 622 Q 623 685 667 731 Q 679 742 677 748 Q 675 759 645 780 Q 633 789 618 787 Q 609 786 614 774 Q 626 749 565 655 Q 553 635 525 615 Q 510 604 512 597 Q 516 583 527 572 Q 535 564 545 568 Q 563 579 626 593 Q 631 594 639 594 C 675 596 687 609 651 610 Z",
+        "M 674 497 Q 641 496 600 487 Q 573 479 590 498 Q 714 630 750 651 Q 761 659 756 666 Q 747 682 719 697 Q 704 704 697 703 Q 689 700 690 688 Q 690 668 651 610 L 639 594 Q 638 594 638 593 Q 548 491 522 480 Q 510 473 512 462 Q 512 452 534 437 Q 542 427 557 436 Q 608 466 684 483 C 719 492 710 499 674 497 Z",
+        "M 684 483 Q 713 446 722 445 Q 731 444 738 451 Q 745 460 744 482 Q 740 502 680 532 Q 669 536 663 536 Q 659 535 657 525 Q 657 518 674 497 L 684 483 Z",
+        "M 181 356 Q 193 353 213 354 Q 402 379 807 384 C 845 384 851 385 830 403 Q 821 413 798 427 Q 778 437 736 433 Q 630 423 533 411 L 510 409 Q 336 396 188 391 C 151 390 143 360 181 356 Z",
+        "M 866 628 Q 865 670 874 699 Q 880 708 878 715 Q 871 720 823 738 Q 801 747 785 737 Q 781 735 787 726 Q 811 705 814 683 Q 817 655 820 624 L 823 596 Q 828 461 827 443 Q 811 394 833 367 Q 834 364 837 360 Q 844 351 851 349 Q 857 345 862 350 Q 876 357 880 378 L 880 401 Q 878 423 873 507 L 871 526 Q 871 559 868 601 L 866 628 Z",
+        "M 354 195 Q 321 196 295 195 Q 263 193 278 210 Q 317 271 355 317 Q 367 331 363 336 Q 361 347 322 366 Q 307 375 291 371 Q 282 368 287 357 Q 311 329 242 216 Q 233 208 221 197 Q 205 186 208 177 Q 213 164 226 151 Q 235 144 247 150 Q 264 160 322 174 Q 330 175 338 175 C 377 177 393 193 354 195 Z",
+        "M 368 67 Q 339 66 303 60 Q 268 51 291 74 Q 324 115 404 199 Q 429 225 450 242 Q 459 249 455 256 Q 446 270 415 283 Q 402 289 393 287 Q 383 284 386 272 Q 387 250 354 195 L 338 175 L 338 174 Q 248 63 221 53 Q 209 45 212 36 Q 213 25 237 12 Q 246 4 260 12 Q 303 37 374 55 C 412 64 407 70 368 67 Z",
+        "M 374 55 Q 390 23 406 19 Q 415 15 426 24 Q 432 32 430 48 Q 421 80 370 104 Q 365 107 360 100 Q 355 94 368 67 L 374 55 Z",
+        "M 651 194 Q 615 196 587 194 Q 564 193 576 206 Q 623 269 667 315 Q 679 326 677 332 Q 675 343 645 364 Q 633 373 618 371 Q 609 370 614 358 Q 626 333 565 239 Q 553 219 525 199 Q 510 188 512 181 Q 516 167 527 156 Q 535 148 545 152 Q 563 163 626 177 Q 631 178 639 178 C 675 180 687 193 651 194 Z",
+        "M 674 81 Q 641 80 600 71 Q 573 63 590 82 Q 714 214 750 235 Q 761 243 756 250 Q 747 266 719 281 Q 704 288 697 287 Q 689 284 690 272 Q 690 252 651 194 L 639 178 Q 638 178 638 177 Q 548 75 522 64 Q 510 57 512 46 Q 512 36 534 21 Q 542 11 557 20 Q 608 50 684 67 C 719 76 710 83 674 81 Z",
+        "M 684 67 Q 713 30 722 29 Q 731 28 738 35 Q 745 44 744 66 Q 740 86 680 116 Q 669 120 663 120 Q 659 119 657 109 Q 657 102 674 81 L 684 67 Z",
+        "M 181 -54 Q 193 -57 213 -56 Q 402 -31 807 -26 C 845 -26 851 -25 830 -7 Q 821 3 798 17 Q 778 27 736 23 Q 630 13 533 1 L 510 -1 Q 336 -14 188 -19 C 151 -20 143 -50 181 -54 Z",
+        "M 876 218 Q 875 260 884 289 Q 890 298 888 305 Q 881 310 833 328 Q 811 337 795 327 Q 791 325 797 316 Q 821 295 824 273 Q 827 245 830 214 L 833 186 Q 838 51 837 33 Q 821 -16 843 -43 Q 844 -46 847 -50 Q 854 -59 861 -61 Q 867 -65 872 -60 Q 886 -53 890 -32 L 890 -9 Q 888 13 883 97 L 881 116 Q 881 149 878 191 L 876 218 Z"
+      ],
+      "medians": [
+        [
+          [300.20000000000005, 768.5],
+          [326.20000000000005, 737],
+          [262.5, 628.85],
+          [248.2, 586.85],
+          [332.70000000000005, 590],
+          [343.1, 598.4000000000001]
+        ],
+        [
+          [397.70000000000005, 683.45],
+          [414.6, 656.1500000000001],
+          [354.79999999999995, 573.2],
+          [271.6, 479.75],
+          [269, 462.95000000000005],
+          [283.29999999999995, 452.45],
+          [304.1, 452.45],
+          [362.6, 464]
+        ],
+        [
+          [370.4, 499.70000000000005],
+          [412, 437.75]
+        ],
+        [
+          [625, 778.45],
+          [643, 745.9000000000001],
+          [556.6, 618.85],
+          [555.4, 602.05],
+          [589, 595.75],
+          [634.5999999999999, 602.05],
+          [643, 609.4000000000001]
+        ],
+        [
+          [700.5999999999999, 693.4000000000001],
+          [716.2, 664],
+          [651.4, 582.1],
+          [571, 498.1],
+          [568.6, 481.29999999999995],
+          [580.6, 471.85],
+          [599.8, 471.85],
+          [665.8, 489.70000000000005],
+          [673, 486.54999999999995]
+        ],
+        [
+          [669.4, 526.45],
+          [718.5999999999999, 478.15],
+          [725.8, 456.1]
+        ],
+        [
+          [189.5, 361],
+          [215.75, 374],
+          [654.5, 404],
+          [763.25, 409],
+          [819.5, 402]
+        ],
+        [
+          [795.8, 733.4],
+          [821, 720.8],
+          [841.7, 702.2],
+          [855.2, 357.20000000000005]
+        ],
+        [
+          [300.20000000000005, 362.5],
+          [326.20000000000005, 331],
+          [262.5, 222.85000000000002],
+          [248.2, 180.85000000000002],
+          [332.70000000000005, 184],
+          [343.1, 192.4000000000001]
+        ],
+        [
+          [397.70000000000005, 277.45000000000005],
+          [414.6, 250.1500000000001],
+          [354.79999999999995, 167.20000000000005],
+          [271.6, 73.75],
+          [269, 56.950000000000045],
+          [283.29999999999995, 46.44999999999999],
+          [304.1, 46.44999999999999],
+          [362.6, 58]
+        ],
+        [
+          [370.4, 93.70000000000005],
+          [412, 31.75]
+        ],
+        [
+          [625, 362.45000000000005],
+          [643, 329.9000000000001],
+          [556.6, 202.85000000000002],
+          [555.4, 186.04999999999995],
+          [589, 179.75],
+          [634.5999999999999, 186.04999999999995],
+          [643, 193.4000000000001]
+        ],
+        [
+          [700.5999999999999, 277.4000000000001],
+          [716.2, 248],
+          [651.4, 166.10000000000002],
+          [571, 82.10000000000002],
+          [568.6, 65.29999999999995],
+          [580.6, 55.85000000000002],
+          [599.8, 55.85000000000002],
+          [665.8, 73.70000000000005],
+          [673, 70.54999999999995]
+        ],
+        [
+          [669.4, 110.45000000000005],
+          [718.5999999999999, 62.14999999999998],
+          [725.8, 40.10000000000002]
+        ],
+        [
+          [189.5, -49],
+          [215.75, -36],
+          [654.5, -6],
+          [763.25, -1],
+          [819.5, -8]
+        ],
+        [
+          [805.8, 323.4],
+          [831, 310.79999999999995],
+          [851.7, 292.20000000000005],
+          [865.2, -52.79999999999998]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]],
+    "gloss": "cut",
+    "hint": "Archaic variant of 絕.",
+    "isVerified": true,
+    "oldPronunciations": [],
+    "variantOf": ""
+  },
+  "𢇧": {
+    "_id": "5f523b00de54193ed873771d",
+    "char": "𢇧",
+    "codepoint": "U+221E7",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢄐": {
+    "_id": "5f523b00de54193ed8737646",
+    "char": "𢄐",
+    "codepoint": "U+22110",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%90_1.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡15.91(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "shuowen": "《說文》：“，蓋衣也。从巾，冡聲。”",
+    "variants": [{ "char": "𢄐", "parts": "巾冡", "source": "academia-sinica" }]
+  },
+  "𢄖": {
+    "_id": "5f523b00de54193ed873764c",
+    "char": "𢄖",
+    "codepoint": "U+22116",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢅀": {
+    "_id": "5f523b00de54193ed8737676",
+    "char": "𢅀",
+    "codepoint": "U+22140",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅘": {
+    "_id": "5f523b00de54193ed873768e",
+    "char": "𢅘",
+    "codepoint": "U+22158",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅽": {
+    "_id": "5f523b00de54193ed87376b3",
+    "char": "𢅽",
+    "codepoint": "U+2217D",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%BD_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“幖，幟也。从巾，聲。”",
+    "variants": [{ "char": "幖", "parts": "巾票", "source": "academia-sinica" }]
+  },
+  "𢆦": {
+    "_id": "5f523b00de54193ed87376dc",
+    "char": "𢆦",
+    "codepoint": "U+221A6",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢇰": {
+    "_id": "5f523b00de54193ed8737726",
+    "char": "𢇰",
+    "codepoint": "U+221F0",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇺": {
+    "_id": "5f523b00de54193ed8737730",
+    "char": "𢇺",
+    "codepoint": "U+221FA",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄆": {
+    "_id": "5f523b00de54193ed873763c",
+    "char": "𢄆",
+    "codepoint": "U+22106",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄇": {
+    "_id": "5f523b00de54193ed873763d",
+    "char": "𢄇",
+    "codepoint": "U+22107",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄑": {
+    "_id": "5f523b00de54193ed8737647",
+    "char": "𢄑",
+    "codepoint": "U+22111",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄔": {
+    "_id": "5f523b00de54193ed873764a",
+    "char": "𢄔",
+    "codepoint": "U+22114",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄙": {
+    "_id": "5f523b00de54193ed873764f",
+    "char": "𢄙",
+    "codepoint": "U+22119",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄬": {
+    "_id": "5f523b00de54193ed8737662",
+    "char": "𢄬",
+    "codepoint": "U+2212C",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄭": {
+    "_id": "5f523b00de54193ed8737663",
+    "char": "𢄭",
+    "codepoint": "U+2212D",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄰": {
+    "_id": "5f523b00de54193ed8737666",
+    "char": "𢄰",
+    "codepoint": "U+22130",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄱": {
+    "_id": "5f523b00de54193ed8737667",
+    "char": "𢄱",
+    "codepoint": "U+22131",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢅊": {
+    "_id": "5f523b00de54193ed8737680",
+    "char": "𢅊",
+    "codepoint": "U+2214A",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅝": {
+    "_id": "5f523b00de54193ed8737693",
+    "char": "𢅝",
+    "codepoint": "U+2215D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅦": {
+    "_id": "5f523b00de54193ed873769c",
+    "char": "𢅦",
+    "codepoint": "U+22166",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢆇": {
+    "_id": "5f523b00de54193ed87376bd",
+    "char": "𢆇",
+    "codepoint": "U+22187",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𢆋": {
+    "_id": "5f523b00de54193ed87376c1",
+    "char": "𢆋",
+    "codepoint": "U+2218B",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢆛": {
+    "_id": "5f523b00de54193ed87376d1",
+    "char": "𢆛",
+    "codepoint": "U+2219B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢆜": {
+    "_id": "5f523b00de54193ed87376d2",
+    "char": "𢆜",
+    "codepoint": "U+2219C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢆢": {
+    "_id": "5f523b00de54193ed87376d8",
+    "char": "𢆢",
+    "codepoint": "U+221A2",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢆳": {
+    "_id": "5f523b00de54193ed87376e9",
+    "char": "𢆳",
+    "codepoint": "U+221B3",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𢆾": {
+    "_id": "5f523b00de54193ed87376f4",
+    "char": "𢆾",
+    "codepoint": "U+221BE",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇉": {
+    "_id": "5f523b00de54193ed87376ff",
+    "char": "𢇉",
+    "codepoint": "U+221C9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𢇫": {
+    "_id": "5f523b00de54193ed8737721",
+    "char": "𢇫",
+    "codepoint": "U+221EB",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇻": {
+    "_id": "5f523b00de54193ed8737731",
+    "char": "𢇻",
+    "codepoint": "U+221FB",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄉": {
+    "_id": "5f523b00de54193ed873763f",
+    "char": "𢄉",
+    "codepoint": "U+22109",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_0.png",
+        "source": "academia-sinica",
+        "description": "甲1945(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_1.png",
+        "source": "academia-sinica",
+        "description": "前3.31.1(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_2.png",
+        "source": "academia-sinica",
+        "description": "師友2.207(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_3.png",
+        "source": "academia-sinica",
+        "description": "士上卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_4.png",
+        "source": "academia-sinica",
+        "description": "亞豚作父乙鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_5.png",
+        "source": "academia-sinica",
+        "description": "說文‧豚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_6.png",
+        "source": "academia-sinica",
+        "description": "說文篆文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_7.png",
+        "source": "academia-sinica",
+        "description": "睡.日甲80背(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_8.png",
+        "source": "academia-sinica",
+        "description": "老子甲後407(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_9.png",
+        "source": "academia-sinica",
+        "description": "一號墓竹簡5(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%89_10.png",
+        "source": "academia-sinica",
+        "description": "長沙砂子塘西漢墓木封泥匣(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小豕也。从彖省，象形。从又持肉，以給祠祀。豚，篆文从肉、豕。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "邵瑛羣經正字：“今經典从篆文作豚。”按：甲骨文從豕從肉，金文增“又”。《說文》正篆與金文同，小篆省作“豚”，與甲文同。"
+      }
+    ],
+    "variants": [
+      { "char": "豚", "parts": "豕", "source": "academia-sinica" },
+      { "char": "", "parts": "豚又", "source": "academia-sinica" }
+    ],
+    "gloss": "young pig",
+    "oldPronunciations": null
+  },
+  "𢄢": {
+    "_id": "5f523b00de54193ed8737658",
+    "char": "𢄢",
+    "codepoint": "U+22122",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A2_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，禮巾也。从巾，从執。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“篆體二徐皆作𢄢。大徐曰从執，小徐曰執聲，皆誤。今正。”"
+      }
+    ],
+    "variants": [{ "char": "𢄢", "parts": "埶巾", "source": "academia-sinica" }]
+  },
+  "𢄹": {
+    "_id": "5f523b00de54193ed873766f",
+    "char": "𢄹",
+    "codepoint": "U+22139",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅑": {
+    "_id": "5f523b00de54193ed8737687",
+    "char": "𢅑",
+    "codepoint": "U+22151",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅛": {
+    "_id": "5f523b00de54193ed8737691",
+    "char": "𢅛",
+    "codepoint": "U+2215B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅠": {
+    "_id": "5f523b00de54193ed8737696",
+    "char": "𢅠",
+    "codepoint": "U+22160",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅤": {
+    "_id": "5f523b00de54193ed873769a",
+    "char": "𢅤",
+    "codepoint": "U+22164",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𢅲": {
+    "_id": "5f523b00de54193ed87376a8",
+    "char": "𢅲",
+    "codepoint": "U+22172",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢅳": {
+    "_id": "5f523b00de54193ed87376a9",
+    "char": "𢅳",
+    "codepoint": "U+22173",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆂": {
+    "_id": "5f523b00de54193ed87376b8",
+    "char": "𢆂",
+    "codepoint": "U+22182",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𢆄": {
+    "_id": "5f523b00de54193ed87376ba",
+    "char": "𢆄",
+    "codepoint": "U+22184",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𢆮": {
+    "_id": "5f523b00de54193ed87376e4",
+    "char": "𢆮",
+    "codepoint": "U+221AE",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𢆯": {
+    "_id": "5f523b00de54193ed87376e5",
+    "char": "𢆯",
+    "codepoint": "U+221AF",
+    "strokeCount": 4,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_0.png",
+        "source": "academia-sinica",
+        "description": "乙124(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_1.png",
+        "source": "academia-sinica",
+        "description": "京津4487(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_2.png",
+        "source": "academia-sinica",
+        "description": "乙6733(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_3.png",
+        "source": "academia-sinica",
+        "description": "存80(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_4.png",
+        "source": "academia-sinica",
+        "description": "子糸爵(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_5.png",
+        "source": "academia-sinica",
+        "description": "子父癸鼎(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_6.png",
+        "source": "academia-sinica",
+        "description": "系父壬爵(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_7.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_8.png",
+        "source": "academia-sinica",
+        "description": "說文‧糸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_9.png",
+        "source": "academia-sinica",
+        "description": "居延簡甲270(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_10.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%AF_11.png",
+        "source": "academia-sinica",
+        "description": "武威醫簡10(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“糸，細絲也。象束絲之形。讀若覛。，古文糸。”",
+    "variants": [{ "char": "糸", "parts": "糸", "source": "academia-sinica" }]
+  },
+  "𢇇": {
+    "_id": "5f523b00de54193ed87376fd",
+    "char": "𢇇",
+    "codepoint": "U+221C7",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode", "dong-chinese"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%87_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧絲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 352 559 Q 305 559 263 556 Q 241 556 253 569 Q 304 634 350 680 Q 365 695 364 701 Q 362 715 329 746 Q 316 760 299 758 Q 289 757 293 742 Q 302 709 235 607 Q 220 584 193 565 Q 175 551 176 541 Q 178 523 191 505 Q 202 494 214 502 Q 241 515 332 535 C 376 544 397 559 352 559 Z",
+            "M 412 455 Q 353 446 287 427 Q 272 422 281 434 Q 409 571 457 601 Q 467 610 464 619 Q 458 637 430 656 Q 416 667 407 665 Q 398 664 398 649 Q 398 622 352 559 L 332 535 Q 236 430 212 416 Q 199 410 200 397 Q 202 386 223 367 Q 232 356 245 365 Q 319 415 418 439 C 461 449 457 463 412 455 Z",
+            "M 418 439 Q 424 401 448 388 Q 458 382 469 394 Q 475 404 475 424 Q 470 470 415 508 Q 409 512 403 503 Q 397 494 412 455 L 418 439 Z",
+            "M 655 608 Q 613 610 577 608 Q 548 608 562 626 Q 604 682 641 722 Q 655 737 653 745 Q 652 758 616 788 Q 602 799 586 797 Q 575 796 580 781 Q 593 749 536 655 Q 526 635 503 617 Q 485 604 487 593 Q 491 575 503 559 Q 512 548 524 556 Q 547 566 625 584 Q 631 586 637 584 C 682 584 700 607 655 608 Z",
+            "M 745 500 Q 685 496 616 481 Q 584 472 605 496 Q 709 608 766 650 Q 781 659 775 670 Q 766 689 733 712 Q 718 722 707 721 Q 697 719 698 703 Q 698 676 655 608 L 637 584 Q 547 485 524 473 Q 509 467 511 451 Q 512 437 536 415 Q 547 401 563 413 Q 653 464 755 479 C 800 487 790 505 745 500 Z",
+            "M 755 479 Q 764 448 793 434 Q 803 428 817 445 Q 823 458 820 481 Q 815 503 791 521 Q 758 554 742 563 Q 733 568 728 557 Q 724 551 745 500 L 755 479 Z",
+            "M 382 224 Q 376 226 370 223 Q 275 200 269 203 Q 268 205 268 217 Q 290 275 289 280 Q 280 298 253 319 Q 238 329 229 329 Q 215 328 223 310 Q 233 281 224 241 Q 218 209 206 196 Q 196 176 203 152 Q 217 128 236 136 Q 278 158 370 194 Q 371 196 377 197 C 419 214 427 227 382 224 Z",
+            "M 377 197 Q 337 80 238 16 Q 214 5 181 -13 Q 157 -26 185 -26 Q 230 -31 311 14 Q 416 68 452 277 Q 457 299 461 308 Q 467 314 463 326 Q 457 332 428 346 Q 395 361 379 355 Q 368 349 377 334 Q 391 289 382 224 L 377 197 Z",
+            "M 620 256 Q 622 337 622 340 Q 598 362 577 371 Q 563 376 554 368 Q 548 364 554 353 Q 577 313 554 82 Q 553 80 553 76 Q 544 -41 593 -76 Q 607 -77 611 -62 Q 626 -29 622 4 Q 620 118 619 212 L 620 256 Z",
+            "M 764 281 Q 775 310 784 338 Q 788 349 793 356 Q 794 362 799 367 Q 803 376 790 391 Q 766 410 745 419 Q 734 425 725 419 Q 719 413 722 400 Q 731 382 719 284 C 713 239 749 239 764 281 Z",
+            "M 619 212 Q 668 226 787 238 Q 800 239 800 251 Q 800 260 764 281 C 746 292 746 292 719 284 Q 718 284 620 256 C 577 244 575 200 619 212 Z"
+          ],
+          "medians": [
+            [
+              [305, 746],
+              [323, 702.5],
+              [230, 570.5],
+              [225.5, 545],
+              [263, 536],
+              [329, 546.5],
+              [339.5, 558.5]
+            ],
+            [
+              [410, 653],
+              [422, 615.5],
+              [344, 519.5],
+              [288.5, 468.5],
+              [284, 453.5],
+              [272, 450.5],
+              [258.5, 410],
+              [287, 407],
+              [342.5, 431],
+              [404, 443]
+            ],
+            [
+              [411.5, 497],
+              [453.5, 405.5]
+            ],
+            [
+              [593, 785],
+              [614, 743],
+              [546.5, 638],
+              [537.5, 599],
+              [579.5, 588.5],
+              [633.5, 596],
+              [644, 606.5]
+            ],
+            [
+              [711.5, 707],
+              [725, 662],
+              [593, 513.5],
+              [579.5, 491],
+              [578, 465.5],
+              [605, 458],
+              [743, 486.5]
+            ],
+            [
+              [738.5, 552.5],
+              [798.5, 452]
+            ],
+            [
+              [231.5, 317],
+              [257, 269],
+              [240.5, 179],
+              [303.5, 186.5],
+              [375.5, 218]
+            ],
+            [
+              [386, 344],
+              [420.5, 308],
+              [420.5, 294.5],
+              [410, 209],
+              [384.5, 138.5],
+              [342.5, 72.5],
+              [288.5, 24.5],
+              [245, -1],
+              [192.5, -16]
+            ],
+            [
+              [566, 360.5],
+              [585.5, 339.5],
+              [594.5, 305],
+              [584, 57.5],
+              [596, -61]
+            ],
+            [
+              [735.5, 407],
+              [761, 369.5],
+              [750.5, 317],
+              [731, 300.5]
+            ],
+            [
+              [623, 222.5],
+              [642.5, 243.5],
+              [699.5, 254],
+              [750.5, 258.5],
+              [786.5, 251]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 3, 4, 5],
+          [6, 7, 8, 9, 10]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“，織絹从〔以〕糸貫杼也。从絲省，北聲。”",
+    "variants": [{ "char": "𢇇", "parts": "𢆶丱", "source": "academia-sinica" }],
+    "gloss": "to run threads through a web in weaving",
+    "components": [
+      { "character": "𢆶", "type": ["meaning"] },
+      { "character": "丱", "type": ["sound"] }
+    ],
+    "hint": "Phonosematic compound. 𢆶 represents the meaning and 丱 represents the sound.",
+    "statistics": { "hskLevel": 10 },
+    "data": {
+      "strokes": [
+        "M 352 559 Q 305 559 263 556 Q 241 556 253 569 Q 304 634 350 680 Q 365 695 364 701 Q 362 715 329 746 Q 316 760 299 758 Q 289 757 293 742 Q 302 709 235 607 Q 220 584 193 565 Q 175 551 176 541 Q 178 523 191 505 Q 202 494 214 502 Q 241 515 332 535 C 376 544 397 559 352 559 Z",
+        "M 412 455 Q 353 446 287 427 Q 272 422 281 434 Q 409 571 457 601 Q 467 610 464 619 Q 458 637 430 656 Q 416 667 407 665 Q 398 664 398 649 Q 398 622 352 559 L 332 535 Q 236 430 212 416 Q 199 410 200 397 Q 202 386 223 367 Q 232 356 245 365 Q 319 415 418 439 C 461 449 457 463 412 455 Z",
+        "M 418 439 Q 424 401 448 388 Q 458 382 469 394 Q 475 404 475 424 Q 470 470 415 508 Q 409 512 403 503 Q 397 494 412 455 L 418 439 Z",
+        "M 655 608 Q 613 610 577 608 Q 548 608 562 626 Q 604 682 641 722 Q 655 737 653 745 Q 652 758 616 788 Q 602 799 586 797 Q 575 796 580 781 Q 593 749 536 655 Q 526 635 503 617 Q 485 604 487 593 Q 491 575 503 559 Q 512 548 524 556 Q 547 566 625 584 Q 631 586 637 584 C 682 584 700 607 655 608 Z",
+        "M 745 500 Q 685 496 616 481 Q 584 472 605 496 Q 709 608 766 650 Q 781 659 775 670 Q 766 689 733 712 Q 718 722 707 721 Q 697 719 698 703 Q 698 676 655 608 L 637 584 Q 547 485 524 473 Q 509 467 511 451 Q 512 437 536 415 Q 547 401 563 413 Q 653 464 755 479 C 800 487 790 505 745 500 Z",
+        "M 755 479 Q 764 448 793 434 Q 803 428 817 445 Q 823 458 820 481 Q 815 503 791 521 Q 758 554 742 563 Q 733 568 728 557 Q 724 551 745 500 L 755 479 Z",
+        "M 382 224 Q 376 226 370 223 Q 275 200 269 203 Q 268 205 268 217 Q 290 275 289 280 Q 280 298 253 319 Q 238 329 229 329 Q 215 328 223 310 Q 233 281 224 241 Q 218 209 206 196 Q 196 176 203 152 Q 217 128 236 136 Q 278 158 370 194 Q 371 196 377 197 C 419 214 427 227 382 224 Z",
+        "M 377 197 Q 337 80 238 16 Q 214 5 181 -13 Q 157 -26 185 -26 Q 230 -31 311 14 Q 416 68 452 277 Q 457 299 461 308 Q 467 314 463 326 Q 457 332 428 346 Q 395 361 379 355 Q 368 349 377 334 Q 391 289 382 224 L 377 197 Z",
+        "M 620 256 Q 622 337 622 340 Q 598 362 577 371 Q 563 376 554 368 Q 548 364 554 353 Q 577 313 554 82 Q 553 80 553 76 Q 544 -41 593 -76 Q 607 -77 611 -62 Q 626 -29 622 4 Q 620 118 619 212 L 620 256 Z",
+        "M 764 281 Q 775 310 784 338 Q 788 349 793 356 Q 794 362 799 367 Q 803 376 790 391 Q 766 410 745 419 Q 734 425 725 419 Q 719 413 722 400 Q 731 382 719 284 C 713 239 749 239 764 281 Z",
+        "M 619 212 Q 668 226 787 238 Q 800 239 800 251 Q 800 260 764 281 C 746 292 746 292 719 284 Q 718 284 620 256 C 577 244 575 200 619 212 Z"
+      ],
+      "medians": [
+        [
+          [305, 746],
+          [323, 702.5],
+          [230, 570.5],
+          [225.5, 545],
+          [263, 536],
+          [329, 546.5],
+          [339.5, 558.5]
+        ],
+        [
+          [410, 653],
+          [422, 615.5],
+          [344, 519.5],
+          [288.5, 468.5],
+          [284, 453.5],
+          [272, 450.5],
+          [258.5, 410],
+          [287, 407],
+          [342.5, 431],
+          [404, 443]
+        ],
+        [
+          [411.5, 497],
+          [453.5, 405.5]
+        ],
+        [
+          [593, 785],
+          [614, 743],
+          [546.5, 638],
+          [537.5, 599],
+          [579.5, 588.5],
+          [633.5, 596],
+          [644, 606.5]
+        ],
+        [
+          [711.5, 707],
+          [725, 662],
+          [593, 513.5],
+          [579.5, 491],
+          [578, 465.5],
+          [605, 458],
+          [743, 486.5]
+        ],
+        [
+          [738.5, 552.5],
+          [798.5, 452]
+        ],
+        [
+          [231.5, 317],
+          [257, 269],
+          [240.5, 179],
+          [303.5, 186.5],
+          [375.5, 218]
+        ],
+        [
+          [386, 344],
+          [420.5, 308],
+          [420.5, 294.5],
+          [410, 209],
+          [384.5, 138.5],
+          [342.5, 72.5],
+          [288.5, 24.5],
+          [245, -1],
+          [192.5, -16]
+        ],
+        [
+          [566, 360.5],
+          [585.5, 339.5],
+          [594.5, 305],
+          [584, 57.5],
+          [596, -61]
+        ],
+        [
+          [735.5, 407],
+          [761, 369.5],
+          [750.5, 317],
+          [731, 300.5]
+        ],
+        [
+          [623, 222.5],
+          [642.5, 243.5],
+          [699.5, 254],
+          [750.5, 258.5],
+          [786.5, 251]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]],
+    "isVerified": true,
+    "customSources": ["Zhengzhang Shangfang"],
+    "oldPronunciations": [
+      { "OC": "*kroːn", "MC": "kˠuan", "pinyin": "guān", "gloss": "run threads through a web" }
+    ]
+  },
+  "𢇊": {
+    "_id": "5f523b00de54193ed8737700",
+    "char": "𢇊",
+    "codepoint": "U+221CA",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢇌": {
+    "_id": "5f523b00de54193ed8737702",
+    "char": "𢇌",
+    "codepoint": "U+221CC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢇝": {
+    "_id": "5f523b00de54193ed8737713",
+    "char": "𢇝",
+    "codepoint": "U+221DD",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇡": {
+    "_id": "5f523b00de54193ed8737717",
+    "char": "𢇡",
+    "codepoint": "U+221E1",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇪": {
+    "_id": "5f523b00de54193ed8737720",
+    "char": "𢇪",
+    "codepoint": "U+221EA",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇱": {
+    "_id": "5f523b00de54193ed8737727",
+    "char": "𢇱",
+    "codepoint": "U+221F1",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢄄": {
+    "_id": "5f523b00de54193ed873763a",
+    "char": "𢄄",
+    "codepoint": "U+22104",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄎": {
+    "_id": "5f523b00de54193ed8737644",
+    "char": "𢄎",
+    "codepoint": "U+2210E",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄏": {
+    "_id": "5f523b00de54193ed8737645",
+    "char": "𢄏",
+    "codepoint": "U+2210F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄗": {
+    "_id": "5f523b00de54193ed873764d",
+    "char": "𢄗",
+    "codepoint": "U+22117",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄞": {
+    "_id": "5f523b00de54193ed8737654",
+    "char": "𢄞",
+    "codepoint": "U+2211E",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢅙": {
+    "_id": "5f523b00de54193ed873768f",
+    "char": "𢅙",
+    "codepoint": "U+22159",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%99_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%99_1.png",
+        "source": "academia-sinica",
+        "description": "常樂衛士飯幘(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%99_2.png",
+        "source": "academia-sinica",
+        "description": "武榮碑闕(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“幘，髮有巾曰幘。从巾，責聲。”",
+    "variants": [{ "char": "幘", "parts": "巾責", "source": "academia-sinica" }]
+  },
+  "𢅭": {
+    "_id": "5f523b00de54193ed87376a3",
+    "char": "𢅭",
+    "codepoint": "U+2216D",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢅸": {
+    "_id": "5f523b00de54193ed87376ae",
+    "char": "𢅸",
+    "codepoint": "U+22178",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𢆌": {
+    "_id": "5f523b00de54193ed87376c2",
+    "char": "𢆌",
+    "codepoint": "U+2218C",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢆥": {
+    "_id": "5f523b00de54193ed87376db",
+    "char": "𢆥",
+    "codepoint": "U+221A5",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢆨": {
+    "_id": "5f523b00de54193ed87376de",
+    "char": "𢆨",
+    "codepoint": "U+221A8",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢆪": {
+    "_id": "5f523b00de54193ed87376e0",
+    "char": "𢆪",
+    "codepoint": "U+221AA",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢇀": {
+    "_id": "5f523b00de54193ed87376f6",
+    "char": "𢇀",
+    "codepoint": "U+221C0",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢇳": {
+    "_id": "5f523b00de54193ed8737729",
+    "char": "𢇳",
+    "codepoint": "U+221F3",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇶": {
+    "_id": "5f523b00de54193ed873772c",
+    "char": "𢇶",
+    "codepoint": "U+221F6",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇷": {
+    "_id": "5f523b00de54193ed873772d",
+    "char": "𢇷",
+    "codepoint": "U+221F7",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%B7_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧广部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，舍也。从广，犮聲。《詩》曰：‘召伯所。’”",
+    "variants": [{ "char": "𢇷", "parts": "广犮", "source": "academia-sinica" }]
+  },
+  "𢄸": {
+    "_id": "5f523b00de54193ed873766e",
+    "char": "𢄸",
+    "codepoint": "U+22138",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅃": {
+    "_id": "5f523b00de54193ed8737679",
+    "char": "𢅃",
+    "codepoint": "U+22143",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅈": {
+    "_id": "5f523b00de54193ed873767e",
+    "char": "𢅈",
+    "codepoint": "U+22148",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅉": {
+    "_id": "5f523b00de54193ed873767f",
+    "char": "𢅉",
+    "codepoint": "U+22149",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅖": {
+    "_id": "5f523b00de54193ed873768c",
+    "char": "𢅖",
+    "codepoint": "U+22156",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "curtain"
+  },
+  "𢅡": {
+    "_id": "5f523b00de54193ed8737697",
+    "char": "𢅡",
+    "codepoint": "U+22161",
+    "strokeCount": 17,
+    "simpVariants": ["𫷌"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%A1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，楚謂無緣衣也。从巾，監聲。”",
+    "variants": [{ "char": "𢅡", "parts": "巾監", "source": "academia-sinica" }]
+  },
+  "𢅥": {
+    "_id": "5f523b00de54193ed873769b",
+    "char": "𢅥",
+    "codepoint": "U+22165",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "variant of 㡡 U+3861"
+  },
+  "𢆀": {
+    "_id": "5f523b00de54193ed87376b6",
+    "char": "𢆀",
+    "codepoint": "U+22180",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𢆔": {
+    "_id": "5f523b00de54193ed87376ca",
+    "char": "𢆔",
+    "codepoint": "U+22194",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢆭": {
+    "_id": "5f523b00de54193ed87376e3",
+    "char": "𢆭",
+    "codepoint": "U+221AD",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𢇜": {
+    "_id": "5f523b00de54193ed8737712",
+    "char": "𢇜",
+    "codepoint": "U+221DC",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢄅": {
+    "_id": "5f523b00de54193ed873763b",
+    "char": "𢄅",
+    "codepoint": "U+22105",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄈": {
+    "_id": "5f523b00de54193ed873763e",
+    "char": "𢄈",
+    "codepoint": "U+22108",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄊": {
+    "_id": "5f523b00de54193ed8737640",
+    "char": "𢄊",
+    "codepoint": "U+2210A",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄋": {
+    "_id": "5f523b00de54193ed8737641",
+    "char": "𢄋",
+    "codepoint": "U+2210B",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%8B_0.png",
+        "source": "academia-sinica",
+        "description": "晉張朗碑(隸)西晉",
+        "type": "Clerical",
+        "era": "Western Jin dynasty (266-316 AD)"
+      }
+    ],
+    "variants": [{ "char": "𢄋", "parts": "巾", "source": "academia-sinica" }]
+  },
+  "𢄶": {
+    "_id": "5f523b00de54193ed873766c",
+    "char": "𢄶",
+    "codepoint": "U+22136",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "the noise of tearing silk"
+  },
+  "𢅋": {
+    "_id": "5f523b00de54193ed8737681",
+    "char": "𢅋",
+    "codepoint": "U+2214B",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅞": {
+    "_id": "5f523b00de54193ed8737694",
+    "char": "𢅞",
+    "codepoint": "U+2215E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅰": {
+    "_id": "5f523b00de54193ed87376a6",
+    "char": "𢅰",
+    "codepoint": "U+22170",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢅷": {
+    "_id": "5f523b00de54193ed87376ad",
+    "char": "𢅷",
+    "codepoint": "U+22177",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆎": {
+    "_id": "5f523b00de54193ed87376c4",
+    "char": "𢆎",
+    "codepoint": "U+2218E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢆙": {
+    "_id": "5f523b00de54193ed87376cf",
+    "char": "𢆙",
+    "codepoint": "U+22199",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢆤": {
+    "_id": "5f523b00de54193ed87376da",
+    "char": "𢆤",
+    "codepoint": "U+221A4",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢇛": {
+    "_id": "5f523b00de54193ed8737711",
+    "char": "𢇛",
+    "codepoint": "U+221DB",
+    "strokeCount": 6,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%9B_0.png",
+        "source": "academia-sinica",
+        "description": "遣卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%9B_1.png",
+        "source": "academia-sinica",
+        "description": "作冊折觥(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%87%9B_2.png",
+        "source": "academia-sinica",
+        "description": "作冊睘卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      }
+    ],
+    "variants": [{ "char": "𢇛", "parts": "广干", "source": "academia-sinica" }]
+  },
+  "𢇬": {
+    "_id": "5f523b00de54193ed8737722",
+    "char": "𢇬",
+    "codepoint": "U+221EC",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢄍": {
+    "_id": "5f523b00de54193ed8737643",
+    "char": "𢄍",
+    "codepoint": "U+2210D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄚": {
+    "_id": "5f523b00de54193ed8737650",
+    "char": "𢄚",
+    "codepoint": "U+2211A",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄣": {
+    "_id": "5f523b00de54193ed8737659",
+    "char": "𢄣",
+    "codepoint": "U+22123",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢅬": {
+    "_id": "5f523b00de54193ed87376a2",
+    "char": "𢅬",
+    "codepoint": "U+2216C",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢆆": {
+    "_id": "5f523b00de54193ed87376bc",
+    "char": "𢆆",
+    "codepoint": "U+22186",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𢆍": {
+    "_id": "5f523b00de54193ed87376c3",
+    "char": "𢆍",
+    "codepoint": "U+2218D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢆩": {
+    "_id": "5f523b00de54193ed87376df",
+    "char": "𢆩",
+    "codepoint": "U+221A9",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢆺": {
+    "_id": "5f523b00de54193ed87376f0",
+    "char": "𢆺",
+    "codepoint": "U+221BA",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢆼": {
+    "_id": "5f523b00de54193ed87376f2",
+    "char": "𢆼",
+    "codepoint": "U+221BC",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇃": {
+    "_id": "5f523b00de54193ed87376f9",
+    "char": "𢇃",
+    "codepoint": "U+221C3",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢇆": {
+    "_id": "5f523b00de54193ed87376fc",
+    "char": "𢇆",
+    "codepoint": "U+221C6",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𢇖": {
+    "_id": "5f523b00de54193ed873770c",
+    "char": "𢇖",
+    "codepoint": "U+221D6",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𢇟": {
+    "_id": "5f523b00de54193ed8737715",
+    "char": "𢇟",
+    "codepoint": "U+221DF",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇠": {
+    "_id": "5f523b00de54193ed8737716",
+    "char": "𢇠",
+    "codepoint": "U+221E0",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇯": {
+    "_id": "5f523b00de54193ed8737725",
+    "char": "𢇯",
+    "codepoint": "U+221EF",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇽": {
+    "_id": "5f523b00de54193ed8737733",
+    "char": "𢇽",
+    "codepoint": "U+221FD",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄂": {
+    "_id": "5f523b00de54193ed8737638",
+    "char": "𢄂",
+    "codepoint": "U+22102",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄌": {
+    "_id": "5f523b00de54193ed8737642",
+    "char": "𢄌",
+    "codepoint": "U+2210C",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄓": {
+    "_id": "5f523b00de54193ed8737649",
+    "char": "𢄓",
+    "codepoint": "U+22113",
+    "strokeCount": 13,
+    "simpVariants": ["𰏓"],
+    "sources": ["unicode"]
+  },
+  "𢄨": {
+    "_id": "5f523b00de54193ed873765e",
+    "char": "𢄨",
+    "codepoint": "U+22128",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄯": {
+    "_id": "5f523b00de54193ed8737665",
+    "char": "𢄯",
+    "codepoint": "U+2212F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄺": {
+    "_id": "5f523b00de54193ed8737670",
+    "char": "𢄺",
+    "codepoint": "U+2213A",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢄼": {
+    "_id": "5f523b00de54193ed8737672",
+    "char": "𢄼",
+    "codepoint": "U+2213C",
+    "strokeCount": 15,
+    "simpVariants": ["𫷈"],
+    "sources": ["unicode"]
+  },
+  "𢄿": {
+    "_id": "5f523b00de54193ed8737675",
+    "char": "𢄿",
+    "codepoint": "U+2213F",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅅": {
+    "_id": "5f523b00de54193ed873767b",
+    "char": "𢅅",
+    "codepoint": "U+22145",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅗": {
+    "_id": "5f523b00de54193ed873768d",
+    "char": "𢅗",
+    "codepoint": "U+22157",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𢅪": {
+    "_id": "5f523b00de54193ed87376a0",
+    "char": "𢅪",
+    "codepoint": "U+2216A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𢅶": {
+    "_id": "5f523b00de54193ed87376ac",
+    "char": "𢅶",
+    "codepoint": "U+22176",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆈": {
+    "_id": "5f523b00de54193ed87376be",
+    "char": "𢆈",
+    "codepoint": "U+22188",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𢆒": {
+    "_id": "5f523b00de54193ed87376c8",
+    "char": "𢆒",
+    "codepoint": "U+22192",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𢆱": {
+    "_id": "5f523b00de54193ed87376e7",
+    "char": "𢆱",
+    "codepoint": "U+221B1",
+    "strokeCount": 4,
+    "sources": ["unicode"]
+  },
+  "𢆲": {
+    "_id": "5f523b00de54193ed87376e8",
+    "char": "𢆲",
+    "codepoint": "U+221B2",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𢆷": {
+    "_id": "5f523b00de54193ed87376ed",
+    "char": "𢆷",
+    "codepoint": "U+221B7",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𢇴": {
+    "_id": "5f523b00de54193ed873772a",
+    "char": "𢇴",
+    "codepoint": "U+221F4",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇵": {
+    "_id": "5f523b00de54193ed873772b",
+    "char": "𢇵",
+    "codepoint": "U+221F5",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢇿": {
+    "_id": "5f523b00de54193ed8737735",
+    "char": "𢇿",
+    "codepoint": "U+221FF",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𢄀": {
+    "_id": "5f523b00de54193ed8737636",
+    "char": "𢄀",
+    "codepoint": "U+22100",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢄝": {
+    "_id": "5f523b00de54193ed8737653",
+    "char": "𢄝",
+    "codepoint": "U+2211D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𢄡": {
+    "_id": "5f523b00de54193ed8737657",
+    "char": "𢄡",
+    "codepoint": "U+22121",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄤": {
+    "_id": "5f523b00de54193ed873765a",
+    "char": "𢄤",
+    "codepoint": "U+22124",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𢄥": {
+    "_id": "5f523b00de54193ed873765b",
+    "char": "𢄥",
+    "codepoint": "U+22125",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_0.png",
+        "source": "academia-sinica",
+        "description": "甲537(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_1.png",
+        "source": "academia-sinica",
+        "description": "甲613(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_2.png",
+        "source": "academia-sinica",
+        "description": "毛公旅方鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_3.png",
+        "source": "academia-sinica",
+        "description": "𣄰尊(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_4.png",
+        "source": "academia-sinica",
+        "description": "毛公鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_5.png",
+        "source": "academia-sinica",
+        "description": "大克鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_6.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_7.png",
+        "source": "academia-sinica",
+        "description": "說文‧𦘒部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_8.png",
+        "source": "academia-sinica",
+        "description": "說文篆文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_9.png",
+        "source": "academia-sinica",
+        "description": "縱橫家書265(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_10.png",
+        "source": "academia-sinica",
+        "description": "孫臏156(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%84%A5_11.png",
+        "source": "academia-sinica",
+        "description": "武威簡.少牢12(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，習也。从，聲。，籀文。肄，篆文。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "于省吾《殷契駢枝》：“𢄥字象以手刷洗㣇畜豪毛之形，从數點者象水滴之形。金文𢄥字多从巾者……刷洗之初祇以手，繼則用巾，此乃人事自然之演進也。”"
+      }
+    ],
+    "variants": [
+      { "char": "肄", "parts": "𠤕聿", "source": "academia-sinica" },
+      { "char": "", "parts": "㣇聿", "source": "academia-sinica" },
+      { "char": "", "parts": "㣇又", "source": "academia-sinica" },
+      { "char": "肆", "parts": "镸聿", "source": "academia-sinica" }
+    ]
+  },
+  "𢄻": {
+    "_id": "5f523b00de54193ed8737671",
+    "char": "𢄻",
+    "codepoint": "U+2213B",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𢅂": {
+    "_id": "5f523b00de54193ed8737678",
+    "char": "𢅂",
+    "codepoint": "U+22142",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%82_0.png",
+        "source": "academia-sinica",
+        "description": "彔伯戈冬簋蓋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%82_1.png",
+        "source": "academia-sinica",
+        "description": "伯晨鼎(金)西周中期偏晚",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%85%82_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧巾部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“幬，禪帳也。从巾，聲。”",
+    "variants": [
+      { "char": "幬", "parts": "巾壽", "source": "academia-sinica" },
+      { "char": "𠷎", "parts": "𢏚口", "source": "academia-sinica" },
+      { "char": "", "parts": "韋壽", "source": "academia-sinica" }
+    ]
+  },
+  "𢅏": {
+    "_id": "5f523b00de54193ed8737685",
+    "char": "𢅏",
+    "codepoint": "U+2214F",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "blinds"
+  },
+  "𢅱": {
+    "_id": "5f523b00de54193ed87376a7",
+    "char": "𢅱",
+    "codepoint": "U+22171",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𢆚": {
+    "_id": "5f523b00de54193ed87376d0",
+    "char": "𢆚",
+    "codepoint": "U+2219A",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𢆝": {
+    "_id": "5f523b00de54193ed87376d3",
+    "char": "𢆝",
+    "codepoint": "U+2219D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𢆬": {
+    "_id": "5f523b00de54193ed87376e2",
+    "char": "𢆬",
+    "codepoint": "U+221AC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𢆶": {
+    "_id": "5f523b00de54193ed87376ec",
+    "char": "𢆶",
+    "codepoint": "U+221B6",
+    "strokeCount": 6,
+    "sources": ["academia-sinica", "unicode", "dong-chinese"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_0.png",
+        "source": "academia-sinica",
+        "description": "鐵178.2(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_1.png",
+        "source": "academia-sinica",
+        "description": "佚350(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_2.png",
+        "source": "academia-sinica",
+        "description": "孟簋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_3.png",
+        "source": "academia-sinica",
+        "description": "商尊(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_4.png",
+        "source": "academia-sinica",
+        "description": "者尸鎛(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_5.png",
+        "source": "academia-sinica",
+        "description": "陳純釜(金)戰國",
+        "type": "Bronze",
+        "era": "Warring States (475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_6.png",
+        "source": "academia-sinica",
+        "description": "包2.67(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A2%86%B6_7.png",
+        "source": "academia-sinica",
+        "description": "說文‧𢆶部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 336 377 L 195 367 Q 159 366 177 387 Q 264 531 346 638 Q 364 659 360 667 Q 357 685 312 722 Q 293 738 270 734 Q 257 730 264 712 Q 285 664 174 463 Q 150 417 100 374 Q 78 356 80 342 Q 86 320 103 298 Q 116 285 131 294 Q 183 324 316 348 C 345 354 366 379 336 377 Z",
+            "M 419 184 Q 331 169 227 139 Q 194 127 216 155 Q 277 236 420 398 Q 457 444 488 469 Q 504 481 497 494 Q 484 518 444 543 Q 425 555 413 552 Q 400 548 402 529 Q 403 487 336 377 L 316 348 Q 315 347 314 345 Q 158 143 119 124 Q 101 114 104 95 Q 105 79 137 54 Q 150 38 169 53 Q 266 114 431 162 C 460 171 449 189 419 184 Z",
+            "M 431 162 Q 452 114 470 107 Q 480 103 489 113 Q 499 125 501 155 Q 505 182 476 215 Q 407 284 389 283 Q 383 282 380 269 Q 380 265 419 184 L 431 162 Z",
+            "M 770 377 L 629 367 Q 593 366 611 387 Q 698 531 780 638 Q 798 659 794 667 Q 791 685 746 722 Q 727 738 704 734 Q 691 730 698 712 Q 719 664 608 463 Q 584 417 534 374 Q 512 356 514 342 Q 520 320 537 298 Q 550 285 565 294 Q 617 324 750 348 C 779 354 800 379 770 377 Z",
+            "M 853 184 Q 765 169 661 139 Q 628 127 650 155 Q 711 236 854 398 Q 891 444 922 469 Q 938 481 931 494 Q 918 518 878 543 Q 859 555 847 552 Q 834 548 836 529 Q 837 487 770 377 L 750 348 Q 749 347 748 345 Q 592 143 553 124 Q 535 114 538 95 Q 539 79 571 54 Q 584 38 603 53 Q 700 114 865 162 C 894 171 883 189 853 184 Z",
+            "M 865 162 Q 886 114 904 107 Q 914 103 923 113 Q 933 125 935 155 Q 939 182 910 215 Q 841 284 823 283 Q 817 282 814 269 Q 814 265 853 184 L 865 162 Z"
+          ],
+          "medians": [
+            [
+              [275, 721],
+              [300, 692],
+              [309, 664],
+              [234, 522],
+              [148, 383],
+              [137, 345],
+              [197, 344],
+              [304, 359],
+              [328, 375]
+            ],
+            [
+              [418, 537],
+              [442, 489],
+              [343, 344],
+              [194, 163],
+              [179, 139],
+              [173, 108],
+              [209, 108],
+              [373, 161],
+              [412, 170],
+              [421, 164]
+            ],
+            [
+              [391, 275],
+              [458, 184],
+              [476, 122]
+            ],
+            [
+              [709, 721],
+              [734, 692],
+              [743, 664],
+              [668, 522],
+              [582, 383],
+              [571, 345],
+              [631, 344],
+              [738, 359],
+              [762, 375]
+            ],
+            [
+              [852, 537],
+              [876, 489],
+              [777, 344],
+              [628, 163],
+              [613, 139],
+              [607, 108],
+              [643, 108],
+              [807, 161],
+              [846, 170],
+              [855, 164]
+            ],
+            [
+              [825, 275],
+              [892, 184],
+              [910, 122]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2],
+          [3, 4, 5]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“，微也。从二幺。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“微當作𣁋。《人部》曰：‘𣁋，眇也。’小之又小則為𣁋。”"
+      }
+    ],
+    "variants": [{ "char": "𢆶", "parts": "幺幺", "source": "academia-sinica" }],
+    "components": [
+      { "type": ["iconic"], "character": "幺", "hint": "Depicts a twisted thread." },
+      { "type": ["iconic"], "character": "幺", "hint": "Depicts a twisted thread." }
+    ],
+    "hint": "Depicts two threads. Double of 幺.",
+    "statistics": { "hskLevel": 10 },
+    "customSources": [
+      "漢語多功能字庫|http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%F0%A2%86%B6"
+    ],
+    "gloss": "threads",
+    "isVerified": true,
+    "data": {
+      "strokes": [
+        "M 336 377 L 195 367 Q 159 366 177 387 Q 264 531 346 638 Q 364 659 360 667 Q 357 685 312 722 Q 293 738 270 734 Q 257 730 264 712 Q 285 664 174 463 Q 150 417 100 374 Q 78 356 80 342 Q 86 320 103 298 Q 116 285 131 294 Q 183 324 316 348 C 345 354 366 379 336 377 Z",
+        "M 419 184 Q 331 169 227 139 Q 194 127 216 155 Q 277 236 420 398 Q 457 444 488 469 Q 504 481 497 494 Q 484 518 444 543 Q 425 555 413 552 Q 400 548 402 529 Q 403 487 336 377 L 316 348 Q 315 347 314 345 Q 158 143 119 124 Q 101 114 104 95 Q 105 79 137 54 Q 150 38 169 53 Q 266 114 431 162 C 460 171 449 189 419 184 Z",
+        "M 431 162 Q 452 114 470 107 Q 480 103 489 113 Q 499 125 501 155 Q 505 182 476 215 Q 407 284 389 283 Q 383 282 380 269 Q 380 265 419 184 L 431 162 Z",
+        "M 770 377 L 629 367 Q 593 366 611 387 Q 698 531 780 638 Q 798 659 794 667 Q 791 685 746 722 Q 727 738 704 734 Q 691 730 698 712 Q 719 664 608 463 Q 584 417 534 374 Q 512 356 514 342 Q 520 320 537 298 Q 550 285 565 294 Q 617 324 750 348 C 779 354 800 379 770 377 Z",
+        "M 853 184 Q 765 169 661 139 Q 628 127 650 155 Q 711 236 854 398 Q 891 444 922 469 Q 938 481 931 494 Q 918 518 878 543 Q 859 555 847 552 Q 834 548 836 529 Q 837 487 770 377 L 750 348 Q 749 347 748 345 Q 592 143 553 124 Q 535 114 538 95 Q 539 79 571 54 Q 584 38 603 53 Q 700 114 865 162 C 894 171 883 189 853 184 Z",
+        "M 865 162 Q 886 114 904 107 Q 914 103 923 113 Q 933 125 935 155 Q 939 182 910 215 Q 841 284 823 283 Q 817 282 814 269 Q 814 265 853 184 L 865 162 Z"
+      ],
+      "medians": [
+        [
+          [275, 721],
+          [300, 692],
+          [309, 664],
+          [234, 522],
+          [148, 383],
+          [137, 345],
+          [197, 344],
+          [304, 359],
+          [328, 375]
+        ],
+        [
+          [418, 537],
+          [442, 489],
+          [343, 344],
+          [194, 163],
+          [179, 139],
+          [173, 108],
+          [209, 108],
+          [373, 161],
+          [412, 170],
+          [421, 164]
+        ],
+        [
+          [391, 275],
+          [458, 184],
+          [476, 122]
+        ],
+        [
+          [709, 721],
+          [734, 692],
+          [743, 664],
+          [668, 522],
+          [582, 383],
+          [571, 345],
+          [631, 344],
+          [738, 359],
+          [762, 375]
+        ],
+        [
+          [852, 537],
+          [876, 489],
+          [777, 344],
+          [628, 163],
+          [613, 139],
+          [607, 108],
+          [643, 108],
+          [807, 161],
+          [846, 170],
+          [855, 164]
+        ],
+        [
+          [825, 275],
+          [892, 184],
+          [910, 122]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5]]
+  },
+  "𢇢": {
+    "_id": "5f523b00de54193ed8737718",
+    "char": "𢇢",
+    "codepoint": "U+221E2",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𢇤": {
+    "_id": "5f523b00de54193ed873771a",
+    "char": "𢇤",
+    "codepoint": "U+221E4",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  }
+}

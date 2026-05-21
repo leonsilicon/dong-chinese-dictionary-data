@@ -1,0 +1,3052 @@
+{
+  "䀏": {
+    "_id": "5f523afdde54193ed872f3c5",
+    "char": "䀏",
+    "codepoint": "U+400F",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8F_0.png",
+        "source": "academia-sinica",
+        "description": "仲鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8F_1.png",
+        "source": "academia-sinica",
+        "description": "伯䀏鼎(金)西周",
+        "type": "Bronze",
+        "era": "Western Zhou (1045-771 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8F_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8F_3.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 389 628 Q 404 649 419 671 Q 453 726 486 769 Q 499 784 482 802 Q 428 844 402 840 Q 389 839 391 820 Q 398 706 274 567 Q 241 540 206 498 Q 196 480 214 485 Q 274 494 376 611 L 389 628 Z",
+            "M 376 611 Q 421 590 452 598 Q 489 608 660 631 Q 688 635 700 621 Q 721 599 723 545 Q 732 379 722 269 Q 703 98 668 79 Q 658 76 565 113 Q 553 117 549 113 Q 545 106 562 89 Q 611 32 635 -16 Q 657 -47 676 -42 Q 692 -38 715 -6 Q 746 34 767 111 Q 789 202 797 500 Q 798 578 818 604 Q 837 626 812 645 Q 740 693 684 680 Q 543 646 389 628 C 359 624 348 621 376 611 Z",
+            "M 205 442 Q 186 458 163 465 Q 154 466 148 459 Q 144 455 152 443 Q 185 362 154 174 Q 133 102 137 86 Q 146 53 156 40 Q 166 27 177 40 Q 184 50 190 65 L 199 99 Q 205 129 207 160 Q 207 175 208 190 L 209 219 Q 209 262 212 292 L 213 317 Q 216 384 222 408 C 226 427 226 427 205 442 Z",
+            "M 392 80 Q 420 43 442 6 Q 452 -13 463 -13 Q 481 -12 497 23 Q 516 63 514 112 Q 507 203 503 373 Q 502 404 519 428 Q 529 441 519 452 Q 500 473 445 497 Q 426 507 411 497 Q 366 478 300 461 L 255 451 Q 225 447 205 442 C 176 436 193 402 222 408 Q 415 447 419 446 Q 425 445 431 440 Q 455 421 439 123 Q 438 120 438 116 Q 434 100 424 102 C 404 79 386 88 392 80 Z",
+            "M 212 292 Q 219 291 231 292 Q 310 305 369 314 Q 394 318 384 332 Q 372 347 346 351 Q 316 354 213 317 C 185 307 182 294 212 292 Z",
+            "M 208 190 Q 212 190 218 190 Q 309 203 376 211 Q 401 214 392 228 Q 382 244 354 249 Q 327 253 209 219 C 180 211 178 190 208 190 Z",
+            "M 190 65 Q 199 64 210 65 Q 270 75 392 80 C 422 81 445 82 424 102 Q 417 109 401 121 Q 385 131 354 124 Q 269 108 199 99 C 169 95 160 67 190 65 Z"
+          ],
+          "medians": [
+            [
+              [404, 826],
+              [436, 779],
+              [384, 671],
+              [309, 572],
+              [217, 496]
+            ],
+            [
+              [386, 610],
+              [398, 617],
+              [443, 615],
+              [682, 656],
+              [724, 647],
+              [744, 634],
+              [764, 610],
+              [755, 272],
+              [742, 166],
+              [719, 83],
+              [700, 50],
+              [673, 26],
+              [579, 91],
+              [574, 100],
+              [562, 101],
+              [554, 109]
+            ],
+            [
+              [157, 454],
+              [176, 439],
+              [192, 404],
+              [185, 213],
+              [166, 92],
+              [167, 45]
+            ],
+            [
+              [211, 438],
+              [237, 429],
+              [261, 431],
+              [429, 473],
+              [456, 458],
+              [475, 438],
+              [476, 114],
+              [462, 63],
+              [463, 2]
+            ],
+            [
+              [217, 298],
+              [229, 309],
+              [327, 329],
+              [374, 325]
+            ],
+            [
+              [213, 197],
+              [246, 213],
+              [301, 223],
+              [357, 229],
+              [381, 222]
+            ],
+            [
+              [195, 70],
+              [223, 85],
+              [367, 103],
+              [416, 102]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1],
+          [2, 3, 4, 5, 6]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“，目搖也。从目，勻省聲。眴，或从旬。”",
+    "variants": [
+      { "char": "䀏", "parts": "勹目", "source": "academia-sinica" },
+      { "char": "眴", "parts": "目旬", "source": "academia-sinica" },
+      { "char": "盷", "parts": "目勻", "source": "academia-sinica" }
+    ],
+    "gloss": "to move one's eyes",
+    "data": {
+      "strokes": [
+        "M 389 628 Q 404 649 419 671 Q 453 726 486 769 Q 499 784 482 802 Q 428 844 402 840 Q 389 839 391 820 Q 398 706 274 567 Q 241 540 206 498 Q 196 480 214 485 Q 274 494 376 611 L 389 628 Z",
+        "M 376 611 Q 421 590 452 598 Q 489 608 660 631 Q 688 635 700 621 Q 721 599 723 545 Q 732 379 722 269 Q 703 98 668 79 Q 658 76 565 113 Q 553 117 549 113 Q 545 106 562 89 Q 611 32 635 -16 Q 657 -47 676 -42 Q 692 -38 715 -6 Q 746 34 767 111 Q 789 202 797 500 Q 798 578 818 604 Q 837 626 812 645 Q 740 693 684 680 Q 543 646 389 628 C 359 624 348 621 376 611 Z",
+        "M 205 442 Q 186 458 163 465 Q 154 466 148 459 Q 144 455 152 443 Q 185 362 154 174 Q 133 102 137 86 Q 146 53 156 40 Q 166 27 177 40 Q 184 50 190 65 L 199 99 Q 205 129 207 160 Q 207 175 208 190 L 209 219 Q 209 262 212 292 L 213 317 Q 216 384 222 408 C 226 427 226 427 205 442 Z",
+        "M 392 80 Q 420 43 442 6 Q 452 -13 463 -13 Q 481 -12 497 23 Q 516 63 514 112 Q 507 203 503 373 Q 502 404 519 428 Q 529 441 519 452 Q 500 473 445 497 Q 426 507 411 497 Q 366 478 300 461 L 255 451 Q 225 447 205 442 C 176 436 193 402 222 408 Q 415 447 419 446 Q 425 445 431 440 Q 455 421 439 123 Q 438 120 438 116 Q 434 100 424 102 C 404 79 386 88 392 80 Z",
+        "M 212 292 Q 219 291 231 292 Q 310 305 369 314 Q 394 318 384 332 Q 372 347 346 351 Q 316 354 213 317 C 185 307 182 294 212 292 Z",
+        "M 208 190 Q 212 190 218 190 Q 309 203 376 211 Q 401 214 392 228 Q 382 244 354 249 Q 327 253 209 219 C 180 211 178 190 208 190 Z",
+        "M 190 65 Q 199 64 210 65 Q 270 75 392 80 C 422 81 445 82 424 102 Q 417 109 401 121 Q 385 131 354 124 Q 269 108 199 99 C 169 95 160 67 190 65 Z"
+      ],
+      "medians": [
+        [
+          [404, 826],
+          [436, 779],
+          [384, 671],
+          [309, 572],
+          [217, 496]
+        ],
+        [
+          [386, 610],
+          [398, 617],
+          [443, 615],
+          [682, 656],
+          [724, 647],
+          [744, 634],
+          [764, 610],
+          [755, 272],
+          [742, 166],
+          [719, 83],
+          [700, 50],
+          [673, 26],
+          [579, 91],
+          [574, 100],
+          [562, 101],
+          [554, 109]
+        ],
+        [
+          [157, 454],
+          [176, 439],
+          [192, 404],
+          [185, 213],
+          [166, 92],
+          [167, 45]
+        ],
+        [
+          [211, 438],
+          [237, 429],
+          [261, 431],
+          [429, 473],
+          [456, 458],
+          [475, 438],
+          [476, 114],
+          [462, 63],
+          [463, 2]
+        ],
+        [
+          [217, 298],
+          [229, 309],
+          [327, 329],
+          [374, 325]
+        ],
+        [
+          [213, 197],
+          [246, 213],
+          [301, 223],
+          [357, 229],
+          [381, 222]
+        ],
+        [
+          [195, 70],
+          [223, 85],
+          [367, 103],
+          [416, 102]
+        ]
+      ]
+    },
+    "components": [
+      { "character": "勻", "type": ["sound", "remnant"] },
+      { "character": "目", "type": ["meaning"] }
+    ],
+    "customSources": [
+      "漢語多功能字庫|http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E4%80%8F"
+    ],
+    "fragments": [[0, 1, 2, 3, 4, 5, 6]],
+    "hint": "Phonosemantic compound. 勻 represents the sound and 目 represents the meaning.",
+    "isVerified": true
+  },
+  "䀅": {
+    "_id": "5f523afdde54193ed872f3bb",
+    "char": "䀅",
+    "codepoint": "U+4005",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "vessel"
+  },
+  "䀆": {
+    "_id": "5f523afdde54193ed872f3bc",
+    "char": "䀆",
+    "codepoint": "U+4006",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_0.png",
+        "source": "academia-sinica",
+        "description": "前1.44.6(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_1.png",
+        "source": "academia-sinica",
+        "description": "前1.45.2(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_2.png",
+        "source": "academia-sinica",
+        "description": "乙4529(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_3.png",
+        "source": "academia-sinica",
+        "description": "中山王昔壺(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_4.png",
+        "source": "academia-sinica",
+        "description": "說文‧皿部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_5.png",
+        "source": "academia-sinica",
+        "description": "秦詔權(篆)秦",
+        "type": "Seal",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_6.png",
+        "source": "academia-sinica",
+        "description": "睡.法81(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_7.png",
+        "source": "academia-sinica",
+        "description": "春秋事語94(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%86_8.png",
+        "source": "academia-sinica",
+        "description": "尹宙碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“盡，器中空也。从皿，聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "羅振玉《增訂殷虛書契考釋》：“（甲文）从又持禾，从皿，象滌器形。食盡器斯滌矣，故有終盡之意。”"
+      }
+    ],
+    "variants": [{ "char": "盡", "parts": "皿", "source": "academia-sinica" }],
+    "gloss": "(standard form of 盡) to exhaust"
+  },
+  "䀶": {
+    "_id": "5f523afdde54193ed872f3ec",
+    "char": "䀶",
+    "codepoint": "U+4036",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%B6_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，目病也。从目，良聲。”",
+    "variants": [{ "char": "䀶", "parts": "目良", "source": "academia-sinica" }],
+    "gloss": "strabismus"
+  },
+  "䀿": {
+    "_id": "5f523afdde54193ed872f3f5",
+    "char": "䀿",
+    "codepoint": "U+403F",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(same as 䀸) to have a casual and short glance"
+  },
+  "䀘": {
+    "_id": "5f523afdde54193ed872f3ce",
+    "char": "䀘",
+    "codepoint": "U+4018",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%98_0.png",
+        "source": "academia-sinica",
+        "description": "包2.120(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%98_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%98_2.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，蔽人視也。从目，幵聲，讀若攜手。一曰直視也。，，目或在下。”",
+    "variants": [
+      { "char": "䀘", "parts": "目开", "source": "academia-sinica" },
+      { "char": "", "parts": "目幵", "source": "academia-sinica" },
+      { "char": "𥅝", "parts": "幵目", "source": "academia-sinica" }
+    ],
+    "gloss": "(a corrupted abbreviated form) to cover the line of vision or sight --the straight line between an object and one's eyes"
+  },
+  "䀜": {
+    "_id": "5f523afdde54193ed872f3d2",
+    "char": "䀜",
+    "codepoint": "U+401C",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "down"
+  },
+  "䀞": {
+    "_id": "5f523afdde54193ed872f3d4",
+    "char": "䀞",
+    "codepoint": "U+401E",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "with heavy eyelids"
+  },
+  "䀮": {
+    "_id": "5f523afdde54193ed872f3e4",
+    "char": "䀮",
+    "codepoint": "U+402E",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "sight blurred"
+  },
+  "䀹": {
+    "_id": "5f523afdde54193ed872f3ef",
+    "char": "䀹",
+    "codepoint": "U+4039",
+    "strokeCount": 12,
+    "simpVariants": ["𥅴"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%B9_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，目旁毛也。从目，夾聲。”",
+    "variants": [{ "char": "䀹", "parts": "目夾", "source": "academia-sinica" }],
+    "gloss": "(same as 眨) to wink"
+  },
+  "䀽": {
+    "_id": "5f523afdde54193ed872f3f3",
+    "char": "䀽",
+    "codepoint": "U+403D",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to look at each other"
+  },
+  "䀀": {
+    "_id": "5f523afdde54193ed872f3b6",
+    "char": "䀀",
+    "codepoint": "U+4000",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%80_0.png",
+        "source": "academia-sinica",
+        "description": "居延簡甲2114(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "䀀", "parts": "氾皿", "source": "academia-sinica" }],
+    "gloss": "cups"
+  },
+  "䀂": {
+    "_id": "5f523afdde54193ed872f3b8",
+    "char": "䀂",
+    "codepoint": "U+4002",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "a big basin"
+  },
+  "䀄": {
+    "_id": "5f523afdde54193ed872f3ba",
+    "char": "䀄",
+    "codepoint": "U+4004",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as U+995B 饛) container full of food"
+  },
+  "䀈": {
+    "_id": "5f523afdde54193ed872f3be",
+    "char": "䀈",
+    "codepoint": "U+4008",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a vessel"
+  },
+  "䀑": {
+    "_id": "5f523afdde54193ed872f3c7",
+    "char": "䀑",
+    "codepoint": "U+4011",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%91_0.png",
+        "source": "academia-sinica",
+        "description": "沈子它簋蓋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      }
+    ],
+    "variants": [{ "char": "䀑", "parts": "目叉", "source": "academia-sinica" }],
+    "gloss": "to gouge out an eye or eyes (a corrupted form)"
+  },
+  "䀔": {
+    "_id": "5f523afdde54193ed872f3ca",
+    "char": "䀔",
+    "codepoint": "U+4014",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "to look"
+  },
+  "䀵": {
+    "_id": "5f523afdde54193ed872f3eb",
+    "char": "䀵",
+    "codepoint": "U+4035",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(same as 瞬) to blink"
+  },
+  "䀐": {
+    "_id": "5f523afdde54193ed872f3c6",
+    "char": "䀐",
+    "codepoint": "U+4010",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "to regard"
+  },
+  "䀗": {
+    "_id": "5f523afdde54193ed872f3cd",
+    "char": "䀗",
+    "codepoint": "U+4017",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%97_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，涓目也。从目，夬聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "徐鍇繫傳：“䀗，睊也。”田吳炤二徐箋異：“大徐本作‘涓目也’。小徐本作‘睊也’。炤按：《玉篇》引作‘睊目也’，是大徐作‘涓’，碻係字誤，小徐又脫去‘目’字，兩本皆可據《玉篇》正之。”"
+      }
+    ],
+    "variants": [{ "char": "䀗", "parts": "目夬", "source": "academia-sinica" }],
+    "gloss": "to look askance at"
+  },
+  "䀷": {
+    "_id": "5f523afdde54193ed872f3ed",
+    "char": "䀷",
+    "codepoint": "U+4037",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to have quick glance"
+  },
+  "䀃": {
+    "_id": "5f523afdde54193ed872f3b9",
+    "char": "䀃",
+    "codepoint": "U+4003",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "a kind of vessel"
+  },
+  "䀉": {
+    "_id": "5f523afdde54193ed872f3bf",
+    "char": "䀉",
+    "codepoint": "U+4009",
+    "strokeCount": 17,
+    "simpVariants": ["𥁢"],
+    "sources": ["unicode"],
+    "gloss": "food containers (bowl"
+  },
+  "䀋": {
+    "_id": "5f523afdde54193ed872f3c1",
+    "char": "䀋",
+    "codepoint": "U+400B",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "(same as U+9E7D 鹽) salt"
+  },
+  "䀎": {
+    "_id": "5f523afdde54193ed872f3c4",
+    "char": "䀎",
+    "codepoint": "U+400E",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "(same as non-classical form of 眄) to look askance"
+  },
+  "䀢": {
+    "_id": "5f523afdde54193ed872f3d8",
+    "char": "䀢",
+    "codepoint": "U+4022",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "(same as 瞬) to glance"
+  },
+  "䀧": {
+    "_id": "5f523afdde54193ed872f3dd",
+    "char": "䀧",
+    "codepoint": "U+4027",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "sight blurred"
+  },
+  "䀬": {
+    "_id": "5f523afdde54193ed872f3e2",
+    "char": "䀬",
+    "codepoint": "U+402C",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to glance"
+  },
+  "䀼": {
+    "_id": "5f523afdde54193ed872f3f2",
+    "char": "䀼",
+    "codepoint": "U+403C",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 瞋) angry"
+  },
+  "䀌": {
+    "_id": "5f523afdde54193ed872f3c2",
+    "char": "䀌",
+    "codepoint": "U+400C",
+    "strokeCount": 22,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8C_0.png",
+        "source": "academia-sinica",
+        "description": "作冊嗌卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8C_1.png",
+        "source": "academia-sinica",
+        "description": "上(1).䊷.12(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8C_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧血部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“衋，傷痛也。从血聿，皕聲。《周書》曰：‘民冈〔罔〕不衋傷心。’”",
+    "comments": [
+      { "source": "academia-sinica", "text": "段玉裁注：“聿者，可以書也。血聿者，取披瀝之意。”" }
+    ],
+    "variants": [{ "char": "衋", "parts": "聿皕血", "source": "academia-sinica" }]
+  },
+  "䀝": {
+    "_id": "5f523afdde54193ed872f3d3",
+    "char": "䀝",
+    "codepoint": "U+401D",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%9D_0.png",
+        "source": "academia-sinica",
+        "description": "小臣鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%9D_1.png",
+        "source": "academia-sinica",
+        "description": "虢季子白盤(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%9D_2.png",
+        "source": "academia-sinica",
+        "description": "曾伯陭壺(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%9D_3.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“睗，目疾視也。从目，易聲。”",
+    "comments": [
+      { "source": "academia-sinica", "text": "王國維《觀堂集林》：“古文以為賜字，古錫、賜一字。”" }
+    ],
+    "variants": [
+      { "char": "睗", "parts": "目易", "source": "academia-sinica" },
+      { "char": "䀝", "parts": "目比", "source": "academia-sinica" },
+      { "char": "", "parts": "易", "source": "academia-sinica" }
+    ]
+  },
+  "䀫": {
+    "_id": "5f523afdde54193ed872f3e1",
+    "char": "䀫",
+    "codepoint": "U+402B",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "narrow and dim eye sight"
+  },
+  "䀯": {
+    "_id": "5f523afdde54193ed872f3e5",
+    "char": "䀯",
+    "codepoint": "U+402F",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䀇": {
+    "_id": "5f523afdde54193ed872f3bd",
+    "char": "䀇",
+    "codepoint": "U+4007",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_0.png",
+        "source": "academia-sinica",
+        "description": "𧍗公諴糸簠(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_1.png",
+        "source": "academia-sinica",
+        "description": "季宮父簠(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_2.png",
+        "source": "academia-sinica",
+        "description": "魯士戶孚父簠(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_3.png",
+        "source": "academia-sinica",
+        "description": "伯公父簠(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_4.png",
+        "source": "academia-sinica",
+        "description": "仲其父簠(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_5.png",
+        "source": "academia-sinica",
+        "description": "鑄子叔黑𦣞簠(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_6.png",
+        "source": "academia-sinica",
+        "description": "鑄叔作嬴氏簠(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_7.png",
+        "source": "academia-sinica",
+        "description": "商丘叔簠(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_8.png",
+        "source": "academia-sinica",
+        "description": "商丘叔簠(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_9.png",
+        "source": "academia-sinica",
+        "description": "齊陳曼簠(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_10.png",
+        "source": "academia-sinica",
+        "description": "陳逆簠(金)戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_11.png",
+        "source": "academia-sinica",
+        "description": "大𢊾簠(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_12.png",
+        "source": "academia-sinica",
+        "description": "西𠵂簠(金)戰國",
+        "type": "Bronze",
+        "era": "Warring States (475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_13.png",
+        "source": "academia-sinica",
+        "description": "望2.46(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_14.png",
+        "source": "academia-sinica",
+        "description": "信2.05(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_15.png",
+        "source": "academia-sinica",
+        "description": "包2.153(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%87_16.png",
+        "source": "academia-sinica",
+        "description": "說文‧皿部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，器也。从皿，从缶，古聲。”",
+    "variants": [
+      { "char": "䀇", "parts": "古缶皿", "source": "academia-sinica" },
+      { "char": "𠥟", "parts": "匚古金", "source": "academia-sinica" },
+      { "char": "", "parts": "匚㝬", "source": "academia-sinica" },
+      { "char": "", "parts": "匚害", "source": "academia-sinica" },
+      { "char": "", "parts": "古金皿", "source": "academia-sinica" },
+      { "char": "", "parts": "匚金", "source": "academia-sinica" },
+      { "char": "𠤳", "parts": "匚古", "source": "academia-sinica" },
+      { "char": "", "parts": "匚故", "source": "academia-sinica" },
+      { "char": "", "parts": "夫", "source": "academia-sinica" },
+      { "char": "鈷", "parts": "金古", "source": "academia-sinica" }
+    ],
+    "gloss": "a pot"
+  },
+  "䀊": {
+    "_id": "5f523afdde54193ed872f3c0",
+    "char": "䀊",
+    "codepoint": "U+400A",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8A_0.png",
+        "source": "academia-sinica",
+        "description": "信2.03(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%8A_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧皿部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，器也。从皿，漻聲。”",
+    "variants": [
+      { "char": "䀊", "parts": "漻皿", "source": "academia-sinica" },
+      { "char": "𥂔", "parts": "翏皿", "source": "academia-sinica" }
+    ],
+    "gloss": "a kind of water containers (to keep warm in cold days)"
+  },
+  "䀍": {
+    "_id": "5f523afdde54193ed872f3c3",
+    "char": "䀍",
+    "codepoint": "U+400D",
+    "strokeCount": 29,
+    "simpVariants": ["𰥊"],
+    "sources": ["unicode"],
+    "gloss": "vessel"
+  },
+  "䀩": {
+    "_id": "5f523afdde54193ed872f3df",
+    "char": "䀩",
+    "codepoint": "U+4029",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%A9_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，眄也。从目，各聲。”",
+    "variants": [{ "char": "䀩", "parts": "目各", "source": "academia-sinica" }],
+    "gloss": "to look askance"
+  },
+  "䀸": {
+    "_id": "5f523afdde54193ed872f3ee",
+    "char": "䀸",
+    "codepoint": "U+4038",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(interchangeable 䀿) to have a casual and short glance"
+  },
+  "䀓": {
+    "_id": "5f523afdde54193ed872f3c9",
+    "char": "䀓",
+    "codepoint": "U+4013",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "to turn one's eyes to"
+  },
+  "䀛": {
+    "_id": "5f523afdde54193ed872f3d1",
+    "char": "䀛",
+    "codepoint": "U+401B",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%9B_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，目冥遠視也。从目，勿聲。一曰久也。一曰旦明也。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "鈕樹玉校錄：“（《玉篇》）無‘旦明’句，餘同。則‘旦明’句疑後人誤仞䀛而增。”"
+      }
+    ],
+    "variants": [{ "char": "䀛", "parts": "目勿", "source": "academia-sinica" }],
+    "gloss": "to look far with the eyes half-closed (to narrow the eyes)"
+  },
+  "䀱": {
+    "_id": "5f523afdde54193ed872f3e7",
+    "char": "䀱",
+    "codepoint": "U+4031",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to examine"
+  },
+  "䀨": {
+    "_id": "5f523afdde54193ed872f3de",
+    "char": "䀨",
+    "codepoint": "U+4028",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to look"
+  },
+  "䀠": {
+    "_id": "5f523afdde54193ed872f3d6",
+    "char": "䀠",
+    "codepoint": "U+4020",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%A0_0.png",
+        "source": "academia-sinica",
+        "description": "䀠卣(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%A0_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧䀠部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，左右視也。从二目。讀若拘，又若良士瞿瞿。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "饒炯部首訂：“會意。从二目，左右視也，即申釋二目會意之旨，蓋驚恐者目善搖。”"
+      }
+    ],
+    "variants": [{ "char": "䀠", "parts": "目目", "source": "academia-sinica" }],
+    "gloss": "a Chinese family name",
+    "oldPronunciations": [
+      {
+        "pinyin": "qú",
+        "MC": "kjuH",
+        "OC": "*[k]ʷ(r)a-s ",
+        "gloss": "look right and left",
+        "source": "baxter-sagart"
+      }
+    ]
+  },
+  "䀡": {
+    "_id": "5f523afdde54193ed872f3d7",
+    "char": "䀡",
+    "codepoint": "U+4021",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "(same as 覘) to spy on"
+  },
+  "䀣": {
+    "_id": "5f523afdde54193ed872f3d9",
+    "char": "䀣",
+    "codepoint": "U+4023",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%A3_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，直視也。从目，必聲。讀若《詩》云：‘泌彼泉水’。”",
+    "variants": [{ "char": "䀣", "parts": "目必", "source": "academia-sinica" }],
+    "gloss": "to look steadily at"
+  },
+  "䀥": {
+    "_id": "5f523afdde54193ed872f3db",
+    "char": "䀥",
+    "codepoint": "U+4025",
+    "strokeCount": 10,
+    "tradVariants": ["䁻"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form of 䁻) beautiful eyes"
+  },
+  "䀦": {
+    "_id": "5f523afdde54193ed872f3dc",
+    "char": "䀦",
+    "codepoint": "U+4026",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "(a dialect) to stare at"
+  },
+  "䀪": {
+    "_id": "5f523afdde54193ed872f3e0",
+    "char": "䀪",
+    "codepoint": "U+402A",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "birds flying up and down"
+  },
+  "䀳": {
+    "_id": "5f523afdde54193ed872f3e9",
+    "char": "䀳",
+    "codepoint": "U+4033",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(abbreviated form) not to look straight forward"
+  },
+  "䀴": {
+    "_id": "5f523afdde54193ed872f3ea",
+    "char": "䀴",
+    "codepoint": "U+4034",
+    "strokeCount": 12,
+    "simpVariants": ["𬑏"],
+    "sources": ["unicode"],
+    "gloss": "to look straight forward"
+  },
+  "䀾": {
+    "_id": "5f523afdde54193ed872f3f4",
+    "char": "䀾",
+    "codepoint": "U+403E",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "many"
+  },
+  "䀒": {
+    "_id": "5f523afdde54193ed872f3c8",
+    "char": "䀒",
+    "codepoint": "U+4012",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "gloomy"
+  },
+  "䀕": {
+    "_id": "5f523afdde54193ed872f3cb",
+    "char": "䀕",
+    "codepoint": "U+4015",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "angry glances"
+  },
+  "䀚": {
+    "_id": "5f523afdde54193ed872f3d0",
+    "char": "䀚",
+    "codepoint": "U+401A",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "to lift up the eyes and look around"
+  },
+  "䀰": {
+    "_id": "5f523afdde54193ed872f3e6",
+    "char": "䀰",
+    "codepoint": "U+4030",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "open eyes"
+  },
+  "䀺": {
+    "_id": "5f523afdde54193ed872f3f0",
+    "char": "䀺",
+    "codepoint": "U+403A",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%BA_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%BA_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，眣也。从目，攸聲。，或从丩。”",
+    "comments": [{ "source": "academia-sinica", "text": "徐鍇繫傳作“丩聲”。" }],
+    "variants": [
+      { "char": "䀺", "parts": "攸目", "source": "academia-sinica" },
+      { "char": "𥃧", "parts": "目丩", "source": "academia-sinica" }
+    ],
+    "gloss": "squinting eyes"
+  },
+  "䀖": {
+    "_id": "5f523afdde54193ed872f3cc",
+    "char": "䀖",
+    "codepoint": "U+4016",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "to look up to"
+  },
+  "䀁": {
+    "_id": "5f523afdde54193ed872f3b7",
+    "char": "䀁",
+    "codepoint": "U+4001",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%81_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧皿部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%81_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%81_2.png",
+        "source": "academia-sinica",
+        "description": "武威簡.泰射14(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%80%81_3.png",
+        "source": "academia-sinica",
+        "description": "居延簡乙9.1B(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小甌也。从皿，有聲。讀若賄。，或从右。”",
+    "variants": [
+      { "char": "䀁", "parts": "有皿", "source": "academia-sinica" },
+      { "char": "𥁓", "parts": "右皿", "source": "academia-sinica" }
+    ],
+    "gloss": "a small bowl"
+  },
+  "䀙": {
+    "_id": "5f523afdde54193ed872f3cf",
+    "char": "䀙",
+    "codepoint": "U+4019",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䀟": {
+    "_id": "5f523afdde54193ed872f3d5",
+    "char": "䀟",
+    "codepoint": "U+401F",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "sight blurred"
+  },
+  "䀭": {
+    "_id": "5f523afdde54193ed872f3e3",
+    "char": "䀭",
+    "codepoint": "U+402D",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "with big eyes"
+  },
+  "䀤": {
+    "_id": "5f523afdde54193ed872f3da",
+    "char": "䀤",
+    "codepoint": "U+4024",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "insight (version) of jealousy"
+  },
+  "䀲": {
+    "_id": "5f523afdde54193ed872f3e8",
+    "char": "䀲",
+    "codepoint": "U+4032",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "diseases in the eyes"
+  },
+  "䀻": {
+    "_id": "5f523afdde54193ed872f3f1",
+    "char": "䀻",
+    "codepoint": "U+403B",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to look"
+  },
+  "䁆": {
+    "_id": "5f523afdde54193ed872f3fc",
+    "char": "䁆",
+    "codepoint": "U+4046",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "eyes"
+  },
+  "䁛": {
+    "_id": "5f523afdde54193ed872f411",
+    "char": "䁛",
+    "codepoint": "U+405B",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "to look"
+  },
+  "䁥": {
+    "_id": "5f523afdde54193ed872f41b",
+    "char": "䁥",
+    "codepoint": "U+4065",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to blink"
+  },
+  "䂸": {
+    "_id": "5f523afdde54193ed872f46e",
+    "char": "䂸",
+    "codepoint": "U+40B8",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to smash or to knock to pieces of the stone"
+  },
+  "䃃": {
+    "_id": "5f523afdde54193ed872f479",
+    "char": "䃃",
+    "codepoint": "U+40C3",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "䃚": {
+    "_id": "5f523afdde54193ed872f490",
+    "char": "䃚",
+    "codepoint": "U+40DA",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "rugged land of sand and pebble"
+  },
+  "䁈": {
+    "_id": "5f523afdde54193ed872f3fe",
+    "char": "䁈",
+    "codepoint": "U+4048",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%88_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，省視也。从目，啟省聲。”",
+    "variants": [{ "char": "䁈", "parts": "𢼄目", "source": "academia-sinica" }],
+    "gloss": "to examine"
+  },
+  "䁉": {
+    "_id": "5f523afdde54193ed872f3ff",
+    "char": "䁉",
+    "codepoint": "U+4049",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as 䁈) to examine"
+  },
+  "䁒": {
+    "_id": "5f523afdde54193ed872f408",
+    "char": "䁒",
+    "codepoint": "U+4052",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "to wink"
+  },
+  "䁢": {
+    "_id": "5f523afdde54193ed872f418",
+    "char": "䁢",
+    "codepoint": "U+4062",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 嫙) exquisite"
+  },
+  "䁣": {
+    "_id": "5f523afdde54193ed872f419",
+    "char": "䁣",
+    "codepoint": "U+4063",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to wink"
+  },
+  "䁯": {
+    "_id": "5f523afdde54193ed872f425",
+    "char": "䁯",
+    "codepoint": "U+406F",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䁻": {
+    "_id": "5f523afdde54193ed872f431",
+    "char": "䁻",
+    "codepoint": "U+407B",
+    "strokeCount": 20,
+    "simpVariants": ["䀥"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form of 䁻) beautiful eyes"
+  },
+  "䂓": {
+    "_id": "5f523afdde54193ed872f449",
+    "char": "䂓",
+    "codepoint": "U+4093",
+    "strokeCount": 12,
+    "simpVariants": ["𰦔"],
+    "sources": ["unicode"],
+    "gloss": "(standard form of 規) regulations"
+  },
+  "䂟": {
+    "_id": "5f523afdde54193ed872f455",
+    "char": "䂟",
+    "codepoint": "U+409F",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "rocks"
+  },
+  "䂧": {
+    "_id": "5f523afdde54193ed872f45d",
+    "char": "䂧",
+    "codepoint": "U+40A7",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "rocks clustered pile up together"
+  },
+  "䂯": {
+    "_id": "5f523afdde54193ed872f465",
+    "char": "䂯",
+    "codepoint": "U+40AF",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "a fine stone resembling jade"
+  },
+  "䂱": {
+    "_id": "5f523afdde54193ed872f467",
+    "char": "䂱",
+    "codepoint": "U+40B1",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to wear out"
+  },
+  "䂾": {
+    "_id": "5f523afdde54193ed872f474",
+    "char": "䂾",
+    "codepoint": "U+40BE",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to polish"
+  },
+  "䃁": {
+    "_id": "5f523afdde54193ed872f477",
+    "char": "䃁",
+    "codepoint": "U+40C1",
+    "strokeCount": 13,
+    "simpVariants": ["𰦴"],
+    "sources": ["unicode"],
+    "gloss": "uneven or rugged terrains"
+  },
+  "䃖": {
+    "_id": "5f523afdde54193ed872f48c",
+    "char": "䃖",
+    "codepoint": "U+40D6",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as U+9696 塢) a bank"
+  },
+  "䃘": {
+    "_id": "5f523afdde54193ed872f48e",
+    "char": "䃘",
+    "codepoint": "U+40D8",
+    "strokeCount": 16,
+    "simpVariants": ["𬒎"],
+    "sources": ["unicode"],
+    "gloss": "simple and crude (same as 硜) the sound of pebbles or stones knocking together"
+  },
+  "䃬": {
+    "_id": "5f523afdde54193ed872f4a2",
+    "char": "䃬",
+    "codepoint": "U+40EC",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "rocky"
+  },
+  "䃾": {
+    "_id": "5f523afdde54193ed872f4b4",
+    "char": "䃾",
+    "codepoint": "U+40FE",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%BE_0.png",
+        "source": "academia-sinica",
+        "description": "𦅫鎛(金)春秋中期",
+        "type": "Bronze",
+        "era": "Mid Spring and Autumn (~600 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%BE_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧示部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，以豚祠司命。从示，比聲。漢律曰：‘祠司命。’”",
+    "variants": [
+      { "char": "䃾", "parts": "礻比", "source": "academia-sinica" },
+      { "char": "𥘇", "parts": "礻匕", "source": "academia-sinica" }
+    ],
+    "gloss": "to offer a small pig as sacrifice when worshipping the god of life"
+  },
+  "䁎": {
+    "_id": "5f523afdde54193ed872f404",
+    "char": "䁎",
+    "codepoint": "U+404E",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "to make a close inspection"
+  },
+  "䁐": {
+    "_id": "5f523afdde54193ed872f406",
+    "char": "䁐",
+    "codepoint": "U+4050",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "deep eyed"
+  },
+  "䁴": {
+    "_id": "5f523afdde54193ed872f42a",
+    "char": "䁴",
+    "codepoint": "U+4074",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%B4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，視而止也。从目，亶聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁依《廣韻》改作“視而不止也”。" }],
+    "variants": [{ "char": "䁴", "parts": "目亶", "source": "academia-sinica" }],
+    "gloss": "keep on looking"
+  },
+  "䂀": {
+    "_id": "5f523afdde54193ed872f436",
+    "char": "䂀",
+    "codepoint": "U+4080",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "to wink"
+  },
+  "䂎": {
+    "_id": "5f523afdde54193ed872f444",
+    "char": "䂎",
+    "codepoint": "U+408E",
+    "strokeCount": 24,
+    "simpVariants": ["𥎝"],
+    "sources": ["unicode"],
+    "gloss": "a short spear"
+  },
+  "䂪": {
+    "_id": "5f523afdde54193ed872f460",
+    "char": "䂪",
+    "codepoint": "U+40AA",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "(same as 磽) hard barren land"
+  },
+  "䂬": {
+    "_id": "5f523afdde54193ed872f462",
+    "char": "䂬",
+    "codepoint": "U+40AC",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%AC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，水邊石。从石，巩聲。《春秋傳》曰：‘闕之甲。’”",
+    "variants": [{ "char": "䂬", "parts": "巩石", "source": "academia-sinica" }],
+    "gloss": "big rocks on the riverside (interchangeable 栱) an arched opening"
+  },
+  "䃓": {
+    "_id": "5f523afdde54193ed872f489",
+    "char": "䃓",
+    "codepoint": "U+40D3",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "to punish"
+  },
+  "䁗": {
+    "_id": "5f523afdde54193ed872f40d",
+    "char": "䁗",
+    "codepoint": "U+4057",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "light"
+  },
+  "䁕": {
+    "_id": "5f523afdde54193ed872f40b",
+    "char": "䁕",
+    "codepoint": "U+4055",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 盿) to look at"
+  },
+  "䂏": {
+    "_id": "5f523afdde54193ed872f445",
+    "char": "䂏",
+    "codepoint": "U+408F",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "short"
+  },
+  "䂕": {
+    "_id": "5f523afdde54193ed872f44b",
+    "char": "䂕",
+    "codepoint": "U+4095",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "short"
+  },
+  "䂙": {
+    "_id": "5f523afdde54193ed872f44f",
+    "char": "䂙",
+    "codepoint": "U+4099",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%99_0.png",
+        "source": "academia-sinica",
+        "description": "居延簡甲163(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "䂙", "parts": "石阝", "source": "academia-sinica" }]
+  },
+  "䂚": {
+    "_id": "5f523afdde54193ed872f450",
+    "char": "䂚",
+    "codepoint": "U+409A",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "a kind of stone"
+  },
+  "䂨": {
+    "_id": "5f523afdde54193ed872f45e",
+    "char": "䂨",
+    "codepoint": "U+40A8",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "䂳": {
+    "_id": "5f523afdde54193ed872f469",
+    "char": "䂳",
+    "codepoint": "U+40B3",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%B3_0.png",
+        "source": "academia-sinica",
+        "description": "老子乙244下(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "䂳", "parts": "石坐", "source": "academia-sinica" }],
+    "gloss": "gravel"
+  },
+  "䂿": {
+    "_id": "5f523afdde54193ed872f475",
+    "char": "䂿",
+    "codepoint": "U+40BF",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%BF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“舂已復擣之曰。从石，沓聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "王筠句讀：“沓者，重沓也，兼意。”" }],
+    "variants": [{ "char": "䂿", "parts": "石沓", "source": "academia-sinica" }],
+    "gloss": "to pound (grain) in order to remove the husk"
+  },
+  "䃨": {
+    "_id": "5f523afdde54193ed872f49e",
+    "char": "䃨",
+    "codepoint": "U+40E8",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "䁘": {
+    "_id": "5f523afdde54193ed872f40e",
+    "char": "䁘",
+    "codepoint": "U+4058",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䁲": {
+    "_id": "5f523afdde54193ed872f428",
+    "char": "䁲",
+    "codepoint": "U+4072",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%B2_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小視也。从目，買聲。”",
+    "variants": [{ "char": "䁲", "parts": "目買", "source": "academia-sinica" }],
+    "gloss": "to peep"
+  },
+  "䁷": {
+    "_id": "5f523afdde54193ed872f42d",
+    "char": "䁷",
+    "codepoint": "U+4077",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%B7_0.png",
+        "source": "academia-sinica",
+        "description": "睡.日甲13背(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "variants": [{ "char": "䁷", "parts": "目", "source": "academia-sinica" }],
+    "gloss": "bright eyes"
+  },
+  "䂁": {
+    "_id": "5f523afdde54193ed872f437",
+    "char": "䂁",
+    "codepoint": "U+4081",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "an angry look"
+  },
+  "䂖": {
+    "_id": "5f523afdde54193ed872f44c",
+    "char": "䂖",
+    "codepoint": "U+4096",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "(same as 石) rocks",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䂘": {
+    "_id": "5f523afdde54193ed872f44e",
+    "char": "䂘",
+    "codepoint": "U+4098",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "pebble"
+  },
+  "䂦": {
+    "_id": "5f523afdde54193ed872f45c",
+    "char": "䂦",
+    "codepoint": "U+40A6",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "tired"
+  },
+  "䂺": {
+    "_id": "5f523afdde54193ed872f470",
+    "char": "䂺",
+    "codepoint": "U+40BA",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "rocks"
+  },
+  "䂻": {
+    "_id": "5f523afdde54193ed872f471",
+    "char": "䂻",
+    "codepoint": "U+40BB",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to block"
+  },
+  "䃇": {
+    "_id": "5f523afdde54193ed872f47d",
+    "char": "䃇",
+    "codepoint": "U+40C7",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "ink (usually red) for imprinting of seals"
+  },
+  "䃧": {
+    "_id": "5f523afdde54193ed872f49d",
+    "char": "䃧",
+    "codepoint": "U+40E7",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "sound of falling rocks"
+  },
+  "䃯": {
+    "_id": "5f523afdde54193ed872f4a5",
+    "char": "䃯",
+    "codepoint": "U+40EF",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(abbreviated form of 礫) small stones"
+  },
+  "䃵": {
+    "_id": "5f523afdde54193ed872f4ab",
+    "char": "䃵",
+    "codepoint": "U+40F5",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of stone"
+  },
+  "䃹": {
+    "_id": "5f523afdde54193ed872f4af",
+    "char": "䃹",
+    "codepoint": "U+40F9",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "jade and stone"
+  },
+  "䁝": {
+    "_id": "5f523afdde54193ed872f413",
+    "char": "䁝",
+    "codepoint": "U+405D",
+    "strokeCount": 15,
+    "simpVariants": ["𰥞"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%9D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，惑也。从目，榮省聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁本作“从目，熒省聲” 。" }],
+    "variants": [{ "char": "䁝", "parts": "目", "source": "academia-sinica" }],
+    "gloss": "deluding and causing disorder (interchangeable 熒) lights shining"
+  },
+  "䂉": {
+    "_id": "5f523afdde54193ed872f43f",
+    "char": "䂉",
+    "codepoint": "U+4089",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "weapons"
+  },
+  "䂊": {
+    "_id": "5f523afdde54193ed872f440",
+    "char": "䂊",
+    "codepoint": "U+408A",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "weapons"
+  },
+  "䂡": {
+    "_id": "5f523afdde54193ed872f457",
+    "char": "䂡",
+    "codepoint": "U+40A1",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form 砥) a whetstone"
+  },
+  "䂩": {
+    "_id": "5f523afdde54193ed872f45f",
+    "char": "䂩",
+    "codepoint": "U+40A9",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "(same as 硯) an in-slab or ink-stone (same as 硜) sound of pebbles or stones rubbing or knocking together"
+  },
+  "䃕": {
+    "_id": "5f523afdde54193ed872f48b",
+    "char": "䃕",
+    "codepoint": "U+40D5",
+    "strokeCount": 15,
+    "simpVariants": ["𰦷"],
+    "sources": ["unicode"],
+    "gloss": "stoneware"
+  },
+  "䃮": {
+    "_id": "5f523afdde54193ed872f4a4",
+    "char": "䃮",
+    "codepoint": "U+40EE",
+    "strokeCount": 18,
+    "simpVariants": ["鿎"],
+    "sources": ["unicode"],
+    "gloss": "a stone build hydraulic measures (to store and to vent the water) in ancient times"
+  },
+  "䃽": {
+    "_id": "5f523afdde54193ed872f4b3",
+    "char": "䃽",
+    "codepoint": "U+40FD",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "name of a mountain (of warship)"
+  },
+  "䁁": {
+    "_id": "5f523afdde54193ed872f3f7",
+    "char": "䁁",
+    "codepoint": "U+4041",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as 䀶) strabismus"
+  },
+  "䁅": {
+    "_id": "5f523afdde54193ed872f3fb",
+    "char": "䁅",
+    "codepoint": "U+4045",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "rage"
+  },
+  "䁓": {
+    "_id": "5f523afdde54193ed872f409",
+    "char": "䁓",
+    "codepoint": "U+4053",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䁖": {
+    "_id": "5f523afdde54193ed872f40c",
+    "char": "䁖",
+    "codepoint": "U+4056",
+    "strokeCount": 14,
+    "tradVariants": ["瞜"],
+    "sources": ["unicode"],
+    "gloss": "to see",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䁰": {
+    "_id": "5f523afdde54193ed872f426",
+    "char": "䁰",
+    "codepoint": "U+4070",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "to look in a evil or wicked way"
+  },
+  "䂇": {
+    "_id": "5f523afdde54193ed872f43d",
+    "char": "䂇",
+    "codepoint": "U+4087",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%87_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧矛部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，剌也。从矛，丑聲。”",
+    "comments": [
+      { "source": "academia-sinica", "text": "鈕樹玉校錄：“䂇，刺也。宋本作剌也，譌。”" }
+    ],
+    "variants": [{ "char": "䂇", "parts": "矛丑", "source": "academia-sinica" }],
+    "gloss": "to pierce"
+  },
+  "䂵": {
+    "_id": "5f523afdde54193ed872f46b",
+    "char": "䂵",
+    "codepoint": "U+40B5",
+    "strokeCount": 12,
+    "tradVariants": ["碽"],
+    "sources": ["unicode"],
+    "gloss": "(a simplified form of 碽) sound of bumping or striking"
+  },
+  "䃅": {
+    "_id": "5f523afdde54193ed872f47b",
+    "char": "䃅",
+    "codepoint": "U+40C5",
+    "strokeCount": 13,
+    "tradVariants": ["磾"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form 磾) dyestuff (black colored mineral)"
+  },
+  "䃈": {
+    "_id": "5f523afdde54193ed872f47e",
+    "char": "䃈",
+    "codepoint": "U+40C8",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "mountain rocks(same as 瑎) a black stone resembling jade"
+  },
+  "䃔": {
+    "_id": "5f523afdde54193ed872f48a",
+    "char": "䃔",
+    "codepoint": "U+40D4",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "sound of falling rocks"
+  },
+  "䃙": {
+    "_id": "5f523afdde54193ed872f48f",
+    "char": "䃙",
+    "codepoint": "U+40D9",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "rocks"
+  },
+  "䃿": {
+    "_id": "5f523afdde54193ed872f4b5",
+    "char": "䃿",
+    "codepoint": "U+40FF",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "a rite or service"
+  },
+  "䁃": {
+    "_id": "5f523afdde54193ed872f3f9",
+    "char": "䁃",
+    "codepoint": "U+4043",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to look attentively"
+  },
+  "䁜": {
+    "_id": "5f523afdde54193ed872f412",
+    "char": "䁜",
+    "codepoint": "U+405C",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "big eyes"
+  },
+  "䁫": {
+    "_id": "5f523afdde54193ed872f421",
+    "char": "䁫",
+    "codepoint": "U+406B",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "muddy"
+  },
+  "䁱": {
+    "_id": "5f523afdde54193ed872f427",
+    "char": "䁱",
+    "codepoint": "U+4071",
+    "strokeCount": 17,
+    "simpVariants": ["𬑒"],
+    "sources": ["unicode"],
+    "gloss": "(same as 眗) hollow-eyed"
+  },
+  "䁸": {
+    "_id": "5f523afdde54193ed872f42e",
+    "char": "䁸",
+    "codepoint": "U+4078",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "eyesight obscured"
+  },
+  "䁿": {
+    "_id": "5f523afdde54193ed872f435",
+    "char": "䁿",
+    "codepoint": "U+407F",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "sleepy"
+  },
+  "䂴": {
+    "_id": "5f523afdde54193ed872f46a",
+    "char": "䂴",
+    "codepoint": "U+40B4",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(same as U+7814 研) to rub"
+  },
+  "䂷": {
+    "_id": "5f523afdde54193ed872f46d",
+    "char": "䂷",
+    "codepoint": "U+40B7",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "broken"
+  },
+  "䃗": {
+    "_id": "5f523afdde54193ed872f48d",
+    "char": "䃗",
+    "codepoint": "U+40D7",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "rocks"
+  },
+  "䃛": {
+    "_id": "5f523afdde54193ed872f491",
+    "char": "䃛",
+    "codepoint": "U+40DB",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 鏈) chain"
+  },
+  "䃩": {
+    "_id": "5f523afdde54193ed872f49f",
+    "char": "䃩",
+    "codepoint": "U+40E9",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 縭) a mineral"
+  },
+  "䃫": {
+    "_id": "5f523afdde54193ed872f4a1",
+    "char": "䃫",
+    "codepoint": "U+40EB",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a silicate substance from the salt-wells in Szechwan"
+  },
+  "䃰": {
+    "_id": "5f523afdde54193ed872f4a6",
+    "char": "䃰",
+    "codepoint": "U+40F0",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "brick or stone steps"
+  },
+  "䃶": {
+    "_id": "5f523afdde54193ed872f4ac",
+    "char": "䃶",
+    "codepoint": "U+40F6",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "rugged and uneven of the rocks"
+  },
+  "䃻": {
+    "_id": "5f523afdde54193ed872f4b1",
+    "char": "䃻",
+    "codepoint": "U+40FB",
+    "strokeCount": 26,
+    "sources": ["unicode"],
+    "gloss": "(same as 壩) an embankment"
+  },
+  "䁇": {
+    "_id": "5f523afdde54193ed872f3fd",
+    "char": "䁇",
+    "codepoint": "U+4047",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to look for a short time"
+  },
+  "䁠": {
+    "_id": "5f523afdde54193ed872f416",
+    "char": "䁠",
+    "codepoint": "U+4060",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "to hang down (eyes)"
+  },
+  "䁤": {
+    "_id": "5f523afdde54193ed872f41a",
+    "char": "䁤",
+    "codepoint": "U+4064",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "moistened eyes"
+  },
+  "䁭": {
+    "_id": "5f523afdde54193ed872f423",
+    "char": "䁭",
+    "codepoint": "U+406D",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "to give an angry look"
+  },
+  "䁵": {
+    "_id": "5f523afdde54193ed872f42b",
+    "char": "䁵",
+    "codepoint": "U+4075",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%B5_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“（），兒初生瞥者。从目，瞏聲。”",
+    "variants": [{ "char": "䁵", "parts": "目睘", "source": "academia-sinica" }],
+    "gloss": "newborn baby with the eyelids closed"
+  },
+  "䁺": {
+    "_id": "5f523afdde54193ed872f430",
+    "char": "䁺",
+    "codepoint": "U+407A",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "to look at"
+  },
+  "䂋": {
+    "_id": "5f523afdde54193ed872f441",
+    "char": "䂋",
+    "codepoint": "U+408B",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "䂌": {
+    "_id": "5f523afdde54193ed872f442",
+    "char": "䂌",
+    "codepoint": "U+408C",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a short weapon (daggers"
+  },
+  "䂑": {
+    "_id": "5f523afdde54193ed872f447",
+    "char": "䂑",
+    "codepoint": "U+4091",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "short"
+  },
+  "䂞": {
+    "_id": "5f523afdde54193ed872f454",
+    "char": "䂞",
+    "codepoint": "U+409E",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "(same as 柘) a thorny tree about 15 feet high"
+  },
+  "䂰": {
+    "_id": "5f523afdde54193ed872f466",
+    "char": "䂰",
+    "codepoint": "U+40B0",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "rocks"
+  },
+  "䂹": {
+    "_id": "5f523afdde54193ed872f46f",
+    "char": "䂹",
+    "codepoint": "U+40B9",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%82%B9_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，碎石隕聲。从石，炙聲。”",
+    "variants": [{ "char": "䂹", "parts": "石炙", "source": "academia-sinica" }],
+    "gloss": "sound of the falling pieces of rocks"
+  },
+  "䂽": {
+    "_id": "5f523afdde54193ed872f473",
+    "char": "䂽",
+    "codepoint": "U+40BD",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(a kind of) rocks"
+  },
+  "䃐": {
+    "_id": "5f523afdde54193ed872f486",
+    "char": "䃐",
+    "codepoint": "U+40D0",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "䃑": {
+    "_id": "5f523afdde54193ed872f487",
+    "char": "䃑",
+    "codepoint": "U+40D1",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as standard form 斑) speckles"
+  },
+  "䃣": {
+    "_id": "5f523afdde54193ed872f499",
+    "char": "䃣",
+    "codepoint": "U+40E3",
+    "strokeCount": 17,
+    "simpVariants": ["𰦨"],
+    "sources": ["unicode"],
+    "gloss": "(same as 毀) to ruin"
+  },
+  "䃤": {
+    "_id": "5f523afdde54193ed872f49a",
+    "char": "䃤",
+    "codepoint": "U+40E4",
+    "strokeCount": 17,
+    "simpVariants": ["𬒕"],
+    "sources": ["unicode"],
+    "gloss": "black colored grindstone or whetstone"
+  },
+  "䃲": {
+    "_id": "5f523afdde54193ed872f4a8",
+    "char": "䃲",
+    "codepoint": "U+40F2",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 磐) a great rock"
+  },
+  "䁼": {
+    "_id": "5f523afdde54193ed872f432",
+    "char": "䁼",
+    "codepoint": "U+407C",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(literally) to look but see nothing -- absent-minded"
+  },
+  "䂐": {
+    "_id": "5f523afdde54193ed872f446",
+    "char": "䂐",
+    "codepoint": "U+4090",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "short (ancient form of 拙) stupid"
+  },
+  "䂒": {
+    "_id": "5f523afdde54193ed872f448",
+    "char": "䂒",
+    "codepoint": "U+4092",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "short (dialect) to curry favor"
+  },
+  "䂠": {
+    "_id": "5f523afdde54193ed872f456",
+    "char": "䂠",
+    "codepoint": "U+40A0",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "sound of falling rocks"
+  },
+  "䂥": {
+    "_id": "5f523afdde54193ed872f45b",
+    "char": "䂥",
+    "codepoint": "U+40A5",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "(same as 賨) a fine stone resembling jade"
+  },
+  "䂭": {
+    "_id": "5f523afdde54193ed872f463",
+    "char": "䂭",
+    "codepoint": "U+40AD",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "name of a place"
+  },
+  "䂮": {
+    "_id": "5f523afdde54193ed872f464",
+    "char": "䂮",
+    "codepoint": "U+40AE",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "stone"
+  },
+  "䃎": {
+    "_id": "5f523afdde54193ed872f484",
+    "char": "䃎",
+    "codepoint": "U+40CE",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "name of a place (usually to be used in naming a place) (interchangeable 砟) small piece of coal"
+  },
+  "䃦": {
+    "_id": "5f523afdde54193ed872f49c",
+    "char": "䃦",
+    "codepoint": "U+40E6",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a flat and great rock people squat or crouch on it"
+  },
+  "䁊": {
+    "_id": "5f523afdde54193ed872f400",
+    "char": "䁊",
+    "codepoint": "U+404A",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%8A_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，短深目皃。从目，聲。”",
+    "variants": [{ "char": "䁊", "parts": "𥄗目", "source": "academia-sinica" }],
+    "gloss": "dark and deep eyed"
+  },
+  "䁑": {
+    "_id": "5f523afdde54193ed872f407",
+    "char": "䁑",
+    "codepoint": "U+4051",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 眻) pretty eyes"
+  },
+  "䁚": {
+    "_id": "5f523afdde54193ed872f410",
+    "char": "䁚",
+    "codepoint": "U+405A",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a kind of eye disease"
+  },
+  "䁦": {
+    "_id": "5f523afdde54193ed872f41c",
+    "char": "䁦",
+    "codepoint": "U+4066",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as U+89B0 覷) to see"
+  },
+  "䁮": {
+    "_id": "5f523afdde54193ed872f424",
+    "char": "䁮",
+    "codepoint": "U+406E",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "sad"
+  },
+  "䁳": {
+    "_id": "5f523afdde54193ed872f429",
+    "char": "䁳",
+    "codepoint": "U+4073",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "to lose one eye"
+  },
+  "䁶": {
+    "_id": "5f523afdde54193ed872f42c",
+    "char": "䁶",
+    "codepoint": "U+4076",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "to look at something without winking"
+  },
+  "䂜": {
+    "_id": "5f523afdde54193ed872f452",
+    "char": "䂜",
+    "codepoint": "U+409C",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "rocky (same as 玤) fine stone which is little less valuable than jade (interchangeable 崩) to collapse"
+  },
+  "䃥": {
+    "_id": "5f523afdde54193ed872f49b",
+    "char": "䃥",
+    "codepoint": "U+40E5",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "stones"
+  },
+  "䃪": {
+    "_id": "5f523afdde54193ed872f4a0",
+    "char": "䃪",
+    "codepoint": "U+40EA",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 壇) a platform for sacrificial rites"
+  },
+  "䃳": {
+    "_id": "5f523afdde54193ed872f4a9",
+    "char": "䃳",
+    "codepoint": "U+40F3",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "falling stone"
+  },
+  "䃴": {
+    "_id": "5f523afdde54193ed872f4aa",
+    "char": "䃴",
+    "codepoint": "U+40F4",
+    "strokeCount": 21,
+    "simpVariants": ["𰧘"],
+    "sources": ["unicode"],
+    "gloss": "a whetstone used to grind precious stone (jade"
+  },
+  "䁏": {
+    "_id": "5f523afdde54193ed872f405",
+    "char": "䁏",
+    "codepoint": "U+404F",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "farsightedness (as a physical defect)"
+  },
+  "䁨": {
+    "_id": "5f523afdde54193ed872f41e",
+    "char": "䁨",
+    "codepoint": "U+4068",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to open the eyes with astonishment"
+  },
+  "䂼": {
+    "_id": "5f523afdde54193ed872f472",
+    "char": "䂼",
+    "codepoint": "U+40BC",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(a kind of) rocks"
+  },
+  "䃏": {
+    "_id": "5f523afdde54193ed872f485",
+    "char": "䃏",
+    "codepoint": "U+40CF",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a kind of rock"
+  },
+  "䁂": {
+    "_id": "5f523afdde54193ed872f3f8",
+    "char": "䁂",
+    "codepoint": "U+4042",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%82_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，大目也。从目，臤聲。”",
+    "variants": [{ "char": "䁂", "parts": "臤目", "source": "academia-sinica" }],
+    "gloss": "big eyes"
+  },
+  "䁀": {
+    "_id": "5f523afdde54193ed872f3f6",
+    "char": "䁀",
+    "codepoint": "U+4040",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "䁩": {
+    "_id": "5f523afdde54193ed872f41f",
+    "char": "䁩",
+    "codepoint": "U+4069",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 魚) fish"
+  },
+  "䁹": {
+    "_id": "5f523afdde54193ed872f42f",
+    "char": "䁹",
+    "codepoint": "U+4079",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as U+7764 睥) to look askance -- a expression of disdain or despise"
+  },
+  "䁽": {
+    "_id": "5f523afdde54193ed872f433",
+    "char": "䁽",
+    "codepoint": "U+407D",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "eyesight obscured"
+  },
+  "䂍": {
+    "_id": "5f523afdde54193ed872f443",
+    "char": "䂍",
+    "codepoint": "U+408D",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of weapon carried by the honor guard before the Emperor in ancient times"
+  },
+  "䂔": {
+    "_id": "5f523afdde54193ed872f44a",
+    "char": "䂔",
+    "codepoint": "U+4094",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "short"
+  },
+  "䂢": {
+    "_id": "5f523afdde54193ed872f458",
+    "char": "䂢",
+    "codepoint": "U+40A2",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "sound of falling rocks"
+  },
+  "䂫": {
+    "_id": "5f523afdde54193ed872f461",
+    "char": "䂫",
+    "codepoint": "U+40AB",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "noise of stones rolling down"
+  },
+  "䂲": {
+    "_id": "5f523afdde54193ed872f468",
+    "char": "䂲",
+    "codepoint": "U+40B2",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(same as 砝) standard weights used in scales",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䃂": {
+    "_id": "5f523afdde54193ed872f478",
+    "char": "䃂",
+    "codepoint": "U+40C2",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "dull sound of the tolling bell"
+  },
+  "䃠": {
+    "_id": "5f523afdde54193ed872f496",
+    "char": "䃠",
+    "codepoint": "U+40E0",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "䃡": {
+    "_id": "5f523afdde54193ed872f497",
+    "char": "䃡",
+    "codepoint": "U+40E1",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a small pebble"
+  },
+  "䃢": {
+    "_id": "5f523afdde54193ed872f498",
+    "char": "䃢",
+    "codepoint": "U+40E2",
+    "strokeCount": 17,
+    "simpVariants": ["𰧎"],
+    "sources": ["unicode"],
+    "gloss": "name of a mountain (same as 嶔) lofty (of a mountain)"
+  },
+  "䃱": {
+    "_id": "5f523afdde54193ed872f4a7",
+    "char": "䃱",
+    "codepoint": "U+40F1",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 䃸) electric light"
+  },
+  "䃼": {
+    "_id": "5f523afdde54193ed872f4b2",
+    "char": "䃼",
+    "codepoint": "U+40FC",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "䁌": {
+    "_id": "5f523afdde54193ed872f402",
+    "char": "䁌",
+    "codepoint": "U+404C",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "to see for a short time"
+  },
+  "䁍": {
+    "_id": "5f523afdde54193ed872f403",
+    "char": "䁍",
+    "codepoint": "U+404D",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%8D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，目陷也。从目，咸聲。”",
+    "variants": [{ "char": "䁍", "parts": "目咸", "source": "academia-sinica" }],
+    "gloss": "blind"
+  },
+  "䁔": {
+    "_id": "5f523afdde54193ed872f40a",
+    "char": "䁔",
+    "codepoint": "U+4054",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%94_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，大目也。从目，爰聲。”",
+    "variants": [{ "char": "䁔", "parts": "目爰", "source": "academia-sinica" }],
+    "gloss": "big eyes (same as 睅) protuberant eyes"
+  },
+  "䁙": {
+    "_id": "5f523afdde54193ed872f40f",
+    "char": "䁙",
+    "codepoint": "U+4059",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%81%99_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧目部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，目相戲也。从目，晏聲。《詩》曰：‘婉之求。’”",
+    "variants": [{ "char": "䁙", "parts": "目晏", "source": "academia-sinica" }],
+    "gloss": "eloquent eyes"
+  },
+  "䁞": {
+    "_id": "5f523afdde54193ed872f414",
+    "char": "䁞",
+    "codepoint": "U+405E",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as ancient form of 省) a province"
+  },
+  "䂂": {
+    "_id": "5f523afdde54193ed872f438",
+    "char": "䂂",
+    "codepoint": "U+4082",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "to gaze at in terror"
+  },
+  "䂄": {
+    "_id": "5f523afdde54193ed872f43a",
+    "char": "䂄",
+    "codepoint": "U+4084",
+    "strokeCount": 25,
+    "sources": ["unicode"],
+    "gloss": "to startle"
+  },
+  "䂣": {
+    "_id": "5f523afdde54193ed872f459",
+    "char": "䂣",
+    "codepoint": "U+40A3",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "a kind of mineral"
+  },
+  "䂶": {
+    "_id": "5f523afdde54193ed872f46c",
+    "char": "䂶",
+    "codepoint": "U+40B6",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "the Crustacea",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䃋": {
+    "_id": "5f523afdde54193ed872f481",
+    "char": "䃋",
+    "codepoint": "U+40CB",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a fine stone resembling jade"
+  },
+  "䃌": {
+    "_id": "5f523afdde54193ed872f482",
+    "char": "䃌",
+    "codepoint": "U+40CC",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "rocky mountain"
+  },
+  "䃍": {
+    "_id": "5f523afdde54193ed872f483",
+    "char": "䃍",
+    "codepoint": "U+40CD",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%8D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，陊也。从石，欮聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "徐鍇繫傳：“今作墜。”" }],
+    "variants": [{ "char": "䃍", "parts": "石㒸", "source": "academia-sinica" }],
+    "gloss": "(ancient form of 墜) to fall down"
+  },
+  "䃒": {
+    "_id": "5f523afdde54193ed872f488",
+    "char": "䃒",
+    "codepoint": "U+40D2",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%92_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，石也，惡也。从石，鬲聲。”",
+    "variants": [{ "char": "䃒", "parts": "石鬲", "source": "academia-sinica" }],
+    "gloss": "(of land) poor and barren"
+  },
+  "䃝": {
+    "_id": "5f523afdde54193ed872f493",
+    "char": "䃝",
+    "codepoint": "U+40DD",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 礉) rugged rocks"
+  },
+  "䃞": {
+    "_id": "5f523afdde54193ed872f494",
+    "char": "䃞",
+    "codepoint": "U+40DE",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of stone"
+  },
+  "䃟": {
+    "_id": "5f523afdde54193ed872f495",
+    "char": "䃟",
+    "codepoint": "U+40DF",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "䃟頭窰"
+  },
+  "䃭": {
+    "_id": "5f523afdde54193ed872f4a3",
+    "char": "䃭",
+    "codepoint": "U+40ED",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a stone box"
+  },
+  "䁡": {
+    "_id": "5f523afdde54193ed872f417",
+    "char": "䁡",
+    "codepoint": "U+4061",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "䁧": {
+    "_id": "5f523afdde54193ed872f41d",
+    "char": "䁧",
+    "codepoint": "U+4067",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to open wide (eyes)"
+  },
+  "䁪": {
+    "_id": "5f523afdde54193ed872f420",
+    "char": "䁪",
+    "codepoint": "U+406A",
+    "strokeCount": 16,
+    "simpVariants": ["𥇢"],
+    "sources": ["unicode"],
+    "gloss": "to wink"
+  },
+  "䁬": {
+    "_id": "5f523afdde54193ed872f422",
+    "char": "䁬",
+    "codepoint": "U+406C",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "to act pretentiously (by slit-eyed)"
+  },
+  "䂅": {
+    "_id": "5f523afdde54193ed872f43b",
+    "char": "䂅",
+    "codepoint": "U+4085",
+    "strokeCount": 30,
+    "sources": ["unicode"],
+    "gloss": "to have insight or vision of a simple and honest person"
+  },
+  "䂆": {
+    "_id": "5f523afdde54193ed872f43c",
+    "char": "䂆",
+    "codepoint": "U+4086",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "weapons"
+  },
+  "䂝": {
+    "_id": "5f523afdde54193ed872f453",
+    "char": "䂝",
+    "codepoint": "U+409D",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "(same as 矺) to rap"
+  },
+  "䃀": {
+    "_id": "5f523afdde54193ed872f476",
+    "char": "䃀",
+    "codepoint": "U+40C0",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "millstone"
+  },
+  "䃉": {
+    "_id": "5f523afdde54193ed872f47f",
+    "char": "䃉",
+    "codepoint": "U+40C9",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 賨) a stone resembling jade",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䃷": {
+    "_id": "5f523afdde54193ed872f4ad",
+    "char": "䃷",
+    "codepoint": "U+40F7",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of stone"
+  },
+  "䁄": {
+    "_id": "5f523afdde54193ed872f3fa",
+    "char": "䁄",
+    "codepoint": "U+4044",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to close the eyes"
+  },
+  "䁋": {
+    "_id": "5f523afdde54193ed872f401",
+    "char": "䁋",
+    "codepoint": "U+404B",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "with one eye closed"
+  },
+  "䁟": {
+    "_id": "5f523afdde54193ed872f415",
+    "char": "䁟",
+    "codepoint": "U+405F",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(interchangeable 差) wrong"
+  },
+  "䁾": {
+    "_id": "5f523afdde54193ed872f434",
+    "char": "䁾",
+    "codepoint": "U+407E",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "red and swelling of the eye socket"
+  },
+  "䂃": {
+    "_id": "5f523afdde54193ed872f439",
+    "char": "䂃",
+    "codepoint": "U+4083",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "dark"
+  },
+  "䂈": {
+    "_id": "5f523afdde54193ed872f43e",
+    "char": "䂈",
+    "codepoint": "U+4088",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to pierce"
+  },
+  "䂗": {
+    "_id": "5f523afdde54193ed872f44d",
+    "char": "䂗",
+    "codepoint": "U+4097",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "to be careful"
+  },
+  "䂛": {
+    "_id": "5f523afdde54193ed872f451",
+    "char": "䂛",
+    "codepoint": "U+409B",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "a kind of rock"
+  },
+  "䂤": {
+    "_id": "5f523afdde54193ed872f45a",
+    "char": "䂤",
+    "codepoint": "U+40A4",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "white stone"
+  },
+  "䃄": {
+    "_id": "5f523afdde54193ed872f47a",
+    "char": "䃄",
+    "codepoint": "U+40C4",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "䃆": {
+    "_id": "5f523afdde54193ed872f47c",
+    "char": "䃆",
+    "codepoint": "U+40C6",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "䃊": {
+    "_id": "5f523afdde54193ed872f480",
+    "char": "䃊",
+    "codepoint": "U+40CA",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "to rub"
+  },
+  "䃜": {
+    "_id": "5f523afdde54193ed872f492",
+    "char": "䃜",
+    "codepoint": "U+40DC",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a fine black stone"
+  },
+  "䃸": {
+    "_id": "5f523afdde54193ed872f4ae",
+    "char": "䃸",
+    "codepoint": "U+40F8",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "electric light"
+  },
+  "䃺": {
+    "_id": "5f523afdde54193ed872f4b0",
+    "char": "䃺",
+    "codepoint": "U+40FA",
+    "strokeCount": 24,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%BA_0.png",
+        "source": "academia-sinica",
+        "description": "郭.緇.36(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%BA_1.png",
+        "source": "academia-sinica",
+        "description": "上(1).䊷.18(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%83%BA_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧石部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，石磑也。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“䃺，今字省作磨。引申之義為研磨，俗乃分別其音。”《正字通．石部》：“䃺，磨本字。”"
+      }
+    ],
+    "variants": [
+      { "char": "䃺", "parts": "石靡", "source": "academia-sinica" },
+      { "char": "", "parts": "𣏟石", "source": "academia-sinica" },
+      { "char": "", "parts": "石𣏟", "source": "academia-sinica" }
+    ],
+    "gloss": "(a standard form of 磨) to grind"
+  }
+}

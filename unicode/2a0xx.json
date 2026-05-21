@@ -1,0 +1,2076 @@
+{
+  "𪀋": {
+    "_id": "5f523b00de54193ed873f541",
+    "char": "𪀋",
+    "codepoint": "U+2A00B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀆": {
+    "_id": "5f523b00de54193ed873f53c",
+    "char": "𪀆",
+    "codepoint": "U+2A006",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀍": {
+    "_id": "5f523b00de54193ed873f543",
+    "char": "𪀍",
+    "codepoint": "U+2A00D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀠": {
+    "_id": "5f523b00de54193ed873f556",
+    "char": "𪀠",
+    "codepoint": "U+2A020",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁈": {
+    "_id": "5f523b00de54193ed873f57e",
+    "char": "𪁈",
+    "codepoint": "U+2A048",
+    "strokeCount": 17,
+    "simpVariants": ["𪉉"],
+    "sources": ["unicode"]
+  },
+  "𪁍": {
+    "_id": "5f523b00de54193ed873f583",
+    "char": "𪁍",
+    "codepoint": "U+2A04D",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁖": {
+    "_id": "5f523b00de54193ed873f58c",
+    "char": "𪁖",
+    "codepoint": "U+2A056",
+    "strokeCount": 18,
+    "simpVariants": ["𪉌"],
+    "sources": ["unicode"]
+  },
+  "𪁼": {
+    "_id": "5f523b00de54193ed873f5b2",
+    "char": "𪁼",
+    "codepoint": "U+2A07C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂤": {
+    "_id": "5f523b00de54193ed873f5da",
+    "char": "𪂤",
+    "codepoint": "U+2A0A4",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂪": {
+    "_id": "5f523b00de54193ed873f5e0",
+    "char": "𪂪",
+    "codepoint": "U+2A0AA",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂰": {
+    "_id": "5f523b00de54193ed873f5e6",
+    "char": "𪂰",
+    "codepoint": "U+2A0B0",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂾": {
+    "_id": "5f523b00de54193ed873f5f4",
+    "char": "𪂾",
+    "codepoint": "U+2A0BE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀪": {
+    "_id": "5f523b00de54193ed873f560",
+    "char": "𪀪",
+    "codepoint": "U+2A02A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁁": {
+    "_id": "5f523b00de54193ed873f577",
+    "char": "𪁁",
+    "codepoint": "U+2A041",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁏": {
+    "_id": "5f523b00de54193ed873f585",
+    "char": "𪁏",
+    "codepoint": "U+2A04F",
+    "strokeCount": 18,
+    "simpVariants": ["𮭦"],
+    "sources": ["unicode"]
+  },
+  "𪁛": {
+    "_id": "5f523b00de54193ed873f591",
+    "char": "𪁛",
+    "codepoint": "U+2A05B",
+    "strokeCount": 18,
+    "simpVariants": ["𱉷"],
+    "sources": ["unicode"]
+  },
+  "𪁯": {
+    "_id": "5f523b00de54193ed873f5a5",
+    "char": "𪁯",
+    "codepoint": "U+2A06F",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂆": {
+    "_id": "5f523b00de54193ed873f5bc",
+    "char": "𪂆",
+    "codepoint": "U+2A086",
+    "strokeCount": 19,
+    "simpVariants": ["𪉎"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%86_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，昏聲。”",
+    "variants": [{ "char": "𪂆", "parts": "昏鳥", "source": "academia-sinica" }]
+  },
+  "𪂐": {
+    "_id": "5f523b00de54193ed873f5c6",
+    "char": "𪂐",
+    "codepoint": "U+2A090",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀄": {
+    "_id": "5f523b00de54193ed873f53a",
+    "char": "𪀄",
+    "codepoint": "U+2A004",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀌": {
+    "_id": "5f523b00de54193ed873f542",
+    "char": "𪀌",
+    "codepoint": "U+2A00C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀝": {
+    "_id": "5f523b00de54193ed873f553",
+    "char": "𪀝",
+    "codepoint": "U+2A01D",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%80%9D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鷙鳥也。从鳥，屰聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁注：“此今之鶚字也。”" }],
+    "variants": [{ "char": "𪀝", "parts": "屰鳥", "source": "academia-sinica" }]
+  },
+  "𪁡": {
+    "_id": "5f523b00de54193ed873f597",
+    "char": "𪁡",
+    "codepoint": "U+2A061",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁽": {
+    "_id": "5f523b00de54193ed873f5b3",
+    "char": "𪁽",
+    "codepoint": "U+2A07D",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂖": {
+    "_id": "5f523b00de54193ed873f5cc",
+    "char": "𪂖",
+    "codepoint": "U+2A096",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂯": {
+    "_id": "5f523b00de54193ed873f5e5",
+    "char": "𪂯",
+    "codepoint": "U+2A0AF",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂳": {
+    "_id": "5f523b00de54193ed873f5e9",
+    "char": "𪂳",
+    "codepoint": "U+2A0B3",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂵": {
+    "_id": "5f523b00de54193ed873f5eb",
+    "char": "𪂵",
+    "codepoint": "U+2A0B5",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂸": {
+    "_id": "5f523b00de54193ed873f5ee",
+    "char": "𪂸",
+    "codepoint": "U+2A0B8",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%B8_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鷫，鷫鷞也。五方神鳥也。東方發明，南方焦明，西方鷫鷞，北方幽昌，中央鳳皇。从鳥，肅聲。，司馬相如說从叜聲。”",
+    "variants": [
+      { "char": "鷫", "parts": "肅鳥", "source": "academia-sinica" },
+      { "char": "𪂸", "parts": "叜鳥", "source": "academia-sinica" }
+    ]
+  },
+  "𪀥": {
+    "_id": "5f523b00de54193ed873f55b",
+    "char": "𪀥",
+    "codepoint": "U+2A025",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀭": {
+    "_id": "5f523b00de54193ed873f563",
+    "char": "𪀭",
+    "codepoint": "U+2A02D",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀾": {
+    "_id": "5f523b00de54193ed873f574",
+    "char": "𪀾",
+    "codepoint": "U+2A03E",
+    "strokeCount": 17,
+    "simpVariants": ["𪉋"],
+    "sources": ["unicode"]
+  },
+  "𪁐": {
+    "_id": "5f523b00de54193ed873f586",
+    "char": "𪁐",
+    "codepoint": "U+2A050",
+    "strokeCount": 18,
+    "simpVariants": ["𬸎"],
+    "sources": ["unicode"]
+  },
+  "𪁔": {
+    "_id": "5f523b00de54193ed873f58a",
+    "char": "𪁔",
+    "codepoint": "U+2A054",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁗": {
+    "_id": "5f523b00de54193ed873f58d",
+    "char": "𪁗",
+    "codepoint": "U+2A057",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂒": {
+    "_id": "5f523b00de54193ed873f5c8",
+    "char": "𪂒",
+    "codepoint": "U+2A092",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂓": {
+    "_id": "5f523b00de54193ed873f5c9",
+    "char": "𪂓",
+    "codepoint": "U+2A093",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀇": {
+    "_id": "5f523b00de54193ed873f53d",
+    "char": "𪀇",
+    "codepoint": "U+2A007",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀉": {
+    "_id": "5f523b00de54193ed873f53f",
+    "char": "𪀉",
+    "codepoint": "U+2A009",
+    "strokeCount": 16,
+    "simpVariants": ["𬸂"],
+    "sources": ["unicode"]
+  },
+  "𪀿": {
+    "_id": "5f523b00de54193ed873f575",
+    "char": "𪀿",
+    "codepoint": "U+2A03F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁝": {
+    "_id": "5f523b00de54193ed873f593",
+    "char": "𪁝",
+    "codepoint": "U+2A05D",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%9D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鴰，麋鴰也。从鳥，聲。”",
+    "variants": [{ "char": "鴰", "parts": "鳥", "source": "academia-sinica" }]
+  },
+  "𪂋": {
+    "_id": "5f523b00de54193ed873f5c1",
+    "char": "𪂋",
+    "codepoint": "U+2A08B",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂭": {
+    "_id": "5f523b00de54193ed873f5e3",
+    "char": "𪂭",
+    "codepoint": "U+2A0AD",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂹": {
+    "_id": "5f523b00de54193ed873f5ef",
+    "char": "𪂹",
+    "codepoint": "U+2A0B9",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀏": {
+    "_id": "5f523b00de54193ed873f545",
+    "char": "𪀏",
+    "codepoint": "U+2A00F",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀒": {
+    "_id": "5f523b00de54193ed873f548",
+    "char": "𪀒",
+    "codepoint": "U+2A012",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "variant of 鴟 U+9D1F"
+  },
+  "𪀔": {
+    "_id": "5f523b00de54193ed873f54a",
+    "char": "𪀔",
+    "codepoint": "U+2A014",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀜": {
+    "_id": "5f523b00de54193ed873f552",
+    "char": "𪀜",
+    "codepoint": "U+2A01C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀵": {
+    "_id": "5f523b00de54193ed873f56b",
+    "char": "𪀵",
+    "codepoint": "U+2A035",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁆": {
+    "_id": "5f523b00de54193ed873f57c",
+    "char": "𪁆",
+    "codepoint": "U+2A046",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁇": {
+    "_id": "5f523b00de54193ed873f57d",
+    "char": "𪁇",
+    "codepoint": "U+2A047",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁘": {
+    "_id": "5f523b00de54193ed873f58e",
+    "char": "𪁘",
+    "codepoint": "U+2A058",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁵": {
+    "_id": "5f523b00de54193ed873f5ab",
+    "char": "𪁵",
+    "codepoint": "U+2A075",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁺": {
+    "_id": "5f523b00de54193ed873f5b0",
+    "char": "𪁺",
+    "codepoint": "U+2A07A",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂏": {
+    "_id": "5f523b00de54193ed873f5c5",
+    "char": "𪂏",
+    "codepoint": "U+2A08F",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂦": {
+    "_id": "5f523b00de54193ed873f5dc",
+    "char": "𪂦",
+    "codepoint": "U+2A0A6",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂨": {
+    "_id": "5f523b00de54193ed873f5de",
+    "char": "𪂨",
+    "codepoint": "U+2A0A8",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀎": {
+    "_id": "5f523b00de54193ed873f544",
+    "char": "𪀎",
+    "codepoint": "U+2A00E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀤": {
+    "_id": "5f523b00de54193ed873f55a",
+    "char": "𪀤",
+    "codepoint": "U+2A024",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀶": {
+    "_id": "5f523b00de54193ed873f56c",
+    "char": "𪀶",
+    "codepoint": "U+2A036",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀻": {
+    "_id": "5f523b00de54193ed873f571",
+    "char": "𪀻",
+    "codepoint": "U+2A03B",
+    "strokeCount": 17,
+    "simpVariants": ["𬸋"],
+    "sources": ["unicode"]
+  },
+  "𪁷": {
+    "_id": "5f523b00de54193ed873f5ad",
+    "char": "𪁷",
+    "codepoint": "U+2A077",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪁻": {
+    "_id": "5f523b00de54193ed873f5b1",
+    "char": "𪁻",
+    "codepoint": "U+2A07B",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂃": {
+    "_id": "5f523b00de54193ed873f5b9",
+    "char": "𪂃",
+    "codepoint": "U+2A083",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%83_0.png",
+        "source": "academia-sinica",
+        "description": "包2.67(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "𪂃", "parts": "鳥卑", "source": "academia-sinica" }]
+  },
+  "𪂘": {
+    "_id": "5f523b00de54193ed873f5ce",
+    "char": "𪂘",
+    "codepoint": "U+2A098",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂙": {
+    "_id": "5f523b00de54193ed873f5cf",
+    "char": "𪂙",
+    "codepoint": "U+2A099",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂛": {
+    "_id": "5f523b00de54193ed873f5d1",
+    "char": "𪂛",
+    "codepoint": "U+2A09B",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂜": {
+    "_id": "5f523b00de54193ed873f5d2",
+    "char": "𪂜",
+    "codepoint": "U+2A09C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂡": {
+    "_id": "5f523b00de54193ed873f5d7",
+    "char": "𪂡",
+    "codepoint": "U+2A0A1",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀈": {
+    "_id": "5f523b00de54193ed873f53e",
+    "char": "𪀈",
+    "codepoint": "U+2A008",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀰": {
+    "_id": "5f523b00de54193ed873f566",
+    "char": "𪀰",
+    "codepoint": "U+2A030",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀼": {
+    "_id": "5f523b00de54193ed873f572",
+    "char": "𪀼",
+    "codepoint": "U+2A03C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁊": {
+    "_id": "5f523b00de54193ed873f580",
+    "char": "𪁊",
+    "codepoint": "U+2A04A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁰": {
+    "_id": "5f523b00de54193ed873f5a6",
+    "char": "𪁰",
+    "codepoint": "U+2A070",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁸": {
+    "_id": "5f523b00de54193ed873f5ae",
+    "char": "𪁸",
+    "codepoint": "U+2A078",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂌": {
+    "_id": "5f523b00de54193ed873f5c2",
+    "char": "𪂌",
+    "codepoint": "U+2A08C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂥": {
+    "_id": "5f523b00de54193ed873f5db",
+    "char": "𪂥",
+    "codepoint": "U+2A0A5",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂫": {
+    "_id": "5f523b00de54193ed873f5e1",
+    "char": "𪂫",
+    "codepoint": "U+2A0AB",
+    "strokeCount": 19,
+    "simpVariants": ["𬸓"],
+    "sources": ["unicode"]
+  },
+  "𪂻": {
+    "_id": "5f523b00de54193ed873f5f1",
+    "char": "𪂻",
+    "codepoint": "U+2A0BB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪂽": {
+    "_id": "5f523b00de54193ed873f5f3",
+    "char": "𪂽",
+    "codepoint": "U+2A0BD",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀁": {
+    "_id": "5f523b00de54193ed873f537",
+    "char": "𪀁",
+    "codepoint": "U+2A001",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀩": {
+    "_id": "5f523b00de54193ed873f55f",
+    "char": "𪀩",
+    "codepoint": "U+2A029",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀹": {
+    "_id": "5f523b00de54193ed873f56f",
+    "char": "𪀹",
+    "codepoint": "U+2A039",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁉": {
+    "_id": "5f523b00de54193ed873f57f",
+    "char": "𪁉",
+    "codepoint": "U+2A049",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%89_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从鳥，交聲。一曰也。”",
+    "variants": [{ "char": "鵁", "parts": "交鳥", "source": "academia-sinica" }]
+  },
+  "𪁥": {
+    "_id": "5f523b00de54193ed873f59b",
+    "char": "𪁥",
+    "codepoint": "U+2A065",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁱": {
+    "_id": "5f523b00de54193ed873f5a7",
+    "char": "𪁱",
+    "codepoint": "U+2A071",
+    "strokeCount": 18,
+    "simpVariants": ["𬸐"],
+    "sources": ["unicode"]
+  },
+  "𪁲": {
+    "_id": "5f523b00de54193ed873f5a8",
+    "char": "𪁲",
+    "codepoint": "U+2A072",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂈": {
+    "_id": "5f523b00de54193ed873f5be",
+    "char": "𪂈",
+    "codepoint": "U+2A088",
+    "strokeCount": 19,
+    "simpVariants": ["𬸖"],
+    "sources": ["unicode"]
+  },
+  "𪂎": {
+    "_id": "5f523b00de54193ed873f5c4",
+    "char": "𪂎",
+    "codepoint": "U+2A08E",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂕": {
+    "_id": "5f523b00de54193ed873f5cb",
+    "char": "𪂕",
+    "codepoint": "U+2A095",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂞": {
+    "_id": "5f523b00de54193ed873f5d4",
+    "char": "𪂞",
+    "codepoint": "U+2A09E",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂮": {
+    "_id": "5f523b00de54193ed873f5e4",
+    "char": "𪂮",
+    "codepoint": "U+2A0AE",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂱": {
+    "_id": "5f523b00de54193ed873f5e7",
+    "char": "𪂱",
+    "codepoint": "U+2A0B1",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀀": {
+    "_id": "5f523b00de54193ed873f536",
+    "char": "𪀀",
+    "codepoint": "U+2A000",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀖": {
+    "_id": "5f523b00de54193ed873f54c",
+    "char": "𪀖",
+    "codepoint": "U+2A016",
+    "strokeCount": 17,
+    "simpVariants": ["𫛧"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%80%96_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%80%96_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，禿也。从鳥，尗聲。鶖，或从秋。”",
+    "variants": [
+      { "char": "鶖", "parts": "秋鳥", "source": "academia-sinica" },
+      { "char": "𪀖", "parts": "尗鳥", "source": "academia-sinica" }
+    ]
+  },
+  "𪀘": {
+    "_id": "5f523b00de54193ed873f54e",
+    "char": "𪀘",
+    "codepoint": "U+2A018",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀛": {
+    "_id": "5f523b00de54193ed873f551",
+    "char": "𪀛",
+    "codepoint": "U+2A01B",
+    "strokeCount": 17,
+    "simpVariants": ["𬸉"],
+    "sources": ["unicode"]
+  },
+  "𪀞": {
+    "_id": "5f523b00de54193ed873f554",
+    "char": "𪀞",
+    "codepoint": "U+2A01E",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀫": {
+    "_id": "5f523b00de54193ed873f561",
+    "char": "𪀫",
+    "codepoint": "U+2A02B",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀮": {
+    "_id": "5f523b00de54193ed873f564",
+    "char": "𪀮",
+    "codepoint": "U+2A02E",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀳": {
+    "_id": "5f523b00de54193ed873f569",
+    "char": "𪀳",
+    "codepoint": "U+2A033",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁒": {
+    "_id": "5f523b00de54193ed873f588",
+    "char": "𪁒",
+    "codepoint": "U+2A052",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁶": {
+    "_id": "5f523b00de54193ed873f5ac",
+    "char": "𪁶",
+    "codepoint": "U+2A076",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁹": {
+    "_id": "5f523b00de54193ed873f5af",
+    "char": "𪁹",
+    "codepoint": "U+2A079",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂺": {
+    "_id": "5f523b00de54193ed873f5f0",
+    "char": "𪂺",
+    "codepoint": "U+2A0BA",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀓": {
+    "_id": "5f523b00de54193ed873f549",
+    "char": "𪀓",
+    "codepoint": "U+2A013",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀚": {
+    "_id": "5f523b00de54193ed873f550",
+    "char": "𪀚",
+    "codepoint": "U+2A01A",
+    "strokeCount": 17,
+    "simpVariants": ["𱉣"],
+    "sources": ["unicode"]
+  },
+  "𪀟": {
+    "_id": "5f523b00de54193ed873f555",
+    "char": "𪀟",
+    "codepoint": "U+2A01F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀧": {
+    "_id": "5f523b00de54193ed873f55d",
+    "char": "𪀧",
+    "codepoint": "U+2A027",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁜": {
+    "_id": "5f523b00de54193ed873f592",
+    "char": "𪁜",
+    "codepoint": "U+2A05C",
+    "strokeCount": 18,
+    "simpVariants": ["𬸏"],
+    "sources": ["unicode"]
+  },
+  "𪁭": {
+    "_id": "5f523b00de54193ed873f5a3",
+    "char": "𪁭",
+    "codepoint": "U+2A06D",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂉": {
+    "_id": "5f523b00de54193ed873f5bf",
+    "char": "𪂉",
+    "codepoint": "U+2A089",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂟": {
+    "_id": "5f523b00de54193ed873f5d5",
+    "char": "𪂟",
+    "codepoint": "U+2A09F",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂴": {
+    "_id": "5f523b00de54193ed873f5ea",
+    "char": "𪂴",
+    "codepoint": "U+2A0B4",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%B4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从鳥，青聲。”",
+    "variants": [{ "char": "鶄", "parts": "青鳥", "source": "academia-sinica" }]
+  },
+  "𪂼": {
+    "_id": "5f523b00de54193ed873f5f2",
+    "char": "𪂼",
+    "codepoint": "U+2A0BC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪂿": {
+    "_id": "5f523b00de54193ed873f5f5",
+    "char": "𪂿",
+    "codepoint": "U+2A0BF",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀃": {
+    "_id": "5f523b00de54193ed873f539",
+    "char": "𪀃",
+    "codepoint": "U+2A003",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀑": {
+    "_id": "5f523b00de54193ed873f547",
+    "char": "𪀑",
+    "codepoint": "U+2A011",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀙": {
+    "_id": "5f523b00de54193ed873f54f",
+    "char": "𪀙",
+    "codepoint": "U+2A019",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀴": {
+    "_id": "5f523b00de54193ed873f56a",
+    "char": "𪀴",
+    "codepoint": "U+2A034",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁅": {
+    "_id": "5f523b00de54193ed873f57b",
+    "char": "𪁅",
+    "codepoint": "U+2A045",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁎": {
+    "_id": "5f523b00de54193ed873f584",
+    "char": "𪁎",
+    "codepoint": "U+2A04E",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁓": {
+    "_id": "5f523b00de54193ed873f589",
+    "char": "𪁓",
+    "codepoint": "U+2A053",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁕": {
+    "_id": "5f523b00de54193ed873f58b",
+    "char": "𪁕",
+    "codepoint": "U+2A055",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁞": {
+    "_id": "5f523b00de54193ed873f594",
+    "char": "𪁞",
+    "codepoint": "U+2A05E",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁪": {
+    "_id": "5f523b00de54193ed873f5a0",
+    "char": "𪁪",
+    "codepoint": "U+2A06A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁮": {
+    "_id": "5f523b00de54193ed873f5a4",
+    "char": "𪁮",
+    "codepoint": "U+2A06E",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂁": {
+    "_id": "5f523b00de54193ed873f5b7",
+    "char": "𪂁",
+    "codepoint": "U+2A081",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂝": {
+    "_id": "5f523b00de54193ed873f5d3",
+    "char": "𪂝",
+    "codepoint": "U+2A09D",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂬": {
+    "_id": "5f523b00de54193ed873f5e2",
+    "char": "𪂬",
+    "codepoint": "U+2A0AC",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪀊": {
+    "_id": "5f523b00de54193ed873f540",
+    "char": "𪀊",
+    "codepoint": "U+2A00A",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀕": {
+    "_id": "5f523b00de54193ed873f54b",
+    "char": "𪀕",
+    "codepoint": "U+2A015",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀣": {
+    "_id": "5f523b00de54193ed873f559",
+    "char": "𪀣",
+    "codepoint": "U+2A023",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀦": {
+    "_id": "5f523b00de54193ed873f55c",
+    "char": "𪀦",
+    "codepoint": "U+2A026",
+    "strokeCount": 17,
+    "simpVariants": ["𪉅"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%80%A6_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文新附》：“，谿，水鳥。从鳥，式聲。”",
+    "variants": [{ "char": "𪀦", "parts": "式鳥", "source": "academia-sinica" }]
+  },
+  "𪀱": {
+    "_id": "5f523b00de54193ed873f567",
+    "char": "𪀱",
+    "codepoint": "U+2A031",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀷": {
+    "_id": "5f523b00de54193ed873f56d",
+    "char": "𪀷",
+    "codepoint": "U+2A037",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁀": {
+    "_id": "5f523b00de54193ed873f576",
+    "char": "𪁀",
+    "codepoint": "U+2A040",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁙": {
+    "_id": "5f523b00de54193ed873f58f",
+    "char": "𪁙",
+    "codepoint": "U+2A059",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁚": {
+    "_id": "5f523b00de54193ed873f590",
+    "char": "𪁚",
+    "codepoint": "U+2A05A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁦": {
+    "_id": "5f523b00de54193ed873f59c",
+    "char": "𪁦",
+    "codepoint": "U+2A066",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁨": {
+    "_id": "5f523b00de54193ed873f59e",
+    "char": "𪁨",
+    "codepoint": "U+2A068",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁫": {
+    "_id": "5f523b00de54193ed873f5a1",
+    "char": "𪁫",
+    "codepoint": "U+2A06B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁬": {
+    "_id": "5f523b00de54193ed873f5a2",
+    "char": "𪁬",
+    "codepoint": "U+2A06C",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁿": {
+    "_id": "5f523b00de54193ed873f5b5",
+    "char": "𪁿",
+    "codepoint": "U+2A07F",
+    "strokeCount": 19,
+    "simpVariants": ["𬸔"],
+    "sources": ["unicode"]
+  },
+  "𪂚": {
+    "_id": "5f523b00de54193ed873f5d0",
+    "char": "𪂚",
+    "codepoint": "U+2A09A",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%82%9A_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，蔞鵝也。从鳥，坴聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "《集韻．屋韻》：“鵱，《說文》：‘蔞鵝也。’亦書作𪂚。”《龍龕手鑑．鳥部》：“𪂚，或作；鵱，今。鵱鷜，野鵝也。”"
+      }
+    ],
+    "variants": [{ "char": "鵱", "parts": "坴鳥", "source": "academia-sinica" }]
+  },
+  "𪂠": {
+    "_id": "5f523b00de54193ed873f5d6",
+    "char": "𪂠",
+    "codepoint": "U+2A0A0",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂲": {
+    "_id": "5f523b00de54193ed873f5e8",
+    "char": "𪂲",
+    "codepoint": "U+2A0B2",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂶": {
+    "_id": "5f523b00de54193ed873f5ec",
+    "char": "𪂶",
+    "codepoint": "U+2A0B6",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀂": {
+    "_id": "5f523b00de54193ed873f538",
+    "char": "𪀂",
+    "codepoint": "U+2A002",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀅": {
+    "_id": "5f523b00de54193ed873f53b",
+    "char": "𪀅",
+    "codepoint": "U+2A005",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𪀨": {
+    "_id": "5f523b00de54193ed873f55e",
+    "char": "𪀨",
+    "codepoint": "U+2A028",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀺": {
+    "_id": "5f523b00de54193ed873f570",
+    "char": "𪀺",
+    "codepoint": "U+2A03A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁄": {
+    "_id": "5f523b00de54193ed873f57a",
+    "char": "𪁄",
+    "codepoint": "U+2A044",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁟": {
+    "_id": "5f523b00de54193ed873f595",
+    "char": "𪁟",
+    "codepoint": "U+2A05F",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁢": {
+    "_id": "5f523b00de54193ed873f598",
+    "char": "𪁢",
+    "codepoint": "U+2A062",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁤": {
+    "_id": "5f523b00de54193ed873f59a",
+    "char": "𪁤",
+    "codepoint": "U+2A064",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁧": {
+    "_id": "5f523b00de54193ed873f59d",
+    "char": "𪁧",
+    "codepoint": "U+2A067",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%A7_0.png",
+        "source": "academia-sinica",
+        "description": "敶伯元匜(金)春秋",
+        "type": "Bronze",
+        "era": "Spring and Autumn (771-476 BC)"
+      }
+    ],
+    "variants": [{ "char": "𪁧", "parts": "辰鳥", "source": "academia-sinica" }]
+  },
+  "𪁾": {
+    "_id": "5f523b00de54193ed873f5b4",
+    "char": "𪁾",
+    "codepoint": "U+2A07E",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%BE_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，芺聲。”",
+    "variants": [{ "char": "𪁾", "parts": "芺鳥", "source": "academia-sinica" }]
+  },
+  "𪂀": {
+    "_id": "5f523b00de54193ed873f5b6",
+    "char": "𪂀",
+    "codepoint": "U+2A080",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂅": {
+    "_id": "5f523b00de54193ed873f5bb",
+    "char": "𪂅",
+    "codepoint": "U+2A085",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂔": {
+    "_id": "5f523b00de54193ed873f5ca",
+    "char": "𪂔",
+    "codepoint": "U+2A094",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂗": {
+    "_id": "5f523b00de54193ed873f5cd",
+    "char": "𪂗",
+    "codepoint": "U+2A097",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂧": {
+    "_id": "5f523b00de54193ed873f5dd",
+    "char": "𪂧",
+    "codepoint": "U+2A0A7",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂩": {
+    "_id": "5f523b00de54193ed873f5df",
+    "char": "𪂩",
+    "codepoint": "U+2A0A9",
+    "strokeCount": 19,
+    "simpVariants": ["𬸗"],
+    "sources": ["unicode"]
+  },
+  "𪀐": {
+    "_id": "5f523b00de54193ed873f546",
+    "char": "𪀐",
+    "codepoint": "U+2A010",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%80%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鵖也。从鳥，乏聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "《廣韻．緝韻》：“𪀐，亦作鴔。”" }],
+    "variants": [{ "char": "鴔", "parts": "乏鳥", "source": "academia-sinica" }]
+  },
+  "𪀗": {
+    "_id": "5f523b00de54193ed873f54d",
+    "char": "𪀗",
+    "codepoint": "U+2A017",
+    "strokeCount": 17,
+    "simpVariants": ["𱉭"],
+    "sources": ["unicode"]
+  },
+  "𪀬": {
+    "_id": "5f523b00de54193ed873f562",
+    "char": "𪀬",
+    "codepoint": "U+2A02C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀲": {
+    "_id": "5f523b00de54193ed873f568",
+    "char": "𪀲",
+    "codepoint": "U+2A032",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁂": {
+    "_id": "5f523b00de54193ed873f578",
+    "char": "𪁂",
+    "codepoint": "U+2A042",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁋": {
+    "_id": "5f523b00de54193ed873f581",
+    "char": "𪁋",
+    "codepoint": "U+2A04B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁑": {
+    "_id": "5f523b00de54193ed873f587",
+    "char": "𪁑",
+    "codepoint": "U+2A051",
+    "strokeCount": 18,
+    "simpVariants": ["𬸑"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%91_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，說省聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "桂馥義證：“說省聲者，當為兌聲。”" }],
+    "variants": [{ "char": "𪁑", "parts": "兌鳥", "source": "academia-sinica" }]
+  },
+  "𪁣": {
+    "_id": "5f523b00de54193ed873f599",
+    "char": "𪁣",
+    "codepoint": "U+2A063",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁳": {
+    "_id": "5f523b00de54193ed873f5a9",
+    "char": "𪁳",
+    "codepoint": "U+2A073",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁴": {
+    "_id": "5f523b00de54193ed873f5aa",
+    "char": "𪁴",
+    "codepoint": "U+2A074",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂇": {
+    "_id": "5f523b00de54193ed873f5bd",
+    "char": "𪂇",
+    "codepoint": "U+2A087",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂍": {
+    "_id": "5f523b00de54193ed873f5c3",
+    "char": "𪂍",
+    "codepoint": "U+2A08D",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂑": {
+    "_id": "5f523b00de54193ed873f5c7",
+    "char": "𪂑",
+    "codepoint": "U+2A091",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂣": {
+    "_id": "5f523b00de54193ed873f5d9",
+    "char": "𪂣",
+    "codepoint": "U+2A0A3",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂷": {
+    "_id": "5f523b00de54193ed873f5ed",
+    "char": "𪂷",
+    "codepoint": "U+2A0B7",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪀡": {
+    "_id": "5f523b00de54193ed873f557",
+    "char": "𪀡",
+    "codepoint": "U+2A021",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀢": {
+    "_id": "5f523b00de54193ed873f558",
+    "char": "𪀢",
+    "codepoint": "U+2A022",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀯": {
+    "_id": "5f523b00de54193ed873f565",
+    "char": "𪀯",
+    "codepoint": "U+2A02F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀸": {
+    "_id": "5f523b00de54193ed873f56e",
+    "char": "𪀸",
+    "codepoint": "U+2A038",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪀽": {
+    "_id": "5f523b00de54193ed873f573",
+    "char": "𪀽",
+    "codepoint": "U+2A03D",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁃": {
+    "_id": "5f523b00de54193ed873f579",
+    "char": "𪁃",
+    "codepoint": "U+2A043",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𪁌": {
+    "_id": "5f523b00de54193ed873f582",
+    "char": "𪁌",
+    "codepoint": "U+2A04C",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%8C_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%8C_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%81%8C_2.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鶃，鳥也。《春秋傳》曰：‘六鶃退飛’。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“今皆左兒右鳥。”《字彙．鳥部》：“鶃，同鶂。”"
+      }
+    ],
+    "variants": [
+      { "char": "鶂", "parts": "兒鳥", "source": "academia-sinica" },
+      { "char": "鷊", "parts": "鬲鳥", "source": "academia-sinica" },
+      { "char": "𪁌", "parts": "赤鳥", "source": "academia-sinica" }
+    ]
+  },
+  "𪁠": {
+    "_id": "5f523b00de54193ed873f596",
+    "char": "𪁠",
+    "codepoint": "U+2A060",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪁩": {
+    "_id": "5f523b00de54193ed873f59f",
+    "char": "𪁩",
+    "codepoint": "U+2A069",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𪂂": {
+    "_id": "5f523b00de54193ed873f5b8",
+    "char": "𪂂",
+    "codepoint": "U+2A082",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂄": {
+    "_id": "5f523b00de54193ed873f5ba",
+    "char": "𪂄",
+    "codepoint": "U+2A084",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂊": {
+    "_id": "5f523b00de54193ed873f5c0",
+    "char": "𪂊",
+    "codepoint": "U+2A08A",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪂢": {
+    "_id": "5f523b00de54193ed873f5d8",
+    "char": "𪂢",
+    "codepoint": "U+2A0A2",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𪃧": {
+    "_id": "5f523b00de54193ed873f61d",
+    "char": "𪃧",
+    "codepoint": "U+2A0E7",
+    "strokeCount": 20,
+    "simpVariants": ["𫛹"],
+    "sources": ["unicode"]
+  },
+  "𪃁": {
+    "_id": "5f523b00de54193ed873f5f7",
+    "char": "𪃁",
+    "codepoint": "U+2A0C1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃖": {
+    "_id": "5f523b00de54193ed873f60c",
+    "char": "𪃖",
+    "codepoint": "U+2A0D6",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃳": {
+    "_id": "5f523b00de54193ed873f629",
+    "char": "𪃳",
+    "codepoint": "U+2A0F3",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃺": {
+    "_id": "5f523b00de54193ed873f630",
+    "char": "𪃺",
+    "codepoint": "U+2A0FA",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𪃻": {
+    "_id": "5f523b00de54193ed873f631",
+    "char": "𪃻",
+    "codepoint": "U+2A0FB",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𪃇": {
+    "_id": "5f523b00de54193ed873f5fd",
+    "char": "𪃇",
+    "codepoint": "U+2A0C7",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃲": {
+    "_id": "5f523b00de54193ed873f628",
+    "char": "𪃲",
+    "codepoint": "U+2A0F2",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃶": {
+    "_id": "5f523b00de54193ed873f62c",
+    "char": "𪃶",
+    "codepoint": "U+2A0F6",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃞": {
+    "_id": "5f523b00de54193ed873f614",
+    "char": "𪃞",
+    "codepoint": "U+2A0DE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃛": {
+    "_id": "5f523b00de54193ed873f611",
+    "char": "𪃛",
+    "codepoint": "U+2A0DB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃾": {
+    "_id": "5f523b00de54193ed873f634",
+    "char": "𪃾",
+    "codepoint": "U+2A0FE",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𪃔": {
+    "_id": "5f523b00de54193ed873f60a",
+    "char": "𪃔",
+    "codepoint": "U+2A0D4",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃚": {
+    "_id": "5f523b00de54193ed873f610",
+    "char": "𪃚",
+    "codepoint": "U+2A0DA",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃨": {
+    "_id": "5f523b00de54193ed873f61e",
+    "char": "𪃨",
+    "codepoint": "U+2A0E8",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃵": {
+    "_id": "5f523b00de54193ed873f62b",
+    "char": "𪃵",
+    "codepoint": "U+2A0F5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃗": {
+    "_id": "5f523b00de54193ed873f60d",
+    "char": "𪃗",
+    "codepoint": "U+2A0D7",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃩": {
+    "_id": "5f523b00de54193ed873f61f",
+    "char": "𪃩",
+    "codepoint": "U+2A0E9",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃰": {
+    "_id": "5f523b00de54193ed873f626",
+    "char": "𪃰",
+    "codepoint": "U+2A0F0",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃸": {
+    "_id": "5f523b00de54193ed873f62e",
+    "char": "𪃸",
+    "codepoint": "U+2A0F8",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃬": {
+    "_id": "5f523b00de54193ed873f622",
+    "char": "𪃬",
+    "codepoint": "U+2A0EC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃭": {
+    "_id": "5f523b00de54193ed873f623",
+    "char": "𪃭",
+    "codepoint": "U+2A0ED",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃷": {
+    "_id": "5f523b00de54193ed873f62d",
+    "char": "𪃷",
+    "codepoint": "U+2A0F7",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃿": {
+    "_id": "5f523b00de54193ed873f635",
+    "char": "𪃿",
+    "codepoint": "U+2A0FF",
+    "strokeCount": 21,
+    "simpVariants": ["𬸠"],
+    "sources": ["unicode"],
+    "gloss": "a goose"
+  },
+  "𪃆": {
+    "_id": "5f523b00de54193ed873f5fc",
+    "char": "𪃆",
+    "codepoint": "U+2A0C6",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃎": {
+    "_id": "5f523b00de54193ed873f604",
+    "char": "𪃎",
+    "codepoint": "U+2A0CE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃝": {
+    "_id": "5f523b00de54193ed873f613",
+    "char": "𪃝",
+    "codepoint": "U+2A0DD",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃤": {
+    "_id": "5f523b00de54193ed873f61a",
+    "char": "𪃤",
+    "codepoint": "U+2A0E4",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃮": {
+    "_id": "5f523b00de54193ed873f624",
+    "char": "𪃮",
+    "codepoint": "U+2A0EE",
+    "strokeCount": 20,
+    "simpVariants": ["𬸟"],
+    "sources": ["unicode"]
+  },
+  "𪃹": {
+    "_id": "5f523b00de54193ed873f62f",
+    "char": "𪃹",
+    "codepoint": "U+2A0F9",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃼": {
+    "_id": "5f523b00de54193ed873f632",
+    "char": "𪃼",
+    "codepoint": "U+2A0FC",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𪃦": {
+    "_id": "5f523b00de54193ed873f61c",
+    "char": "𪃦",
+    "codepoint": "U+2A0E6",
+    "strokeCount": 20,
+    "simpVariants": ["𬸙"],
+    "sources": ["unicode"]
+  },
+  "𪃪": {
+    "_id": "5f523b00de54193ed873f620",
+    "char": "𪃪",
+    "codepoint": "U+2A0EA",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃅": {
+    "_id": "5f523b00de54193ed873f5fb",
+    "char": "𪃅",
+    "codepoint": "U+2A0C5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃈": {
+    "_id": "5f523b00de54193ed873f5fe",
+    "char": "𪃈",
+    "codepoint": "U+2A0C8",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%83%88_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，，鳧屬。从鳥，契聲。”",
+    "variants": [{ "char": "𪃈", "parts": "契鳥", "source": "academia-sinica" }]
+  },
+  "𪃉": {
+    "_id": "5f523b00de54193ed873f5ff",
+    "char": "𪃉",
+    "codepoint": "U+2A0C9",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃊": {
+    "_id": "5f523b00de54193ed873f600",
+    "char": "𪃊",
+    "codepoint": "U+2A0CA",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃋": {
+    "_id": "5f523b00de54193ed873f601",
+    "char": "𪃋",
+    "codepoint": "U+2A0CB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃏": {
+    "_id": "5f523b00de54193ed873f605",
+    "char": "𪃏",
+    "codepoint": "U+2A0CF",
+    "strokeCount": 20,
+    "simpVariants": ["𪉏"],
+    "sources": ["unicode"]
+  },
+  "𪃐": {
+    "_id": "5f523b00de54193ed873f606",
+    "char": "𪃐",
+    "codepoint": "U+2A0D0",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%83%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从鳥，眇聲。”",
+    "variants": [{ "char": "𪃐", "parts": "鳥眇", "source": "academia-sinica" }]
+  },
+  "𪃓": {
+    "_id": "5f523b00de54193ed873f609",
+    "char": "𪃓",
+    "codepoint": "U+2A0D3",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃕": {
+    "_id": "5f523b00de54193ed873f60b",
+    "char": "𪃕",
+    "codepoint": "U+2A0D5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃜": {
+    "_id": "5f523b00de54193ed873f612",
+    "char": "𪃜",
+    "codepoint": "U+2A0DC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃠": {
+    "_id": "5f523b00de54193ed873f616",
+    "char": "𪃠",
+    "codepoint": "U+2A0E0",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃡": {
+    "_id": "5f523b00de54193ed873f617",
+    "char": "𪃡",
+    "codepoint": "U+2A0E1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃥": {
+    "_id": "5f523b00de54193ed873f61b",
+    "char": "𪃥",
+    "codepoint": "U+2A0E5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃫": {
+    "_id": "5f523b00de54193ed873f621",
+    "char": "𪃫",
+    "codepoint": "U+2A0EB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃯": {
+    "_id": "5f523b00de54193ed873f625",
+    "char": "𪃯",
+    "codepoint": "U+2A0EF",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃽": {
+    "_id": "5f523b00de54193ed873f633",
+    "char": "𪃽",
+    "codepoint": "U+2A0FD",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𪃑": {
+    "_id": "5f523b00de54193ed873f607",
+    "char": "𪃑",
+    "codepoint": "U+2A0D1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃘": {
+    "_id": "5f523b00de54193ed873f60e",
+    "char": "𪃘",
+    "codepoint": "U+2A0D8",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃣": {
+    "_id": "5f523b00de54193ed873f619",
+    "char": "𪃣",
+    "codepoint": "U+2A0E3",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃴": {
+    "_id": "5f523b00de54193ed873f62a",
+    "char": "𪃴",
+    "codepoint": "U+2A0F4",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃄": {
+    "_id": "5f523b00de54193ed873f5fa",
+    "char": "𪃄",
+    "codepoint": "U+2A0C4",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃀": {
+    "_id": "5f523b00de54193ed873f5f6",
+    "char": "𪃀",
+    "codepoint": "U+2A0C0",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃂": {
+    "_id": "5f523b00de54193ed873f5f8",
+    "char": "𪃂",
+    "codepoint": "U+2A0C2",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃃": {
+    "_id": "5f523b00de54193ed873f5f9",
+    "char": "𪃃",
+    "codepoint": "U+2A0C3",
+    "strokeCount": 20,
+    "simpVariants": ["𱊔"],
+    "sources": ["unicode"]
+  },
+  "𪃟": {
+    "_id": "5f523b00de54193ed873f615",
+    "char": "𪃟",
+    "codepoint": "U+2A0DF",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃌": {
+    "_id": "5f523b00de54193ed873f602",
+    "char": "𪃌",
+    "codepoint": "U+2A0CC",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃢": {
+    "_id": "5f523b00de54193ed873f618",
+    "char": "𪃢",
+    "codepoint": "U+2A0E2",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𪃍": {
+    "_id": "5f523b00de54193ed873f603",
+    "char": "𪃍",
+    "codepoint": "U+2A0CD",
+    "strokeCount": 20,
+    "simpVariants": ["𪉐"],
+    "sources": ["unicode"]
+  },
+  "𪃒": {
+    "_id": "5f523b00de54193ed873f608",
+    "char": "𪃒",
+    "codepoint": "U+2A0D2",
+    "strokeCount": 20,
+    "simpVariants": ["𫛻"],
+    "sources": ["unicode"]
+  },
+  "𪃙": {
+    "_id": "5f523b00de54193ed873f60f",
+    "char": "𪃙",
+    "codepoint": "U+2A0D9",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%AA%83%99_0.png",
+        "source": "academia-sinica",
+        "description": "㝬鐘(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      }
+    ],
+    "variants": [
+      { "char": "𪃙", "parts": "者鳥", "source": "academia-sinica" },
+      { "char": "", "parts": "者隹", "source": "academia-sinica" }
+    ]
+  },
+  "𪃱": {
+    "_id": "5f523b00de54193ed873f627",
+    "char": "𪃱",
+    "codepoint": "U+2A0F1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  }
+}

@@ -26,8 +26,8 @@
     "index.js",
     "index.d.ts",
     "character-data.d.ts",
-    "stroke-entry.d.ts",
-    "strokes"
+    "unicode-entry.d.ts",
+    "unicode"
   ],
   "type": "module",
   "sideEffects": false,
@@ -38,9 +38,9 @@
       "types": "./index.d.ts",
       "default": "./index.js"
     },
-    "./strokes/*": {
-      "types": "./stroke-entry.d.ts",
-      "default": "./strokes/*"
+    "./unicode/*": {
+      "types": "./unicode-entry.d.ts",
+      "default": "./unicode/*"
     },
     "./package.json": "./package.json"
   },

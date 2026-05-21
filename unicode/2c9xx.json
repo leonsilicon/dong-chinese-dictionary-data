@@ -1,0 +1,2500 @@
+{
+  "𬤄": {
+    "_id": "5f523b00de54193ed8741e0b",
+    "char": "𬤄",
+    "codepoint": "U+2C904",
+    "strokeCount": 10,
+    "tradVariants": ["謲"],
+    "sources": ["unicode"]
+  },
+  "𬤆": {
+    "_id": "5f523b00de54193ed8741e0d",
+    "char": "𬤆",
+    "codepoint": "U+2C906",
+    "strokeCount": 10,
+    "tradVariants": ["謴"],
+    "sources": ["unicode"]
+  },
+  "𬤭": {
+    "_id": "5f523b00de54193ed8741e34",
+    "char": "𬤭",
+    "codepoint": "U+2C92D",
+    "strokeCount": 17,
+    "tradVariants": ["譿"],
+    "sources": ["unicode"]
+  },
+  "𬤮": {
+    "_id": "5f523b00de54193ed8741e35",
+    "char": "𬤮",
+    "codepoint": "U+2C92E",
+    "strokeCount": 18,
+    "tradVariants": ["讚"],
+    "sources": ["unicode"],
+    "gloss": "praise"
+  },
+  "𬤐": {
+    "_id": "5f523b00de54193ed8741e17",
+    "char": "𬤐",
+    "codepoint": "U+2C910",
+    "strokeCount": 12,
+    "tradVariants": ["謌"],
+    "sources": ["unicode"],
+    "gloss": "slander",
+    "components": [
+      { "type": ["meaning"], "character": "讠" },
+      { "type": ["sound"], "character": "哥" }
+    ],
+    "data": {
+      "strokes": [
+        "M 255 739 Q 286 711 321 676 Q 334 663 352 663 Q 362 663 369 677 Q 373 692 365 724 Q 359 746 325 764 Q 247 798 228 791 Q 222 787 224 774 Q 228 762 255 739 Z",
+        "M 150 488 Q 101 473 74 471 Q 59 472 57 464 Q 53 457 64 449 Q 98 427 137 438 Q 254 489 260 488 Q 261 488 264 486 Q 274 480 268 454 Q 261 270 228 164 Q 210 134 252 83 Q 262 70 272 77 Q 281 84 292 107 Q 326 153 400 232 Q 413 242 410 250 Q 409 257 398 249 Q 364 228 330 204 Q 287 168 294 222 Q 295 286 321 446 Q 325 470 347 492 Q 360 502 350 515 Q 340 531 302 548 Q 290 554 273 544 Q 194 502 150 488 Z",
+        "M 801 723 Q 810 727 820 728 Q 862 738 868 743 Q 877 750 872 760 Q 865 772 835 779 Q 804 786 773 773 Q 727 757 675 745 Q 617 732 551 726 Q 514 720 540 702 Q 583 678 640 691 Q 701 704 768 717 L 801 723 Z",
+        "M 553 610 Q 543 614 529 615 Q 519 616 517 613 Q 513 609 520 596 Q 539 562 554 505 Q 557 487 568 477 Q 583 461 586 473 Q 587 479 588 487 L 585 512 Q 575 573 573 589 C 571 604 571 604 553 610 Z",
+        "M 700 533 Q 713 576 728 590 Q 747 612 727 623 Q 711 633 688 647 Q 672 656 657 647 Q 636 634 610 625 Q 588 618 553 610 C 524 603 544 581 573 589 Q 573 590 639 604 Q 658 608 663 601 Q 666 598 654 532 C 649 502 691 504 700 533 Z",
+        "M 588 487 Q 597 486 607 488 Q 640 498 713 507 Q 720 508 722 516 Q 722 522 700 533 C 684 541 683 541 654 532 Q 614 520 585 512 C 556 504 558 489 588 487 Z",
+        "M 768 717 Q 783 669 765 576 Q 750 513 780 483 L 781 482 Q 796 473 804 501 Q 813 529 813 568 Q 822 640 833 670 Q 837 682 828 697 Q 815 712 801 723 C 778 742 760 746 768 717 Z",
+        "M 776 404 Q 807 408 843 411 Q 861 412 861 420 Q 864 433 845 443 Q 818 458 794 453 Q 524 408 417 403 Q 404 403 400 395 Q 396 385 411 371 Q 450 340 493 352 Q 634 389 735 400 L 776 404 Z",
+        "M 542 306 Q 532 312 504 316 Q 494 319 491 314 Q 487 310 493 295 Q 515 255 528 187 Q 531 168 543 154 Q 559 135 563 149 Q 566 159 565 174 L 561 204 Q 551 264 551 283 C 550 302 550 302 542 306 Z",
+        "M 678 219 Q 694 271 711 286 Q 730 307 711 319 Q 659 347 657 347 Q 648 348 641 343 Q 613 325 542 306 C 513 298 522 274 551 283 Q 557 286 623 300 Q 642 304 647 297 Q 651 293 636 225 C 630 196 669 190 678 219 Z",
+        "M 565 174 Q 569 174 574 175 Q 610 185 688 193 Q 697 194 698 202 Q 698 208 678 219 L 636 225 Q 630 225 630 224 Q 591 212 561 204 C 532 196 535 172 565 174 Z",
+        "M 803 89 Q 803 260 808 321 Q 817 376 776 404 C 753 423 727 429 735 400 Q 735 397 737 393 Q 750 356 750 239 Q 751 101 738 69 Q 734 56 709 59 Q 687 63 662 67 Q 649 67 648 61 Q 647 54 657 44 Q 718 -8 738 -40 Q 753 -53 763 -52 Q 776 -48 788 -12 Q 804 21 803 79 L 803 89 Z"
+      ],
+      "medians": [
+        [
+          [233, 784],
+          [324, 723],
+          [350, 683]
+        ],
+        [
+          [67, 460],
+          [102, 454],
+          [142, 461],
+          [258, 511],
+          [294, 510],
+          [303, 496],
+          [266, 199],
+          [268, 172],
+          [276, 157],
+          [309, 165],
+          [404, 246]
+        ],
+        [
+          [543, 715],
+          [601, 708],
+          [801, 753],
+          [861, 754]
+        ],
+        [
+          [524, 608],
+          [542, 594],
+          [555, 572],
+          [577, 477]
+        ],
+        [
+          [562, 609],
+          [575, 603],
+          [662, 626],
+          [682, 621],
+          [696, 603],
+          [683, 557],
+          [661, 543]
+        ],
+        [
+          [593, 494],
+          [607, 504],
+          [662, 516],
+          [693, 520],
+          [714, 515]
+        ],
+        [
+          [774, 713],
+          [795, 699],
+          [804, 678],
+          [787, 561],
+          [787, 489]
+        ],
+        [
+          [411, 390],
+          [462, 377],
+          [786, 430],
+          [819, 431],
+          [849, 424]
+        ],
+        [
+          [498, 309],
+          [523, 288],
+          [553, 153]
+        ],
+        [
+          [551, 290],
+          [559, 299],
+          [655, 321],
+          [680, 300],
+          [660, 241],
+          [645, 236]
+        ],
+        [
+          [569, 182],
+          [578, 192],
+          [636, 206],
+          [689, 201]
+        ],
+        [
+          [742, 398],
+          [772, 371],
+          [778, 344],
+          [776, 122],
+          [769, 54],
+          [751, 19],
+          [709, 32],
+          [657, 59]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]],
+    "hint": "Phonosemantic compound. 讠 represents the meaning and 哥 represents the sound. Simplified from 謌.",
+    "images": [
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 255 739 Q 286 711 321 676 Q 334 663 352 663 Q 362 663 369 677 Q 373 692 365 724 Q 359 746 325 764 Q 247 798 228 791 Q 222 787 224 774 Q 228 762 255 739 Z",
+            "M 150 488 Q 101 473 74 471 Q 59 472 57 464 Q 53 457 64 449 Q 98 427 137 438 Q 254 489 260 488 Q 261 488 264 486 Q 274 480 268 454 Q 261 270 228 164 Q 210 134 252 83 Q 262 70 272 77 Q 281 84 292 107 Q 326 153 400 232 Q 413 242 410 250 Q 409 257 398 249 Q 364 228 330 204 Q 287 168 294 222 Q 295 286 321 446 Q 325 470 347 492 Q 360 502 350 515 Q 340 531 302 548 Q 290 554 273 544 Q 194 502 150 488 Z",
+            "M 801 723 Q 810 727 820 728 Q 862 738 868 743 Q 877 750 872 760 Q 865 772 835 779 Q 804 786 773 773 Q 727 757 675 745 Q 617 732 551 726 Q 514 720 540 702 Q 583 678 640 691 Q 701 704 768 717 L 801 723 Z",
+            "M 553 610 Q 543 614 529 615 Q 519 616 517 613 Q 513 609 520 596 Q 539 562 554 505 Q 557 487 568 477 Q 583 461 586 473 Q 587 479 588 487 L 585 512 Q 575 573 573 589 C 571 604 571 604 553 610 Z",
+            "M 700 533 Q 713 576 728 590 Q 747 612 727 623 Q 711 633 688 647 Q 672 656 657 647 Q 636 634 610 625 Q 588 618 553 610 C 524 603 544 581 573 589 Q 573 590 639 604 Q 658 608 663 601 Q 666 598 654 532 C 649 502 691 504 700 533 Z",
+            "M 588 487 Q 597 486 607 488 Q 640 498 713 507 Q 720 508 722 516 Q 722 522 700 533 C 684 541 683 541 654 532 Q 614 520 585 512 C 556 504 558 489 588 487 Z",
+            "M 768 717 Q 783 669 765 576 Q 750 513 780 483 L 781 482 Q 796 473 804 501 Q 813 529 813 568 Q 822 640 833 670 Q 837 682 828 697 Q 815 712 801 723 C 778 742 760 746 768 717 Z",
+            "M 776 404 Q 807 408 843 411 Q 861 412 861 420 Q 864 433 845 443 Q 818 458 794 453 Q 524 408 417 403 Q 404 403 400 395 Q 396 385 411 371 Q 450 340 493 352 Q 634 389 735 400 L 776 404 Z",
+            "M 542 306 Q 532 312 504 316 Q 494 319 491 314 Q 487 310 493 295 Q 515 255 528 187 Q 531 168 543 154 Q 559 135 563 149 Q 566 159 565 174 L 561 204 Q 551 264 551 283 C 550 302 550 302 542 306 Z",
+            "M 678 219 Q 694 271 711 286 Q 730 307 711 319 Q 659 347 657 347 Q 648 348 641 343 Q 613 325 542 306 C 513 298 522 274 551 283 Q 557 286 623 300 Q 642 304 647 297 Q 651 293 636 225 C 630 196 669 190 678 219 Z",
+            "M 565 174 Q 569 174 574 175 Q 610 185 688 193 Q 697 194 698 202 Q 698 208 678 219 L 636 225 Q 630 225 630 224 Q 591 212 561 204 C 532 196 535 172 565 174 Z",
+            "M 803 89 Q 803 260 808 321 Q 817 376 776 404 C 753 423 727 429 735 400 Q 735 397 737 393 Q 750 356 750 239 Q 751 101 738 69 Q 734 56 709 59 Q 687 63 662 67 Q 649 67 648 61 Q 647 54 657 44 Q 718 -8 738 -40 Q 753 -53 763 -52 Q 776 -48 788 -12 Q 804 21 803 79 L 803 89 Z"
+          ],
+          "medians": [
+            [
+              [233, 784],
+              [324, 723],
+              [350, 683]
+            ],
+            [
+              [67, 460],
+              [102, 454],
+              [142, 461],
+              [258, 511],
+              [294, 510],
+              [303, 496],
+              [266, 199],
+              [268, 172],
+              [276, 157],
+              [309, 165],
+              [404, 246]
+            ],
+            [
+              [543, 715],
+              [601, 708],
+              [801, 753],
+              [861, 754]
+            ],
+            [
+              [524, 608],
+              [542, 594],
+              [555, 572],
+              [577, 477]
+            ],
+            [
+              [562, 609],
+              [575, 603],
+              [662, 626],
+              [682, 621],
+              [696, 603],
+              [683, 557],
+              [661, 543]
+            ],
+            [
+              [593, 494],
+              [607, 504],
+              [662, 516],
+              [693, 520],
+              [714, 515]
+            ],
+            [
+              [774, 713],
+              [795, 699],
+              [804, 678],
+              [787, 561],
+              [787, 489]
+            ],
+            [
+              [411, 390],
+              [462, 377],
+              [786, 430],
+              [819, 431],
+              [849, 424]
+            ],
+            [
+              [498, 309],
+              [523, 288],
+              [553, 153]
+            ],
+            [
+              [551, 290],
+              [559, 299],
+              [655, 321],
+              [680, 300],
+              [660, 241],
+              [645, 236]
+            ],
+            [
+              [569, 182],
+              [578, 192],
+              [636, 206],
+              [689, 201]
+            ],
+            [
+              [742, 398],
+              [772, 371],
+              [778, 344],
+              [776, 122],
+              [769, 54],
+              [751, 19],
+              [709, 32],
+              [657, 59]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1],
+          [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        ]
+      }
+    ],
+    "isVerified": true,
+    "variantOf": "歌"
+  },
+  "𬤔": {
+    "_id": "5f523b00de54193ed8741e1b",
+    "char": "𬤔",
+    "codepoint": "U+2C914",
+    "strokeCount": 12,
+    "tradVariants": ["𧪪"],
+    "sources": ["unicode"]
+  },
+  "𬤉": {
+    "_id": "5f523b00de54193ed8741e10",
+    "char": "𬤉",
+    "codepoint": "U+2C909",
+    "strokeCount": 11,
+    "tradVariants": ["䜋"],
+    "sources": ["unicode"],
+    "gloss": "to suspend"
+  },
+  "𬤞": {
+    "_id": "5f523b00de54193ed8741e25",
+    "char": "𬤞",
+    "codepoint": "U+2C91E",
+    "strokeCount": 14,
+    "tradVariants": ["𧬇"],
+    "sources": ["unicode"]
+  },
+  "𬤟": {
+    "_id": "5f523b00de54193ed8741e26",
+    "char": "𬤟",
+    "codepoint": "U+2C91F",
+    "strokeCount": 14,
+    "tradVariants": ["䜍"],
+    "sources": ["unicode"],
+    "gloss": "sweet"
+  },
+  "𬤦": {
+    "_id": "5f523b00de54193ed8741e2d",
+    "char": "𬤦",
+    "codepoint": "U+2C926",
+    "strokeCount": 14,
+    "tradVariants": ["讉"],
+    "sources": ["unicode"]
+  },
+  "𬤈": {
+    "_id": "5f523b00de54193ed8741e0f",
+    "char": "𬤈",
+    "codepoint": "U+2C908",
+    "strokeCount": 11,
+    "tradVariants": ["𧫚"],
+    "sources": ["unicode"]
+  },
+  "𬤑": {
+    "_id": "5f523b00de54193ed8741e18",
+    "char": "𬤑",
+    "codepoint": "U+2C911",
+    "strokeCount": 12,
+    "tradVariants": ["䛿"],
+    "sources": ["unicode"],
+    "gloss": "cunning"
+  },
+  "𬤖": {
+    "_id": "5f523b00de54193ed8741e1d",
+    "char": "𬤖",
+    "codepoint": "U+2C916",
+    "strokeCount": 11,
+    "tradVariants": ["𧬪"],
+    "sources": ["unicode"]
+  },
+  "𬤨": {
+    "_id": "5f523b00de54193ed8741e2f",
+    "char": "𬤨",
+    "codepoint": "U+2C928",
+    "strokeCount": 15,
+    "tradVariants": ["譟"],
+    "sources": ["unicode"],
+    "gloss": "clamor"
+  },
+  "𬤙": {
+    "_id": "5f523b00de54193ed8741e20",
+    "char": "𬤙",
+    "codepoint": "U+2C919",
+    "strokeCount": 13,
+    "tradVariants": ["謼"],
+    "sources": ["unicode"],
+    "gloss": "to shout"
+  },
+  "𬤚": {
+    "_id": "5f523b00de54193ed8741e21",
+    "char": "𬤚",
+    "codepoint": "U+2C91A",
+    "strokeCount": 13,
+    "tradVariants": ["𧮆"],
+    "sources": ["unicode"]
+  },
+  "𬤝": {
+    "_id": "5f523b00de54193ed8741e24",
+    "char": "𬤝",
+    "codepoint": "U+2C91D",
+    "strokeCount": 14,
+    "tradVariants": ["譓"],
+    "sources": ["unicode"]
+  },
+  "𬤓": {
+    "_id": "5f523b00de54193ed8741e1a",
+    "char": "𬤓",
+    "codepoint": "U+2C913",
+    "strokeCount": 12,
+    "tradVariants": ["𧪡"],
+    "sources": ["unicode"]
+  },
+  "𬤠": {
+    "_id": "5f523b00de54193ed8741e27",
+    "char": "𬤠",
+    "codepoint": "U+2C920",
+    "strokeCount": 14,
+    "tradVariants": ["𧬌"],
+    "sources": ["unicode"]
+  },
+  "𬤁": {
+    "_id": "5f523b00de54193ed8741e08",
+    "char": "𬤁",
+    "codepoint": "U+2C901",
+    "strokeCount": 10,
+    "tradVariants": ["䛬"],
+    "sources": ["unicode"],
+    "gloss": "baby talk"
+  },
+  "𬤌": {
+    "_id": "5f523b00de54193ed8741e13",
+    "char": "𬤌",
+    "codepoint": "U+2C90C",
+    "strokeCount": 11,
+    "tradVariants": ["䛽"],
+    "sources": ["unicode"],
+    "gloss": "loquacious"
+  },
+  "𬤎": {
+    "_id": "5f523b00de54193ed8741e15",
+    "char": "𬤎",
+    "codepoint": "U+2C90E",
+    "strokeCount": 11,
+    "tradVariants": ["諠"],
+    "sources": ["unicode"],
+    "gloss": "noisy"
+  },
+  "𬤜": {
+    "_id": "5f523b00de54193ed8741e23",
+    "char": "𬤜",
+    "codepoint": "U+2C91C",
+    "strokeCount": 13,
+    "tradVariants": ["𧬅"],
+    "sources": ["unicode"]
+  },
+  "𬤡": {
+    "_id": "5f523b00de54193ed8741e28",
+    "char": "𬤡",
+    "codepoint": "U+2C921",
+    "strokeCount": 14,
+    "tradVariants": ["䜒"],
+    "sources": ["unicode"],
+    "gloss": "expression"
+  },
+  "𬤥": {
+    "_id": "5f523b00de54193ed8741e2c",
+    "char": "𬤥",
+    "codepoint": "U+2C925",
+    "strokeCount": 14,
+    "tradVariants": ["譔"],
+    "sources": ["unicode"],
+    "gloss": "to eulogize"
+  },
+  "𬤩": {
+    "_id": "5f523b00de54193ed8741e30",
+    "char": "𬤩",
+    "codepoint": "U+2C929",
+    "strokeCount": 16,
+    "tradVariants": ["譺"],
+    "sources": ["unicode"]
+  },
+  "𬤬": {
+    "_id": "5f523b00de54193ed8741e33",
+    "char": "𬤬",
+    "codepoint": "U+2C92C",
+    "strokeCount": 16,
+    "tradVariants": ["䜝"],
+    "sources": ["unicode"],
+    "gloss": "uncertain"
+  },
+  "𬤇": {
+    "_id": "5f523b00de54193ed8741e0e",
+    "char": "𬤇",
+    "codepoint": "U+2C907",
+    "strokeCount": 11,
+    "tradVariants": ["諲"],
+    "sources": ["unicode"]
+  },
+  "𬤊": {
+    "_id": "5f523b00de54193ed8741e11",
+    "char": "𬤊",
+    "codepoint": "U+2C90A",
+    "strokeCount": 11,
+    "tradVariants": ["諟"],
+    "sources": ["unicode"],
+    "gloss": "to examine",
+    "statistics": { "hskLevel": 10 }
+  },
+  "𬤕": {
+    "_id": "5f523b00de54193ed8741e1c",
+    "char": "𬤕",
+    "codepoint": "U+2C915",
+    "strokeCount": 12,
+    "tradVariants": ["𧪦"],
+    "sources": ["unicode"]
+  },
+  "𬤧": {
+    "_id": "5f523b00de54193ed8741e2e",
+    "char": "𬤧",
+    "codepoint": "U+2C927",
+    "strokeCount": 15,
+    "tradVariants": ["𧬮"],
+    "sources": ["unicode"]
+  },
+  "𬤫": {
+    "_id": "5f523b00de54193ed8741e32",
+    "char": "𬤫",
+    "codepoint": "U+2C92B",
+    "strokeCount": 16,
+    "tradVariants": ["譹"],
+    "sources": ["unicode"],
+    "gloss": "to shout"
+  },
+  "𬤅": {
+    "_id": "5f523b00de54193ed8741e0c",
+    "char": "𬤅",
+    "codepoint": "U+2C905",
+    "strokeCount": 10,
+    "tradVariants": ["𧩦"],
+    "sources": ["unicode"]
+  },
+  "𬤍": {
+    "_id": "5f523b00de54193ed8741e14",
+    "char": "𬤍",
+    "codepoint": "U+2C90D",
+    "strokeCount": 11,
+    "tradVariants": ["諻"],
+    "sources": ["unicode"]
+  },
+  "𬤏": {
+    "_id": "5f523b00de54193ed8741e16",
+    "char": "𬤏",
+    "codepoint": "U+2C90F",
+    "strokeCount": 10,
+    "tradVariants": ["𧩧"],
+    "sources": ["unicode"]
+  },
+  "𬤢": {
+    "_id": "5f523b00de54193ed8741e29",
+    "char": "𬤢",
+    "codepoint": "U+2C922",
+    "strokeCount": 14,
+    "tradVariants": ["譐"],
+    "sources": ["unicode"],
+    "gloss": "to talk"
+  },
+  "𬤗": {
+    "_id": "5f523b00de54193ed8741e1e",
+    "char": "𬤗",
+    "codepoint": "U+2C917",
+    "strokeCount": 12,
+    "tradVariants": ["𬣘"],
+    "sources": ["unicode"]
+  },
+  "𬤪": {
+    "_id": "5f523b00de54193ed8741e31",
+    "char": "𬤪",
+    "codepoint": "U+2C92A",
+    "strokeCount": 15,
+    "tradVariants": ["䜚"],
+    "sources": ["unicode"],
+    "gloss": "to speak recklessly or without forethought"
+  },
+  "𬤀": {
+    "_id": "5f523b00de54193ed8741e07",
+    "char": "𬤀",
+    "codepoint": "U+2C900",
+    "strokeCount": 10,
+    "tradVariants": ["諕"],
+    "sources": ["unicode"],
+    "gloss": "to intimidate"
+  },
+  "𬤂": {
+    "_id": "5f523b00de54193ed8741e09",
+    "char": "𬤂",
+    "codepoint": "U+2C902",
+    "strokeCount": 10,
+    "tradVariants": ["𧨾"],
+    "sources": ["unicode"],
+    "gloss": "(Cant.) to fool"
+  },
+  "𬤋": {
+    "_id": "5f523b00de54193ed8741e12",
+    "char": "𬤋",
+    "codepoint": "U+2C90B",
+    "strokeCount": 11,
+    "tradVariants": ["𧩪"],
+    "sources": ["unicode"]
+  },
+  "𬤛": {
+    "_id": "5f523b00de54193ed8741e22",
+    "char": "𬤛",
+    "codepoint": "U+2C91B",
+    "strokeCount": 13,
+    "tradVariants": ["讇"],
+    "sources": ["unicode"],
+    "gloss": "flatter"
+  },
+  "𬤤": {
+    "_id": "5f523b00de54193ed8741e2b",
+    "char": "𬤤",
+    "codepoint": "U+2C924",
+    "strokeCount": 14,
+    "tradVariants": ["譄"],
+    "sources": ["unicode"]
+  },
+  "𬤃": {
+    "_id": "5f523b00de54193ed8741e0a",
+    "char": "𬤃",
+    "codepoint": "U+2C903",
+    "strokeCount": 10,
+    "tradVariants": ["𰴽"],
+    "sources": ["unicode"]
+  },
+  "𬤒": {
+    "_id": "5f523b00de54193ed8741e19",
+    "char": "𬤒",
+    "codepoint": "U+2C912",
+    "strokeCount": 12,
+    "tradVariants": ["𧪞"],
+    "sources": ["unicode"]
+  },
+  "𬤘": {
+    "_id": "5f523b00de54193ed8741e1f",
+    "char": "𬤘",
+    "codepoint": "U+2C918",
+    "strokeCount": 13,
+    "tradVariants": ["䜉"],
+    "sources": ["unicode"],
+    "gloss": "to jest"
+  },
+  "𬤣": {
+    "_id": "5f523b00de54193ed8741e2a",
+    "char": "𬤣",
+    "codepoint": "U+2C923",
+    "strokeCount": 14,
+    "tradVariants": ["譈"],
+    "sources": ["unicode"],
+    "gloss": "dislike"
+  },
+  "𬤺": {
+    "_id": "5f523b00de54193ed8741e41",
+    "char": "𬤺",
+    "codepoint": "U+2C93A",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𬥇": {
+    "_id": "5f523b00de54193ed8741e4e",
+    "char": "𬥇",
+    "codepoint": "U+2C947",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬥃": {
+    "_id": "5f523b00de54193ed8741e4a",
+    "char": "𬥃",
+    "codepoint": "U+2C943",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬤼": {
+    "_id": "5f523b00de54193ed8741e43",
+    "char": "𬤼",
+    "codepoint": "U+2C93C",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬤾": {
+    "_id": "5f523b00de54193ed8741e45",
+    "char": "𬤾",
+    "codepoint": "U+2C93E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥢": {
+    "_id": "5f523b00de54193ed8741e69",
+    "char": "𬥢",
+    "codepoint": "U+2C962",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦃": {
+    "_id": "5f523b00de54193ed8741e8a",
+    "char": "𬦃",
+    "codepoint": "U+2C983",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦟": {
+    "_id": "5f523b00de54193ed8741ea6",
+    "char": "𬦟",
+    "codepoint": "U+2C99F",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬦤": {
+    "_id": "5f523b00de54193ed8741eab",
+    "char": "𬦤",
+    "codepoint": "U+2C9A4",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬦪": {
+    "_id": "5f523b00de54193ed8741eb1",
+    "char": "𬦪",
+    "codepoint": "U+2C9AA",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬦷": {
+    "_id": "5f523b00de54193ed8741ebe",
+    "char": "𬦷",
+    "codepoint": "U+2C9B7",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬦿": {
+    "_id": "5f523b00de54193ed8741ec6",
+    "char": "𬦿",
+    "codepoint": "U+2C9BF",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧀": {
+    "_id": "5f523b00de54193ed8741ec7",
+    "char": "𬧀",
+    "codepoint": "U+2C9C0",
+    "strokeCount": 17,
+    "tradVariants": ["蹡"],
+    "sources": ["unicode"],
+    "gloss": "to limp"
+  },
+  "𬧌": {
+    "_id": "5f523b00de54193ed8741ed3",
+    "char": "𬧌",
+    "codepoint": "U+2C9CC",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧘": {
+    "_id": "5f523b00de54193ed8741edf",
+    "char": "𬧘",
+    "codepoint": "U+2C9D8",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬧣": {
+    "_id": "5f523b00de54193ed8741eea",
+    "char": "𬧣",
+    "codepoint": "U+2C9E3",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬧦": {
+    "_id": "5f523b00de54193ed8741eed",
+    "char": "𬧦",
+    "codepoint": "U+2C9E6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧪": {
+    "_id": "5f523b00de54193ed8741ef1",
+    "char": "𬧪",
+    "codepoint": "U+2C9EA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬧬": {
+    "_id": "5f523b00de54193ed8741ef3",
+    "char": "𬧬",
+    "codepoint": "U+2C9EC",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧲": {
+    "_id": "5f523b00de54193ed8741ef9",
+    "char": "𬧲",
+    "codepoint": "U+2C9F2",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬧷": {
+    "_id": "5f523b00de54193ed8741efe",
+    "char": "𬧷",
+    "codepoint": "U+2C9F7",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥥": {
+    "_id": "5f523b00de54193ed8741e6c",
+    "char": "𬥥",
+    "codepoint": "U+2C965",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥨": {
+    "_id": "5f523b00de54193ed8741e6f",
+    "char": "𬥨",
+    "codepoint": "U+2C968",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬥽": {
+    "_id": "5f523b00de54193ed8741e84",
+    "char": "𬥽",
+    "codepoint": "U+2C97D",
+    "strokeCount": 13,
+    "tradVariants": ["䞀"],
+    "sources": ["unicode"],
+    "gloss": "to desire for more money than one's rightful share"
+  },
+  "𬦆": {
+    "_id": "5f523b00de54193ed8741e8d",
+    "char": "𬦆",
+    "codepoint": "U+2C986",
+    "strokeCount": 11,
+    "tradVariants": ["𧽢"],
+    "sources": ["unicode"]
+  },
+  "𬦡": {
+    "_id": "5f523b00de54193ed8741ea8",
+    "char": "𬦡",
+    "codepoint": "U+2C9A1",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𬧎": {
+    "_id": "5f523b00de54193ed8741ed5",
+    "char": "𬧎",
+    "codepoint": "U+2C9CE",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧱": {
+    "_id": "5f523b00de54193ed8741ef8",
+    "char": "𬧱",
+    "codepoint": "U+2C9F1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬤱": {
+    "_id": "5f523b00de54193ed8741e38",
+    "char": "𬤱",
+    "codepoint": "U+2C931",
+    "strokeCount": 20,
+    "tradVariants": ["𧮓"],
+    "sources": ["unicode"]
+  },
+  "𬤴": {
+    "_id": "5f523b00de54193ed8741e3b",
+    "char": "𬤴",
+    "codepoint": "U+2C934",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬥟": {
+    "_id": "5f523b00de54193ed8741e66",
+    "char": "𬥟",
+    "codepoint": "U+2C95F",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥰": {
+    "_id": "5f523b00de54193ed8741e77",
+    "char": "𬥰",
+    "codepoint": "U+2C970",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬥸": {
+    "_id": "5f523b00de54193ed8741e7f",
+    "char": "𬥸",
+    "codepoint": "U+2C978",
+    "strokeCount": 11,
+    "tradVariants": ["賗"],
+    "sources": ["unicode"]
+  },
+  "𬦄": {
+    "_id": "5f523b00de54193ed8741e8b",
+    "char": "𬦄",
+    "codepoint": "U+2C984",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬦌": {
+    "_id": "5f523b00de54193ed8741e93",
+    "char": "𬦌",
+    "codepoint": "U+2C98C",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦠": {
+    "_id": "5f523b00de54193ed8741ea7",
+    "char": "𬦠",
+    "codepoint": "U+2C9A0",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "to step"
+  },
+  "𬦩": {
+    "_id": "5f523b00de54193ed8741eb0",
+    "char": "𬦩",
+    "codepoint": "U+2C9A9",
+    "strokeCount": 12,
+    "tradVariants": ["𨃘"],
+    "sources": ["unicode"]
+  },
+  "𬦳": {
+    "_id": "5f523b00de54193ed8741eba",
+    "char": "𬦳",
+    "codepoint": "U+2C9B3",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬧃": {
+    "_id": "5f523b00de54193ed8741eca",
+    "char": "𬧃",
+    "codepoint": "U+2C9C3",
+    "strokeCount": 16,
+    "tradVariants": ["䠮"],
+    "sources": ["unicode"],
+    "gloss": "(same as 騰) to prance"
+  },
+  "𬧧": {
+    "_id": "5f523b00de54193ed8741eee",
+    "char": "𬧧",
+    "codepoint": "U+2C9E7",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬧸": {
+    "_id": "5f523b00de54193ed8741eff",
+    "char": "𬧸",
+    "codepoint": "U+2C9F8",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬥒": {
+    "_id": "5f523b00de54193ed8741e59",
+    "char": "𬥒",
+    "codepoint": "U+2C952",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥕": {
+    "_id": "5f523b00de54193ed8741e5c",
+    "char": "𬥕",
+    "codepoint": "U+2C955",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬥞": {
+    "_id": "5f523b00de54193ed8741e65",
+    "char": "𬥞",
+    "codepoint": "U+2C95E",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥲": {
+    "_id": "5f523b00de54193ed8741e79",
+    "char": "𬥲",
+    "codepoint": "U+2C972",
+    "strokeCount": 29,
+    "simpVariants": ["𬦀"],
+    "sources": ["unicode"]
+  },
+  "𬥳": {
+    "_id": "5f523b00de54193ed8741e7a",
+    "char": "𬥳",
+    "codepoint": "U+2C973",
+    "strokeCount": 8,
+    "tradVariants": ["賶"],
+    "sources": ["unicode"]
+  },
+  "𬥷": {
+    "_id": "5f523b00de54193ed8741e7e",
+    "char": "𬥷",
+    "codepoint": "U+2C977",
+    "strokeCount": 10,
+    "tradVariants": ["𧶄"],
+    "sources": ["unicode"],
+    "gloss": "(Cant.) to owe"
+  },
+  "𬦍": {
+    "_id": "5f523b00de54193ed8741e94",
+    "char": "𬦍",
+    "codepoint": "U+2C98D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦐": {
+    "_id": "5f523b00de54193ed8741e97",
+    "char": "𬦐",
+    "codepoint": "U+2C990",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬦕": {
+    "_id": "5f523b00de54193ed8741e9c",
+    "char": "𬦕",
+    "codepoint": "U+2C995",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦙": {
+    "_id": "5f523b00de54193ed8741ea0",
+    "char": "𬦙",
+    "codepoint": "U+2C999",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧄": {
+    "_id": "5f523b00de54193ed8741ecb",
+    "char": "𬧄",
+    "codepoint": "U+2C9C4",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧒": {
+    "_id": "5f523b00de54193ed8741ed9",
+    "char": "𬧒",
+    "codepoint": "U+2C9D2",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬧴": {
+    "_id": "5f523b00de54193ed8741efb",
+    "char": "𬧴",
+    "codepoint": "U+2C9F4",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬧺": {
+    "_id": "5f523b00de54193ed8741f01",
+    "char": "𬧺",
+    "codepoint": "U+2C9FA",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬤳": {
+    "_id": "5f523b00de54193ed8741e3a",
+    "char": "𬤳",
+    "codepoint": "U+2C933",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬤸": {
+    "_id": "5f523b00de54193ed8741e3f",
+    "char": "𬤸",
+    "codepoint": "U+2C938",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬥀": {
+    "_id": "5f523b00de54193ed8741e47",
+    "char": "𬥀",
+    "codepoint": "U+2C940",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥔": {
+    "_id": "5f523b00de54193ed8741e5b",
+    "char": "𬥔",
+    "codepoint": "U+2C954",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬥤": {
+    "_id": "5f523b00de54193ed8741e6b",
+    "char": "𬥤",
+    "codepoint": "U+2C964",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥱": {
+    "_id": "5f523b00de54193ed8741e78",
+    "char": "𬥱",
+    "codepoint": "U+2C971",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬦯": {
+    "_id": "5f523b00de54193ed8741eb6",
+    "char": "𬦯",
+    "codepoint": "U+2C9AF",
+    "strokeCount": 13,
+    "tradVariants": ["𨁂"],
+    "sources": ["unicode"]
+  },
+  "𬧙": {
+    "_id": "5f523b00de54193ed8741ee0",
+    "char": "𬧙",
+    "codepoint": "U+2C9D9",
+    "strokeCount": 22,
+    "simpVariants": ["𬧔"],
+    "sources": ["unicode"]
+  },
+  "𬧛": {
+    "_id": "5f523b00de54193ed8741ee2",
+    "char": "𬧛",
+    "codepoint": "U+2C9DB",
+    "strokeCount": 22,
+    "tradVariants": ["𨈆"],
+    "sources": ["unicode"]
+  },
+  "𬤻": {
+    "_id": "5f523b00de54193ed8741e42",
+    "char": "𬤻",
+    "codepoint": "U+2C93B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𬥐": {
+    "_id": "5f523b00de54193ed8741e57",
+    "char": "𬥐",
+    "codepoint": "U+2C950",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥛": {
+    "_id": "5f523b00de54193ed8741e62",
+    "char": "𬥛",
+    "codepoint": "U+2C95B",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬦵": {
+    "_id": "5f523b00de54193ed8741ebc",
+    "char": "𬦵",
+    "codepoint": "U+2C9B5",
+    "strokeCount": 14,
+    "tradVariants": ["𨄰"],
+    "sources": ["unicode"]
+  },
+  "𬦺": {
+    "_id": "5f523b00de54193ed8741ec1",
+    "char": "𬦺",
+    "codepoint": "U+2C9BA",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧼": {
+    "_id": "5f523b00de54193ed8741f03",
+    "char": "𬧼",
+    "codepoint": "U+2C9FC",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬤷": {
+    "_id": "5f523b00de54193ed8741e3e",
+    "char": "𬤷",
+    "codepoint": "U+2C937",
+    "strokeCount": 13,
+    "tradVariants": ["𧰆"],
+    "sources": ["unicode"]
+  },
+  "𬤰": {
+    "_id": "5f523b00de54193ed8741e37",
+    "char": "𬤰",
+    "codepoint": "U+2C930",
+    "strokeCount": 19,
+    "tradVariants": ["讙"],
+    "sources": ["unicode"],
+    "gloss": "cheer",
+    "data": {
+      "strokes": [
+        "M 239 718 Q 273 690 311 655 Q 324 642 341 643 Q 351 643 357 657 Q 361 672 352 701 Q 346 725 310 742 Q 226 773 212 767 Q 208 763 208 750 Q 212 740 239 718 Z",
+        "M 129 458 Q 80 442 53 439 Q 40 439 37 432 Q 33 423 44 416 Q 66 403 82 401 Q 100 395 195 447 Q 219 460 228 453 Q 238 447 232 422 Q 225 248 192 148 Q 174 120 216 67 Q 226 54 235 61 Q 244 68 255 91 Q 292 136 368 212 Q 381 222 378 230 Q 377 239 366 229 Q 332 210 296 186 Q 250 149 259 206 Q 259 267 285 414 Q 289 436 311 460 Q 323 470 313 482 Q 303 498 265 515 Q 253 522 237 511 Q 168 471 129 458 Z",
+        "M 628 728 Q 625 759 624 782 Q 625 798 607 804 Q 571 822 552 813 Q 536 806 550 788 Q 569 767 586 719 L 594 690 Q 598 660 616 642 Q 628 633 632 644 Q 635 659 630 703 L 628 728 Z",
+        "M 630 703 Q 633 704 638 706 Q 650 707 664 717 Q 670 721 668 727 Q 667 731 655 733 Q 642 732 628 728 L 586 719 Q 541 712 484 700 Q 453 700 438 698 Q 428 698 427 694 Q 426 687 432 680 Q 444 668 467 660 Q 483 653 496 658 Q 542 674 594 690 L 630 703 Z",
+        "M 769 738 Q 784 784 802 813 Q 815 826 805 836 Q 792 852 760 867 Q 744 874 729 866 Q 719 860 727 850 Q 742 817 714 693 Q 707 671 709 657 Q 712 645 724 653 Q 739 666 758 711 L 769 738 Z",
+        "M 758 711 Q 764 710 837 717 Q 886 720 918 717 Q 928 716 932 723 Q 935 730 926 741 Q 889 769 819 748 Q 795 744 769 738 C 740 731 728 711 758 711 Z",
+        "M 486 583 Q 477 587 465 587 Q 456 588 454 585 Q 450 581 456 569 Q 474 539 487 489 Q 490 473 500 464 Q 513 448 517 460 Q 518 466 518 475 L 516 499 Q 506 551 506 564 C 505 576 505 576 486 583 Z",
+        "M 631 520 Q 640 559 653 572 Q 669 591 651 602 Q 636 609 616 621 Q 604 628 563 606 Q 509 588 486 583 C 457 576 478 553 506 564 Q 506 565 511 566 Q 544 576 571 582 Q 590 586 595 580 L 592 522 C 590 492 624 491 631 520 Z",
+        "M 564 483 Q 592 490 641 497 Q 648 498 649 505 Q 649 511 631 520 L 592 522 L 591 522 Q 548 507 516 499 C 487 492 488 475 518 475 Q 524 475 532 475 L 564 483 Z",
+        "M 735 624 Q 725 628 704 632 Q 695 633 692 630 Q 688 626 694 613 Q 710 582 723 528 Q 724 512 735 501 Q 748 485 753 496 Q 756 503 756 514 L 754 537 Q 748 589 748 603 C 748 620 748 620 735 624 Z",
+        "M 878 551 Q 891 591 907 603 Q 925 622 907 634 Q 892 644 872 658 Q 860 667 811 644 Q 771 632 735 624 C 706 617 720 593 748 603 Q 751 606 821 620 Q 843 624 848 616 Q 849 615 837 557 C 831 528 868 523 878 551 Z",
+        "M 756 514 Q 762 513 770 515 Q 806 522 883 530 Q 890 531 892 537 Q 892 541 878 551 L 837 557 L 836 557 Q 790 545 754 537 C 725 530 726 516 756 514 Z",
+        "M 528 337 Q 603 434 605 436 Q 604 439 604 441 Q 598 462 564 483 C 539 499 525 504 532 475 Q 532 474 533 471 Q 551 417 401 248 Q 386 233 384 228 Q 380 219 392 220 Q 431 226 505 312 L 528 337 Z",
+        "M 567 98 Q 568 225 574 258 Q 580 285 554 312 Q 539 330 528 337 C 504 356 497 341 505 312 Q 524 248 525 222 Q 525 111 504 28 Q 494 -14 523 -56 Q 524 -59 527 -61 Q 543 -76 554 -51 Q 566 -15 567 64 L 567 98 Z",
+        "M 684 469 Q 720 426 733 424 Q 740 424 746 433 Q 750 443 746 465 Q 742 483 684 504 Q 674 508 668 506 Q 664 505 664 494 Q 665 487 684 469 Z",
+        "M 730 374 Q 874 411 880 417 Q 887 424 883 431 Q 876 440 853 445 Q 828 449 805 438 Q 765 422 720 408 Q 671 395 613 386 Q 585 380 606 368 Q 639 350 685 363 Q 686 364 691 364 L 730 374 Z",
+        "M 753 283 Q 781 292 815 300 Q 840 307 844 311 Q 851 317 847 323 Q 841 332 819 336 Q 794 342 754 321 L 703 304 Q 672 298 636 292 Q 609 286 630 275 Q 663 260 704 271 L 753 283 Z",
+        "M 751 194 Q 859 221 863 223 Q 870 229 866 235 Q 862 244 839 249 Q 817 253 751 230 L 705 218 Q 671 212 634 208 Q 606 204 626 191 Q 657 172 699 184 Q 702 185 706 184 L 751 194 Z",
+        "M 749 124 Q 750 161 751 194 L 751 230 Q 752 258 753 283 L 754 321 Q 755 325 755 330 Q 761 346 753 355 Q 741 367 730 374 C 705 391 677 391 691 364 Q 703 345 703 304 L 704 271 Q 704 250 705 218 L 706 184 Q 706 156 707 118 C 708 88 748 94 749 124 Z",
+        "M 707 118 Q 640 109 567 98 C 537 94 538 71 567 64 Q 591 57 608 61 Q 719 92 949 93 Q 967 93 971 101 Q 975 111 961 123 Q 912 162 851 144 Q 809 137 749 124 L 707 118 Z"
+      ],
+      "medians": [
+        [
+          [216, 761],
+          [311, 702],
+          [339, 661]
+        ],
+        [
+          [47, 427],
+          [95, 424],
+          [205, 473],
+          [257, 478],
+          [266, 463],
+          [231, 183],
+          [236, 139],
+          [275, 148],
+          [372, 226]
+        ],
+        [
+          [557, 800],
+          [577, 792],
+          [594, 774],
+          [624, 646]
+        ],
+        [
+          [435, 689],
+          [486, 678],
+          [659, 725]
+        ],
+        [
+          [733, 857],
+          [748, 850],
+          [767, 823],
+          [738, 710],
+          [718, 662]
+        ],
+        [
+          [768, 718],
+          [779, 726],
+          [866, 738],
+          [922, 727]
+        ],
+        [
+          [461, 580],
+          [486, 556],
+          [509, 464]
+        ],
+        [
+          [492, 579],
+          [516, 578],
+          [578, 598],
+          [607, 600],
+          [624, 583],
+          [612, 540],
+          [599, 529]
+        ],
+        [
+          [525, 482],
+          [531, 489],
+          [587, 505],
+          [641, 505]
+        ],
+        [
+          [699, 625],
+          [726, 597],
+          [745, 502]
+        ],
+        [
+          [743, 622],
+          [754, 616],
+          [847, 639],
+          [865, 634],
+          [878, 617],
+          [860, 573],
+          [846, 568]
+        ],
+        [
+          [763, 520],
+          [767, 527],
+          [832, 541],
+          [885, 537]
+        ],
+        [
+          [538, 474],
+          [560, 456],
+          [566, 440],
+          [536, 383],
+          [447, 273],
+          [392, 228]
+        ],
+        [
+          [528, 329],
+          [532, 302],
+          [547, 267],
+          [544, 109],
+          [532, -3],
+          [539, -51]
+        ],
+        [
+          [672, 498],
+          [723, 460],
+          [734, 436]
+        ],
+        [
+          [607, 378],
+          [630, 373],
+          [672, 378],
+          [740, 392],
+          [836, 425],
+          [873, 426]
+        ],
+        [
+          [630, 284],
+          [693, 284],
+          [794, 316],
+          [836, 319]
+        ],
+        [
+          [628, 201],
+          [672, 196],
+          [760, 212],
+          [826, 232],
+          [859, 230]
+        ],
+        [
+          [699, 361],
+          [728, 340],
+          [728, 143],
+          [713, 126]
+        ],
+        [
+          [576, 92],
+          [591, 80],
+          [892, 121],
+          [961, 106]
+        ]
+      ]
+    },
+    "images": [
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 239 718 Q 273 690 311 655 Q 324 642 341 643 Q 351 643 357 657 Q 361 672 352 701 Q 346 725 310 742 Q 226 773 212 767 Q 208 763 208 750 Q 212 740 239 718 Z",
+            "M 129 458 Q 80 442 53 439 Q 40 439 37 432 Q 33 423 44 416 Q 66 403 82 401 Q 100 395 195 447 Q 219 460 228 453 Q 238 447 232 422 Q 225 248 192 148 Q 174 120 216 67 Q 226 54 235 61 Q 244 68 255 91 Q 292 136 368 212 Q 381 222 378 230 Q 377 239 366 229 Q 332 210 296 186 Q 250 149 259 206 Q 259 267 285 414 Q 289 436 311 460 Q 323 470 313 482 Q 303 498 265 515 Q 253 522 237 511 Q 168 471 129 458 Z",
+            "M 628 728 Q 625 759 624 782 Q 625 798 607 804 Q 571 822 552 813 Q 536 806 550 788 Q 569 767 586 719 L 594 690 Q 598 660 616 642 Q 628 633 632 644 Q 635 659 630 703 L 628 728 Z",
+            "M 630 703 Q 633 704 638 706 Q 650 707 664 717 Q 670 721 668 727 Q 667 731 655 733 Q 642 732 628 728 L 586 719 Q 541 712 484 700 Q 453 700 438 698 Q 428 698 427 694 Q 426 687 432 680 Q 444 668 467 660 Q 483 653 496 658 Q 542 674 594 690 L 630 703 Z",
+            "M 769 738 Q 784 784 802 813 Q 815 826 805 836 Q 792 852 760 867 Q 744 874 729 866 Q 719 860 727 850 Q 742 817 714 693 Q 707 671 709 657 Q 712 645 724 653 Q 739 666 758 711 L 769 738 Z",
+            "M 758 711 Q 764 710 837 717 Q 886 720 918 717 Q 928 716 932 723 Q 935 730 926 741 Q 889 769 819 748 Q 795 744 769 738 C 740 731 728 711 758 711 Z",
+            "M 486 583 Q 477 587 465 587 Q 456 588 454 585 Q 450 581 456 569 Q 474 539 487 489 Q 490 473 500 464 Q 513 448 517 460 Q 518 466 518 475 L 516 499 Q 506 551 506 564 C 505 576 505 576 486 583 Z",
+            "M 631 520 Q 640 559 653 572 Q 669 591 651 602 Q 636 609 616 621 Q 604 628 563 606 Q 509 588 486 583 C 457 576 478 553 506 564 Q 506 565 511 566 Q 544 576 571 582 Q 590 586 595 580 L 592 522 C 590 492 624 491 631 520 Z",
+            "M 564 483 Q 592 490 641 497 Q 648 498 649 505 Q 649 511 631 520 L 592 522 L 591 522 Q 548 507 516 499 C 487 492 488 475 518 475 Q 524 475 532 475 L 564 483 Z",
+            "M 735 624 Q 725 628 704 632 Q 695 633 692 630 Q 688 626 694 613 Q 710 582 723 528 Q 724 512 735 501 Q 748 485 753 496 Q 756 503 756 514 L 754 537 Q 748 589 748 603 C 748 620 748 620 735 624 Z",
+            "M 878 551 Q 891 591 907 603 Q 925 622 907 634 Q 892 644 872 658 Q 860 667 811 644 Q 771 632 735 624 C 706 617 720 593 748 603 Q 751 606 821 620 Q 843 624 848 616 Q 849 615 837 557 C 831 528 868 523 878 551 Z",
+            "M 756 514 Q 762 513 770 515 Q 806 522 883 530 Q 890 531 892 537 Q 892 541 878 551 L 837 557 L 836 557 Q 790 545 754 537 C 725 530 726 516 756 514 Z",
+            "M 528 337 Q 603 434 605 436 Q 604 439 604 441 Q 598 462 564 483 C 539 499 525 504 532 475 Q 532 474 533 471 Q 551 417 401 248 Q 386 233 384 228 Q 380 219 392 220 Q 431 226 505 312 L 528 337 Z",
+            "M 567 98 Q 568 225 574 258 Q 580 285 554 312 Q 539 330 528 337 C 504 356 497 341 505 312 Q 524 248 525 222 Q 525 111 504 28 Q 494 -14 523 -56 Q 524 -59 527 -61 Q 543 -76 554 -51 Q 566 -15 567 64 L 567 98 Z",
+            "M 684 469 Q 720 426 733 424 Q 740 424 746 433 Q 750 443 746 465 Q 742 483 684 504 Q 674 508 668 506 Q 664 505 664 494 Q 665 487 684 469 Z",
+            "M 730 374 Q 874 411 880 417 Q 887 424 883 431 Q 876 440 853 445 Q 828 449 805 438 Q 765 422 720 408 Q 671 395 613 386 Q 585 380 606 368 Q 639 350 685 363 Q 686 364 691 364 L 730 374 Z",
+            "M 753 283 Q 781 292 815 300 Q 840 307 844 311 Q 851 317 847 323 Q 841 332 819 336 Q 794 342 754 321 L 703 304 Q 672 298 636 292 Q 609 286 630 275 Q 663 260 704 271 L 753 283 Z",
+            "M 751 194 Q 859 221 863 223 Q 870 229 866 235 Q 862 244 839 249 Q 817 253 751 230 L 705 218 Q 671 212 634 208 Q 606 204 626 191 Q 657 172 699 184 Q 702 185 706 184 L 751 194 Z",
+            "M 749 124 Q 750 161 751 194 L 751 230 Q 752 258 753 283 L 754 321 Q 755 325 755 330 Q 761 346 753 355 Q 741 367 730 374 C 705 391 677 391 691 364 Q 703 345 703 304 L 704 271 Q 704 250 705 218 L 706 184 Q 706 156 707 118 C 708 88 748 94 749 124 Z",
+            "M 707 118 Q 640 109 567 98 C 537 94 538 71 567 64 Q 591 57 608 61 Q 719 92 949 93 Q 967 93 971 101 Q 975 111 961 123 Q 912 162 851 144 Q 809 137 749 124 L 707 118 Z"
+          ],
+          "medians": [
+            [
+              [216, 761],
+              [311, 702],
+              [339, 661]
+            ],
+            [
+              [47, 427],
+              [95, 424],
+              [205, 473],
+              [257, 478],
+              [266, 463],
+              [231, 183],
+              [236, 139],
+              [275, 148],
+              [372, 226]
+            ],
+            [
+              [557, 800],
+              [577, 792],
+              [594, 774],
+              [624, 646]
+            ],
+            [
+              [435, 689],
+              [486, 678],
+              [659, 725]
+            ],
+            [
+              [733, 857],
+              [748, 850],
+              [767, 823],
+              [738, 710],
+              [718, 662]
+            ],
+            [
+              [768, 718],
+              [779, 726],
+              [866, 738],
+              [922, 727]
+            ],
+            [
+              [461, 580],
+              [486, 556],
+              [509, 464]
+            ],
+            [
+              [492, 579],
+              [516, 578],
+              [578, 598],
+              [607, 600],
+              [624, 583],
+              [612, 540],
+              [599, 529]
+            ],
+            [
+              [525, 482],
+              [531, 489],
+              [587, 505],
+              [641, 505]
+            ],
+            [
+              [699, 625],
+              [726, 597],
+              [745, 502]
+            ],
+            [
+              [743, 622],
+              [754, 616],
+              [847, 639],
+              [865, 634],
+              [878, 617],
+              [860, 573],
+              [846, 568]
+            ],
+            [
+              [763, 520],
+              [767, 527],
+              [832, 541],
+              [885, 537]
+            ],
+            [
+              [538, 474],
+              [560, 456],
+              [566, 440],
+              [536, 383],
+              [447, 273],
+              [392, 228]
+            ],
+            [
+              [528, 329],
+              [532, 302],
+              [547, 267],
+              [544, 109],
+              [532, -3],
+              [539, -51]
+            ],
+            [
+              [672, 498],
+              [723, 460],
+              [734, 436]
+            ],
+            [
+              [607, 378],
+              [630, 373],
+              [672, 378],
+              [740, 392],
+              [836, 425],
+              [873, 426]
+            ],
+            [
+              [630, 284],
+              [693, 284],
+              [794, 316],
+              [836, 319]
+            ],
+            [
+              [628, 201],
+              [672, 196],
+              [760, 212],
+              [826, 232],
+              [859, 230]
+            ],
+            [
+              [699, 361],
+              [728, 340],
+              [728, 143],
+              [713, 126]
+            ],
+            [
+              [576, 92],
+              [591, 80],
+              [892, 121],
+              [961, 106]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1],
+          [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+        ]
+      }
+    ],
+    "components": [
+      { "character": "讠", "type": ["meaning"] },
+      { "character": "雚", "type": ["sound"] }
+    ],
+    "fragments": [[0]],
+    "hint": "Phonosemantic compound. 讠 represents the meaning and 雚 represents the sound.",
+    "isVerified": true,
+    "variantOf": "歡"
+  },
+  "𬤵": {
+    "_id": "5f523b00de54193ed8741e3c",
+    "char": "𬤵",
+    "codepoint": "U+2C935",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬤹": {
+    "_id": "5f523b00de54193ed8741e40",
+    "char": "𬤹",
+    "codepoint": "U+2C939",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬥙": {
+    "_id": "5f523b00de54193ed8741e60",
+    "char": "𬥙",
+    "codepoint": "U+2C959",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥭": {
+    "_id": "5f523b00de54193ed8741e74",
+    "char": "𬥭",
+    "codepoint": "U+2C96D",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬥾": {
+    "_id": "5f523b00de54193ed8741e85",
+    "char": "𬥾",
+    "codepoint": "U+2C97E",
+    "strokeCount": 14,
+    "tradVariants": ["𧸦"],
+    "sources": ["unicode"]
+  },
+  "𬦉": {
+    "_id": "5f523b00de54193ed8741e90",
+    "char": "𬦉",
+    "codepoint": "U+2C989",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬦛": {
+    "_id": "5f523b00de54193ed8741ea2",
+    "char": "𬦛",
+    "codepoint": "U+2C99B",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬦞": {
+    "_id": "5f523b00de54193ed8741ea5",
+    "char": "𬦞",
+    "codepoint": "U+2C99E",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬦮": {
+    "_id": "5f523b00de54193ed8741eb5",
+    "char": "𬦮",
+    "codepoint": "U+2C9AE",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦴": {
+    "_id": "5f523b00de54193ed8741ebb",
+    "char": "𬦴",
+    "codepoint": "U+2C9B4",
+    "strokeCount": 14,
+    "tradVariants": ["𨆱"],
+    "sources": ["unicode"]
+  },
+  "𬦻": {
+    "_id": "5f523b00de54193ed8741ec2",
+    "char": "𬦻",
+    "codepoint": "U+2C9BB",
+    "strokeCount": 15,
+    "tradVariants": ["躀"],
+    "sources": ["unicode"],
+    "gloss": "(Cant.) to stumble over"
+  },
+  "𬧊": {
+    "_id": "5f523b00de54193ed8741ed1",
+    "char": "𬧊",
+    "codepoint": "U+2C9CA",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧠": {
+    "_id": "5f523b00de54193ed8741ee7",
+    "char": "𬧠",
+    "codepoint": "U+2C9E0",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𬧶": {
+    "_id": "5f523b00de54193ed8741efd",
+    "char": "𬧶",
+    "codepoint": "U+2C9F6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬤿": {
+    "_id": "5f523b00de54193ed8741e46",
+    "char": "𬤿",
+    "codepoint": "U+2C93F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥵": {
+    "_id": "5f523b00de54193ed8741e7c",
+    "char": "𬥵",
+    "codepoint": "U+2C975",
+    "strokeCount": 9,
+    "tradVariants": ["䝯"],
+    "sources": ["unicode"],
+    "gloss": "(same as 貤) to change hands"
+  },
+  "𬥶": {
+    "_id": "5f523b00de54193ed8741e7d",
+    "char": "𬥶",
+    "codepoint": "U+2C976",
+    "strokeCount": 9,
+    "tradVariants": ["貱"],
+    "sources": ["unicode"]
+  },
+  "𬦂": {
+    "_id": "5f523b00de54193ed8741e89",
+    "char": "𬦂",
+    "codepoint": "U+2C982",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦅": {
+    "_id": "5f523b00de54193ed8741e8c",
+    "char": "𬦅",
+    "codepoint": "U+2C985",
+    "strokeCount": 10,
+    "tradVariants": ["䞶"],
+    "sources": ["unicode"],
+    "gloss": "walking rapidly"
+  },
+  "𬦈": {
+    "_id": "5f523b00de54193ed8741e8f",
+    "char": "𬦈",
+    "codepoint": "U+2C988",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬦚": {
+    "_id": "5f523b00de54193ed8741ea1",
+    "char": "𬦚",
+    "codepoint": "U+2C99A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬦢": {
+    "_id": "5f523b00de54193ed8741ea9",
+    "char": "𬦢",
+    "codepoint": "U+2C9A2",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𬦧": {
+    "_id": "5f523b00de54193ed8741eae",
+    "char": "𬦧",
+    "codepoint": "U+2C9A7",
+    "strokeCount": 11,
+    "tradVariants": ["踚"],
+    "sources": ["unicode"]
+  },
+  "𬦬": {
+    "_id": "5f523b00de54193ed8741eb3",
+    "char": "𬦬",
+    "codepoint": "U+2C9AC",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦱": {
+    "_id": "5f523b00de54193ed8741eb8",
+    "char": "𬦱",
+    "codepoint": "U+2C9B1",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬧓": {
+    "_id": "5f523b00de54193ed8741eda",
+    "char": "𬧓",
+    "codepoint": "U+2C9D3",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬧫": {
+    "_id": "5f523b00de54193ed8741ef2",
+    "char": "𬧫",
+    "codepoint": "U+2C9EB",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧽": {
+    "_id": "5f523b00de54193ed8741f04",
+    "char": "𬧽",
+    "codepoint": "U+2C9FD",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬤯": {
+    "_id": "5f523b00de54193ed8741e36",
+    "char": "𬤯",
+    "codepoint": "U+2C92F",
+    "strokeCount": 19,
+    "tradVariants": ["𧮈"],
+    "sources": ["unicode"]
+  },
+  "𬥅": {
+    "_id": "5f523b00de54193ed8741e4c",
+    "char": "𬥅",
+    "codepoint": "U+2C945",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥋": {
+    "_id": "5f523b00de54193ed8741e52",
+    "char": "𬥋",
+    "codepoint": "U+2C94B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬥚": {
+    "_id": "5f523b00de54193ed8741e61",
+    "char": "𬥚",
+    "codepoint": "U+2C95A",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥮": {
+    "_id": "5f523b00de54193ed8741e75",
+    "char": "𬥮",
+    "codepoint": "U+2C96E",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬦎": {
+    "_id": "5f523b00de54193ed8741e95",
+    "char": "𬦎",
+    "codepoint": "U+2C98E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥊": {
+    "_id": "5f523b00de54193ed8741e51",
+    "char": "𬥊",
+    "codepoint": "U+2C94A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥘": {
+    "_id": "5f523b00de54193ed8741e5f",
+    "char": "𬥘",
+    "codepoint": "U+2C958",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥦": {
+    "_id": "5f523b00de54193ed8741e6d",
+    "char": "𬥦",
+    "codepoint": "U+2C966",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬥴": {
+    "_id": "5f523b00de54193ed8741e7b",
+    "char": "𬥴",
+    "codepoint": "U+2C974",
+    "strokeCount": 9,
+    "tradVariants": ["𧵊"],
+    "sources": ["unicode"]
+  },
+  "𬥺": {
+    "_id": "5f523b00de54193ed8741e81",
+    "char": "𬥺",
+    "codepoint": "U+2C97A",
+    "strokeCount": 13,
+    "tradVariants": ["䞁"],
+    "sources": ["unicode"],
+    "gloss": "corresponding"
+  },
+  "𬦓": {
+    "_id": "5f523b00de54193ed8741e9a",
+    "char": "𬦓",
+    "codepoint": "U+2C993",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧐": {
+    "_id": "5f523b00de54193ed8741ed7",
+    "char": "𬧐",
+    "codepoint": "U+2C9D0",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧜": {
+    "_id": "5f523b00de54193ed8741ee3",
+    "char": "𬧜",
+    "codepoint": "U+2C9DC",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𬧡": {
+    "_id": "5f523b00de54193ed8741ee8",
+    "char": "𬧡",
+    "codepoint": "U+2C9E1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬧨": {
+    "_id": "5f523b00de54193ed8741eef",
+    "char": "𬧨",
+    "codepoint": "U+2C9E8",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧭": {
+    "_id": "5f523b00de54193ed8741ef4",
+    "char": "𬧭",
+    "codepoint": "U+2C9ED",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧰": {
+    "_id": "5f523b00de54193ed8741ef7",
+    "char": "𬧰",
+    "codepoint": "U+2C9F0",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬤽": {
+    "_id": "5f523b00de54193ed8741e44",
+    "char": "𬤽",
+    "codepoint": "U+2C93D",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥡": {
+    "_id": "5f523b00de54193ed8741e68",
+    "char": "𬥡",
+    "codepoint": "U+2C961",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬥣": {
+    "_id": "5f523b00de54193ed8741e6a",
+    "char": "𬥣",
+    "codepoint": "U+2C963",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥫": {
+    "_id": "5f523b00de54193ed8741e72",
+    "char": "𬥫",
+    "codepoint": "U+2C96B",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬥯": {
+    "_id": "5f523b00de54193ed8741e76",
+    "char": "𬥯",
+    "codepoint": "U+2C96F",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬦝": {
+    "_id": "5f523b00de54193ed8741ea4",
+    "char": "𬦝",
+    "codepoint": "U+2C99D",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬦸": {
+    "_id": "5f523b00de54193ed8741ebf",
+    "char": "𬦸",
+    "codepoint": "U+2C9B8",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬦼": {
+    "_id": "5f523b00de54193ed8741ec3",
+    "char": "𬦼",
+    "codepoint": "U+2C9BC",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧅": {
+    "_id": "5f523b00de54193ed8741ecc",
+    "char": "𬧅",
+    "codepoint": "U+2C9C5",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧆": {
+    "_id": "5f523b00de54193ed8741ecd",
+    "char": "𬧆",
+    "codepoint": "U+2C9C6",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧑": {
+    "_id": "5f523b00de54193ed8741ed8",
+    "char": "𬧑",
+    "codepoint": "U+2C9D1",
+    "strokeCount": 19,
+    "tradVariants": ["𨇍"],
+    "sources": ["unicode"]
+  },
+  "𬧕": {
+    "_id": "5f523b00de54193ed8741edc",
+    "char": "𬧕",
+    "codepoint": "U+2C9D5",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬧗": {
+    "_id": "5f523b00de54193ed8741ede",
+    "char": "𬧗",
+    "codepoint": "U+2C9D7",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬧚": {
+    "_id": "5f523b00de54193ed8741ee1",
+    "char": "𬧚",
+    "codepoint": "U+2C9DA",
+    "strokeCount": 23,
+    "tradVariants": ["𨈀"],
+    "sources": ["unicode"]
+  },
+  "𬧞": {
+    "_id": "5f523b00de54193ed8741ee5",
+    "char": "𬧞",
+    "codepoint": "U+2C9DE",
+    "strokeCount": 28,
+    "sources": ["unicode"]
+  },
+  "𬧤": {
+    "_id": "5f523b00de54193ed8741eeb",
+    "char": "𬧤",
+    "codepoint": "U+2C9E4",
+    "strokeCount": 14,
+    "tradVariants": ["軂"],
+    "sources": ["unicode"]
+  },
+  "𬥉": {
+    "_id": "5f523b00de54193ed8741e50",
+    "char": "𬥉",
+    "codepoint": "U+2C949",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥎": {
+    "_id": "5f523b00de54193ed8741e55",
+    "char": "𬥎",
+    "codepoint": "U+2C94E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𬥏": {
+    "_id": "5f523b00de54193ed8741e56",
+    "char": "𬥏",
+    "codepoint": "U+2C94F",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥩": {
+    "_id": "5f523b00de54193ed8741e70",
+    "char": "𬥩",
+    "codepoint": "U+2C969",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬥹": {
+    "_id": "5f523b00de54193ed8741e80",
+    "char": "𬥹",
+    "codepoint": "U+2C979",
+    "strokeCount": 12,
+    "tradVariants": ["𧶟"],
+    "sources": ["unicode"]
+  },
+  "𬦀": {
+    "_id": "5f523b00de54193ed8741e87",
+    "char": "𬦀",
+    "codepoint": "U+2C980",
+    "strokeCount": 26,
+    "tradVariants": ["𬥲"],
+    "sources": ["unicode"]
+  },
+  "𬦁": {
+    "_id": "5f523b00de54193ed8741e88",
+    "char": "𬦁",
+    "codepoint": "U+2C981",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬦇": {
+    "_id": "5f523b00de54193ed8741e8e",
+    "char": "𬦇",
+    "codepoint": "U+2C987",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬦔": {
+    "_id": "5f523b00de54193ed8741e9b",
+    "char": "𬦔",
+    "codepoint": "U+2C994",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦦": {
+    "_id": "5f523b00de54193ed8741ead",
+    "char": "𬦦",
+    "codepoint": "U+2C9A6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬧂": {
+    "_id": "5f523b00de54193ed8741ec9",
+    "char": "𬧂",
+    "codepoint": "U+2C9C2",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧈": {
+    "_id": "5f523b00de54193ed8741ecf",
+    "char": "𬧈",
+    "codepoint": "U+2C9C8",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧵": {
+    "_id": "5f523b00de54193ed8741efc",
+    "char": "𬧵",
+    "codepoint": "U+2C9F5",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬤲": {
+    "_id": "5f523b00de54193ed8741e39",
+    "char": "𬤲",
+    "codepoint": "U+2C932",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬥓": {
+    "_id": "5f523b00de54193ed8741e5a",
+    "char": "𬥓",
+    "codepoint": "U+2C953",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬥗": {
+    "_id": "5f523b00de54193ed8741e5e",
+    "char": "𬥗",
+    "codepoint": "U+2C957",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥠": {
+    "_id": "5f523b00de54193ed8741e67",
+    "char": "𬥠",
+    "codepoint": "U+2C960",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥬": {
+    "_id": "5f523b00de54193ed8741e73",
+    "char": "𬥬",
+    "codepoint": "U+2C96C",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬥻": {
+    "_id": "5f523b00de54193ed8741e82",
+    "char": "𬥻",
+    "codepoint": "U+2C97B",
+    "strokeCount": 13,
+    "tradVariants": ["䞂"],
+    "sources": ["unicode"],
+    "gloss": "fairly prosperous"
+  },
+  "𬦊": {
+    "_id": "5f523b00de54193ed8741e91",
+    "char": "𬦊",
+    "codepoint": "U+2C98A",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬦑": {
+    "_id": "5f523b00de54193ed8741e98",
+    "char": "𬦑",
+    "codepoint": "U+2C991",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬦒": {
+    "_id": "5f523b00de54193ed8741e99",
+    "char": "𬦒",
+    "codepoint": "U+2C992",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬦗": {
+    "_id": "5f523b00de54193ed8741e9e",
+    "char": "𬦗",
+    "codepoint": "U+2C997",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦜": {
+    "_id": "5f523b00de54193ed8741ea3",
+    "char": "𬦜",
+    "codepoint": "U+2C99C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬦣": {
+    "_id": "5f523b00de54193ed8741eaa",
+    "char": "𬦣",
+    "codepoint": "U+2C9A3",
+    "strokeCount": 11,
+    "tradVariants": ["𨇗"],
+    "sources": ["unicode"]
+  },
+  "𬦨": {
+    "_id": "5f523b00de54193ed8741eaf",
+    "char": "𬦨",
+    "codepoint": "U+2C9A8",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬦾": {
+    "_id": "5f523b00de54193ed8741ec5",
+    "char": "𬦾",
+    "codepoint": "U+2C9BE",
+    "strokeCount": 16,
+    "tradVariants": ["𨈇"],
+    "sources": ["unicode"],
+    "gloss": "(Cant.) to step over"
+  },
+  "𬧁": {
+    "_id": "5f523b00de54193ed8741ec8",
+    "char": "𬧁",
+    "codepoint": "U+2C9C1",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧍": {
+    "_id": "5f523b00de54193ed8741ed4",
+    "char": "𬧍",
+    "codepoint": "U+2C9CD",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧏": {
+    "_id": "5f523b00de54193ed8741ed6",
+    "char": "𬧏",
+    "codepoint": "U+2C9CF",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧔": {
+    "_id": "5f523b00de54193ed8741edb",
+    "char": "𬧔",
+    "codepoint": "U+2C9D4",
+    "strokeCount": 19,
+    "tradVariants": ["𬧙"],
+    "sources": ["unicode"]
+  },
+  "𬧯": {
+    "_id": "5f523b00de54193ed8741ef6",
+    "char": "𬧯",
+    "codepoint": "U+2C9EF",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a pair of balances"
+  },
+  "𬥁": {
+    "_id": "5f523b00de54193ed8741e48",
+    "char": "𬥁",
+    "codepoint": "U+2C941",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥂": {
+    "_id": "5f523b00de54193ed8741e49",
+    "char": "𬥂",
+    "codepoint": "U+2C942",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥄": {
+    "_id": "5f523b00de54193ed8741e4b",
+    "char": "𬥄",
+    "codepoint": "U+2C944",
+    "strokeCount": 17,
+    "tradVariants": ["䝕"],
+    "sources": ["unicode"],
+    "gloss": "good"
+  },
+  "𬥆": {
+    "_id": "5f523b00de54193ed8741e4d",
+    "char": "𬥆",
+    "codepoint": "U+2C946",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬥍": {
+    "_id": "5f523b00de54193ed8741e54",
+    "char": "𬥍",
+    "codepoint": "U+2C94D",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬥧": {
+    "_id": "5f523b00de54193ed8741e6e",
+    "char": "𬥧",
+    "codepoint": "U+2C967",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬥪": {
+    "_id": "5f523b00de54193ed8741e71",
+    "char": "𬥪",
+    "codepoint": "U+2C96A",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𬦋": {
+    "_id": "5f523b00de54193ed8741e92",
+    "char": "𬦋",
+    "codepoint": "U+2C98B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬦏": {
+    "_id": "5f523b00de54193ed8741e96",
+    "char": "𬦏",
+    "codepoint": "U+2C98F",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬦰": {
+    "_id": "5f523b00de54193ed8741eb7",
+    "char": "𬦰",
+    "codepoint": "U+2C9B0",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬧉": {
+    "_id": "5f523b00de54193ed8741ed0",
+    "char": "𬧉",
+    "codepoint": "U+2C9C9",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧋": {
+    "_id": "5f523b00de54193ed8741ed2",
+    "char": "𬧋",
+    "codepoint": "U+2C9CB",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𬧩": {
+    "_id": "5f523b00de54193ed8741ef0",
+    "char": "𬧩",
+    "codepoint": "U+2C9E9",
+    "strokeCount": 15,
+    "tradVariants": ["𨉹"],
+    "sources": ["unicode"]
+  },
+  "𬧳": {
+    "_id": "5f523b00de54193ed8741efa",
+    "char": "𬧳",
+    "codepoint": "U+2C9F3",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𬧾": {
+    "_id": "5f523b00de54193ed8741f05",
+    "char": "𬧾",
+    "codepoint": "U+2C9FE",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𬧿": {
+    "_id": "5f523b00de54193ed8741f06",
+    "char": "𬧿",
+    "codepoint": "U+2C9FF",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𬤶": {
+    "_id": "5f523b00de54193ed8741e3d",
+    "char": "𬤶",
+    "codepoint": "U+2C936",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥈": {
+    "_id": "5f523b00de54193ed8741e4f",
+    "char": "𬥈",
+    "codepoint": "U+2C948",
+    "strokeCount": 13,
+    "tradVariants": ["䫉"],
+    "sources": ["unicode"],
+    "gloss": "(ancient form of U+7683 貌) facial appearance"
+  },
+  "𬥑": {
+    "_id": "5f523b00de54193ed8741e58",
+    "char": "𬥑",
+    "codepoint": "U+2C951",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𬥖": {
+    "_id": "5f523b00de54193ed8741e5d",
+    "char": "𬥖",
+    "codepoint": "U+2C956",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬥿": {
+    "_id": "5f523b00de54193ed8741e86",
+    "char": "𬥿",
+    "codepoint": "U+2C97F",
+    "strokeCount": 18,
+    "tradVariants": ["𧸪"],
+    "sources": ["unicode"]
+  },
+  "𬦘": {
+    "_id": "5f523b00de54193ed8741e9f",
+    "char": "𬦘",
+    "codepoint": "U+2C998",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬦫": {
+    "_id": "5f523b00de54193ed8741eb2",
+    "char": "𬦫",
+    "codepoint": "U+2C9AB",
+    "strokeCount": 12,
+    "tradVariants": ["𨆅"],
+    "sources": ["unicode"]
+  },
+  "𬦭": {
+    "_id": "5f523b00de54193ed8741eb4",
+    "char": "𬦭",
+    "codepoint": "U+2C9AD",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𬦹": {
+    "_id": "5f523b00de54193ed8741ec0",
+    "char": "𬦹",
+    "codepoint": "U+2C9B9",
+    "strokeCount": 14,
+    "tradVariants": ["𨃜"],
+    "sources": ["unicode"]
+  },
+  "𬦽": {
+    "_id": "5f523b00de54193ed8741ec4",
+    "char": "𬦽",
+    "codepoint": "U+2C9BD",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬧢": {
+    "_id": "5f523b00de54193ed8741ee9",
+    "char": "𬧢",
+    "codepoint": "U+2C9E2",
+    "strokeCount": 12,
+    "tradVariants": ["䡁"],
+    "sources": ["unicode"],
+    "gloss": "not well-formed figure"
+  },
+  "𬧥": {
+    "_id": "5f523b00de54193ed8741eec",
+    "char": "𬧥",
+    "codepoint": "U+2C9E5",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧮": {
+    "_id": "5f523b00de54193ed8741ef5",
+    "char": "𬧮",
+    "codepoint": "U+2C9EE",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬥌": {
+    "_id": "5f523b00de54193ed8741e53",
+    "char": "𬥌",
+    "codepoint": "U+2C94C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬥜": {
+    "_id": "5f523b00de54193ed8741e63",
+    "char": "𬥜",
+    "codepoint": "U+2C95C",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥝": {
+    "_id": "5f523b00de54193ed8741e64",
+    "char": "𬥝",
+    "codepoint": "U+2C95D",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬥼": {
+    "_id": "5f523b00de54193ed8741e83",
+    "char": "𬥼",
+    "codepoint": "U+2C97C",
+    "strokeCount": 13,
+    "tradVariants": ["𧶲"],
+    "sources": ["unicode"]
+  },
+  "𬦖": {
+    "_id": "5f523b00de54193ed8741e9d",
+    "char": "𬦖",
+    "codepoint": "U+2C996",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𬦥": {
+    "_id": "5f523b00de54193ed8741eac",
+    "char": "𬦥",
+    "codepoint": "U+2C9A5",
+    "strokeCount": 11,
+    "tradVariants": ["䟺"],
+    "sources": ["unicode"],
+    "gloss": "walk slowly because of the wrong position of the feet"
+  },
+  "𬦲": {
+    "_id": "5f523b00de54193ed8741eb9",
+    "char": "𬦲",
+    "codepoint": "U+2C9B2",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𬦶": {
+    "_id": "5f523b00de54193ed8741ebd",
+    "char": "𬦶",
+    "codepoint": "U+2C9B6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𬧇": {
+    "_id": "5f523b00de54193ed8741ece",
+    "char": "𬧇",
+    "codepoint": "U+2C9C7",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧖": {
+    "_id": "5f523b00de54193ed8741edd",
+    "char": "𬧖",
+    "codepoint": "U+2C9D6",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𬧝": {
+    "_id": "5f523b00de54193ed8741ee4",
+    "char": "𬧝",
+    "codepoint": "U+2C9DD",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𬧟": {
+    "_id": "5f523b00de54193ed8741ee6",
+    "char": "𬧟",
+    "codepoint": "U+2C9DF",
+    "strokeCount": 29,
+    "sources": ["unicode"],
+    "gloss": "calf of leg"
+  },
+  "𬧹": {
+    "_id": "5f523b00de54193ed8741f00",
+    "char": "𬧹",
+    "codepoint": "U+2C9F9",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𬧻": {
+    "_id": "5f523b00de54193ed8741f02",
+    "char": "𬧻",
+    "codepoint": "U+2C9FB",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  }
+}

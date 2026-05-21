@@ -1,0 +1,1807 @@
+{
+  "𭨋": {
+    "_id": "5f523b00de54193ed8742f04",
+    "char": "𭨋",
+    "codepoint": "U+2DA0B",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨎": {
+    "_id": "5f523b00de54193ed8742f07",
+    "char": "𭨎",
+    "codepoint": "U+2DA0E",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𭨚": {
+    "_id": "5f523b00de54193ed8742f13",
+    "char": "𭨚",
+    "codepoint": "U+2DA1A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭨾": {
+    "_id": "5f523b00de54193ed8742f37",
+    "char": "𭨾",
+    "codepoint": "U+2DA3E",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭩉": {
+    "_id": "5f523b00de54193ed8742f42",
+    "char": "𭩉",
+    "codepoint": "U+2DA49",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭩊": {
+    "_id": "5f523b00de54193ed8742f43",
+    "char": "𭩊",
+    "codepoint": "U+2DA4A",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𭩖": {
+    "_id": "5f523b00de54193ed8742f4f",
+    "char": "𭩖",
+    "codepoint": "U+2DA56",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𭩨": {
+    "_id": "5f523b00de54193ed8742f61",
+    "char": "𭩨",
+    "codepoint": "U+2DA68",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩴": {
+    "_id": "5f523b00de54193ed8742f6d",
+    "char": "𭩴",
+    "codepoint": "U+2DA74",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭩸": {
+    "_id": "5f523b00de54193ed8742f71",
+    "char": "𭩸",
+    "codepoint": "U+2DA78",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭩼": {
+    "_id": "5f523b00de54193ed8742f75",
+    "char": "𭩼",
+    "codepoint": "U+2DA7C",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪂": {
+    "_id": "5f523b00de54193ed8742f7b",
+    "char": "𭪂",
+    "codepoint": "U+2DA82",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪄": {
+    "_id": "5f523b00de54193ed8742f7d",
+    "char": "𭪄",
+    "codepoint": "U+2DA84",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪋": {
+    "_id": "5f523b00de54193ed8742f84",
+    "char": "𭪋",
+    "codepoint": "U+2DA8B",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪭": {
+    "_id": "5f523b00de54193ed8742fa6",
+    "char": "𭪭",
+    "codepoint": "U+2DAAD",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪲": {
+    "_id": "5f523b00de54193ed8742fab",
+    "char": "𭪲",
+    "codepoint": "U+2DAB2",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨆": {
+    "_id": "5f523b00de54193ed8742eff",
+    "char": "𭨆",
+    "codepoint": "U+2DA06",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨗": {
+    "_id": "5f523b00de54193ed8742f10",
+    "char": "𭨗",
+    "codepoint": "U+2DA17",
+    "strokeCount": 26,
+    "sources": ["unicode"]
+  },
+  "𭨶": {
+    "_id": "5f523b00de54193ed8742f2f",
+    "char": "𭨶",
+    "codepoint": "U+2DA36",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭨻": {
+    "_id": "5f523b00de54193ed8742f34",
+    "char": "𭨻",
+    "codepoint": "U+2DA3B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨿": {
+    "_id": "5f523b00de54193ed8742f38",
+    "char": "𭨿",
+    "codepoint": "U+2DA3F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭩔": {
+    "_id": "5f523b00de54193ed8742f4d",
+    "char": "𭩔",
+    "codepoint": "U+2DA54",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𭩗": {
+    "_id": "5f523b00de54193ed8742f50",
+    "char": "𭩗",
+    "codepoint": "U+2DA57",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𭨁": {
+    "_id": "5f523b00de54193ed8742efa",
+    "char": "𭨁",
+    "codepoint": "U+2DA01",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨘": {
+    "_id": "5f523b00de54193ed8742f11",
+    "char": "𭨘",
+    "codepoint": "U+2DA18",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𭨤": {
+    "_id": "5f523b00de54193ed8742f1d",
+    "char": "𭨤",
+    "codepoint": "U+2DA24",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𭨳": {
+    "_id": "5f523b00de54193ed8742f2c",
+    "char": "𭨳",
+    "codepoint": "U+2DA33",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭨴": {
+    "_id": "5f523b00de54193ed8742f2d",
+    "char": "𭨴",
+    "codepoint": "U+2DA34",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭩘": {
+    "_id": "5f523b00de54193ed8742f51",
+    "char": "𭩘",
+    "codepoint": "U+2DA58",
+    "strokeCount": 5,
+    "sources": ["unicode"]
+  },
+  "𭩢": {
+    "_id": "5f523b00de54193ed8742f5b",
+    "char": "𭩢",
+    "codepoint": "U+2DA62",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩬": {
+    "_id": "5f523b00de54193ed8742f65",
+    "char": "𭩬",
+    "codepoint": "U+2DA6C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪓": {
+    "_id": "5f523b00de54193ed8742f8c",
+    "char": "𭪓",
+    "codepoint": "U+2DA93",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪝": {
+    "_id": "5f523b00de54193ed8742f96",
+    "char": "𭪝",
+    "codepoint": "U+2DA9D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪱": {
+    "_id": "5f523b00de54193ed8742faa",
+    "char": "𭪱",
+    "codepoint": "U+2DAB1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪵": {
+    "_id": "5f523b00de54193ed8742fae",
+    "char": "𭪵",
+    "codepoint": "U+2DAB5",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪸": {
+    "_id": "5f523b00de54193ed8742fb1",
+    "char": "𭪸",
+    "codepoint": "U+2DAB8",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭨄": {
+    "_id": "5f523b00de54193ed8742efd",
+    "char": "𭨄",
+    "codepoint": "U+2DA04",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨉": {
+    "_id": "5f523b00de54193ed8742f02",
+    "char": "𭨉",
+    "codepoint": "U+2DA09",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨑": {
+    "_id": "5f523b00de54193ed8742f0a",
+    "char": "𭨑",
+    "codepoint": "U+2DA11",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𭨓": {
+    "_id": "5f523b00de54193ed8742f0c",
+    "char": "𭨓",
+    "codepoint": "U+2DA13",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𭨡": {
+    "_id": "5f523b00de54193ed8742f1a",
+    "char": "𭨡",
+    "codepoint": "U+2DA21",
+    "strokeCount": 15,
+    "simpVariants": ["𰁈"],
+    "sources": ["unicode"]
+  },
+  "𭨭": {
+    "_id": "5f523b00de54193ed8742f26",
+    "char": "𭨭",
+    "codepoint": "U+2DA2D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩌": {
+    "_id": "5f523b00de54193ed8742f45",
+    "char": "𭩌",
+    "codepoint": "U+2DA4C",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𭩒": {
+    "_id": "5f523b00de54193ed8742f4b",
+    "char": "𭩒",
+    "codepoint": "U+2DA52",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𭩡": {
+    "_id": "5f523b00de54193ed8742f5a",
+    "char": "𭩡",
+    "codepoint": "U+2DA61",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩧": {
+    "_id": "5f523b00de54193ed8742f60",
+    "char": "𭩧",
+    "codepoint": "U+2DA67",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪈": {
+    "_id": "5f523b00de54193ed8742f81",
+    "char": "𭪈",
+    "codepoint": "U+2DA88",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪔": {
+    "_id": "5f523b00de54193ed8742f8d",
+    "char": "𭪔",
+    "codepoint": "U+2DA94",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪫": {
+    "_id": "5f523b00de54193ed8742fa4",
+    "char": "𭪫",
+    "codepoint": "U+2DAAB",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪷": {
+    "_id": "5f523b00de54193ed8742fb0",
+    "char": "𭪷",
+    "codepoint": "U+2DAB7",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭪺": {
+    "_id": "5f523b00de54193ed8742fb3",
+    "char": "𭪺",
+    "codepoint": "U+2DABA",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪻": {
+    "_id": "5f523b00de54193ed8742fb4",
+    "char": "𭪻",
+    "codepoint": "U+2DABB",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭨂": {
+    "_id": "5f523b00de54193ed8742efb",
+    "char": "𭨂",
+    "codepoint": "U+2DA02",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨊": {
+    "_id": "5f523b00de54193ed8742f03",
+    "char": "𭨊",
+    "codepoint": "U+2DA0A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨛": {
+    "_id": "5f523b00de54193ed8742f14",
+    "char": "𭨛",
+    "codepoint": "U+2DA1B",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭨦": {
+    "_id": "5f523b00de54193ed8742f1f",
+    "char": "𭨦",
+    "codepoint": "U+2DA26",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𭨨": {
+    "_id": "5f523b00de54193ed8742f21",
+    "char": "𭨨",
+    "codepoint": "U+2DA28",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩆": {
+    "_id": "5f523b00de54193ed8742f3f",
+    "char": "𭩆",
+    "codepoint": "U+2DA46",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭩲": {
+    "_id": "5f523b00de54193ed8742f6b",
+    "char": "𭩲",
+    "codepoint": "U+2DA72",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩽": {
+    "_id": "5f523b00de54193ed8742f76",
+    "char": "𭩽",
+    "codepoint": "U+2DA7D",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪘": {
+    "_id": "5f523b00de54193ed8742f91",
+    "char": "𭪘",
+    "codepoint": "U+2DA98",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪙": {
+    "_id": "5f523b00de54193ed8742f92",
+    "char": "𭪙",
+    "codepoint": "U+2DA99",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪧": {
+    "_id": "5f523b00de54193ed8742fa0",
+    "char": "𭪧",
+    "codepoint": "U+2DAA7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪬": {
+    "_id": "5f523b00de54193ed8742fa5",
+    "char": "𭪬",
+    "codepoint": "U+2DAAC",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪼": {
+    "_id": "5f523b00de54193ed8742fb5",
+    "char": "𭪼",
+    "codepoint": "U+2DABC",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭨀": {
+    "_id": "5f523b00de54193ed8742ef9",
+    "char": "𭨀",
+    "codepoint": "U+2DA00",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨍": {
+    "_id": "5f523b00de54193ed8742f06",
+    "char": "𭨍",
+    "codepoint": "U+2DA0D",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𭨧": {
+    "_id": "5f523b00de54193ed8742f20",
+    "char": "𭨧",
+    "codepoint": "U+2DA27",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𭨱": {
+    "_id": "5f523b00de54193ed8742f2a",
+    "char": "𭨱",
+    "codepoint": "U+2DA31",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭨲": {
+    "_id": "5f523b00de54193ed8742f2b",
+    "char": "𭨲",
+    "codepoint": "U+2DA32",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭩑": {
+    "_id": "5f523b00de54193ed8742f4a",
+    "char": "𭩑",
+    "codepoint": "U+2DA51",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭩩": {
+    "_id": "5f523b00de54193ed8742f62",
+    "char": "𭩩",
+    "codepoint": "U+2DA69",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩮": {
+    "_id": "5f523b00de54193ed8742f67",
+    "char": "𭩮",
+    "codepoint": "U+2DA6E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪇": {
+    "_id": "5f523b00de54193ed8742f80",
+    "char": "𭪇",
+    "codepoint": "U+2DA87",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪖": {
+    "_id": "5f523b00de54193ed8742f8f",
+    "char": "𭪖",
+    "codepoint": "U+2DA96",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪡": {
+    "_id": "5f523b00de54193ed8742f9a",
+    "char": "𭪡",
+    "codepoint": "U+2DAA1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪢": {
+    "_id": "5f523b00de54193ed8742f9b",
+    "char": "𭪢",
+    "codepoint": "U+2DAA2",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪪": {
+    "_id": "5f523b00de54193ed8742fa3",
+    "char": "𭪪",
+    "codepoint": "U+2DAAA",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪯": {
+    "_id": "5f523b00de54193ed8742fa8",
+    "char": "𭪯",
+    "codepoint": "U+2DAAF",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨈": {
+    "_id": "5f523b00de54193ed8742f01",
+    "char": "𭨈",
+    "codepoint": "U+2DA08",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨌": {
+    "_id": "5f523b00de54193ed8742f05",
+    "char": "𭨌",
+    "codepoint": "U+2DA0C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𭨙": {
+    "_id": "5f523b00de54193ed8742f12",
+    "char": "𭨙",
+    "codepoint": "U+2DA19",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭨣": {
+    "_id": "5f523b00de54193ed8742f1c",
+    "char": "𭨣",
+    "codepoint": "U+2DA23",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𭨬": {
+    "_id": "5f523b00de54193ed8742f25",
+    "char": "𭨬",
+    "codepoint": "U+2DA2C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩂": {
+    "_id": "5f523b00de54193ed8742f3b",
+    "char": "𭩂",
+    "codepoint": "U+2DA42",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭩣": {
+    "_id": "5f523b00de54193ed8742f5c",
+    "char": "𭩣",
+    "codepoint": "U+2DA63",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩭": {
+    "_id": "5f523b00de54193ed8742f66",
+    "char": "𭩭",
+    "codepoint": "U+2DA6D",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩶": {
+    "_id": "5f523b00de54193ed8742f6f",
+    "char": "𭩶",
+    "codepoint": "U+2DA76",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪞": {
+    "_id": "5f523b00de54193ed8742f97",
+    "char": "𭪞",
+    "codepoint": "U+2DA9E",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨏": {
+    "_id": "5f523b00de54193ed8742f08",
+    "char": "𭨏",
+    "codepoint": "U+2DA0F",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𭨟": {
+    "_id": "5f523b00de54193ed8742f18",
+    "char": "𭨟",
+    "codepoint": "U+2DA1F",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭨠": {
+    "_id": "5f523b00de54193ed8742f19",
+    "char": "𭨠",
+    "codepoint": "U+2DA20",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭩍": {
+    "_id": "5f523b00de54193ed8742f46",
+    "char": "𭩍",
+    "codepoint": "U+2DA4D",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𭩛": {
+    "_id": "5f523b00de54193ed8742f54",
+    "char": "𭩛",
+    "codepoint": "U+2DA5B",
+    "strokeCount": 7,
+    "tradVariants": ["椚"],
+    "sources": ["unicode"],
+    "gloss": "a kind of oak used for charcoal"
+  },
+  "𭩟": {
+    "_id": "5f523b00de54193ed8742f58",
+    "char": "𭩟",
+    "codepoint": "U+2DA5F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩦": {
+    "_id": "5f523b00de54193ed8742f5f",
+    "char": "𭩦",
+    "codepoint": "U+2DA66",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪗": {
+    "_id": "5f523b00de54193ed8742f90",
+    "char": "𭪗",
+    "codepoint": "U+2DA97",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪹": {
+    "_id": "5f523b00de54193ed8742fb2",
+    "char": "𭪹",
+    "codepoint": "U+2DAB9",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭨇": {
+    "_id": "5f523b00de54193ed8742f00",
+    "char": "𭨇",
+    "codepoint": "U+2DA07",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭩀": {
+    "_id": "5f523b00de54193ed8742f39",
+    "char": "𭩀",
+    "codepoint": "U+2DA40",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭩇": {
+    "_id": "5f523b00de54193ed8742f40",
+    "char": "𭩇",
+    "codepoint": "U+2DA47",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭩎": {
+    "_id": "5f523b00de54193ed8742f47",
+    "char": "𭩎",
+    "codepoint": "U+2DA4E",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𭩚": {
+    "_id": "5f523b00de54193ed8742f53",
+    "char": "𭩚",
+    "codepoint": "U+2DA5A",
+    "strokeCount": 7,
+    "tradVariants": ["檥"],
+    "sources": ["unicode"],
+    "gloss": "variant of 艤 U+8264"
+  },
+  "𭩤": {
+    "_id": "5f523b00de54193ed8742f5d",
+    "char": "𭩤",
+    "codepoint": "U+2DA64",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩹": {
+    "_id": "5f523b00de54193ed8742f72",
+    "char": "𭩹",
+    "codepoint": "U+2DA79",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪍": {
+    "_id": "5f523b00de54193ed8742f86",
+    "char": "𭪍",
+    "codepoint": "U+2DA8D",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪎": {
+    "_id": "5f523b00de54193ed8742f87",
+    "char": "𭪎",
+    "codepoint": "U+2DA8E",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪜": {
+    "_id": "5f523b00de54193ed8742f95",
+    "char": "𭪜",
+    "codepoint": "U+2DA9C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨒": {
+    "_id": "5f523b00de54193ed8742f0b",
+    "char": "𭨒",
+    "codepoint": "U+2DA12",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "𭨢": {
+    "_id": "5f523b00de54193ed8742f1b",
+    "char": "𭨢",
+    "codepoint": "U+2DA22",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭨰": {
+    "_id": "5f523b00de54193ed8742f29",
+    "char": "𭨰",
+    "codepoint": "U+2DA30",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩃": {
+    "_id": "5f523b00de54193ed8742f3c",
+    "char": "𭩃",
+    "codepoint": "U+2DA43",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭩞": {
+    "_id": "5f523b00de54193ed8742f57",
+    "char": "𭩞",
+    "codepoint": "U+2DA5E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩯": {
+    "_id": "5f523b00de54193ed8742f68",
+    "char": "𭩯",
+    "codepoint": "U+2DA6F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪁": {
+    "_id": "5f523b00de54193ed8742f7a",
+    "char": "𭪁",
+    "codepoint": "U+2DA81",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪃": {
+    "_id": "5f523b00de54193ed8742f7c",
+    "char": "𭪃",
+    "codepoint": "U+2DA83",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪏": {
+    "_id": "5f523b00de54193ed8742f88",
+    "char": "𭪏",
+    "codepoint": "U+2DA8F",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪣": {
+    "_id": "5f523b00de54193ed8742f9c",
+    "char": "𭪣",
+    "codepoint": "U+2DAA3",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪥": {
+    "_id": "5f523b00de54193ed8742f9e",
+    "char": "𭪥",
+    "codepoint": "U+2DAA5",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨖": {
+    "_id": "5f523b00de54193ed8742f0f",
+    "char": "𭨖",
+    "codepoint": "U+2DA16",
+    "strokeCount": 25,
+    "sources": ["unicode"]
+  },
+  "𭨩": {
+    "_id": "5f523b00de54193ed8742f22",
+    "char": "𭨩",
+    "codepoint": "U+2DA29",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭨽": {
+    "_id": "5f523b00de54193ed8742f36",
+    "char": "𭨽",
+    "codepoint": "U+2DA3D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭩁": {
+    "_id": "5f523b00de54193ed8742f3a",
+    "char": "𭩁",
+    "codepoint": "U+2DA41",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭩈": {
+    "_id": "5f523b00de54193ed8742f41",
+    "char": "𭩈",
+    "codepoint": "U+2DA48",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭩕": {
+    "_id": "5f523b00de54193ed8742f4e",
+    "char": "𭩕",
+    "codepoint": "U+2DA55",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𭩙": {
+    "_id": "5f523b00de54193ed8742f52",
+    "char": "𭩙",
+    "codepoint": "U+2DA59",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𭩳": {
+    "_id": "5f523b00de54193ed8742f6c",
+    "char": "𭩳",
+    "codepoint": "U+2DA73",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭩷": {
+    "_id": "5f523b00de54193ed8742f70",
+    "char": "𭩷",
+    "codepoint": "U+2DA77",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪛": {
+    "_id": "5f523b00de54193ed8742f94",
+    "char": "𭪛",
+    "codepoint": "U+2DA9B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪰": {
+    "_id": "5f523b00de54193ed8742fa9",
+    "char": "𭪰",
+    "codepoint": "U+2DAB0",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪳": {
+    "_id": "5f523b00de54193ed8742fac",
+    "char": "𭪳",
+    "codepoint": "U+2DAB3",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨐": {
+    "_id": "5f523b00de54193ed8742f09",
+    "char": "𭨐",
+    "codepoint": "U+2DA10",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𭨜": {
+    "_id": "5f523b00de54193ed8742f15",
+    "char": "𭨜",
+    "codepoint": "U+2DA1C",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭨸": {
+    "_id": "5f523b00de54193ed8742f31",
+    "char": "𭨸",
+    "codepoint": "U+2DA38",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭨺": {
+    "_id": "5f523b00de54193ed8742f33",
+    "char": "𭨺",
+    "codepoint": "U+2DA3A",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭩄": {
+    "_id": "5f523b00de54193ed8742f3d",
+    "char": "𭩄",
+    "codepoint": "U+2DA44",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭩏": {
+    "_id": "5f523b00de54193ed8742f48",
+    "char": "𭩏",
+    "codepoint": "U+2DA4F",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭩠": {
+    "_id": "5f523b00de54193ed8742f59",
+    "char": "𭩠",
+    "codepoint": "U+2DA60",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩿": {
+    "_id": "5f523b00de54193ed8742f78",
+    "char": "𭩿",
+    "codepoint": "U+2DA7F",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪑": {
+    "_id": "5f523b00de54193ed8742f8a",
+    "char": "𭪑",
+    "codepoint": "U+2DA91",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪤": {
+    "_id": "5f523b00de54193ed8742f9d",
+    "char": "𭪤",
+    "codepoint": "U+2DAA4",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪮": {
+    "_id": "5f523b00de54193ed8742fa7",
+    "char": "𭪮",
+    "codepoint": "U+2DAAE",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭪶": {
+    "_id": "5f523b00de54193ed8742faf",
+    "char": "𭪶",
+    "codepoint": "U+2DAB6",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭨃": {
+    "_id": "5f523b00de54193ed8742efc",
+    "char": "𭨃",
+    "codepoint": "U+2DA03",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨥": {
+    "_id": "5f523b00de54193ed8742f1e",
+    "char": "𭨥",
+    "codepoint": "U+2DA25",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𭨪": {
+    "_id": "5f523b00de54193ed8742f23",
+    "char": "𭨪",
+    "codepoint": "U+2DA2A",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭨯": {
+    "_id": "5f523b00de54193ed8742f28",
+    "char": "𭨯",
+    "codepoint": "U+2DA2F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩐": {
+    "_id": "5f523b00de54193ed8742f49",
+    "char": "𭩐",
+    "codepoint": "U+2DA50",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭩥": {
+    "_id": "5f523b00de54193ed8742f5e",
+    "char": "𭩥",
+    "codepoint": "U+2DA65",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩱": {
+    "_id": "5f523b00de54193ed8742f6a",
+    "char": "𭩱",
+    "codepoint": "U+2DA71",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩺": {
+    "_id": "5f523b00de54193ed8742f73",
+    "char": "𭩺",
+    "codepoint": "U+2DA7A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭩾": {
+    "_id": "5f523b00de54193ed8742f77",
+    "char": "𭩾",
+    "codepoint": "U+2DA7E",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪅": {
+    "_id": "5f523b00de54193ed8742f7e",
+    "char": "𭪅",
+    "codepoint": "U+2DA85",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪆": {
+    "_id": "5f523b00de54193ed8742f7f",
+    "char": "𭪆",
+    "codepoint": "U+2DA86",
+    "strokeCount": 10,
+    "tradVariants": ["檛"],
+    "sources": ["unicode"],
+    "gloss": "a switch"
+  },
+  "𭪉": {
+    "_id": "5f523b00de54193ed8742f82",
+    "char": "𭪉",
+    "codepoint": "U+2DA89",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪌": {
+    "_id": "5f523b00de54193ed8742f85",
+    "char": "𭪌",
+    "codepoint": "U+2DA8C",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭨫": {
+    "_id": "5f523b00de54193ed8742f24",
+    "char": "𭨫",
+    "codepoint": "U+2DA2B",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭨮": {
+    "_id": "5f523b00de54193ed8742f27",
+    "char": "𭨮",
+    "codepoint": "U+2DA2E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭨷": {
+    "_id": "5f523b00de54193ed8742f30",
+    "char": "𭨷",
+    "codepoint": "U+2DA37",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭩰": {
+    "_id": "5f523b00de54193ed8742f69",
+    "char": "𭩰",
+    "codepoint": "U+2DA70",
+    "strokeCount": 9,
+    "tradVariants": ["橃"],
+    "sources": ["unicode"]
+  },
+  "𭩵": {
+    "_id": "5f523b00de54193ed8742f6e",
+    "char": "𭩵",
+    "codepoint": "U+2DA75",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪒": {
+    "_id": "5f523b00de54193ed8742f8b",
+    "char": "𭪒",
+    "codepoint": "U+2DA92",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪨": {
+    "_id": "5f523b00de54193ed8742fa1",
+    "char": "𭪨",
+    "codepoint": "U+2DAA8",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨅": {
+    "_id": "5f523b00de54193ed8742efe",
+    "char": "𭨅",
+    "codepoint": "U+2DA05",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𭨔": {
+    "_id": "5f523b00de54193ed8742f0d",
+    "char": "𭨔",
+    "codepoint": "U+2DA14",
+    "strokeCount": 24,
+    "sources": ["unicode"]
+  },
+  "𭨞": {
+    "_id": "5f523b00de54193ed8742f17",
+    "char": "𭨞",
+    "codepoint": "U+2DA1E",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭩅": {
+    "_id": "5f523b00de54193ed8742f3e",
+    "char": "𭩅",
+    "codepoint": "U+2DA45",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭩓": {
+    "_id": "5f523b00de54193ed8742f4c",
+    "char": "𭩓",
+    "codepoint": "U+2DA53",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𭩝": {
+    "_id": "5f523b00de54193ed8742f56",
+    "char": "𭩝",
+    "codepoint": "U+2DA5D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩻": {
+    "_id": "5f523b00de54193ed8742f74",
+    "char": "𭩻",
+    "codepoint": "U+2DA7B",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪀": {
+    "_id": "5f523b00de54193ed8742f79",
+    "char": "𭪀",
+    "codepoint": "U+2DA80",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𭪊": {
+    "_id": "5f523b00de54193ed8742f83",
+    "char": "𭪊",
+    "codepoint": "U+2DA8A",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪕": {
+    "_id": "5f523b00de54193ed8742f8e",
+    "char": "𭪕",
+    "codepoint": "U+2DA95",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪚": {
+    "_id": "5f523b00de54193ed8742f93",
+    "char": "𭪚",
+    "codepoint": "U+2DA9A",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪠": {
+    "_id": "5f523b00de54193ed8742f99",
+    "char": "𭪠",
+    "codepoint": "U+2DAA0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪦": {
+    "_id": "5f523b00de54193ed8742f9f",
+    "char": "𭪦",
+    "codepoint": "U+2DAA6",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪩": {
+    "_id": "5f523b00de54193ed8742fa2",
+    "char": "𭪩",
+    "codepoint": "U+2DAA9",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨕": {
+    "_id": "5f523b00de54193ed8742f0e",
+    "char": "𭨕",
+    "codepoint": "U+2DA15",
+    "strokeCount": 25,
+    "sources": ["unicode"]
+  },
+  "𭨝": {
+    "_id": "5f523b00de54193ed8742f16",
+    "char": "𭨝",
+    "codepoint": "U+2DA1D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨵": {
+    "_id": "5f523b00de54193ed8742f2e",
+    "char": "𭨵",
+    "codepoint": "U+2DA35",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭨹": {
+    "_id": "5f523b00de54193ed8742f32",
+    "char": "𭨹",
+    "codepoint": "U+2DA39",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭨼": {
+    "_id": "5f523b00de54193ed8742f35",
+    "char": "𭨼",
+    "codepoint": "U+2DA3C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭩋": {
+    "_id": "5f523b00de54193ed8742f44",
+    "char": "𭩋",
+    "codepoint": "U+2DA4B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭩜": {
+    "_id": "5f523b00de54193ed8742f55",
+    "char": "𭩜",
+    "codepoint": "U+2DA5C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𭩪": {
+    "_id": "5f523b00de54193ed8742f63",
+    "char": "𭩪",
+    "codepoint": "U+2DA6A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭩫": {
+    "_id": "5f523b00de54193ed8742f64",
+    "char": "𭩫",
+    "codepoint": "U+2DA6B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𭪐": {
+    "_id": "5f523b00de54193ed8742f89",
+    "char": "𭪐",
+    "codepoint": "U+2DA90",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𭪟": {
+    "_id": "5f523b00de54193ed8742f98",
+    "char": "𭪟",
+    "codepoint": "U+2DA9F",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭪴": {
+    "_id": "5f523b00de54193ed8742fad",
+    "char": "𭪴",
+    "codepoint": "U+2DAB4",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭫁": {
+    "_id": "5f523b00de54193ed8742fba",
+    "char": "𭫁",
+    "codepoint": "U+2DAC1",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫑": {
+    "_id": "5f523b00de54193ed8742fca",
+    "char": "𭫑",
+    "codepoint": "U+2DAD1",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫥": {
+    "_id": "5f523b00de54193ed8742fde",
+    "char": "𭫥",
+    "codepoint": "U+2DAE5",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫦": {
+    "_id": "5f523b00de54193ed8742fdf",
+    "char": "𭫦",
+    "codepoint": "U+2DAE6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫣": {
+    "_id": "5f523b00de54193ed8742fdc",
+    "char": "𭫣",
+    "codepoint": "U+2DAE3",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫤": {
+    "_id": "5f523b00de54193ed8742fdd",
+    "char": "𭫤",
+    "codepoint": "U+2DAE4",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫀": {
+    "_id": "5f523b00de54193ed8742fb9",
+    "char": "𭫀",
+    "codepoint": "U+2DAC0",
+    "strokeCount": 13,
+    "tradVariants": ["樻"],
+    "sources": ["unicode"],
+    "gloss": "cupboard"
+  },
+  "𭫃": {
+    "_id": "5f523b00de54193ed8742fbc",
+    "char": "𭫃",
+    "codepoint": "U+2DAC3",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫟": {
+    "_id": "5f523b00de54193ed8742fd8",
+    "char": "𭫟",
+    "codepoint": "U+2DADF",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫖": {
+    "_id": "5f523b00de54193ed8742fcf",
+    "char": "𭫖",
+    "codepoint": "U+2DAD6",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫯": {
+    "_id": "5f523b00de54193ed8742fe8",
+    "char": "𭫯",
+    "codepoint": "U+2DAEF",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫹": {
+    "_id": "5f523b00de54193ed8742ff2",
+    "char": "𭫹",
+    "codepoint": "U+2DAF9",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫰": {
+    "_id": "5f523b00de54193ed8742fe9",
+    "char": "𭫰",
+    "codepoint": "U+2DAF0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭪾": {
+    "_id": "5f523b00de54193ed8742fb7",
+    "char": "𭪾",
+    "codepoint": "U+2DABE",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭪿": {
+    "_id": "5f523b00de54193ed8742fb8",
+    "char": "𭪿",
+    "codepoint": "U+2DABF",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫋": {
+    "_id": "5f523b00de54193ed8742fc4",
+    "char": "𭫋",
+    "codepoint": "U+2DACB",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫗": {
+    "_id": "5f523b00de54193ed8742fd0",
+    "char": "𭫗",
+    "codepoint": "U+2DAD7",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫎": {
+    "_id": "5f523b00de54193ed8742fc7",
+    "char": "𭫎",
+    "codepoint": "U+2DACE",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𭫜": {
+    "_id": "5f523b00de54193ed8742fd5",
+    "char": "𭫜",
+    "codepoint": "U+2DADC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫢": {
+    "_id": "5f523b00de54193ed8742fdb",
+    "char": "𭫢",
+    "codepoint": "U+2DAE2",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫸": {
+    "_id": "5f523b00de54193ed8742ff1",
+    "char": "𭫸",
+    "codepoint": "U+2DAF8",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫓": {
+    "_id": "5f523b00de54193ed8742fcc",
+    "char": "𭫓",
+    "codepoint": "U+2DAD3",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫒": {
+    "_id": "5f523b00de54193ed8742fcb",
+    "char": "𭫒",
+    "codepoint": "U+2DAD2",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫚": {
+    "_id": "5f523b00de54193ed8742fd3",
+    "char": "𭫚",
+    "codepoint": "U+2DADA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫞": {
+    "_id": "5f523b00de54193ed8742fd7",
+    "char": "𭫞",
+    "codepoint": "U+2DADE",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫩": {
+    "_id": "5f523b00de54193ed8742fe2",
+    "char": "𭫩",
+    "codepoint": "U+2DAE9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫂": {
+    "_id": "5f523b00de54193ed8742fbb",
+    "char": "𭫂",
+    "codepoint": "U+2DAC2",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫄": {
+    "_id": "5f523b00de54193ed8742fbd",
+    "char": "𭫄",
+    "codepoint": "U+2DAC4",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫕": {
+    "_id": "5f523b00de54193ed8742fce",
+    "char": "𭫕",
+    "codepoint": "U+2DAD5",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫡": {
+    "_id": "5f523b00de54193ed8742fda",
+    "char": "𭫡",
+    "codepoint": "U+2DAE1",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫫": {
+    "_id": "5f523b00de54193ed8742fe4",
+    "char": "𭫫",
+    "codepoint": "U+2DAEB",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫱": {
+    "_id": "5f523b00de54193ed8742fea",
+    "char": "𭫱",
+    "codepoint": "U+2DAF1",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫊": {
+    "_id": "5f523b00de54193ed8742fc3",
+    "char": "𭫊",
+    "codepoint": "U+2DACA",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫐": {
+    "_id": "5f523b00de54193ed8742fc9",
+    "char": "𭫐",
+    "codepoint": "U+2DAD0",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫛": {
+    "_id": "5f523b00de54193ed8742fd4",
+    "char": "𭫛",
+    "codepoint": "U+2DADB",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫬": {
+    "_id": "5f523b00de54193ed8742fe5",
+    "char": "𭫬",
+    "codepoint": "U+2DAEC",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫳": {
+    "_id": "5f523b00de54193ed8742fec",
+    "char": "𭫳",
+    "codepoint": "U+2DAF3",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫴": {
+    "_id": "5f523b00de54193ed8742fed",
+    "char": "𭫴",
+    "codepoint": "U+2DAF4",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫌": {
+    "_id": "5f523b00de54193ed8742fc5",
+    "char": "𭫌",
+    "codepoint": "U+2DACC",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫏": {
+    "_id": "5f523b00de54193ed8742fc8",
+    "char": "𭫏",
+    "codepoint": "U+2DACF",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫝": {
+    "_id": "5f523b00de54193ed8742fd6",
+    "char": "𭫝",
+    "codepoint": "U+2DADD",
+    "strokeCount": 14,
+    "tradVariants": ["𠐇"],
+    "sources": ["unicode"]
+  },
+  "𭫧": {
+    "_id": "5f523b00de54193ed8742fe0",
+    "char": "𭫧",
+    "codepoint": "U+2DAE7",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫮": {
+    "_id": "5f523b00de54193ed8742fe7",
+    "char": "𭫮",
+    "codepoint": "U+2DAEE",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫷": {
+    "_id": "5f523b00de54193ed8742ff0",
+    "char": "𭫷",
+    "codepoint": "U+2DAF7",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫻": {
+    "_id": "5f523b00de54193ed8742ff4",
+    "char": "𭫻",
+    "codepoint": "U+2DAFB",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭫅": {
+    "_id": "5f523b00de54193ed8742fbe",
+    "char": "𭫅",
+    "codepoint": "U+2DAC5",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫠": {
+    "_id": "5f523b00de54193ed8742fd9",
+    "char": "𭫠",
+    "codepoint": "U+2DAE0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫵": {
+    "_id": "5f523b00de54193ed8742fee",
+    "char": "𭫵",
+    "codepoint": "U+2DAF5",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫘": {
+    "_id": "5f523b00de54193ed8742fd1",
+    "char": "𭫘",
+    "codepoint": "U+2DAD8",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫨": {
+    "_id": "5f523b00de54193ed8742fe1",
+    "char": "𭫨",
+    "codepoint": "U+2DAE8",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫪": {
+    "_id": "5f523b00de54193ed8742fe3",
+    "char": "𭫪",
+    "codepoint": "U+2DAEA",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭪽": {
+    "_id": "5f523b00de54193ed8742fb6",
+    "char": "𭪽",
+    "codepoint": "U+2DABD",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫈": {
+    "_id": "5f523b00de54193ed8742fc1",
+    "char": "𭫈",
+    "codepoint": "U+2DAC8",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫍": {
+    "_id": "5f523b00de54193ed8742fc6",
+    "char": "𭫍",
+    "codepoint": "U+2DACD",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫔": {
+    "_id": "5f523b00de54193ed8742fcd",
+    "char": "𭫔",
+    "codepoint": "U+2DAD4",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𭫶": {
+    "_id": "5f523b00de54193ed8742fef",
+    "char": "𭫶",
+    "codepoint": "U+2DAF6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫆": {
+    "_id": "5f523b00de54193ed8742fbf",
+    "char": "𭫆",
+    "codepoint": "U+2DAC6",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫇": {
+    "_id": "5f523b00de54193ed8742fc0",
+    "char": "𭫇",
+    "codepoint": "U+2DAC7",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫉": {
+    "_id": "5f523b00de54193ed8742fc2",
+    "char": "𭫉",
+    "codepoint": "U+2DAC9",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𭫙": {
+    "_id": "5f523b00de54193ed8742fd2",
+    "char": "𭫙",
+    "codepoint": "U+2DAD9",
+    "strokeCount": 13,
+    "tradVariants": ["㰅"],
+    "sources": ["unicode"],
+    "gloss": "(same as 樀) eaves of a house"
+  },
+  "𭫭": {
+    "_id": "5f523b00de54193ed8742fe6",
+    "char": "𭫭",
+    "codepoint": "U+2DAED",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫲": {
+    "_id": "5f523b00de54193ed8742feb",
+    "char": "𭫲",
+    "codepoint": "U+2DAF2",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫺": {
+    "_id": "5f523b00de54193ed8742ff3",
+    "char": "𭫺",
+    "codepoint": "U+2DAFA",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫼": {
+    "_id": "5f523b00de54193ed8742ff5",
+    "char": "𭫼",
+    "codepoint": "U+2DAFC",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭫾": {
+    "_id": "5f523b00de54193ed8742ff7",
+    "char": "𭫾",
+    "codepoint": "U+2DAFE",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𭫿": {
+    "_id": "5f523b00de54193ed8742ff8",
+    "char": "𭫿",
+    "codepoint": "U+2DAFF",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𭫽": {
+    "_id": "5f523b00de54193ed8742ff6",
+    "char": "𭫽",
+    "codepoint": "U+2DAFD",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  }
+}

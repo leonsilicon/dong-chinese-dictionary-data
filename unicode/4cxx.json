@@ -1,0 +1,3878 @@
+{
+  "䰧": {
+    "_id": "5f523afdde54193ed872ffdd",
+    "char": "䰧",
+    "codepoint": "U+4C27",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%A7_0.png",
+        "source": "academia-sinica",
+        "description": "作冊䰧卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%A7_1.png",
+        "source": "academia-sinica",
+        "description": "作冊䰧卣(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%A7_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬼部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鬼皃。从鬼，虎聲。”",
+    "variants": [{ "char": "䰧", "parts": "鬼虎", "source": "academia-sinica" }],
+    "gloss": "sinister"
+  },
+  "䰎": {
+    "_id": "5f523afdde54193ed872ffc4",
+    "char": "䰎",
+    "codepoint": "U+4C0E",
+    "strokeCount": 22,
+    "simpVariants": ["𱆃"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%8E_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，屈髮也。从髟，貴聲。”",
+    "variants": [{ "char": "䰎", "parts": "髟貴", "source": "academia-sinica" }],
+    "gloss": "to twist the hair in a knot on the top of the head"
+  },
+  "䰕": {
+    "_id": "5f523afdde54193ed872ffcb",
+    "char": "䰕",
+    "codepoint": "U+4C15",
+    "strokeCount": 26,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%95_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鬣也。从髟，盧聲。”",
+    "variants": [{ "char": "䰕", "parts": "髟盧", "source": "academia-sinica" }],
+    "gloss": "mane"
+  },
+  "䰫": {
+    "_id": "5f523afdde54193ed872ffe1",
+    "char": "䰫",
+    "codepoint": "U+4C2B",
+    "strokeCount": 22,
+    "simpVariants": ["𱆙"],
+    "sources": ["unicode"],
+    "gloss": "nimble and active ghost"
+  },
+  "䰳": {
+    "_id": "5f523afdde54193ed872ffe9",
+    "char": "䰳",
+    "codepoint": "U+4C33",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "䰼": {
+    "_id": "5f523afdde54193ed872fff2",
+    "char": "䰼",
+    "codepoint": "U+4C3C",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%BC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鮺也。一曰大魚為鮺，小魚為。从魚，今聲。”",
+    "variants": [{ "char": "䰼", "parts": "魚今", "source": "academia-sinica" }],
+    "gloss": "a condiment made from minced fish salted"
+  },
+  "䰏": {
+    "_id": "5f523afdde54193ed872ffc5",
+    "char": "䰏",
+    "codepoint": "U+4C0F",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "sparse hair on a knot on the top of the head"
+  },
+  "䰡": {
+    "_id": "5f523afdde54193ed872ffd7",
+    "char": "䰡",
+    "codepoint": "U+4C21",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%A1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬼部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，厲鬼也。从鬼，失聲。”",
+    "variants": [{ "char": "䰡", "parts": "鬼失", "source": "academia-sinica" }],
+    "gloss": "a fierce ghost"
+  },
+  "䰣": {
+    "_id": "5f523afdde54193ed872ffd9",
+    "char": "䰣",
+    "codepoint": "U+4C23",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 魍) an elf"
+  },
+  "䰬": {
+    "_id": "5f523afdde54193ed872ffe2",
+    "char": "䰬",
+    "codepoint": "U+4C2C",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "wild ghost"
+  },
+  "䰀": {
+    "_id": "5f523afdde54193ed872ffb6",
+    "char": "䰀",
+    "codepoint": "U+4C00",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "dressed hair of a Chinese woman"
+  },
+  "䰄": {
+    "_id": "5f523afdde54193ed872ffba",
+    "char": "䰄",
+    "codepoint": "U+4C04",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "short hair"
+  },
+  "䰾": {
+    "_id": "5f523afdde54193ed872fff4",
+    "char": "䰾",
+    "codepoint": "U+4C3E",
+    "strokeCount": 15,
+    "simpVariants": ["鲃"],
+    "sources": ["makemeahanzi", "unicode"],
+    "components": [
+      { "character": "魚", "type": ["meaning"], "hint": "fish" },
+      { "character": "巴", "type": ["sound"] }
+    ],
+    "images": [
+      {
+        "data": {
+          "strokes": [
+            "M 287 662 Q 339 735 351 741 Q 356 747 357 753 Q 359 766 328 795 Q 307 813 289 813 Q 272 811 278 793 Q 284 776 274 747 Q 247 666 131 537 Q 122 526 121 523 Q 120 520 120 519 Q 120 514 129 515 Q 169 519 270 643 L 287 662 Z",
+            "M 314 502 Q 437 619 466 633 Q 484 643 472 657 Q 459 670 424 692 Q 416 698 372 684 Q 309 664 287 662 C 257 658 241 652 270 643 Q 290 632 363 645 Q 368 645 371 643 Q 374 639 368 629 L 278 494 C 261 469 292 481 314 502 Z",
+            "M 175 469 Q 172 472 162 474 Q 124 486 117 478 Q 114 472 122 455 Q 153 384 172 291 Q 176 260 194 239 Q 201 229 206 229 Q 218 225 218 257 L 215 285 Q 214 294 209 318 Q 186 417 182 439 C 176 468 176 468 175 469 Z",
+            "M 378 274 Q 398 241 412 238 Q 422 235 433 250 Q 450 274 480 417 Q 486 437 496 451 L 512 469 Q 519 478 511 488 Q 498 504 460 527 Q 442 533 383 517 Q 343 513 314 502 L 278 494 Q 274 494 175 469 C 146 462 154 429 182 439 Q 182 441 267 463 L 297 469 Q 406 501 428 486 Q 441 476 437 455 Q 413 334 402 311 Q 396 294 384 291 C 373 282 373 282 378 274 Z",
+            "M 319 361 L 374 369 Q 394 372 386 383 Q 380 392 368 396 Q 347 404 321 396 L 278 383 Q 251 377 223 368 Q 210 365 225 353 Q 227 351 278 355 L 319 361 Z",
+            "M 316 308 Q 316 312 319 361 L 321 396 Q 321 401 323 413 Q 323 447 321 449 Q 308 463 297 469 C 271 485 259 492 267 463 Q 276 433 278 383 L 278 355 Q 278 341 278 298 C 278 268 315 278 316 308 Z",
+            "M 218 257 Q 224 257 234 258 Q 297 270 378 274 C 402 275 402 275 384 291 Q 378 296 374 300 Q 351 319 316 308 L 278 298 Q 245 292 215 285 C 186 278 188 256 218 257 Z",
+            "M 106 194 L 55 106 Q 43 89 43 69 Q 44 44 57 29 Q 61 24 68 21 Q 82 16 93 32 Q 118 78 133 188 Q 133 208 122 212 Q 116 209 106 194 Z",
+            "M 172 182 Q 172 174 176 157 Q 188 111 211 83 Q 218 76 229 82 Q 234 86 237 91 Q 255 123 196 180 Q 187 190 180 190 Q 175 190 172 182 Z",
+            "M 274 202 Q 272 188 286 161 Q 305 122 321 108 Q 325 106 331 106 Q 347 106 351 131 Q 353 162 314 192 Q 283 211 279.5 211 Q 276 211 274 202 Z",
+            "M 368 211 Q 369 200 401 163 Q 433 123 441 122 L 445 122 Q 463 125 459 164 Q 458 180 437 194 Q 384 225 373 223 Q 368 221 368 211 Z",
+            "M 819 481 Q 844 586 877 617 Q 891 637 878 656 Q 864 670 820 696 Q 806 702 786 694 Q 708 650 584 622 C 555 615 564 590 594 591 Q 608 590 623 595 Q 659 606 666 608 L 696 617 Q 702 619 772 641 Q 791 648 798 638 Q 808 627 804 606 Q 790 533 776 488 C 767 459 812 452 819 481 Z",
+            "M 666 608 Q 672 606 666 451 C 665 421 701 433 704 463 L 715 564 Q 715 568 715 570 Q 715 598 696 617 C 676 639 657 637 666 608 Z",
+            "M 580 408 Q 593 392 613 398 Q 684 425 826 450 Q 835 451 835 461 Q 835 467 819 481 C 804 495 804 495 776 488 Q 770 488 704 463 L 666 451 L 585 429 Q 582 429 582 427 C 567 421 567 421 580 408 Z",
+            "M 584 622 Q 580 627 572 633 Q 549 649 538 641 Q 534 638 539 614 Q 549 562 547 537 Q 542 319 553 247 Q 562 185 590 155 Q 629 116 690 102 Q 782 80 892 118 Q 937 135 978 174 Q 984 180 986 184 Q 990 194 982 218 Q 960 282 952 325 Q 951 342 944 345 Q 939 347 937 330 Q 921 242 907 215 Q 900 201 880 188 Q 826 153 739 161 Q 713 163 692 169 Q 620 188 599 239 Q 577 292 580 408 L 582 427 Q 584 508 594 591 C 596 613 596 613 584 622 Z"
+          ],
+          "medians": [
+            [
+              [289, 800],
+              [306, 780],
+              [314, 757],
+              [287, 705],
+              [232, 626],
+              [169, 555],
+              [126, 520]
+            ],
+            [
+              [276, 646],
+              [367, 665],
+              [389, 663],
+              [413, 648],
+              [394, 615],
+              [315, 519],
+              [283, 499]
+            ],
+            [
+              [123, 473],
+              [146, 457],
+              [156, 441],
+              [205, 241]
+            ],
+            [
+              [185, 449],
+              [194, 460],
+              [216, 467],
+              [227, 465],
+              [397, 507],
+              [434, 507],
+              [453, 500],
+              [472, 477],
+              [430, 311],
+              [413, 271],
+              [415, 254]
+            ],
+            [
+              [228, 361],
+              [333, 382],
+              [378, 378]
+            ],
+            [
+              [275, 460],
+              [292, 448],
+              [300, 422],
+              [297, 323],
+              [282, 308]
+            ],
+            [
+              [221, 264],
+              [232, 273],
+              [314, 289],
+              [374, 290]
+            ],
+            [
+              [123, 204],
+              [75, 72],
+              [74, 41]
+            ],
+            [
+              [181, 181],
+              [215, 120],
+              [221, 93]
+            ],
+            [
+              [280, 204],
+              [315, 158],
+              [331, 123]
+            ],
+            [
+              [375, 215],
+              [434, 163],
+              [443, 132]
+            ],
+            [
+              [594, 619],
+              [607, 609],
+              [792, 669],
+              [813, 666],
+              [841, 636],
+              [803, 505],
+              [784, 492]
+            ],
+            [
+              [676, 605],
+              [689, 594],
+              [691, 545],
+              [686, 478],
+              [668, 466]
+            ],
+            [
+              [588, 422],
+              [605, 415],
+              [778, 465],
+              [824, 461]
+            ],
+            [
+              [544, 635],
+              [561, 613],
+              [569, 586],
+              [562, 371],
+              [569, 270],
+              [584, 214],
+              [602, 185],
+              [624, 165],
+              [678, 139],
+              [756, 126],
+              [828, 133],
+              [896, 157],
+              [927, 179],
+              [945, 202],
+              [944, 340]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+          [11, 12, 13, 14]
+        ],
+        "source": "makemeahanzi",
+        "description": "楷書",
+        "type": "Regular",
+        "era": "Modern"
+      }
+    ],
+    "gloss": "a kind of fish",
+    "statistics": {
+      "hskLevel": 10,
+      "bookWordCount": 310,
+      "bookWordCountPercent": 1.871973942535279e-8,
+      "bookWordRank": 68073,
+      "bookCharCount": 74,
+      "bookCharCountPercent": 3.824209996507669e-7,
+      "bookCharRank": 5861,
+      "topWords": [{ "word": "鲃", "share": 0.5, "trad": "䰾", "gloss": "barbel (fish)" }]
+    }
+  },
+  "䰉": {
+    "_id": "5f523afdde54193ed872ffbf",
+    "char": "䰉",
+    "codepoint": "U+4C09",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%89_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，臥結也。从髟，般聲。讀若槃。”",
+    "variants": [{ "char": "䰉", "parts": "髟般", "source": "academia-sinica" }],
+    "gloss": "dressed hair in a horizontal way"
+  },
+  "䰑": {
+    "_id": "5f523afdde54193ed872ffc7",
+    "char": "䰑",
+    "codepoint": "U+4C11",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 䰅) (same as 須 鬚) beard"
+  },
+  "䰖": {
+    "_id": "5f523afdde54193ed872ffcc",
+    "char": "䰖",
+    "codepoint": "U+4C16",
+    "strokeCount": 29,
+    "simpVariants": ["𱆈"],
+    "sources": ["unicode"],
+    "gloss": "fine hair"
+  },
+  "䰙": {
+    "_id": "5f523afdde54193ed872ffcf",
+    "char": "䰙",
+    "codepoint": "U+4C19",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%99_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%99_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，三足鍑也。一曰滫米器也。从鬲，支聲。”",
+    "variants": [{ "char": "䰙", "parts": "鬲支", "source": "academia-sinica" }],
+    "gloss": "an ancient unit of capacity with three feet and a big opening"
+  },
+  "䰚": {
+    "_id": "5f523afdde54193ed872ffd0",
+    "char": "䰚",
+    "codepoint": "U+4C1A",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "the top part of the rice gruel"
+  },
+  "䰜": {
+    "_id": "5f523afdde54193ed872ffd2",
+    "char": "䰜",
+    "codepoint": "U+4C1C",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9C_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧䰜部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 316 541 Q 332 629 357 656 Q 376 680 355 691 Q 337 701 313 715 Q 298 724 257 698 Q 203 677 180 671 Q 170 670 171 665 Q 172 661 185 654 Q 195 650 274 667 Q 287 671 290 665 Q 297 659 290 625 Q 283 588 272 545 C 265 516 310 512 316 541 Z",
+            "M 202 488 Q 206 488 213 490 Q 247 502 325 517 Q 334 518 334 527 Q 334 533 316 541 L 272 545 Q 268 545 265 543 Q 219 524 183 514 C 154 506 172 485 202 488 Z",
+            "M 226 345 Q 244 348 252 339 Q 262 326 261 291 Q 260 224 246 176 Q 234 139 223 126 Q 216 116 192 123 Q 170 127 151 130 Q 136 134 139 125 Q 142 113 155 102 Q 183 75 200 50 Q 216 31 235 44 Q 289 95 295 141 Q 295 144 296 146 Q 318 320 325 330 Q 334 346 324 356 Q 311 371 283 382 Q 261 391 247 383 Q 234 379 188 360 Q 181 357 178 359 Q 174 363 199 470 Q 202 480 202 488 C 205 502 205 502 183 514 Q 174 520 161 526 Q 149 535 141 528 Q 132 522 142 510 Q 161 479 151 429 Q 138 363 111 337 Q 101 324 105 313 Q 112 301 122 295 Q 132 288 148 303 Q 178 340 226 345 Z",
+            "M 408 716 Q 383 709 401 692 Q 432 668 470 683 Q 508 695 549 707 Q 568 713 570 717 Q 577 726 572 734 Q 568 746 547 753 Q 525 759 504 746 Q 485 736 462 728 Q 437 721 408 716 Z",
+            "M 427 605 Q 419 609 401 614 Q 394 617 392 612 Q 390 608 394 594 Q 409 551 418 482 Q 420 461 428 448 Q 439 429 442 443 Q 443 450 444 460 L 443 488 Q 436 555 434 578 C 432 603 432 603 427 605 Z",
+            "M 548 511 Q 563 575 579 588 Q 588 604 579 618 Q 570 628 540 648 Q 529 654 517 646 Q 494 630 472 621 Q 450 612 427 605 C 407 599 413 573 434 578 Q 441 579 448 583 Q 521 607 525 602 Q 530 598 529 584 Q 525 547 520 516 C 516 487 541 483 548 511 Z",
+            "M 444 460 Q 450 459 458 461 Q 489 471 556 483 Q 562 484 562 492 Q 562 499 548 511 L 520 516 Q 516 516 516 515 Q 474 497 443 488 C 423 482 423 462 444 460 Z",
+            "M 368 381 Q 350 394 337 394 Q 329 390 333 379 Q 362 298 339 152 Q 322 98 345 57 Q 349 45 355 51 Q 374 72 375 201 Q 375 313 377 345 C 379 374 379 374 368 381 Z",
+            "M 377 345 Q 530 400 547 377 Q 552 370 550 356 Q 557 152 548 122 Q 545 113 539 115 Q 519 118 499 122 Q 483 122 495 108 Q 539 71 557 40 Q 566 27 574 39 Q 585 57 589 85 Q 594 115 586 271 Q 581 329 592 360 Q 601 379 597 385 Q 592 395 561 423 Q 550 436 522 420 Q 404 396 368 381 C 348 374 357 338 377 345 Z",
+            "M 411 311 Q 425 259 437 252 Q 443 248 448 259 Q 450 266 449 281 Q 442 311 416 326 Q 412 329 410 322 Q 410 318 411 311 Z",
+            "M 492 327 Q 485 302 470 262 Q 468 258 470 254 Q 473 253 476 257 Q 506 305 523 324 Q 529 328 527 334 Q 523 343 514 351 Q 505 358 496 358 Q 490 357 492 345 Q 494 338 492 327 Z",
+            "M 471 213 Q 480 217 490 219 Q 530 228 534 235 Q 534 244 523 250 Q 508 265 462 243 Q 439 234 395 223 Q 382 219 392 208 Q 403 195 433 200 Q 438 203 446 204 L 471 213 Z",
+            "M 446 204 Q 443 98 454 75 Q 459 68 464 84 Q 470 105 471 213 C 471 243 447 234 446 204 Z",
+            "M 808 558 Q 833 657 872 690 Q 888 708 873 725 Q 857 737 806 758 Q 788 765 730 736 Q 700 726 670 717 Q 655 714 658 706 Q 661 699 678 695 Q 702 688 732 701 Q 780 710 783 707 Q 793 697 790 675 Q 775 608 757 555 C 748 527 800 529 808 558 Z",
+            "M 706 507 Q 709 507 713 508 Q 747 518 824 529 Q 833 530 833 538 Q 833 545 808 558 C 792 566 786 564 757 555 Q 717 542 686 533 C 657 525 676 504 706 507 Z",
+            "M 788 386 Q 807 387 815 379 Q 827 366 823 326 Q 805 143 758 94 Q 751 85 727 93 Q 696 106 672 116 Q 656 123 658 112 Q 659 99 672 85 Q 706 48 724 12 Q 740 -13 765 1 Q 796 26 822 59 Q 844 80 851 133 Q 864 205 879 316 Q 880 341 895 366 Q 905 384 895 393 Q 882 411 851 425 Q 827 435 812 427 Q 787 420 701 395 Q 688 392 683 397 Q 679 400 682 410 Q 706 495 706 507 C 708 518 708 518 686 533 Q 679 540 663 548 Q 651 558 642 551 Q 632 545 642 531 Q 658 503 647 457 Q 634 399 609 376 Q 596 361 601 349 Q 608 336 619 328 Q 629 321 648 336 Q 675 361 705 370 Q 760 388 788 386 Z"
+          ],
+          "medians": [
+            [
+              [177, 666],
+              [219, 668],
+              [292, 691],
+              [305, 688],
+              [325, 670],
+              [299, 564],
+              [280, 551]
+            ],
+            [
+              [190, 513],
+              [213, 506],
+              [274, 526],
+              [325, 526]
+            ],
+            [
+              [148, 519],
+              [170, 498],
+              [177, 480],
+              [152, 347],
+              [167, 343],
+              [222, 360],
+              [263, 362],
+              [291, 339],
+              [291, 325],
+              [272, 163],
+              [247, 105],
+              [222, 84],
+              [147, 122]
+            ],
+            [
+              [402.65, 705],
+              [452.33000000000004, 701],
+              [523.4, 727],
+              [565.49, 727]
+            ],
+            [
+              [397.13, 607],
+              [417.14, 577],
+              [435.08000000000004, 447]
+            ],
+            [
+              [432.32000000000005, 600],
+              [439.91, 594],
+              [455.09000000000003, 597],
+              [526.1600000000001, 626],
+              [537.89, 621],
+              [552.38, 600],
+              [538.58, 535],
+              [525.47, 521]
+            ],
+            [
+              [447.5, 467],
+              [459.23, 478],
+              [513.74, 495],
+              [542.03, 497],
+              [555.8299999999999, 492]
+            ],
+            [
+              [337.79, 385],
+              [355.04, 365],
+              [361.25, 325],
+              [360.56, 189],
+              [351.59000000000003, 120],
+              [350.90000000000003, 59]
+            ],
+            [
+              [371.6, 376],
+              [386.78000000000003, 367],
+              [473.03, 394],
+              [542.72, 405],
+              [559.28, 397],
+              [568.94, 381],
+              [571.7, 374],
+              [566.87, 294],
+              [571.7, 171],
+              [567.56, 105],
+              [559.97, 88],
+              [536.51, 93],
+              [503.39, 111]
+            ],
+            [
+              [415.07000000000005, 317],
+              [433.01, 287],
+              [440.6, 263]
+            ],
+            [
+              [499.94, 348],
+              [507.53000000000003, 332],
+              [473.03, 259]
+            ],
+            [
+              [398.51, 214],
+              [425.42, 214],
+              [504.77, 240],
+              [530.3, 238]
+            ],
+            [
+              [468.20000000000005, 202],
+              [457.85, 189],
+              [457.85, 82]
+            ],
+            [
+              [666, 708],
+              [707, 710],
+              [785, 732],
+              [805, 728],
+              [828, 702],
+              [788, 578],
+              [763, 560]
+            ],
+            [
+              [693, 532],
+              [713, 524],
+              [754, 537],
+              [803, 542],
+              [825, 537]
+            ],
+            [
+              [649, 541],
+              [669, 520],
+              [678, 494],
+              [654, 382],
+              [697, 381],
+              [752, 398],
+              [814, 405],
+              [835, 400],
+              [853, 385],
+              [857, 374],
+              [833, 197],
+              [817, 129],
+              [799, 87],
+              [753, 47],
+              [667, 107]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 13, 14, 15],
+          [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“，也。古文亦鬲字，象孰飪五味气上出也。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“鬲、䰜本一字，鬲專象器形，故其屬多謂器；䰜兼象孰餁之气，故其屬皆謂孰餁。”"
+      }
+    ],
+    "variants": [{ "char": "䰜", "parts": "弜鬲", "source": "academia-sinica" }],
+    "gloss": "a large earthen pot",
+    "oldPronunciations": [
+      {
+        "pinyin": "lì",
+        "MC": "lek",
+        "OC": "*k.rˤek ",
+        "gloss": "tripod with hollow legs",
+        "source": "baxter-sagart"
+      }
+    ],
+    "components": [
+      { "type": ["iconic"], "character": "◎", "hint": "Depicts hot steam rising." },
+      { "type": ["iconic"], "character": "鬲" }
+    ],
+    "data": {
+      "strokes": [
+        "M 316 541 Q 332 629 357 656 Q 376 680 355 691 Q 337 701 313 715 Q 298 724 257 698 Q 203 677 180 671 Q 170 670 171 665 Q 172 661 185 654 Q 195 650 274 667 Q 287 671 290 665 Q 297 659 290 625 Q 283 588 272 545 C 265 516 310 512 316 541 Z",
+        "M 202 488 Q 206 488 213 490 Q 247 502 325 517 Q 334 518 334 527 Q 334 533 316 541 L 272 545 Q 268 545 265 543 Q 219 524 183 514 C 154 506 172 485 202 488 Z",
+        "M 226 345 Q 244 348 252 339 Q 262 326 261 291 Q 260 224 246 176 Q 234 139 223 126 Q 216 116 192 123 Q 170 127 151 130 Q 136 134 139 125 Q 142 113 155 102 Q 183 75 200 50 Q 216 31 235 44 Q 289 95 295 141 Q 295 144 296 146 Q 318 320 325 330 Q 334 346 324 356 Q 311 371 283 382 Q 261 391 247 383 Q 234 379 188 360 Q 181 357 178 359 Q 174 363 199 470 Q 202 480 202 488 C 205 502 205 502 183 514 Q 174 520 161 526 Q 149 535 141 528 Q 132 522 142 510 Q 161 479 151 429 Q 138 363 111 337 Q 101 324 105 313 Q 112 301 122 295 Q 132 288 148 303 Q 178 340 226 345 Z",
+        "M 408 716 Q 383 709 401 692 Q 432 668 470 683 Q 508 695 549 707 Q 568 713 570 717 Q 577 726 572 734 Q 568 746 547 753 Q 525 759 504 746 Q 485 736 462 728 Q 437 721 408 716 Z",
+        "M 427 605 Q 419 609 401 614 Q 394 617 392 612 Q 390 608 394 594 Q 409 551 418 482 Q 420 461 428 448 Q 439 429 442 443 Q 443 450 444 460 L 443 488 Q 436 555 434 578 C 432 603 432 603 427 605 Z",
+        "M 548 511 Q 563 575 579 588 Q 588 604 579 618 Q 570 628 540 648 Q 529 654 517 646 Q 494 630 472 621 Q 450 612 427 605 C 407 599 413 573 434 578 Q 441 579 448 583 Q 521 607 525 602 Q 530 598 529 584 Q 525 547 520 516 C 516 487 541 483 548 511 Z",
+        "M 444 460 Q 450 459 458 461 Q 489 471 556 483 Q 562 484 562 492 Q 562 499 548 511 L 520 516 Q 516 516 516 515 Q 474 497 443 488 C 423 482 423 462 444 460 Z",
+        "M 368 381 Q 350 394 337 394 Q 329 390 333 379 Q 362 298 339 152 Q 322 98 345 57 Q 349 45 355 51 Q 374 72 375 201 Q 375 313 377 345 C 379 374 379 374 368 381 Z",
+        "M 377 345 Q 530 400 547 377 Q 552 370 550 356 Q 557 152 548 122 Q 545 113 539 115 Q 519 118 499 122 Q 483 122 495 108 Q 539 71 557 40 Q 566 27 574 39 Q 585 57 589 85 Q 594 115 586 271 Q 581 329 592 360 Q 601 379 597 385 Q 592 395 561 423 Q 550 436 522 420 Q 404 396 368 381 C 348 374 357 338 377 345 Z",
+        "M 411 311 Q 425 259 437 252 Q 443 248 448 259 Q 450 266 449 281 Q 442 311 416 326 Q 412 329 410 322 Q 410 318 411 311 Z",
+        "M 492 327 Q 485 302 470 262 Q 468 258 470 254 Q 473 253 476 257 Q 506 305 523 324 Q 529 328 527 334 Q 523 343 514 351 Q 505 358 496 358 Q 490 357 492 345 Q 494 338 492 327 Z",
+        "M 471 213 Q 480 217 490 219 Q 530 228 534 235 Q 534 244 523 250 Q 508 265 462 243 Q 439 234 395 223 Q 382 219 392 208 Q 403 195 433 200 Q 438 203 446 204 L 471 213 Z",
+        "M 446 204 Q 443 98 454 75 Q 459 68 464 84 Q 470 105 471 213 C 471 243 447 234 446 204 Z",
+        "M 808 558 Q 833 657 872 690 Q 888 708 873 725 Q 857 737 806 758 Q 788 765 730 736 Q 700 726 670 717 Q 655 714 658 706 Q 661 699 678 695 Q 702 688 732 701 Q 780 710 783 707 Q 793 697 790 675 Q 775 608 757 555 C 748 527 800 529 808 558 Z",
+        "M 706 507 Q 709 507 713 508 Q 747 518 824 529 Q 833 530 833 538 Q 833 545 808 558 C 792 566 786 564 757 555 Q 717 542 686 533 C 657 525 676 504 706 507 Z",
+        "M 788 386 Q 807 387 815 379 Q 827 366 823 326 Q 805 143 758 94 Q 751 85 727 93 Q 696 106 672 116 Q 656 123 658 112 Q 659 99 672 85 Q 706 48 724 12 Q 740 -13 765 1 Q 796 26 822 59 Q 844 80 851 133 Q 864 205 879 316 Q 880 341 895 366 Q 905 384 895 393 Q 882 411 851 425 Q 827 435 812 427 Q 787 420 701 395 Q 688 392 683 397 Q 679 400 682 410 Q 706 495 706 507 C 708 518 708 518 686 533 Q 679 540 663 548 Q 651 558 642 551 Q 632 545 642 531 Q 658 503 647 457 Q 634 399 609 376 Q 596 361 601 349 Q 608 336 619 328 Q 629 321 648 336 Q 675 361 705 370 Q 760 388 788 386 Z"
+      ],
+      "medians": [
+        [
+          [177, 666],
+          [219, 668],
+          [292, 691],
+          [305, 688],
+          [325, 670],
+          [299, 564],
+          [280, 551]
+        ],
+        [
+          [190, 513],
+          [213, 506],
+          [274, 526],
+          [325, 526]
+        ],
+        [
+          [148, 519],
+          [170, 498],
+          [177, 480],
+          [152, 347],
+          [167, 343],
+          [222, 360],
+          [263, 362],
+          [291, 339],
+          [291, 325],
+          [272, 163],
+          [247, 105],
+          [222, 84],
+          [147, 122]
+        ],
+        [
+          [402.65, 705],
+          [452.33000000000004, 701],
+          [523.4, 727],
+          [565.49, 727]
+        ],
+        [
+          [397.13, 607],
+          [417.14, 577],
+          [435.08000000000004, 447]
+        ],
+        [
+          [432.32000000000005, 600],
+          [439.91, 594],
+          [455.09000000000003, 597],
+          [526.1600000000001, 626],
+          [537.89, 621],
+          [552.38, 600],
+          [538.58, 535],
+          [525.47, 521]
+        ],
+        [
+          [447.5, 467],
+          [459.23, 478],
+          [513.74, 495],
+          [542.03, 497],
+          [555.8299999999999, 492]
+        ],
+        [
+          [337.79, 385],
+          [355.04, 365],
+          [361.25, 325],
+          [360.56, 189],
+          [351.59000000000003, 120],
+          [350.90000000000003, 59]
+        ],
+        [
+          [371.6, 376],
+          [386.78000000000003, 367],
+          [473.03, 394],
+          [542.72, 405],
+          [559.28, 397],
+          [568.94, 381],
+          [571.7, 374],
+          [566.87, 294],
+          [571.7, 171],
+          [567.56, 105],
+          [559.97, 88],
+          [536.51, 93],
+          [503.39, 111]
+        ],
+        [
+          [415.07000000000005, 317],
+          [433.01, 287],
+          [440.6, 263]
+        ],
+        [
+          [499.94, 348],
+          [507.53000000000003, 332],
+          [473.03, 259]
+        ],
+        [
+          [398.51, 214],
+          [425.42, 214],
+          [504.77, 240],
+          [530.3, 238]
+        ],
+        [
+          [468.20000000000005, 202],
+          [457.85, 189],
+          [457.85, 82]
+        ],
+        [
+          [666, 708],
+          [707, 710],
+          [785, 732],
+          [805, 728],
+          [828, 702],
+          [788, 578],
+          [763, 560]
+        ],
+        [
+          [693, 532],
+          [713, 524],
+          [754, 537],
+          [803, 542],
+          [825, 537]
+        ],
+        [
+          [649, 541],
+          [669, 520],
+          [678, 494],
+          [654, 382],
+          [697, 381],
+          [752, 398],
+          [814, 405],
+          [835, 400],
+          [853, 385],
+          [857, 374],
+          [833, 197],
+          [817, 129],
+          [799, 87],
+          [753, 47],
+          [667, 107]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]],
+    "hint": "Depicts a vessel (鬲) with hot steam rising around it.",
+    "isVerified": true,
+    "customSources": ["李学勤《字源》p.215"]
+  },
+  "䰠": {
+    "_id": "5f523afdde54193ed872ffd6",
+    "char": "䰠",
+    "codepoint": "U+4C20",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%A0_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬼部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，神也。从鬼，申聲。”",
+    "variants": [{ "char": "䰠", "parts": "鬼申", "source": "academia-sinica" }],
+    "gloss": "god"
+  },
+  "䰤": {
+    "_id": "5f523afdde54193ed872ffda",
+    "char": "䰤",
+    "codepoint": "U+4C24",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "ugly"
+  },
+  "䰷": {
+    "_id": "5f523afdde54193ed872ffed",
+    "char": "䰷",
+    "codepoint": "U+4C37",
+    "strokeCount": 15,
+    "simpVariants": ["𬶆"],
+    "sources": ["unicode"],
+    "gloss": "a fish"
+  },
+  "䰹": {
+    "_id": "5f523afdde54193ed872ffef",
+    "char": "䰹",
+    "codepoint": "U+4C39",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(non-classical and abbreviated form of 鱡) (same as 鰂) the cuttlefish"
+  },
+  "䰔": {
+    "_id": "5f523afdde54193ed872ffca",
+    "char": "䰔",
+    "codepoint": "U+4C14",
+    "strokeCount": 25,
+    "sources": ["unicode"],
+    "gloss": "(non-classical of 䰉) dressed hair in a horizontal way"
+  },
+  "䰪": {
+    "_id": "5f523afdde54193ed872ffe0",
+    "char": "䰪",
+    "codepoint": "U+4C2A",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form of 魅) mischievous spirit"
+  },
+  "䰰": {
+    "_id": "5f523afdde54193ed872ffe6",
+    "char": "䰰",
+    "codepoint": "U+4C30",
+    "strokeCount": 24,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%B0_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬼部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鬼鬽聲，不止也。从鬼，需聲。”",
+    "variants": [{ "char": "䰰", "parts": "需鬼", "source": "academia-sinica" }],
+    "gloss": "(same as 䰭) dreary cries of ghosts"
+  },
+  "䰽": {
+    "_id": "5f523afdde54193ed872fff3",
+    "char": "䰽",
+    "codepoint": "U+4C3D",
+    "strokeCount": 15,
+    "simpVariants": ["𱇑"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%BD_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名，出樂浪潘國。从魚，巿聲。”",
+    "variants": [{ "char": "䰽", "parts": "魚巿", "source": "academia-sinica" }],
+    "gloss": "the globefish"
+  },
+  "䰘": {
+    "_id": "5f523afdde54193ed872ffce",
+    "char": "䰘",
+    "codepoint": "U+4C18",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%98_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，經繆殺也。从鬥，翏聲。”",
+    "variants": [{ "char": "䰘", "parts": "鬥翏", "source": "academia-sinica" }],
+    "gloss": "to kill by hanging or to strangulation"
+  },
+  "䰞": {
+    "_id": "5f523afdde54193ed872ffd4",
+    "char": "䰞",
+    "codepoint": "U+4C1E",
+    "strokeCount": 25,
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_0.png",
+        "source": "academia-sinica",
+        "description": "四祀弋其卣(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_1.png",
+        "source": "academia-sinica",
+        "description": "叔夜鼎(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_2.png",
+        "source": "academia-sinica",
+        "description": "庚兒鼎(金)春秋中期",
+        "type": "Bronze",
+        "era": "Mid Spring and Autumn (~600 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_3.png",
+        "source": "academia-sinica",
+        "description": "私庫嗇夫衡飾(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_4.png",
+        "source": "academia-sinica",
+        "description": "包2.147(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_5.png",
+        "source": "academia-sinica",
+        "description": "說文‧䰜部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_6.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_7.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_8.png",
+        "source": "academia-sinica",
+        "description": "五十二病方246(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9E_9.png",
+        "source": "academia-sinica",
+        "description": "武威醫簡47(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，孚也。从，者聲。煮，或从火；，或从水在其中。”",
+    "variants": [
+      { "char": "煮", "parts": "者灬", "source": "academia-sinica" },
+      { "char": "䰞", "parts": "䰜者", "source": "academia-sinica" },
+      { "char": "𩱰", "parts": "䰜者水", "source": "academia-sinica" },
+      { "char": "𣎧", "parts": "者火", "source": "academia-sinica" },
+      { "char": "", "parts": "弜米兄皿", "source": "academia-sinica" },
+      { "char": "煑", "parts": "者火", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as U+7151 煮) to cook",
+    "oldPronunciations": [
+      {
+        "pinyin": "zhǔ",
+        "MC": "tsyoX",
+        "OC": "*[t]aʔ ",
+        "gloss": "boil, cook",
+        "source": "baxter-sagart"
+      }
+    ]
+  },
+  "䰮": {
+    "_id": "5f523afdde54193ed872ffe4",
+    "char": "䰮",
+    "codepoint": "U+4C2E",
+    "strokeCount": 23,
+    "sources": ["unicode"]
+  },
+  "䰵": {
+    "_id": "5f523afdde54193ed872ffeb",
+    "char": "䰵",
+    "codepoint": "U+4C35",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "blackfish or mullet"
+  },
+  "䰸": {
+    "_id": "5f523afdde54193ed872ffee",
+    "char": "䰸",
+    "codepoint": "U+4C38",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(interchangeable 魟 same as 鰩) the nautilus"
+  },
+  "䰇": {
+    "_id": "5f523afdde54193ed872ffbd",
+    "char": "䰇",
+    "codepoint": "U+4C07",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 鬐) mane"
+  },
+  "䰝": {
+    "_id": "5f523afdde54193ed872ffd3",
+    "char": "䰝",
+    "codepoint": "U+4C1D",
+    "strokeCount": 22,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鬵屬，从鬲曾聲。”",
+    "variants": [{ "char": "䰝", "parts": "鬲曾", "source": "academia-sinica" }],
+    "gloss": "a large earthen pot for cooking"
+  },
+  "䰢": {
+    "_id": "5f523afdde54193ed872ffd8",
+    "char": "䰢",
+    "codepoint": "U+4C22",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "ghost"
+  },
+  "䰨": {
+    "_id": "5f523afdde54193ed872ffde",
+    "char": "䰨",
+    "codepoint": "U+4C28",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as U+9B3D 魅) mischievous spirit"
+  },
+  "䰋": {
+    "_id": "5f523afdde54193ed872ffc1",
+    "char": "䰋",
+    "codepoint": "U+4C0B",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 髮 鬘) hair"
+  },
+  "䰐": {
+    "_id": "5f523afdde54193ed872ffc6",
+    "char": "䰐",
+    "codepoint": "U+4C10",
+    "strokeCount": 24,
+    "simpVariants": ["𱆅"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，髮長也。从髟，鹽聲。讀若《春秋》：黑肱以濫來奔。”",
+    "variants": [{ "char": "䰐", "parts": "髟監", "source": "academia-sinica" }],
+    "gloss": "long hair"
+  },
+  "䰦": {
+    "_id": "5f523afdde54193ed872ffdc",
+    "char": "䰦",
+    "codepoint": "U+4C26",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "ugly"
+  },
+  "䰩": {
+    "_id": "5f523afdde54193ed872ffdf",
+    "char": "䰩",
+    "codepoint": "U+4C29",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "ugly"
+  },
+  "䰱": {
+    "_id": "5f523afdde54193ed872ffe7",
+    "char": "䰱",
+    "codepoint": "U+4C31",
+    "strokeCount": 34,
+    "sources": ["unicode"],
+    "gloss": "name of a god"
+  },
+  "䰁": {
+    "_id": "5f523afdde54193ed872ffb7",
+    "char": "䰁",
+    "codepoint": "U+4C01",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%81_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也﹔忽見也。从髟，录聲。录，籀文魅，亦忽見意。”",
+    "variants": [{ "char": "䰁", "parts": "髟彔", "source": "academia-sinica" }],
+    "gloss": "to meet"
+  },
+  "䰈": {
+    "_id": "5f523afdde54193ed872ffbe",
+    "char": "䰈",
+    "codepoint": "U+4C08",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%88_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，髮好也。从髟、差。”",
+    "comments": [{ "source": "academia-sinica", "text": "徐鍇繫傳作：“從髟，差聲。”" }],
+    "variants": [{ "char": "䰈", "parts": "髟差", "source": "academia-sinica" }],
+    "gloss": "fine hair"
+  },
+  "䰊": {
+    "_id": "5f523afdde54193ed872ffc0",
+    "char": "䰊",
+    "codepoint": "U+4C0A",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "hair"
+  },
+  "䰍": {
+    "_id": "5f523afdde54193ed872ffc3",
+    "char": "䰍",
+    "codepoint": "U+4C0D",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%8D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧桼部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%8D_1.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡25.45(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%8D_2.png",
+        "source": "academia-sinica",
+        "description": "一號墓竹簡172(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%8D_3.png",
+        "source": "academia-sinica",
+        "description": "居延簡甲919A(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，桼也，从桼髟聲。”",
+    "variants": [{ "char": "䰍", "parts": "髟桼", "source": "academia-sinica" }],
+    "gloss": "(same as U+9AE4 髹) a kind of dark-red paint"
+  },
+  "䰗": {
+    "_id": "5f523afdde54193ed872ffcd",
+    "char": "䰗",
+    "codepoint": "U+4C17",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(non-classical) a lot"
+  },
+  "䰛": {
+    "_id": "5f523afdde54193ed872ffd1",
+    "char": "䰛",
+    "codepoint": "U+4C1B",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_0.png",
+        "source": "academia-sinica",
+        "description": "甲2132(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_1.png",
+        "source": "academia-sinica",
+        "description": "粹1543(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_2.png",
+        "source": "academia-sinica",
+        "description": "明藏625(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_3.png",
+        "source": "academia-sinica",
+        "description": "作冊夨令簋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_4.png",
+        "source": "academia-sinica",
+        "description": "季鼑鼎(金)西周中期偏晚",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_5.png",
+        "source": "academia-sinica",
+        "description": "召仲鬲(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_6.png",
+        "source": "academia-sinica",
+        "description": "郳𡛳鬲(金)春秋早期",
+        "type": "Bronze",
+        "era": "Early Spring and Autumn (~700 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_7.png",
+        "source": "academia-sinica",
+        "description": "郭.窮.2(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_8.png",
+        "source": "academia-sinica",
+        "description": "說文‧鬲部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_9.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_10.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_11.png",
+        "source": "academia-sinica",
+        "description": "公主家鬲(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_12.png",
+        "source": "academia-sinica",
+        "description": "武威簡.服傳1(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%9B_13.png",
+        "source": "academia-sinica",
+        "description": "石門頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鬲，鼎屬，實五觳，斗二升曰觳。象腹交文，三足。，鬲或从瓦。，漢令鬲，从瓦，厤聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "徐鍇繫傳：“上頸也，腹交文謂其刻飾也。”王筠句讀：“字之上象脣，銘往往在脣……皆外象其形，內象其文，下象其足，小篆斷為三截，不甚象也。”楊樹達《積微居小學述林．釋甬》：“鬲為純象形文，䰛為加義旁字，㽁則純形聲字也。”"
+      }
+    ],
+    "variants": [
+      { "char": "鬲", "parts": "鬲", "source": "academia-sinica" },
+      { "char": "䰛", "parts": "鬲瓦", "source": "academia-sinica" },
+      { "char": "㽁", "parts": "厤瓦", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 鬲) a large earthen pot"
+  },
+  "䰟": {
+    "_id": "5f523afdde54193ed872ffd5",
+    "char": "䰟",
+    "codepoint": "U+4C1F",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 魂) the soul",
+    "statistics": {
+      "hskLevel": 10,
+      "movieWordCount": 304,
+      "movieWordCountPercent": 0.00000906204387960884,
+      "movieWordRank": 5704,
+      "movieWordContexts": 202,
+      "movieWordContextsPercent": 0.03235623898766619,
+      "bookWordCount": 458861,
+      "bookWordCountPercent": 0.000027708897911150987,
+      "bookWordRank": 4473,
+      "movieCharCount": 4389,
+      "movieCharCountPercent": 0.00009369976967021076,
+      "movieCharRank": 1058,
+      "movieCharContexts": 1569,
+      "movieCharContextsPercent": 0.2513214800576646,
+      "bookCharCount": 17535,
+      "bookCharCountPercent": 0.00009061827336319187,
+      "bookCharRank": 1348,
+      "topWords": [
+        { "word": "灵魂", "share": 0.477269953909196, "trad": "靈魂", "gloss": "soul" },
+        { "word": "魂", "share": 0.2003388194313298, "trad": "魂", "gloss": "soul" },
+        { "word": "鬼魂", "share": 0.15911020797845077, "trad": "鬼魂", "gloss": "ghost" },
+        { "word": "销魂", "share": 0.04483564384508703, "trad": "銷魂", "gloss": "ecstasy" },
+        { "word": "惊魂", "share": 0.017563496658507868, "trad": "驚魂", "gloss": "frightened" },
+        { "word": "魂魄", "share": 0.013831806152168715, "trad": "魂魄", "gloss": "soul" },
+        { "word": "神魂", "share": 0.013150717087968965, "trad": "神魂", "gloss": "mind" },
+        {
+          "word": "冤魂",
+          "share": 0.0065286944722640645,
+          "trad": "冤魂",
+          "gloss": "ghost of one who died unjustly"
+        },
+        {
+          "word": "魂飞魄散",
+          "share": 0.006506508185077154,
+          "trad": "魂飛魄散",
+          "gloss": "fig. to be frightened stiff"
+        },
+        { "word": "阴魂", "share": 0.0061114596395717025, "trad": "陰魂", "gloss": "ghost" },
+        {
+          "word": "神魂颠倒",
+          "share": 0.005484263975520857,
+          "trad": "神魂顛倒",
+          "gloss": "fascinated"
+        },
+        { "word": "幽魂", "share": 0.0054271419840134635, "trad": "幽魂", "gloss": "ghost" },
+        {
+          "word": "亡魂",
+          "share": 0.005274983350127613,
+          "trad": "亡魂",
+          "gloss": "departed spirit"
+        },
+        {
+          "word": "还魂",
+          "share": 0.005224069390386473,
+          "trad": "還魂",
+          "gloss": "to return from the grave"
+        },
+        { "word": "失魂落魄", "share": 0.004478261905742012, "trad": "失魂落魄", "gloss": "dazed" },
+        { "word": "魂灵", "share": 0.003588621643213872, "trad": "魂靈", "gloss": "soul" },
+        {
+          "word": "魂牵梦萦",
+          "share": 0.0031742548038241275,
+          "trad": "魂牽夢縈",
+          "gloss": "to miss"
+        },
+        {
+          "word": "阴魂不散",
+          "share": 0.0029945352349877844,
+          "trad": "陰魂不散",
+          "gloss": "fig. the influence still lingers on"
+        },
+        {
+          "word": "魂牵梦绕",
+          "share": 0.002779324454805375,
+          "trad": "魂牽夢繞",
+          "gloss": "to be captivated"
+        },
+        {
+          "word": "魂不守舍",
+          "share": 0.002491895292011419,
+          "trad": "魂不守舍",
+          "gloss": "to be preoccupied (idiom)"
+        },
+        { "word": "精魂", "share": 0.0016108310241505493, "trad": "精魂", "gloss": "spirit" },
+        { "word": "孤魂", "share": 0.0013676772281741509, "trad": "孤魂", "gloss": "lonely soul" },
+        {
+          "word": "借尸还魂",
+          "share": 0.0013324291591830368,
+          "trad": "借屍還魂",
+          "gloss": "lit. reincarnated in sb else's body (idiom); fig. a discarded or discredited idea returns in another guise"
+        },
+        {
+          "word": "迷魂阵",
+          "share": 0.0013292765395217791,
+          "trad": "迷魂陣",
+          "gloss": "stratagem to trap sb"
+        },
+        {
+          "word": "魂不附体",
+          "share": 0.001290181405355282,
+          "trad": "魂不附體",
+          "gloss": "beside oneself"
+        }
+      ],
+      "pinyinFrequency": 46
+    },
+    "variantOf": "魂"
+  },
+  "䰭": {
+    "_id": "5f523afdde54193ed872ffe3",
+    "char": "䰭",
+    "codepoint": "U+4C2D",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(same as 䰰) dreary cries of ghosts"
+  },
+  "䰺": {
+    "_id": "5f523afdde54193ed872fff0",
+    "char": "䰺",
+    "codepoint": "U+4C3A",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form of 魪) a flatfish"
+  },
+  "䰌": {
+    "_id": "5f523afdde54193ed872ffc2",
+    "char": "䰌",
+    "codepoint": "U+4C0C",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "to bind the hair in a knot on the top of the head"
+  },
+  "䰲": {
+    "_id": "5f523afdde54193ed872ffe8",
+    "char": "䰲",
+    "codepoint": "U+4C32",
+    "strokeCount": 12,
+    "simpVariants": ["𱇍"],
+    "sources": ["unicode"],
+    "gloss": "the sheatfish"
+  },
+  "䰂": {
+    "_id": "5f523afdde54193ed872ffb8",
+    "char": "䰂",
+    "codepoint": "U+4C02",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a coiffure with a topknot"
+  },
+  "䰃": {
+    "_id": "5f523afdde54193ed872ffb9",
+    "char": "䰃",
+    "codepoint": "U+4C03",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%83_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从髟，竝聲。”",
+    "variants": [{ "char": "䰃", "parts": "髟並", "source": "academia-sinica" }],
+    "gloss": "dishevelled hair"
+  },
+  "䰓": {
+    "_id": "5f523afdde54193ed872ffc9",
+    "char": "䰓",
+    "codepoint": "U+4C13",
+    "strokeCount": 25,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%93_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，髮皃。从髟，臱聲。讀若宀。”",
+    "variants": [{ "char": "䰓", "parts": "髟臱", "source": "academia-sinica" }],
+    "gloss": "hair"
+  },
+  "䰯": {
+    "_id": "5f523afdde54193ed872ffe5",
+    "char": "䰯",
+    "codepoint": "U+4C2F",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "to fear"
+  },
+  "䰶": {
+    "_id": "5f523afdde54193ed872ffec",
+    "char": "䰶",
+    "codepoint": "U+4C36",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "䰥": {
+    "_id": "5f523afdde54193ed872ffdb",
+    "char": "䰥",
+    "codepoint": "U+4C25",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 魊) a cyclone"
+  },
+  "䰻": {
+    "_id": "5f523afdde54193ed872fff1",
+    "char": "䰻",
+    "codepoint": "U+4C3B",
+    "strokeCount": 15,
+    "simpVariants": ["𱇕"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%BB_0.png",
+        "source": "academia-sinica",
+        "description": "包2.121(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "䰻", "parts": "魚攵", "source": "academia-sinica" }],
+    "gloss": "(same as 漁) to catch fish"
+  },
+  "䰿": {
+    "_id": "5f523afdde54193ed872fff5",
+    "char": "䰿",
+    "codepoint": "U+4C3F",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(non-classical of 鮀) a kind of small fish grown in fresh water"
+  },
+  "䰅": {
+    "_id": "5f523afdde54193ed872ffbb",
+    "char": "䰅",
+    "codepoint": "U+4C05",
+    "strokeCount": 19,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B0%85_0.png",
+        "source": "academia-sinica",
+        "description": "流沙簡.補遺2.8(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "variants": [{ "char": "䰅", "parts": "髟頁", "source": "academia-sinica" }],
+    "gloss": "(same as 須 鬚) beard"
+  },
+  "䰆": {
+    "_id": "5f523afdde54193ed872ffbc",
+    "char": "䰆",
+    "codepoint": "U+4C06",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "beautiful and hairy mane"
+  },
+  "䰒": {
+    "_id": "5f523afdde54193ed872ffc8",
+    "char": "䰒",
+    "codepoint": "U+4C12",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "vague"
+  },
+  "䰴": {
+    "_id": "5f523afdde54193ed872ffea",
+    "char": "䰴",
+    "codepoint": "U+4C34",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a wafting fish"
+  },
+  "䱆": {
+    "_id": "5f523afdde54193ed872fffc",
+    "char": "䱆",
+    "codepoint": "U+4C46",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 鱦) small fish"
+  },
+  "䱬": {
+    "_id": "5f523afdde54193ed8730022",
+    "char": "䱬",
+    "codepoint": "U+4C6C",
+    "strokeCount": 20,
+    "simpVariants": ["𩾊"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%AC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚也。从魚，胥聲。”",
+    "variants": [{ "char": "䱬", "parts": "魚胥", "source": "academia-sinica" }],
+    "gloss": "a kind of fish"
+  },
+  "䱓": {
+    "_id": "5f523afdde54193ed8730009",
+    "char": "䱓",
+    "codepoint": "U+4C53",
+    "strokeCount": 18,
+    "simpVariants": ["𬶓"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱞": {
+    "_id": "5f523afdde54193ed8730014",
+    "char": "䱞",
+    "codepoint": "U+4C5E",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䳒": {
+    "_id": "5f523afdde54193ed8730088",
+    "char": "䳒",
+    "codepoint": "U+4CD2",
+    "strokeCount": 17,
+    "simpVariants": ["𱉧"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%92_0.png",
+        "source": "academia-sinica",
+        "description": "睡.日甲51背(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "variants": [{ "char": "䳒", "parts": "𢦏鳥", "source": "academia-sinica" }],
+    "gloss": "a kind of bird"
+  },
+  "䳙": {
+    "_id": "5f523afdde54193ed873008f",
+    "char": "䳙",
+    "codepoint": "U+4CD9",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a egret-like bird"
+  },
+  "䳭": {
+    "_id": "5f523afdde54193ed87300a3",
+    "char": "䳭",
+    "codepoint": "U+4CED",
+    "strokeCount": 20,
+    "simpVariants": ["𱉼"],
+    "sources": ["unicode"],
+    "gloss": "wagtail"
+  },
+  "䱳": {
+    "_id": "5f523afdde54193ed8730029",
+    "char": "䱳",
+    "codepoint": "U+4C73",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 鱣) a kind of sturgeon"
+  },
+  "䱵": {
+    "_id": "5f523afdde54193ed873002b",
+    "char": "䱵",
+    "codepoint": "U+4C75",
+    "strokeCount": 21,
+    "simpVariants": ["𮬢"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B5_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。从魚，翁聲。”",
+    "variants": [{ "char": "䱵", "parts": "魚翁", "source": "academia-sinica" }],
+    "gloss": "a kind of fish"
+  },
+  "䱺": {
+    "_id": "5f523afdde54193ed8730030",
+    "char": "䱺",
+    "codepoint": "U+4C7A",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a male crab"
+  },
+  "䲝": {
+    "_id": "5f523afdde54193ed8730053",
+    "char": "䲝",
+    "codepoint": "U+4C9D",
+    "strokeCount": 15,
+    "tradVariants": ["䱽"],
+    "sources": ["unicode"],
+    "gloss": "(same as U+9BE7 鯧) the pomfret"
+  },
+  "䲞": {
+    "_id": "5f523afdde54193ed8730054",
+    "char": "䲞",
+    "codepoint": "U+4C9E",
+    "strokeCount": 16,
+    "tradVariants": ["𩶘"],
+    "sources": ["unicode"],
+    "gloss": "a general name for perch"
+  },
+  "䲮": {
+    "_id": "5f523afdde54193ed8730064",
+    "char": "䲮",
+    "codepoint": "U+4CAE",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䳀": {
+    "_id": "5f523afdde54193ed8730076",
+    "char": "䳀",
+    "codepoint": "U+4CC0",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%80_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鋪豉也。从鳥，失聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "徐鉉注：“鋪豉，鳥名。”" }],
+    "variants": [
+      { "char": "䳀", "parts": "鳥失", "source": "academia-sinica" },
+      { "char": "鴩", "parts": "失鳥", "source": "academia-sinica" }
+    ],
+    "gloss": "the cuckoo"
+  },
+  "䳆": {
+    "_id": "5f523afdde54193ed873007c",
+    "char": "䳆",
+    "codepoint": "U+4CC6",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of species of myna (or mynah)"
+  },
+  "䳔": {
+    "_id": "5f523afdde54193ed873008a",
+    "char": "䳔",
+    "codepoint": "U+4CD4",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%94_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，臼聲。”",
+    "variants": [{ "char": "䳔", "parts": "臼鳥", "source": "academia-sinica" }],
+    "gloss": "a pigeon-like bird"
+  },
+  "䳟": {
+    "_id": "5f523afdde54193ed8730095",
+    "char": "䳟",
+    "codepoint": "U+4CDF",
+    "strokeCount": 19,
+    "simpVariants": ["𱊂"],
+    "sources": ["unicode"],
+    "gloss": "a legendary bird"
+  },
+  "䳯": {
+    "_id": "5f523afdde54193ed87300a5",
+    "char": "䳯",
+    "codepoint": "U+4CEF",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䱎": {
+    "_id": "5f523afdde54193ed8730004",
+    "char": "䱎",
+    "codepoint": "U+4C4E",
+    "strokeCount": 17,
+    "simpVariants": ["𱇥"],
+    "sources": ["unicode"],
+    "gloss": "(same as 䱍) tuna"
+  },
+  "䱜": {
+    "_id": "5f523afdde54193ed8730012",
+    "char": "䱜",
+    "codepoint": "U+4C5C",
+    "strokeCount": 19,
+    "simpVariants": ["𱇷"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%9C_0.png",
+        "source": "academia-sinica",
+        "description": "上(2).容.24(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "䱜", "parts": "魚昔", "source": "academia-sinica" }],
+    "gloss": "shark"
+  },
+  "䱷": {
+    "_id": "5f523afdde54193ed873002d",
+    "char": "䱷",
+    "codepoint": "U+4C77",
+    "strokeCount": 21,
+    "simpVariants": ["䲣"],
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_0.png",
+        "source": "academia-sinica",
+        "description": "前6.50.3(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_1.png",
+        "source": "academia-sinica",
+        "description": "存下445(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_2.png",
+        "source": "academia-sinica",
+        "description": "兮甲盤(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_3.png",
+        "source": "academia-sinica",
+        "description": "沇兒鎛(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_4.png",
+        "source": "academia-sinica",
+        "description": "欒書缶(金)春秋",
+        "type": "Bronze",
+        "era": "Spring and Autumn (771-476 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%B7_5.png",
+        "source": "academia-sinica",
+        "description": "上(1).䊷.4(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [
+      { "char": "", "parts": "虍魚", "source": "academia-sinica" },
+      { "char": "䱷", "parts": "攵", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 魚 漁) to fish",
+    "oldPronunciations": [
+      {
+        "pinyin": "yú",
+        "MC": "ngjo",
+        "OC": "*[ŋ](r)a ",
+        "gloss": "to fish",
+        "source": "baxter-sagart"
+      }
+    ]
+  },
+  "䱼": {
+    "_id": "5f523afdde54193ed8730032",
+    "char": "䱼",
+    "codepoint": "U+4C7C",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲃": {
+    "_id": "5f523afdde54193ed8730039",
+    "char": "䲃",
+    "codepoint": "U+4C83",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a carp-like fish with chicken feet"
+  },
+  "䲊": {
+    "_id": "5f523afdde54193ed8730040",
+    "char": "䲊",
+    "codepoint": "U+4C8A",
+    "strokeCount": 23,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%8A_0.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%8A_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚子已生者。从魚，憜省聲。，籀文。”",
+    "variants": [
+      { "char": "䲊", "parts": "魚隋", "source": "academia-sinica" },
+      { "char": "𩷷", "parts": "阝左魚", "source": "academia-sinica" }
+    ],
+    "gloss": "fry (of fish)"
+  },
+  "䲚": {
+    "_id": "5f523afdde54193ed8730050",
+    "char": "䲚",
+    "codepoint": "U+4C9A",
+    "strokeCount": 27,
+    "simpVariants": ["𱈖"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%9A_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。从魚，賴聲。”",
+    "variants": [{ "char": "䲚", "parts": "魚賴", "source": "academia-sinica" }],
+    "gloss": "shad"
+  },
+  "䲼": {
+    "_id": "5f523afdde54193ed8730072",
+    "char": "䲼",
+    "codepoint": "U+4CBC",
+    "strokeCount": 16,
+    "simpVariants": ["𬸆"],
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䳞": {
+    "_id": "5f523afdde54193ed8730094",
+    "char": "䳞",
+    "codepoint": "U+4CDE",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "birds flying all directions"
+  },
+  "䳤": {
+    "_id": "5f523afdde54193ed873009a",
+    "char": "䳤",
+    "codepoint": "U+4CE4",
+    "strokeCount": 19,
+    "simpVariants": ["𫛮"],
+    "sources": ["unicode"],
+    "gloss": "a legendary bird"
+  },
+  "䳰": {
+    "_id": "5f523afdde54193ed87300a6",
+    "char": "䳰",
+    "codepoint": "U+4CF0",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 鴇) a bird resembling the wild goose"
+  },
+  "䳴": {
+    "_id": "5f523afdde54193ed87300aa",
+    "char": "䳴",
+    "codepoint": "U+4CF4",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䳿": {
+    "_id": "5f523afdde54193ed87300b5",
+    "char": "䳿",
+    "codepoint": "U+4CFF",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䱏": {
+    "_id": "5f523afdde54193ed8730005",
+    "char": "䱏",
+    "codepoint": "U+4C4F",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%8F_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。从魚，豆聲。”",
+    "variants": [{ "char": "䱏", "parts": "魚豆", "source": "academia-sinica" }],
+    "gloss": "a fish"
+  },
+  "䱚": {
+    "_id": "5f523afdde54193ed8730010",
+    "char": "䱚",
+    "codepoint": "U+4C5A",
+    "strokeCount": 19,
+    "simpVariants": ["𮬠"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱧": {
+    "_id": "5f523afdde54193ed873001d",
+    "char": "䱧",
+    "codepoint": "U+4C67",
+    "strokeCount": 19,
+    "simpVariants": ["𫚠"],
+    "sources": ["unicode"],
+    "gloss": "(record in an antique books) a kind of fish (same as 鱔) eels"
+  },
+  "䱭": {
+    "_id": "5f523afdde54193ed8730023",
+    "char": "䱭",
+    "codepoint": "U+4C6D",
+    "strokeCount": 20,
+    "simpVariants": ["𱈇"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%AD_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，。《周禮》謂之。从魚，恆聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁據《上林賦》李奇注改作：“䱭，䱭𩶶，鮪也。周雒謂之鮪，蜀謂之䱭𩶶。”"
+      }
+    ],
+    "variants": [{ "char": "䱭", "parts": "魚恆", "source": "academia-sinica" }],
+    "gloss": "tuna"
+  },
+  "䲍": {
+    "_id": "5f523afdde54193ed8730043",
+    "char": "䲍",
+    "codepoint": "U+4C8D",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "(standard form of 鰧) a perch-like fish with white body and red tail"
+  },
+  "䲱": {
+    "_id": "5f523afdde54193ed8730067",
+    "char": "䲱",
+    "codepoint": "U+4CB1",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，澤虞也。从鳥，方聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁注：“《爾雅．釋鳥》：‘鶭，澤虞。’《釋文》：‘鶭，《說文》作䲱。’”"
+      }
+    ],
+    "variants": [{ "char": "䲱", "parts": "鳥方", "source": "academia-sinica" }],
+    "gloss": "(same as 鶭) a kind of black bird"
+  },
+  "䳁": {
+    "_id": "5f523afdde54193ed8730077",
+    "char": "䳁",
+    "codepoint": "U+4CC1",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%81_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，犮聲。讀若撥。”",
+    "variants": [{ "char": "䳁", "parts": "鳥犮", "source": "academia-sinica" }],
+    "gloss": "a wild duck-like water bird"
+  },
+  "䳜": {
+    "_id": "5f523afdde54193ed8730092",
+    "char": "䳜",
+    "codepoint": "U+4CDC",
+    "strokeCount": 18,
+    "simpVariants": ["𫛬"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鵌) a kind of bird which shares its nest with rats"
+  },
+  "䳳": {
+    "_id": "5f523afdde54193ed87300a9",
+    "char": "䳳",
+    "codepoint": "U+4CF3",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B3_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥也。从鳥，祟聲。”",
+    "variants": [{ "char": "䳳", "parts": "祟鳥", "source": "academia-sinica" }],
+    "gloss": "a kind of small bird"
+  },
+  "䳽": {
+    "_id": "5f523afdde54193ed87300b3",
+    "char": "䳽",
+    "codepoint": "U+4CFD",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鸖) (same as 鶴) crane"
+  },
+  "䱗": {
+    "_id": "5f523afdde54193ed873000d",
+    "char": "䱗",
+    "codepoint": "U+4C57",
+    "strokeCount": 18,
+    "simpVariants": ["𮬞"],
+    "sources": ["unicode"],
+    "gloss": "a long narrow fish Trichiurus armatus"
+  },
+  "䱄": {
+    "_id": "5f523afdde54193ed872fffa",
+    "char": "䱄",
+    "codepoint": "U+4C44",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(non-classical and corrupted form of 魪) a flatfish"
+  },
+  "䱘": {
+    "_id": "5f523afdde54193ed873000e",
+    "char": "䱘",
+    "codepoint": "U+4C58",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "䱢": {
+    "_id": "5f523afdde54193ed8730018",
+    "char": "䱢",
+    "codepoint": "U+4C62",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱴": {
+    "_id": "5f523afdde54193ed873002a",
+    "char": "䱴",
+    "codepoint": "U+4C74",
+    "strokeCount": 20,
+    "simpVariants": ["𱈈"],
+    "sources": ["unicode"],
+    "gloss": "(same as 䱭) tuna"
+  },
+  "䲌": {
+    "_id": "5f523afdde54193ed8730042",
+    "char": "䲌",
+    "codepoint": "U+4C8C",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "a fish"
+  },
+  "䲷": {
+    "_id": "5f523afdde54193ed873006d",
+    "char": "䲷",
+    "codepoint": "U+4CB7",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B7_0.png",
+        "source": "academia-sinica",
+        "description": "帛丙7.3(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B7_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧木部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B7_2.png",
+        "source": "academia-sinica",
+        "description": "北海相景君銘(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“梟，不孝鳥也。日至，捕梟磔之。从鳥頭在木上。”",
+    "variants": [{ "char": "梟", "parts": "木", "source": "academia-sinica" }]
+  },
+  "䳓": {
+    "_id": "5f523afdde54193ed8730089",
+    "char": "䳓",
+    "codepoint": "U+4CD3",
+    "strokeCount": 17,
+    "simpVariants": ["𱉦"],
+    "sources": ["unicode"],
+    "gloss": "a kind of water bird"
+  },
+  "䳡": {
+    "_id": "5f523afdde54193ed8730097",
+    "char": "䳡",
+    "codepoint": "U+4CE1",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 鵻) a kind of bird in ancient books"
+  },
+  "䳮": {
+    "_id": "5f523afdde54193ed87300a4",
+    "char": "䳮",
+    "codepoint": "U+4CEE",
+    "strokeCount": 20,
+    "simpVariants": ["𱊓"],
+    "sources": ["unicode"],
+    "gloss": "to look at in surprise (said of bird)"
+  },
+  "䳷": {
+    "_id": "5f523afdde54193ed87300ad",
+    "char": "䳷",
+    "codepoint": "U+4CF7",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "chicken"
+  },
+  "䱛": {
+    "_id": "5f523afdde54193ed8730011",
+    "char": "䱛",
+    "codepoint": "U+4C5B",
+    "strokeCount": 19,
+    "simpVariants": ["𮬟"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱣": {
+    "_id": "5f523afdde54193ed8730019",
+    "char": "䱣",
+    "codepoint": "U+4C63",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a long narrow fish"
+  },
+  "䱦": {
+    "_id": "5f523afdde54193ed873001c",
+    "char": "䱦",
+    "codepoint": "U+4C66",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "the globefish"
+  },
+  "䱲": {
+    "_id": "5f523afdde54193ed8730028",
+    "char": "䱲",
+    "codepoint": "U+4C72",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱶": {
+    "_id": "5f523afdde54193ed873002c",
+    "char": "䱶",
+    "codepoint": "U+4C76",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a male crab"
+  },
+  "䲏": {
+    "_id": "5f523afdde54193ed8730045",
+    "char": "䲏",
+    "codepoint": "U+4C8F",
+    "strokeCount": 23,
+    "simpVariants": ["𬶗"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲐": {
+    "_id": "5f523afdde54193ed8730046",
+    "char": "䲐",
+    "codepoint": "U+4C90",
+    "strokeCount": 24,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%90_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。出樂浪潘國。从魚，虜聲。”",
+    "variants": [{ "char": "䲐", "parts": "魚虜", "source": "academia-sinica" }],
+    "gloss": "a kind of fish"
+  },
+  "䲓": {
+    "_id": "5f523afdde54193ed8730049",
+    "char": "䲓",
+    "codepoint": "U+4C93",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲛": {
+    "_id": "5f523afdde54193ed8730051",
+    "char": "䲛",
+    "codepoint": "U+4C9B",
+    "strokeCount": 27,
+    "simpVariants": ["𱈛"],
+    "sources": ["unicode"],
+    "gloss": "an ancient name for tuna"
+  },
+  "䲾": {
+    "_id": "5f523afdde54193ed8730074",
+    "char": "䲾",
+    "codepoint": "U+4CBE",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "tailor bird"
+  },
+  "䳉": {
+    "_id": "5f523afdde54193ed873007f",
+    "char": "䳉",
+    "codepoint": "U+4CC9",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of water bird"
+  },
+  "䳠": {
+    "_id": "5f523afdde54193ed8730096",
+    "char": "䳠",
+    "codepoint": "U+4CE0",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "owl"
+  },
+  "䳶": {
+    "_id": "5f523afdde54193ed87300ac",
+    "char": "䳶",
+    "codepoint": "U+4CF6",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_0.png",
+        "source": "academia-sinica",
+        "description": "掇2.59(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_1.png",
+        "source": "academia-sinica",
+        "description": "佚740(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_2.png",
+        "source": "academia-sinica",
+        "description": "明藏787(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_3.png",
+        "source": "academia-sinica",
+        "description": "粹1562(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_4.png",
+        "source": "academia-sinica",
+        "description": "及父辛尊(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_5.png",
+        "source": "academia-sinica",
+        "description": "包2.257(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_6.png",
+        "source": "academia-sinica",
+        "description": "包2.257(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_7.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_8.png",
+        "source": "academia-sinica",
+        "description": "說文‧隹部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_9.png",
+        "source": "academia-sinica",
+        "description": "睡.日乙76(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%B6_10.png",
+        "source": "academia-sinica",
+        "description": "睡.秦63(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      }
+    ],
+    "shuowen": "《說文》：“雞，知時畜也。从隹，奚聲。鷄，籀文雞从鳥。”",
+    "variants": [
+      { "char": "雞", "parts": "奚隹", "source": "academia-sinica" },
+      { "char": "鷄", "parts": "奚鳥", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 㶉) a kind of water bird"
+  },
+  "䱉": {
+    "_id": "5f523afdde54193ed872ffff",
+    "char": "䱉",
+    "codepoint": "U+4C49",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form of 䱇) (same as 鱓"
+  },
+  "䱾": {
+    "_id": "5f523afdde54193ed8730034",
+    "char": "䱾",
+    "codepoint": "U+4C7E",
+    "strokeCount": 22,
+    "simpVariants": ["𱈆"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%BE_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。一名鯉，一名鰜。从魚，婁聲。”",
+    "variants": [{ "char": "䱾", "parts": "魚婁", "source": "academia-sinica" }],
+    "gloss": "a carp-like savory fish"
+  },
+  "䱕": {
+    "_id": "5f523afdde54193ed873000b",
+    "char": "䱕",
+    "codepoint": "U+4C55",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "labrus"
+  },
+  "䱖": {
+    "_id": "5f523afdde54193ed873000c",
+    "char": "䱖",
+    "codepoint": "U+4C56",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 鰡) shark"
+  },
+  "䱡": {
+    "_id": "5f523afdde54193ed8730017",
+    "char": "䱡",
+    "codepoint": "U+4C61",
+    "strokeCount": 19,
+    "simpVariants": ["𱇽"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%A1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名，出樂浪潘國。从魚，匊聲。一曰魚，出江東，有兩乳。”",
+    "variants": [{ "char": "䱡", "parts": "魚匊", "source": "academia-sinica" }],
+    "gloss": "the globefish"
+  },
+  "䱥": {
+    "_id": "5f523afdde54193ed873001b",
+    "char": "䱥",
+    "codepoint": "U+4C65",
+    "strokeCount": 19,
+    "simpVariants": ["𱇹"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱫": {
+    "_id": "5f523afdde54193ed8730021",
+    "char": "䱫",
+    "codepoint": "U+4C6B",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 鯻) a kind of fish"
+  },
+  "䱱": {
+    "_id": "5f523afdde54193ed8730027",
+    "char": "䱱",
+    "codepoint": "U+4C71",
+    "strokeCount": 20,
+    "simpVariants": ["𬶤"],
+    "sources": ["unicode"],
+    "gloss": "Parasilurus asotus"
+  },
+  "䲇": {
+    "_id": "5f523afdde54193ed873003d",
+    "char": "䲇",
+    "codepoint": "U+4C87",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "䲑": {
+    "_id": "5f523afdde54193ed8730047",
+    "char": "䲑",
+    "codepoint": "U+4C91",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "spawn"
+  },
+  "䲙": {
+    "_id": "5f523afdde54193ed873004f",
+    "char": "䲙",
+    "codepoint": "U+4C99",
+    "strokeCount": 26,
+    "simpVariants": ["𬶎"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䳃": {
+    "_id": "5f523afdde54193ed8730079",
+    "char": "䳃",
+    "codepoint": "U+4CC3",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of phoenix-like bird"
+  },
+  "䳄": {
+    "_id": "5f523afdde54193ed873007a",
+    "char": "䳄",
+    "codepoint": "U+4CC4",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 鴜) a kind of water bird"
+  },
+  "䳘": {
+    "_id": "5f523afdde54193ed873008e",
+    "char": "䳘",
+    "codepoint": "U+4CD8",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%98_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鴚鵝也。从鳥，我聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "《古今韻會舉要．歌韻》：“䳘，亦作鵝。”" }],
+    "variants": [{ "char": "鵝", "parts": "我鳥", "source": "academia-sinica" }],
+    "gloss": "(same as 䳗",
+    "statistics": {
+      "hskLevel": 10,
+      "movieWordCount": 252,
+      "movieWordCountPercent": 0.000007511957426517854,
+      "movieWordRank": 6484,
+      "movieWordContexts": 106,
+      "movieWordContextsPercent": 0.016979016498478296,
+      "bookWordCount": 181178,
+      "bookWordCountPercent": 0.000010940661127763121,
+      "bookWordRank": 8536,
+      "movieCharCount": 711,
+      "movieCharCountPercent": 0.000015178978408639746,
+      "movieCharRank": 2148,
+      "movieCharContexts": 309,
+      "movieCharContextsPercent": 0.049495434887073524,
+      "bookCharCount": 5703,
+      "bookCharCountPercent": 0.000029472256229842216,
+      "bookCharRank": 2172,
+      "topWords": [
+        { "word": "鹅", "share": 0.3501670348655527, "trad": "鵝", "gloss": "goose" },
+        { "word": "企鹅", "share": 0.2727263895953944, "trad": "企鵝", "gloss": "penguin" },
+        { "word": "天鹅", "share": 0.2373738085074601, "trad": "天鵝", "gloss": "swan" },
+        { "word": "天鹅绒", "share": 0.06584044498765913, "trad": "天鵝絨", "gloss": "velvet" },
+        { "word": "鹅卵石", "share": 0.033222269701968926, "trad": "鵝卵石", "gloss": "pebble" },
+        { "word": "鹅毛", "share": 0.010387275017724913, "trad": "鵝毛", "gloss": "goose feather" },
+        { "word": "天鹅湖", "share": 0.006438344113018204, "trad": "天鵝湖", "gloss": "Swan Lake" },
+        {
+          "word": "鹅毛大雪",
+          "share": 0.006298507293456016,
+          "trad": "鵝毛大雪",
+          "gloss": "goose feather snow (idiom)"
+        },
+        { "word": "鹅绒", "share": 0.006037721670933187, "trad": "鵝絨", "gloss": "goose down" },
+        {
+          "word": "癞蛤蟆想吃天鹅肉",
+          "share": 0.0013454957074529501,
+          "trad": "癩蛤蟆想吃天鵝肉",
+          "gloss": "lit. the toad wants to eat swan meat (idiom)"
+        },
+        {
+          "word": "鹅掌楸",
+          "share": 0.000902351404928067,
+          "trad": "鵝掌楸",
+          "gloss": "Chinese tulip tree"
+        },
+        {
+          "word": "千里送鹅毛",
+          "share": 0.000667078630240016,
+          "trad": "千里送鵝毛",
+          "gloss": "goose feather sent from afar (idiom); a trifling present with a weighty thought behind it"
+        },
+        {
+          "word": "鹅喉羚",
+          "share": 0.0005603082545783704,
+          "trad": "鵝喉羚",
+          "gloss": "goitered gazelle (Gazella subgutturosa) of Xinjiang"
+        },
+        {
+          "word": "天鹅座",
+          "share": 0.0004884980904165556,
+          "trad": "天鵝座",
+          "gloss": "Cygnus (constellation)"
+        },
+        {
+          "word": "鹅銮鼻",
+          "share": 0.00043180585555196505,
+          "trad": "鵝鑾鼻",
+          "gloss": "Cape Eluanpi or Eluanbi, southernmost point of Taiwan Island"
+        },
+        {
+          "word": "千里鹅毛",
+          "share": 0.00001039357639184161,
+          "trad": "千里鵝毛",
+          "gloss": "also written 千里送鵝毛|千里送鹅毛[qiān​lǐ​sòng​'é​máo]"
+        }
+      ],
+      "pinyinFrequency": 24
+    }
+  },
+  "䳩": {
+    "_id": "5f523afdde54193ed873009f",
+    "char": "䳩",
+    "codepoint": "U+4CE9",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䳪": {
+    "_id": "5f523afdde54193ed87300a0",
+    "char": "䳪",
+    "codepoint": "U+4CEA",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鷒) a kind of bird"
+  },
+  "䲂": {
+    "_id": "5f523afdde54193ed8730038",
+    "char": "䲂",
+    "codepoint": "U+4C82",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲆": {
+    "_id": "5f523afdde54193ed873003c",
+    "char": "䲆",
+    "codepoint": "U+4C86",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "䲖": {
+    "_id": "5f523afdde54193ed873004c",
+    "char": "䲖",
+    "codepoint": "U+4C96",
+    "strokeCount": 25,
+    "simpVariants": ["𩾂"],
+    "sources": ["unicode"],
+    "gloss": "big fish"
+  },
+  "䲨": {
+    "_id": "5f523afdde54193ed873005e",
+    "char": "䲨",
+    "codepoint": "U+4CA8",
+    "strokeCount": 14,
+    "simpVariants": ["𬷾"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%A8_0.png",
+        "source": "academia-sinica",
+        "description": "前2.9.6(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%A8_1.png",
+        "source": "academia-sinica",
+        "description": "散氏盤(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%A8_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧隹部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%A8_3.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥肥大也。从隹，工聲。，或从鳥。”",
+    "variants": [
+      { "char": "𨾊", "parts": "工隹", "source": "academia-sinica" },
+      { "char": "䲨", "parts": "工鳥", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 鴻) wild swan"
+  },
+  "䲬": {
+    "_id": "5f523afdde54193ed8730062",
+    "char": "䲬",
+    "codepoint": "U+4CAC",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "chicken"
+  },
+  "䲲": {
+    "_id": "5f523afdde54193ed8730068",
+    "char": "䲲",
+    "codepoint": "U+4CB2",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a hawk-like bird"
+  },
+  "䲺": {
+    "_id": "5f523afdde54193ed8730070",
+    "char": "䲺",
+    "codepoint": "U+4CBA",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "birds singing"
+  },
+  "䳂": {
+    "_id": "5f523afdde54193ed8730078",
+    "char": "䳂",
+    "codepoint": "U+4CC2",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of small bird"
+  },
+  "䳖": {
+    "_id": "5f523afdde54193ed873008c",
+    "char": "䳖",
+    "codepoint": "U+4CD6",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "flying birds"
+  },
+  "䳾": {
+    "_id": "5f523afdde54193ed87300b4",
+    "char": "䳾",
+    "codepoint": "U+4CFE",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "an owl"
+  },
+  "䱁": {
+    "_id": "5f523afdde54193ed872fff7",
+    "char": "䱁",
+    "codepoint": "U+4C41",
+    "strokeCount": 16,
+    "simpVariants": ["𫚏"],
+    "sources": ["unicode"],
+    "gloss": "a kind of medium sized fish grown in the sea"
+  },
+  "䱇": {
+    "_id": "5f523afdde54193ed872fffd",
+    "char": "䱇",
+    "codepoint": "U+4C47",
+    "strokeCount": 16,
+    "simpVariants": ["𱇞"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鱔) the eel"
+  },
+  "䱌": {
+    "_id": "5f523afdde54193ed8730002",
+    "char": "䱌",
+    "codepoint": "U+4C4C",
+    "strokeCount": 17,
+    "simpVariants": ["𱇬"],
+    "sources": ["unicode"],
+    "gloss": "globefish"
+  },
+  "䱩": {
+    "_id": "5f523afdde54193ed873001f",
+    "char": "䱩",
+    "codepoint": "U+4C69",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "䱮": {
+    "_id": "5f523afdde54193ed8730024",
+    "char": "䱮",
+    "codepoint": "U+4C6E",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲄": {
+    "_id": "5f523afdde54193ed873003a",
+    "char": "䲄",
+    "codepoint": "U+4C84",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(same as 鮸) an ocean fish with long flat body"
+  },
+  "䲗": {
+    "_id": "5f523afdde54193ed873004d",
+    "char": "䲗",
+    "codepoint": "U+4C97",
+    "strokeCount": 25,
+    "simpVariants": ["𮬣"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲪": {
+    "_id": "5f523afdde54193ed8730060",
+    "char": "䲪",
+    "codepoint": "U+4CAA",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䲴": {
+    "_id": "5f523afdde54193ed873006a",
+    "char": "䲴",
+    "codepoint": "U+4CB4",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B4_0.png",
+        "source": "academia-sinica",
+        "description": "京津2245(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      }
+    ],
+    "variants": [{ "char": "䲴", "parts": "火鳥", "source": "academia-sinica" }],
+    "gloss": "(same as 鴆) a kind of venomous bird"
+  },
+  "䲹": {
+    "_id": "5f523afdde54193ed873006f",
+    "char": "䲹",
+    "codepoint": "U+4CB9",
+    "strokeCount": 16,
+    "simpVariants": ["𱉖"],
+    "sources": ["unicode"],
+    "gloss": "osprey"
+  },
+  "䲽": {
+    "_id": "5f523afdde54193ed8730073",
+    "char": "䲽",
+    "codepoint": "U+4CBD",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a kind of bird"
+  },
+  "䳇": {
+    "_id": "5f523afdde54193ed873007d",
+    "char": "䳇",
+    "codepoint": "U+4CC7",
+    "strokeCount": 16,
+    "simpVariants": ["𱉞"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%87_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鸚也。从鳥，母聲。”",
+    "variants": [{ "char": "䳇", "parts": "母鳥", "source": "academia-sinica" }],
+    "gloss": "(same as 鵡) parrot"
+  },
+  "䳐": {
+    "_id": "5f523afdde54193ed8730086",
+    "char": "䳐",
+    "codepoint": "U+4CD0",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "an owl-like bird"
+  },
+  "䳚": {
+    "_id": "5f523afdde54193ed8730090",
+    "char": "䳚",
+    "codepoint": "U+4CDA",
+    "strokeCount": 18,
+    "simpVariants": ["𱉶"],
+    "sources": ["unicode"],
+    "gloss": "a sort of nightingale which is said to sing for the dawn"
+  },
+  "䳢": {
+    "_id": "5f523afdde54193ed8730098",
+    "char": "䳢",
+    "codepoint": "U+4CE2",
+    "strokeCount": 19,
+    "simpVariants": ["𫛰"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鶀) small wild goose"
+  },
+  "䳧": {
+    "_id": "5f523afdde54193ed873009d",
+    "char": "䳧",
+    "codepoint": "U+4CE7",
+    "strokeCount": 20,
+    "simpVariants": ["𫛺"],
+    "sources": ["unicode"],
+    "gloss": "an eagle"
+  },
+  "䳲": {
+    "_id": "5f523afdde54193ed87300a8",
+    "char": "䳲",
+    "codepoint": "U+4CF2",
+    "strokeCount": 21,
+    "simpVariants": ["𱊙"],
+    "sources": ["unicode"],
+    "gloss": "a swarm of flying birds"
+  },
+  "䱍": {
+    "_id": "5f523afdde54193ed8730003",
+    "char": "䱍",
+    "codepoint": "U+4C4D",
+    "strokeCount": 17,
+    "simpVariants": ["𬶊"],
+    "sources": ["unicode"],
+    "gloss": "tuna"
+  },
+  "䱐": {
+    "_id": "5f523afdde54193ed8730006",
+    "char": "䱐",
+    "codepoint": "U+4C50",
+    "strokeCount": 18,
+    "simpVariants": ["𱇲"],
+    "sources": ["unicode"],
+    "gloss": "globefish"
+  },
+  "䱟": {
+    "_id": "5f523afdde54193ed8730015",
+    "char": "䱟",
+    "codepoint": "U+4C5F",
+    "strokeCount": 19,
+    "simpVariants": ["𱈀"],
+    "sources": ["unicode"],
+    "gloss": "(an ancient name) a kind of silver fish"
+  },
+  "䱻": {
+    "_id": "5f523afdde54193ed8730031",
+    "char": "䱻",
+    "codepoint": "U+4C7B",
+    "strokeCount": 21,
+    "simpVariants": ["𮬡"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲔": {
+    "_id": "5f523afdde54193ed873004a",
+    "char": "䲔",
+    "codepoint": "U+4C94",
+    "strokeCount": 24,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%94_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%94_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%94_2.png",
+        "source": "academia-sinica",
+        "description": "魏王基殘碑(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，海大魚也。从魚，畺聲。《春秋傳》曰：‘取其鯢。’鯨，或从京。”",
+    "variants": [
+      { "char": "鯨", "parts": "魚京", "source": "academia-sinica" },
+      { "char": "䲔", "parts": "魚畺", "source": "academia-sinica" }
+    ],
+    "gloss": "a whale",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䲕": {
+    "_id": "5f523afdde54193ed873004b",
+    "char": "䲕",
+    "codepoint": "U+4C95",
+    "strokeCount": 24,
+    "simpVariants": ["𬶴"],
+    "sources": ["unicode"],
+    "gloss": "the Yangtze porpoise"
+  },
+  "䲥": {
+    "_id": "5f523afdde54193ed873005b",
+    "char": "䲥",
+    "codepoint": "U+4CA5",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as 鳩) the pigeon"
+  },
+  "䲧": {
+    "_id": "5f523afdde54193ed873005d",
+    "char": "䲧",
+    "codepoint": "U+4CA7",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "cuckoo"
+  },
+  "䲿": {
+    "_id": "5f523afdde54193ed8730075",
+    "char": "䲿",
+    "codepoint": "U+4CBF",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鶿 U+9DC0) cormorant"
+  },
+  "䳈": {
+    "_id": "5f523afdde54193ed873007e",
+    "char": "䳈",
+    "codepoint": "U+4CC8",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%88_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%88_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“鴇，鳥也，肉出尺胾。从鳥，聲。，鴇或从包。”",
+    "variants": [
+      { "char": "鴇", "parts": "𠤏鳥", "source": "academia-sinica" },
+      { "char": "䳈", "parts": "鳥包", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 鴇) a bird resembling the wild goose"
+  },
+  "䱨": {
+    "_id": "5f523afdde54193ed873001e",
+    "char": "䱨",
+    "codepoint": "U+4C68",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 䱥) a kind of fish"
+  },
+  "䱂": {
+    "_id": "5f523afdde54193ed872fff8",
+    "char": "䱂",
+    "codepoint": "U+4C42",
+    "strokeCount": 16,
+    "simpVariants": ["𱇤"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%82_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。从魚，幼聲。讀若幽。”",
+    "variants": [{ "char": "䱂", "parts": "魚幼", "source": "academia-sinica" }],
+    "gloss": "a fish"
+  },
+  "䲁": {
+    "_id": "5f523afdde54193ed8730037",
+    "char": "䲁",
+    "codepoint": "U+4C81",
+    "strokeCount": 22,
+    "simpVariants": ["鳚"],
+    "sources": ["unicode"],
+    "gloss": "general term of a kind of fish"
+  },
+  "䲅": {
+    "_id": "5f523afdde54193ed873003b",
+    "char": "䲅",
+    "codepoint": "U+4C85",
+    "strokeCount": 22,
+    "simpVariants": ["𫚜"],
+    "sources": ["unicode"],
+    "gloss": "the globefish"
+  },
+  "䲈": {
+    "_id": "5f523afdde54193ed873003e",
+    "char": "䲈",
+    "codepoint": "U+4C88",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "䲋": {
+    "_id": "5f523afdde54193ed8730041",
+    "char": "䲋",
+    "codepoint": "U+4C8B",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form) a kind of fish"
+  },
+  "䲜": {
+    "_id": "5f523afdde54193ed8730052",
+    "char": "䲜",
+    "codepoint": "U+4C9C",
+    "strokeCount": 44,
+    "sources": ["unicode"],
+    "gloss": "lots of fish"
+  },
+  "䲢": {
+    "_id": "5f523afdde54193ed8730058",
+    "char": "䲢",
+    "codepoint": "U+4CA2",
+    "strokeCount": 21,
+    "tradVariants": ["鰧"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form of 鰧) a kind of fish"
+  },
+  "䲦": {
+    "_id": "5f523afdde54193ed873005c",
+    "char": "䲦",
+    "codepoint": "U+4CA6",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a legendary bird"
+  },
+  "䲩": {
+    "_id": "5f523afdde54193ed873005f",
+    "char": "䲩",
+    "codepoint": "U+4CA9",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 鳲) the cuckoo"
+  },
+  "䳑": {
+    "_id": "5f523afdde54193ed8730087",
+    "char": "䳑",
+    "codepoint": "U+4CD1",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%91_0.png",
+        "source": "academia-sinica",
+        "description": "門膚丘為𩿊造戈(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      }
+    ],
+    "variants": [{ "char": "䳑", "parts": "有鳥", "source": "academia-sinica" }],
+    "gloss": "a pheasant-like bird"
+  },
+  "䳝": {
+    "_id": "5f523afdde54193ed8730093",
+    "char": "䳝",
+    "codepoint": "U+4CDD",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a kind of small birds"
+  },
+  "䱈": {
+    "_id": "5f523afdde54193ed872fffe",
+    "char": "䱈",
+    "codepoint": "U+4C48",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 鮨) fish pulp"
+  },
+  "䱠": {
+    "_id": "5f523afdde54193ed8730016",
+    "char": "䱠",
+    "codepoint": "U+4C60",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䱤": {
+    "_id": "5f523afdde54193ed873001a",
+    "char": "䱤",
+    "codepoint": "U+4C64",
+    "strokeCount": 19,
+    "simpVariants": ["𱇻"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B1%A4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧魚部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，魚名。从魚，臽聲。”",
+    "variants": [{ "char": "䱤", "parts": "魚臽", "source": "academia-sinica" }],
+    "gloss": "same as U+9C64 鱤"
+  },
+  "䱰": {
+    "_id": "5f523afdde54193ed8730026",
+    "char": "䱰",
+    "codepoint": "U+4C70",
+    "strokeCount": 20,
+    "simpVariants": ["𩾋"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鮦 鯉 鱧) a kind of fish"
+  },
+  "䲀": {
+    "_id": "5f523afdde54193ed8730036",
+    "char": "䲀",
+    "codepoint": "U+4C80",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲡": {
+    "_id": "5f523afdde54193ed8730057",
+    "char": "䲡",
+    "codepoint": "U+4CA1",
+    "strokeCount": 20,
+    "tradVariants": ["鰌"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form U+9C0C 鰍) loach"
+  },
+  "䲰": {
+    "_id": "5f523afdde54193ed8730066",
+    "char": "䲰",
+    "codepoint": "U+4CB0",
+    "strokeCount": 15,
+    "simpVariants": ["𪉂"],
+    "sources": ["unicode"],
+    "gloss": "a name for the pigeon or the turtle dove"
+  },
+  "䲳": {
+    "_id": "5f523afdde54193ed8730069",
+    "char": "䲳",
+    "codepoint": "U+4CB3",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "birds flying up and down"
+  },
+  "䲶": {
+    "_id": "5f523afdde54193ed873006c",
+    "char": "䲶",
+    "codepoint": "U+4CB6",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "䳅": {
+    "_id": "5f523afdde54193ed873007b",
+    "char": "䳅",
+    "codepoint": "U+4CC5",
+    "strokeCount": 16,
+    "simpVariants": ["𱉙"],
+    "sources": ["unicode"],
+    "gloss": "a kind of bird which shares its nest with rats"
+  },
+  "䳍": {
+    "_id": "5f523afdde54193ed8730083",
+    "char": "䳍",
+    "codepoint": "U+4CCD",
+    "strokeCount": 17,
+    "simpVariants": ["𮭥"],
+    "sources": ["unicode"],
+    "gloss": "a kind of pheasant-like bird"
+  },
+  "䳣": {
+    "_id": "5f523afdde54193ed8730099",
+    "char": "䳣",
+    "codepoint": "U+4CE3",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鳶) kite (bird)"
+  },
+  "䳫": {
+    "_id": "5f523afdde54193ed87300a1",
+    "char": "䳫",
+    "codepoint": "U+4CEB",
+    "strokeCount": 20,
+    "simpVariants": ["𫛼"],
+    "sources": ["unicode"],
+    "gloss": "(standard form) a small pigeon"
+  },
+  "䱅": {
+    "_id": "5f523afdde54193ed872fffb",
+    "char": "䱅",
+    "codepoint": "U+4C45",
+    "strokeCount": 16,
+    "simpVariants": ["𱇚"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鱴 鮆) the mullet"
+  },
+  "䱃": {
+    "_id": "5f523afdde54193ed872fff9",
+    "char": "䱃",
+    "codepoint": "U+4C43",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a fish"
+  },
+  "䱑": {
+    "_id": "5f523afdde54193ed8730007",
+    "char": "䱑",
+    "codepoint": "U+4C51",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a fish"
+  },
+  "䱔": {
+    "_id": "5f523afdde54193ed873000a",
+    "char": "䱔",
+    "codepoint": "U+4C54",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 鰷) a long narrow and silver colored fish"
+  },
+  "䱙": {
+    "_id": "5f523afdde54193ed873000f",
+    "char": "䱙",
+    "codepoint": "U+4C59",
+    "strokeCount": 19,
+    "simpVariants": ["𩾈"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鮛) a small kind of tuna or sturgeon"
+  },
+  "䱝": {
+    "_id": "5f523afdde54193ed8730013",
+    "char": "䱝",
+    "codepoint": "U+4C5D",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "black carp"
+  },
+  "䲟": {
+    "_id": "5f523afdde54193ed8730055",
+    "char": "䲟",
+    "codepoint": "U+4C9F",
+    "strokeCount": 16,
+    "tradVariants": ["鮣"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form of 鮣) a kind of fish",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䲤": {
+    "_id": "5f523afdde54193ed873005a",
+    "char": "䲤",
+    "codepoint": "U+4CA4",
+    "strokeCount": 21,
+    "tradVariants": ["鿐"],
+    "sources": ["unicode"],
+    "gloss": "a kind of clam"
+  },
+  "䳋": {
+    "_id": "5f523afdde54193ed8730081",
+    "char": "䳋",
+    "codepoint": "U+4CCB",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a pheasant-like bird with black and body and red feet"
+  },
+  "䳎": {
+    "_id": "5f523afdde54193ed8730084",
+    "char": "䳎",
+    "codepoint": "U+4CCE",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a pigeon-like bird"
+  },
+  "䳕": {
+    "_id": "5f523afdde54193ed873008b",
+    "char": "䳕",
+    "codepoint": "U+4CD5",
+    "strokeCount": 18,
+    "simpVariants": ["𱉺"],
+    "sources": ["unicode"],
+    "gloss": "the pigeon"
+  },
+  "䳛": {
+    "_id": "5f523afdde54193ed8730091",
+    "char": "䳛",
+    "codepoint": "U+4CDB",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 鷃) a small brown speckled bird like the quail"
+  },
+  "䳥": {
+    "_id": "5f523afdde54193ed873009b",
+    "char": "䳥",
+    "codepoint": "U+4CE5",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "䳬": {
+    "_id": "5f523afdde54193ed87300a2",
+    "char": "䳬",
+    "codepoint": "U+4CEC",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 鷊) a kind of bird"
+  },
+  "䳵": {
+    "_id": "5f523afdde54193ed87300ab",
+    "char": "䳵",
+    "codepoint": "U+4CF5",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of water bird with colorful feather"
+  },
+  "䳸": {
+    "_id": "5f523afdde54193ed87300ae",
+    "char": "䳸",
+    "codepoint": "U+4CF8",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "the wild goose"
+  },
+  "䳻": {
+    "_id": "5f523afdde54193ed87300b1",
+    "char": "䳻",
+    "codepoint": "U+4CFB",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "eagle"
+  },
+  "䱪": {
+    "_id": "5f523afdde54193ed8730020",
+    "char": "䱪",
+    "codepoint": "U+4C6A",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "䱯": {
+    "_id": "5f523afdde54193ed8730025",
+    "char": "䱯",
+    "codepoint": "U+4C6F",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form) a kind of fish"
+  },
+  "䱸": {
+    "_id": "5f523afdde54193ed873002e",
+    "char": "䱸",
+    "codepoint": "U+4C78",
+    "strokeCount": 21,
+    "simpVariants": ["𫠑"],
+    "sources": ["unicode"],
+    "gloss": "a family name"
+  },
+  "䱹": {
+    "_id": "5f523afdde54193ed873002f",
+    "char": "䱹",
+    "codepoint": "U+4C79",
+    "strokeCount": 21,
+    "simpVariants": ["𬶣"],
+    "sources": ["unicode"],
+    "gloss": "(standard form) (same as 鮓) a condiment made from minced fish salted"
+  },
+  "䲎": {
+    "_id": "5f523afdde54193ed8730044",
+    "char": "䲎",
+    "codepoint": "U+4C8E",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form of U+9BD8 鯘"
+  },
+  "䲠": {
+    "_id": "5f523afdde54193ed8730056",
+    "char": "䲠",
+    "codepoint": "U+4CA0",
+    "strokeCount": 20,
+    "tradVariants": ["鰆"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form 鰆) a kind of fish",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䲸": {
+    "_id": "5f523afdde54193ed873006e",
+    "char": "䲸",
+    "codepoint": "U+4CB8",
+    "strokeCount": 15,
+    "simpVariants": ["𮭡"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鳥似鶡而青，出羌中。从鳥，介聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "段玉裁依《顏氏家訓》改“鳥”作“䲸雀也”。" }],
+    "variants": [{ "char": "䲸", "parts": "介鳥", "source": "academia-sinica" }],
+    "gloss": "a kind of bird"
+  },
+  "䲻": {
+    "_id": "5f523afdde54193ed8730071",
+    "char": "䲻",
+    "codepoint": "U+4CBB",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "the swallow"
+  },
+  "䳊": {
+    "_id": "5f523afdde54193ed8730080",
+    "char": "䳊",
+    "codepoint": "U+4CCA",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 䳁) a wild duck-like water bird"
+  },
+  "䳗": {
+    "_id": "5f523afdde54193ed873008d",
+    "char": "䳗",
+    "codepoint": "U+4CD7",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 鵝) goose",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䳨": {
+    "_id": "5f523afdde54193ed873009e",
+    "char": "䳨",
+    "codepoint": "U+4CE8",
+    "strokeCount": 20,
+    "simpVariants": ["𬸛"],
+    "sources": ["unicode"],
+    "gloss": "(same as 凰) the female phoenix"
+  },
+  "䱊": {
+    "_id": "5f523afdde54193ed8730000",
+    "char": "䱊",
+    "codepoint": "U+4C4A",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "roe or spawn"
+  },
+  "䱀": {
+    "_id": "5f523afdde54193ed872fff6",
+    "char": "䱀",
+    "codepoint": "U+4C40",
+    "strokeCount": 16,
+    "simpVariants": ["𫚐"],
+    "sources": ["unicode"],
+    "gloss": "a kind of small fish"
+  },
+  "䱒": {
+    "_id": "5f523afdde54193ed8730008",
+    "char": "䱒",
+    "codepoint": "U+4C52",
+    "strokeCount": 18,
+    "simpVariants": ["𱇰"],
+    "sources": ["unicode"],
+    "gloss": "salted fish"
+  },
+  "䲣": {
+    "_id": "5f523afdde54193ed8730059",
+    "char": "䲣",
+    "codepoint": "U+4CA3",
+    "strokeCount": 21,
+    "tradVariants": ["䱷"],
+    "sources": ["unicode"],
+    "gloss": "(same as 魚 漁) to fish"
+  },
+  "䲯": {
+    "_id": "5f523afdde54193ed8730065",
+    "char": "䲯",
+    "codepoint": "U+4CAF",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a kind of black small bird"
+  },
+  "䳏": {
+    "_id": "5f523afdde54193ed8730085",
+    "char": "䳏",
+    "codepoint": "U+4CCF",
+    "strokeCount": 17,
+    "simpVariants": ["𱉤"],
+    "sources": ["unicode"],
+    "gloss": "cuckoo"
+  },
+  "䳱": {
+    "_id": "5f523afdde54193ed87300a7",
+    "char": "䳱",
+    "codepoint": "U+4CF1",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鶩) ducks"
+  },
+  "䳹": {
+    "_id": "5f523afdde54193ed87300af",
+    "char": "䳹",
+    "codepoint": "U+4CF9",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a kind dove-like bird"
+  },
+  "䳼": {
+    "_id": "5f523afdde54193ed87300b2",
+    "char": "䳼",
+    "codepoint": "U+4CFC",
+    "strokeCount": 22,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%BC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧鳥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，水鴞也。从鳥，區聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "朱駿聲《通訓定聲》：“䳼，今作鷗。”" }],
+    "variants": [{ "char": "鷗", "parts": "區鳥", "source": "academia-sinica" }],
+    "gloss": "(standard form of 鷗) gull"
+  },
+  "䱋": {
+    "_id": "5f523afdde54193ed8730001",
+    "char": "䱋",
+    "codepoint": "U+4C4B",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "spawn"
+  },
+  "䱽": {
+    "_id": "5f523afdde54193ed8730033",
+    "char": "䱽",
+    "codepoint": "U+4C7D",
+    "strokeCount": 21,
+    "simpVariants": ["䲝"],
+    "sources": ["unicode"],
+    "gloss": "(same as U+9BE7 鯧) the pomfret"
+  },
+  "䱿": {
+    "_id": "5f523afdde54193ed8730035",
+    "char": "䱿",
+    "codepoint": "U+4C7F",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲉": {
+    "_id": "5f523afdde54193ed873003f",
+    "char": "䲉",
+    "codepoint": "U+4C89",
+    "strokeCount": 23,
+    "simpVariants": ["𱈒"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲒": {
+    "_id": "5f523afdde54193ed8730048",
+    "char": "䲒",
+    "codepoint": "U+4C92",
+    "strokeCount": 24,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%92_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧虫部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B2%92_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“蠏，有二敖八足，旁行，非蛇鮮之穴無所態。从虫，解聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "趙宦光長箋：“蠏，蟹本字。”" }],
+    "variants": [
+      { "char": "蟹", "parts": "解虫", "source": "academia-sinica" },
+      { "char": "䲒", "parts": "魚解", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 蟹) crab"
+  },
+  "䲘": {
+    "_id": "5f523afdde54193ed873004e",
+    "char": "䲘",
+    "codepoint": "U+4C98",
+    "strokeCount": 25,
+    "simpVariants": ["鳤"],
+    "sources": ["unicode"],
+    "gloss": "a kind of fish"
+  },
+  "䲫": {
+    "_id": "5f523afdde54193ed8730061",
+    "char": "䲫",
+    "codepoint": "U+4CAB",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form of 鳩) the pigeon"
+  },
+  "䲭": {
+    "_id": "5f523afdde54193ed8730063",
+    "char": "䲭",
+    "codepoint": "U+4CAD",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "kite"
+  },
+  "䲵": {
+    "_id": "5f523afdde54193ed873006b",
+    "char": "䲵",
+    "codepoint": "U+4CB5",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as 雀) a general name of small birds"
+  },
+  "䳌": {
+    "_id": "5f523afdde54193ed8730082",
+    "char": "䳌",
+    "codepoint": "U+4CCC",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鵑) the cuckoo"
+  },
+  "䳦": {
+    "_id": "5f523afdde54193ed873009c",
+    "char": "䳦",
+    "codepoint": "U+4CE6",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "wren"
+  },
+  "䳺": {
+    "_id": "5f523afdde54193ed87300b0",
+    "char": "䳺",
+    "codepoint": "U+4CFA",
+    "strokeCount": 22,
+    "simpVariants": ["𱊣"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%BA_0.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%B3%BA_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧隹部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，屬。从隹，酓聲。，籀文从鳥。”",
+    "comments": [{ "source": "academia-sinica", "text": "《六書正譌．覃韻》：“䨄，俗作鵪。”" }],
+    "variants": [
+      { "char": "䨄", "parts": "酓隹", "source": "academia-sinica" },
+      { "char": "䳺", "parts": "酓鳥", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 鵪) the quail"
+  }
+}

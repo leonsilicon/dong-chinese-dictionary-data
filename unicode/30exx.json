@@ -1,0 +1,1903 @@
+{
+  "𰸛": {
+    "_id": "5f523b00de54193ed8745113",
+    "char": "𰸛",
+    "codepoint": "U+30E1B",
+    "strokeCount": 16,
+    "tradVariants": ["䠠"],
+    "sources": ["unicode"],
+    "gloss": "to go"
+  },
+  "𰸝": {
+    "_id": "5f523b00de54193ed8745115",
+    "char": "𰸝",
+    "codepoint": "U+30E1D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸲": {
+    "_id": "5f523b00de54193ed874512a",
+    "char": "𰸲",
+    "codepoint": "U+30E32",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰸳": {
+    "_id": "5f523b00de54193ed874512b",
+    "char": "𰸳",
+    "codepoint": "U+30E33",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𰸽": {
+    "_id": "5f523b00de54193ed8745135",
+    "char": "𰸽",
+    "codepoint": "U+30E3D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹂": {
+    "_id": "5f523b00de54193ed874513a",
+    "char": "𰹂",
+    "codepoint": "U+30E42",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹉": {
+    "_id": "5f523b00de54193ed8745141",
+    "char": "𰹉",
+    "codepoint": "U+30E49",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𰹋": {
+    "_id": "5f523b00de54193ed8745143",
+    "char": "𰹋",
+    "codepoint": "U+30E4B",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰹟": {
+    "_id": "5f523b00de54193ed8745157",
+    "char": "𰹟",
+    "codepoint": "U+30E5F",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰹡": {
+    "_id": "5f523b00de54193ed8745159",
+    "char": "𰹡",
+    "codepoint": "U+30E61",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰹫": {
+    "_id": "5f523b00de54193ed8745163",
+    "char": "𰹫",
+    "codepoint": "U+30E6B",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰹵": {
+    "_id": "5f523b00de54193ed874516d",
+    "char": "𰹵",
+    "codepoint": "U+30E75",
+    "strokeCount": 7,
+    "tradVariants": ["轙"],
+    "sources": ["unicode"],
+    "gloss": "rings on the yokes"
+  },
+  "𰹻": {
+    "_id": "5f523b00de54193ed8745173",
+    "char": "𰹻",
+    "codepoint": "U+30E7B",
+    "strokeCount": 8,
+    "tradVariants": ["𨊹"],
+    "sources": ["unicode"]
+  },
+  "𰺆": {
+    "_id": "5f523b00de54193ed874517e",
+    "char": "𰺆",
+    "codepoint": "U+30E86",
+    "strokeCount": 10,
+    "tradVariants": ["𨋮"],
+    "sources": ["unicode"]
+  },
+  "𰺐": {
+    "_id": "5f523b00de54193ed8745188",
+    "char": "𰺐",
+    "codepoint": "U+30E90",
+    "strokeCount": 12,
+    "tradVariants": ["輡"],
+    "sources": ["unicode"],
+    "gloss": "same as 轗 U+8F57"
+  },
+  "𰺒": {
+    "_id": "5f523b00de54193ed874518a",
+    "char": "𰺒",
+    "codepoint": "U+30E92",
+    "strokeCount": 13,
+    "tradVariants": ["輲"],
+    "sources": ["unicode"]
+  },
+  "𰺢": {
+    "_id": "5f523b00de54193ed874519a",
+    "char": "𰺢",
+    "codepoint": "U+30EA2",
+    "strokeCount": 19,
+    "tradVariants": ["𨏒"],
+    "sources": ["unicode"]
+  },
+  "𰺣": {
+    "_id": "5f523b00de54193ed874519b",
+    "char": "𰺣",
+    "codepoint": "U+30EA3",
+    "strokeCount": 19,
+    "tradVariants": ["轥"],
+    "sources": ["unicode"]
+  },
+  "𰺭": {
+    "_id": "5f523b00de54193ed87451a5",
+    "char": "𰺭",
+    "codepoint": "U+30EAD",
+    "strokeCount": 13,
+    "tradVariants": ["䢈"],
+    "sources": ["unicode"]
+  },
+  "𰻢": {
+    "_id": "5f523b00de54193ed87451da",
+    "char": "𰻢",
+    "codepoint": "U+30EE2",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰻨": {
+    "_id": "5f523b00de54193ed87451e0",
+    "char": "𰻨",
+    "codepoint": "U+30EE8",
+    "strokeCount": 8,
+    "tradVariants": ["𮟽"],
+    "sources": ["unicode"]
+  },
+  "𰻳": {
+    "_id": "5f523b00de54193ed87451eb",
+    "char": "𰻳",
+    "codepoint": "U+30EF3",
+    "strokeCount": 12,
+    "tradVariants": ["鄪"],
+    "sources": ["unicode"]
+  },
+  "𰸁": {
+    "_id": "5f523b00de54193ed87450f9",
+    "char": "𰸁",
+    "codepoint": "U+30E01",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𰸙": {
+    "_id": "5f523b00de54193ed8745111",
+    "char": "𰸙",
+    "codepoint": "U+30E19",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸤": {
+    "_id": "5f523b00de54193ed874511c",
+    "char": "𰸤",
+    "codepoint": "U+30E24",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸧": {
+    "_id": "5f523b00de54193ed874511f",
+    "char": "𰸧",
+    "codepoint": "U+30E27",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸻": {
+    "_id": "5f523b00de54193ed8745133",
+    "char": "𰸻",
+    "codepoint": "U+30E3B",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹈": {
+    "_id": "5f523b00de54193ed8745140",
+    "char": "𰹈",
+    "codepoint": "U+30E48",
+    "strokeCount": 8,
+    "simpVariants": ["𰹯"],
+    "sources": ["unicode"]
+  },
+  "𰹐": {
+    "_id": "5f523b00de54193ed8745148",
+    "char": "𰹐",
+    "codepoint": "U+30E50",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹘": {
+    "_id": "5f523b00de54193ed8745150",
+    "char": "𰹘",
+    "codepoint": "U+30E58",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹝": {
+    "_id": "5f523b00de54193ed8745155",
+    "char": "𰹝",
+    "codepoint": "U+30E5D",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹹": {
+    "_id": "5f523b00de54193ed8745171",
+    "char": "𰹹",
+    "codepoint": "U+30E79",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𰹾": {
+    "_id": "5f523b00de54193ed8745176",
+    "char": "𰹾",
+    "codepoint": "U+30E7E",
+    "strokeCount": 9,
+    "tradVariants": ["𨍒"],
+    "sources": ["unicode"]
+  },
+  "𰺌": {
+    "_id": "5f523b00de54193ed8745184",
+    "char": "𰺌",
+    "codepoint": "U+30E8C",
+    "strokeCount": 12,
+    "tradVariants": ["𨏔"],
+    "sources": ["unicode"]
+  },
+  "𰺎": {
+    "_id": "5f523b00de54193ed8745186",
+    "char": "𰺎",
+    "codepoint": "U+30E8E",
+    "strokeCount": 12,
+    "tradVariants": ["輫"],
+    "sources": ["unicode"]
+  },
+  "𰺕": {
+    "_id": "5f523b00de54193ed874518d",
+    "char": "𰺕",
+    "codepoint": "U+30E95",
+    "strokeCount": 13,
+    "tradVariants": ["𨍏"],
+    "sources": ["unicode"]
+  },
+  "𰺼": {
+    "_id": "5f523b00de54193ed87451b4",
+    "char": "𰺼",
+    "codepoint": "U+30EBC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻌": {
+    "_id": "5f523b00de54193ed87451c4",
+    "char": "𰻌",
+    "codepoint": "U+30ECC",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻎": {
+    "_id": "5f523b00de54193ed87451c6",
+    "char": "𰻎",
+    "codepoint": "U+30ECE",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰻏": {
+    "_id": "5f523b00de54193ed87451c7",
+    "char": "𰻏",
+    "codepoint": "U+30ECF",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰻟": {
+    "_id": "5f523b00de54193ed87451d7",
+    "char": "𰻟",
+    "codepoint": "U+30EDF",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𰸗": {
+    "_id": "5f523b00de54193ed874510f",
+    "char": "𰸗",
+    "codepoint": "U+30E17",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸟": {
+    "_id": "5f523b00de54193ed8745117",
+    "char": "𰸟",
+    "codepoint": "U+30E1F",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸦": {
+    "_id": "5f523b00de54193ed874511e",
+    "char": "𰸦",
+    "codepoint": "U+30E26",
+    "strokeCount": 16,
+    "tradVariants": ["𮜗"],
+    "sources": ["unicode"]
+  },
+  "𰺁": {
+    "_id": "5f523b00de54193ed8745179",
+    "char": "𰺁",
+    "codepoint": "U+30E81",
+    "strokeCount": 9,
+    "tradVariants": ["軥"],
+    "sources": ["unicode"],
+    "gloss": "yoke"
+  },
+  "𰺏": {
+    "_id": "5f523b00de54193ed8745187",
+    "char": "𰺏",
+    "codepoint": "U+30E8F",
+    "strokeCount": 12,
+    "tradVariants": ["輣"],
+    "sources": ["unicode"]
+  },
+  "𰺧": {
+    "_id": "5f523b00de54193ed874519f",
+    "char": "𰺧",
+    "codepoint": "U+30EA7",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰺷": {
+    "_id": "5f523b00de54193ed87451af",
+    "char": "𰺷",
+    "codepoint": "U+30EB7",
+    "strokeCount": 10,
+    "tradVariants": ["遶"],
+    "sources": ["unicode"],
+    "gloss": "entwine"
+  },
+  "𰺸": {
+    "_id": "5f523b00de54193ed87451b0",
+    "char": "𰺸",
+    "codepoint": "U+30EB8",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻈": {
+    "_id": "5f523b00de54193ed87451c0",
+    "char": "𰻈",
+    "codepoint": "U+30EC8",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰻡": {
+    "_id": "5f523b00de54193ed87451d9",
+    "char": "𰻡",
+    "codepoint": "U+30EE1",
+    "strokeCount": 7,
+    "tradVariants": ["鄦"],
+    "sources": ["unicode"]
+  },
+  "𰻩": {
+    "_id": "5f523b00de54193ed87451e1",
+    "char": "𰻩",
+    "codepoint": "U+30EE9",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸋": {
+    "_id": "5f523b00de54193ed8745103",
+    "char": "𰸋",
+    "codepoint": "U+30E0B",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸕": {
+    "_id": "5f523b00de54193ed874510d",
+    "char": "𰸕",
+    "codepoint": "U+30E15",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸖": {
+    "_id": "5f523b00de54193ed874510e",
+    "char": "𰸖",
+    "codepoint": "U+30E16",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸥": {
+    "_id": "5f523b00de54193ed874511d",
+    "char": "𰸥",
+    "codepoint": "U+30E25",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹎": {
+    "_id": "5f523b00de54193ed8745146",
+    "char": "𰹎",
+    "codepoint": "U+30E4E",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹚": {
+    "_id": "5f523b00de54193ed8745152",
+    "char": "𰹚",
+    "codepoint": "U+30E5A",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹲": {
+    "_id": "5f523b00de54193ed874516a",
+    "char": "𰹲",
+    "codepoint": "U+30E72",
+    "strokeCount": 7,
+    "tradVariants": ["軎"],
+    "sources": ["unicode"],
+    "gloss": "a brass parts for a cart in ancient China"
+  },
+  "𰺀": {
+    "_id": "5f523b00de54193ed8745178",
+    "char": "𰺀",
+    "codepoint": "U+30E80",
+    "strokeCount": 9,
+    "tradVariants": ["軧"],
+    "sources": ["unicode"]
+  },
+  "𰺦": {
+    "_id": "5f523b00de54193ed874519e",
+    "char": "𰺦",
+    "codepoint": "U+30EA6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰺲": {
+    "_id": "5f523b00de54193ed87451aa",
+    "char": "𰺲",
+    "codepoint": "U+30EB2",
+    "strokeCount": 7,
+    "tradVariants": ["逿"],
+    "sources": ["unicode"],
+    "gloss": "a time"
+  },
+  "𰺻": {
+    "_id": "5f523b00de54193ed87451b3",
+    "char": "𰺻",
+    "codepoint": "U+30EBB",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰻀": {
+    "_id": "5f523b00de54193ed87451b8",
+    "char": "𰻀",
+    "codepoint": "U+30EC0",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻃": {
+    "_id": "5f523b00de54193ed87451bb",
+    "char": "𰻃",
+    "codepoint": "U+30EC3",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻔": {
+    "_id": "5f523b00de54193ed87451cc",
+    "char": "𰻔",
+    "codepoint": "U+30ED4",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰻛": {
+    "_id": "5f523b00de54193ed87451d3",
+    "char": "𰻛",
+    "codepoint": "U+30EDB",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰻥": {
+    "_id": "5f523b00de54193ed87451dd",
+    "char": "𰻥",
+    "codepoint": "U+30EE5",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰻹": {
+    "_id": "5f523b00de54193ed87451f1",
+    "char": "𰻹",
+    "codepoint": "U+30EF9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻽": {
+    "_id": "5f523b00de54193ed87451f5",
+    "char": "𰻽",
+    "codepoint": "U+30EFD",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸉": {
+    "_id": "5f523b00de54193ed8745101",
+    "char": "𰸉",
+    "codepoint": "U+30E09",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸚": {
+    "_id": "5f523b00de54193ed8745112",
+    "char": "𰸚",
+    "codepoint": "U+30E1A",
+    "strokeCount": 16,
+    "tradVariants": ["蹛"],
+    "sources": ["unicode"]
+  },
+  "𰸫": {
+    "_id": "5f523b00de54193ed8745123",
+    "char": "𰸫",
+    "codepoint": "U+30E2B",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹴": {
+    "_id": "5f523b00de54193ed874516c",
+    "char": "𰹴",
+    "codepoint": "U+30E74",
+    "strokeCount": 7,
+    "tradVariants": ["軓"],
+    "sources": ["unicode"]
+  },
+  "𰺅": {
+    "_id": "5f523b00de54193ed874517d",
+    "char": "𰺅",
+    "codepoint": "U+30E85",
+    "strokeCount": 10,
+    "tradVariants": ["輂"],
+    "sources": ["unicode"]
+  },
+  "𰺙": {
+    "_id": "5f523b00de54193ed8745191",
+    "char": "𰺙",
+    "codepoint": "U+30E99",
+    "strokeCount": 15,
+    "tradVariants": ["轖"],
+    "sources": ["unicode"],
+    "gloss": "framework of lattice on cart"
+  },
+  "𰺳": {
+    "_id": "5f523b00de54193ed87451ab",
+    "char": "𰺳",
+    "codepoint": "U+30EB3",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰺵": {
+    "_id": "5f523b00de54193ed87451ad",
+    "char": "𰺵",
+    "codepoint": "U+30EB5",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰺶": {
+    "_id": "5f523b00de54193ed87451ae",
+    "char": "𰺶",
+    "codepoint": "U+30EB6",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𰻤": {
+    "_id": "5f523b00de54193ed87451dc",
+    "char": "𰻤",
+    "codepoint": "U+30EE4",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰻭": {
+    "_id": "5f523b00de54193ed87451e5",
+    "char": "𰻭",
+    "codepoint": "U+30EED",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰻸": {
+    "_id": "5f523b00de54193ed87451f0",
+    "char": "𰻸",
+    "codepoint": "U+30EF8",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸅": {
+    "_id": "5f523b00de54193ed87450fd",
+    "char": "𰸅",
+    "codepoint": "U+30E05",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰸆": {
+    "_id": "5f523b00de54193ed87450fe",
+    "char": "𰸆",
+    "codepoint": "U+30E06",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰸡": {
+    "_id": "5f523b00de54193ed8745119",
+    "char": "𰸡",
+    "codepoint": "U+30E21",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸸": {
+    "_id": "5f523b00de54193ed8745130",
+    "char": "𰸸",
+    "codepoint": "U+30E38",
+    "strokeCount": 25,
+    "sources": ["unicode"]
+  },
+  "𰹍": {
+    "_id": "5f523b00de54193ed8745145",
+    "char": "𰹍",
+    "codepoint": "U+30E4D",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹏": {
+    "_id": "5f523b00de54193ed8745147",
+    "char": "𰹏",
+    "codepoint": "U+30E4F",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹑": {
+    "_id": "5f523b00de54193ed8745149",
+    "char": "𰹑",
+    "codepoint": "U+30E51",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰺂": {
+    "_id": "5f523b00de54193ed874517a",
+    "char": "𰺂",
+    "codepoint": "U+30E82",
+    "strokeCount": 9,
+    "tradVariants": ["軳"],
+    "sources": ["unicode"]
+  },
+  "𰺊": {
+    "_id": "5f523b00de54193ed8745182",
+    "char": "𰺊",
+    "codepoint": "U+30E8A",
+    "strokeCount": 12,
+    "tradVariants": ["輘"],
+    "sources": ["unicode"],
+    "gloss": "a car-rut"
+  },
+  "𰺥": {
+    "_id": "5f523b00de54193ed874519d",
+    "char": "𰺥",
+    "codepoint": "U+30EA5",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰺰": {
+    "_id": "5f523b00de54193ed87451a8",
+    "char": "𰺰",
+    "codepoint": "U+30EB0",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰺾": {
+    "_id": "5f523b00de54193ed87451b6",
+    "char": "𰺾",
+    "codepoint": "U+30EBE",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰺿": {
+    "_id": "5f523b00de54193ed87451b7",
+    "char": "𰺿",
+    "codepoint": "U+30EBF",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻋": {
+    "_id": "5f523b00de54193ed87451c3",
+    "char": "𰻋",
+    "codepoint": "U+30ECB",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻕": {
+    "_id": "5f523b00de54193ed87451cd",
+    "char": "𰻕",
+    "codepoint": "U+30ED5",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻙": {
+    "_id": "5f523b00de54193ed87451d1",
+    "char": "𰻙",
+    "codepoint": "U+30ED9",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻜": {
+    "_id": "5f523b00de54193ed87451d4",
+    "char": "𰻜",
+    "codepoint": "U+30EDC",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰻮": {
+    "_id": "5f523b00de54193ed87451e6",
+    "char": "𰻮",
+    "codepoint": "U+30EEE",
+    "strokeCount": 11,
+    "tradVariants": ["鄡"],
+    "sources": ["unicode"]
+  },
+  "𰸑": {
+    "_id": "5f523b00de54193ed8745109",
+    "char": "𰸑",
+    "codepoint": "U+30E11",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰸭": {
+    "_id": "5f523b00de54193ed8745125",
+    "char": "𰸭",
+    "codepoint": "U+30E2D",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰸺": {
+    "_id": "5f523b00de54193ed8745132",
+    "char": "𰸺",
+    "codepoint": "U+30E3A",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰸾": {
+    "_id": "5f523b00de54193ed8745136",
+    "char": "𰸾",
+    "codepoint": "U+30E3E",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹳": {
+    "_id": "5f523b00de54193ed874516b",
+    "char": "𰹳",
+    "codepoint": "U+30E73",
+    "strokeCount": 7,
+    "tradVariants": ["䡅"],
+    "sources": ["unicode"],
+    "gloss": "something used to bind the frame work in a cart (compartment) of old times"
+  },
+  "𰹿": {
+    "_id": "5f523b00de54193ed8745177",
+    "char": "𰹿",
+    "codepoint": "U+30E7F",
+    "strokeCount": 9,
+    "tradVariants": ["軵"],
+    "sources": ["unicode"]
+  },
+  "𰺖": {
+    "_id": "5f523b00de54193ed874518e",
+    "char": "𰺖",
+    "codepoint": "U+30E96",
+    "strokeCount": 14,
+    "tradVariants": ["轃"],
+    "sources": ["unicode"]
+  },
+  "𰺟": {
+    "_id": "5f523b00de54193ed8745197",
+    "char": "𰺟",
+    "codepoint": "U+30E9F",
+    "strokeCount": 17,
+    "tradVariants": ["轚"],
+    "sources": ["unicode"]
+  },
+  "𰺤": {
+    "_id": "5f523b00de54193ed874519c",
+    "char": "𰺤",
+    "codepoint": "U+30EA4",
+    "strokeCount": 19,
+    "tradVariants": ["䡻"],
+    "sources": ["unicode"],
+    "gloss": "(same as U+4851 䡑) shake of a cart"
+  },
+  "𰺪": {
+    "_id": "5f523b00de54193ed87451a2",
+    "char": "𰺪",
+    "codepoint": "U+30EAA",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𰺴": {
+    "_id": "5f523b00de54193ed87451ac",
+    "char": "𰺴",
+    "codepoint": "U+30EB4",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𰻆": {
+    "_id": "5f523b00de54193ed87451be",
+    "char": "𰻆",
+    "codepoint": "U+30EC6",
+    "strokeCount": 13,
+    "tradVariants": ["遰"],
+    "sources": ["unicode"],
+    "gloss": "grunting sound of pigs"
+  },
+  "𰻞": {
+    "_id": "5f523b00de54193ed87451d6",
+    "char": "𰻞",
+    "codepoint": "U+30EDE",
+    "strokeCount": 58,
+    "simpVariants": ["𰻝"],
+    "sources": ["unicode"],
+    "gloss": "biangbiang noodles"
+  },
+  "𰻦": {
+    "_id": "5f523b00de54193ed87451de",
+    "char": "𰻦",
+    "codepoint": "U+30EE6",
+    "strokeCount": 7,
+    "tradVariants": ["鄬"],
+    "sources": ["unicode"],
+    "gloss": "place in Henan province"
+  },
+  "𰻱": {
+    "_id": "5f523b00de54193ed87451e9",
+    "char": "𰻱",
+    "codepoint": "U+30EF1",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰻺": {
+    "_id": "5f523b00de54193ed87451f2",
+    "char": "𰻺",
+    "codepoint": "U+30EFA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰸣": {
+    "_id": "5f523b00de54193ed874511b",
+    "char": "𰸣",
+    "codepoint": "U+30E23",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸷": {
+    "_id": "5f523b00de54193ed874512f",
+    "char": "𰸷",
+    "codepoint": "U+30E37",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰹒": {
+    "_id": "5f523b00de54193ed874514a",
+    "char": "𰹒",
+    "codepoint": "U+30E52",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰹔": {
+    "_id": "5f523b00de54193ed874514c",
+    "char": "𰹔",
+    "codepoint": "U+30E54",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹮": {
+    "_id": "5f523b00de54193ed8745166",
+    "char": "𰹮",
+    "codepoint": "U+30E6E",
+    "strokeCount": 31,
+    "sources": ["unicode"]
+  },
+  "𰺚": {
+    "_id": "5f523b00de54193ed8745192",
+    "char": "𰺚",
+    "codepoint": "U+30E9A",
+    "strokeCount": 16,
+    "tradVariants": ["𨎪"],
+    "sources": ["unicode"]
+  },
+  "𰺝": {
+    "_id": "5f523b00de54193ed8745195",
+    "char": "𰺝",
+    "codepoint": "U+30E9D",
+    "strokeCount": 16,
+    "tradVariants": ["䡴"],
+    "sources": ["unicode"],
+    "gloss": "carriage used in ancient times to take enemy position"
+  },
+  "𰺩": {
+    "_id": "5f523b00de54193ed87451a1",
+    "char": "𰺩",
+    "codepoint": "U+30EA9",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰺫": {
+    "_id": "5f523b00de54193ed87451a3",
+    "char": "𰺫",
+    "codepoint": "U+30EAB",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰺽": {
+    "_id": "5f523b00de54193ed87451b5",
+    "char": "𰺽",
+    "codepoint": "U+30EBD",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰻘": {
+    "_id": "5f523b00de54193ed87451d0",
+    "char": "𰻘",
+    "codepoint": "U+30ED8",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰸄": {
+    "_id": "5f523b00de54193ed87450fc",
+    "char": "𰸄",
+    "codepoint": "U+30E04",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰸌": {
+    "_id": "5f523b00de54193ed8745104",
+    "char": "𰸌",
+    "codepoint": "U+30E0C",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸔": {
+    "_id": "5f523b00de54193ed874510c",
+    "char": "𰸔",
+    "codepoint": "U+30E14",
+    "strokeCount": 15,
+    "tradVariants": ["蹥"],
+    "sources": ["unicode"]
+  },
+  "𰸘": {
+    "_id": "5f523b00de54193ed8745110",
+    "char": "𰸘",
+    "codepoint": "U+30E18",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸠": {
+    "_id": "5f523b00de54193ed8745118",
+    "char": "𰸠",
+    "codepoint": "U+30E20",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸨": {
+    "_id": "5f523b00de54193ed8745120",
+    "char": "𰸨",
+    "codepoint": "U+30E28",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰸼": {
+    "_id": "5f523b00de54193ed8745134",
+    "char": "𰸼",
+    "codepoint": "U+30E3C",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰹇": {
+    "_id": "5f523b00de54193ed874513f",
+    "char": "𰹇",
+    "codepoint": "U+30E47",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹓": {
+    "_id": "5f523b00de54193ed874514b",
+    "char": "𰹓",
+    "codepoint": "U+30E53",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹰": {
+    "_id": "5f523b00de54193ed8745168",
+    "char": "𰹰",
+    "codepoint": "U+30E70",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𰹱": {
+    "_id": "5f523b00de54193ed8745169",
+    "char": "𰹱",
+    "codepoint": "U+30E71",
+    "strokeCount": 6,
+    "tradVariants": ["𨊠"],
+    "sources": ["unicode"]
+  },
+  "𰺃": {
+    "_id": "5f523b00de54193ed874517b",
+    "char": "𰺃",
+    "codepoint": "U+30E83",
+    "strokeCount": 9,
+    "tradVariants": ["轛"],
+    "sources": ["unicode"]
+  },
+  "𰺋": {
+    "_id": "5f523b00de54193ed8745183",
+    "char": "𰺋",
+    "codepoint": "U+30E8B",
+    "strokeCount": 12,
+    "tradVariants": ["輙"],
+    "sources": ["unicode"],
+    "gloss": "sides of chariot were weapons"
+  },
+  "𰺘": {
+    "_id": "5f523b00de54193ed8745190",
+    "char": "𰺘",
+    "codepoint": "U+30E98",
+    "strokeCount": 15,
+    "tradVariants": ["䡰"],
+    "sources": ["unicode"],
+    "gloss": "strong and durable (same as 轂) hub (of a wheel)"
+  },
+  "𰺡": {
+    "_id": "5f523b00de54193ed8745199",
+    "char": "𰺡",
+    "codepoint": "U+30EA1",
+    "strokeCount": 18,
+    "tradVariants": ["䡷"],
+    "sources": ["unicode"],
+    "gloss": "(same as 轄) noise of vehicles"
+  },
+  "𰺯": {
+    "_id": "5f523b00de54193ed87451a7",
+    "char": "𰺯",
+    "codepoint": "U+30EAF",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰺱": {
+    "_id": "5f523b00de54193ed87451a9",
+    "char": "𰺱",
+    "codepoint": "U+30EB1",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𰻁": {
+    "_id": "5f523b00de54193ed87451b9",
+    "char": "𰻁",
+    "codepoint": "U+30EC1",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻯": {
+    "_id": "5f523b00de54193ed87451e7",
+    "char": "𰻯",
+    "codepoint": "U+30EEF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰸀": {
+    "_id": "5f523b00de54193ed87450f8",
+    "char": "𰸀",
+    "codepoint": "U+30E00",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰸶": {
+    "_id": "5f523b00de54193ed874512e",
+    "char": "𰸶",
+    "codepoint": "U+30E36",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰸿": {
+    "_id": "5f523b00de54193ed8745137",
+    "char": "𰸿",
+    "codepoint": "U+30E3F",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹆": {
+    "_id": "5f523b00de54193ed874513e",
+    "char": "𰹆",
+    "codepoint": "U+30E46",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰹌": {
+    "_id": "5f523b00de54193ed8745144",
+    "char": "𰹌",
+    "codepoint": "U+30E4C",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰹗": {
+    "_id": "5f523b00de54193ed874514f",
+    "char": "𰹗",
+    "codepoint": "U+30E57",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹜": {
+    "_id": "5f523b00de54193ed8745154",
+    "char": "𰹜",
+    "codepoint": "U+30E5C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹬": {
+    "_id": "5f523b00de54193ed8745164",
+    "char": "𰹬",
+    "codepoint": "U+30E6C",
+    "strokeCount": 25,
+    "sources": ["unicode"]
+  },
+  "𰺍": {
+    "_id": "5f523b00de54193ed8745185",
+    "char": "𰺍",
+    "codepoint": "U+30E8D",
+    "strokeCount": 12,
+    "tradVariants": ["輠"],
+    "sources": ["unicode"],
+    "gloss": "grease pot hung under axle of cart"
+  },
+  "𰺨": {
+    "_id": "5f523b00de54193ed87451a0",
+    "char": "𰺨",
+    "codepoint": "U+30EA8",
+    "strokeCount": 15,
+    "tradVariants": ["𨐶"],
+    "sources": ["unicode"]
+  },
+  "𰻂": {
+    "_id": "5f523b00de54193ed87451ba",
+    "char": "𰻂",
+    "codepoint": "U+30EC2",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻖": {
+    "_id": "5f523b00de54193ed87451ce",
+    "char": "𰻖",
+    "codepoint": "U+30ED6",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻣": {
+    "_id": "5f523b00de54193ed87451db",
+    "char": "𰻣",
+    "codepoint": "U+30EE3",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰻪": {
+    "_id": "5f523b00de54193ed87451e2",
+    "char": "𰻪",
+    "codepoint": "U+30EEA",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻻": {
+    "_id": "5f523b00de54193ed87451f3",
+    "char": "𰻻",
+    "codepoint": "U+30EFB",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻿": {
+    "_id": "5f523b00de54193ed87451f7",
+    "char": "𰻿",
+    "codepoint": "U+30EFF",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰸞": {
+    "_id": "5f523b00de54193ed8745116",
+    "char": "𰸞",
+    "codepoint": "U+30E1E",
+    "strokeCount": 16,
+    "tradVariants": ["蹪"],
+    "sources": ["unicode"]
+  },
+  "𰹙": {
+    "_id": "5f523b00de54193ed8745151",
+    "char": "𰹙",
+    "codepoint": "U+30E59",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹠": {
+    "_id": "5f523b00de54193ed8745158",
+    "char": "𰹠",
+    "codepoint": "U+30E60",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰹥": {
+    "_id": "5f523b00de54193ed874515d",
+    "char": "𰹥",
+    "codepoint": "U+30E65",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹶": {
+    "_id": "5f523b00de54193ed874516e",
+    "char": "𰹶",
+    "codepoint": "U+30E76",
+    "strokeCount": 8,
+    "tradVariants": ["軖"],
+    "sources": ["unicode"]
+  },
+  "𰹽": {
+    "_id": "5f523b00de54193ed8745175",
+    "char": "𰹽",
+    "codepoint": "U+30E7D",
+    "strokeCount": 9,
+    "tradVariants": ["軯"],
+    "sources": ["unicode"]
+  },
+  "𰺠": {
+    "_id": "5f523b00de54193ed8745198",
+    "char": "𰺠",
+    "codepoint": "U+30EA0",
+    "strokeCount": 17,
+    "tradVariants": ["䡾"],
+    "sources": ["unicode"],
+    "gloss": "high cartloads"
+  },
+  "𰻍": {
+    "_id": "5f523b00de54193ed87451c5",
+    "char": "𰻍",
+    "codepoint": "U+30ECD",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻒": {
+    "_id": "5f523b00de54193ed87451ca",
+    "char": "𰻒",
+    "codepoint": "U+30ED2",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰻓": {
+    "_id": "5f523b00de54193ed87451cb",
+    "char": "𰻓",
+    "codepoint": "U+30ED3",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰻠": {
+    "_id": "5f523b00de54193ed87451d8",
+    "char": "𰻠",
+    "codepoint": "U+30EE0",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𰻾": {
+    "_id": "5f523b00de54193ed87451f6",
+    "char": "𰻾",
+    "codepoint": "U+30EFE",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰸂": {
+    "_id": "5f523b00de54193ed87450fa",
+    "char": "𰸂",
+    "codepoint": "U+30E02",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰸏": {
+    "_id": "5f523b00de54193ed8745107",
+    "char": "𰸏",
+    "codepoint": "U+30E0F",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸮": {
+    "_id": "5f523b00de54193ed8745126",
+    "char": "𰸮",
+    "codepoint": "U+30E2E",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰸯": {
+    "_id": "5f523b00de54193ed8745127",
+    "char": "𰸯",
+    "codepoint": "U+30E2F",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰸵": {
+    "_id": "5f523b00de54193ed874512d",
+    "char": "𰸵",
+    "codepoint": "U+30E35",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𰹅": {
+    "_id": "5f523b00de54193ed874513d",
+    "char": "𰹅",
+    "codepoint": "U+30E45",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹖": {
+    "_id": "5f523b00de54193ed874514e",
+    "char": "𰹖",
+    "codepoint": "U+30E56",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹞": {
+    "_id": "5f523b00de54193ed8745156",
+    "char": "𰹞",
+    "codepoint": "U+30E5E",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰺛": {
+    "_id": "5f523b00de54193ed8745193",
+    "char": "𰺛",
+    "codepoint": "U+30E9B",
+    "strokeCount": 16,
+    "tradVariants": ["轑"],
+    "sources": ["unicode"],
+    "gloss": "rut"
+  },
+  "𰻐": {
+    "_id": "5f523b00de54193ed87451c8",
+    "char": "𰻐",
+    "codepoint": "U+30ED0",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰻵": {
+    "_id": "5f523b00de54193ed87451ed",
+    "char": "𰻵",
+    "codepoint": "U+30EF5",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸊": {
+    "_id": "5f523b00de54193ed8745102",
+    "char": "𰸊",
+    "codepoint": "U+30E0A",
+    "strokeCount": 13,
+    "tradVariants": ["䠩"],
+    "sources": ["unicode"],
+    "gloss": "to urinate"
+  },
+  "𰸐": {
+    "_id": "5f523b00de54193ed8745108",
+    "char": "𰸐",
+    "codepoint": "U+30E10",
+    "strokeCount": 14,
+    "tradVariants": ["躧"],
+    "sources": ["unicode"],
+    "gloss": "sandal"
+  },
+  "𰹃": {
+    "_id": "5f523b00de54193ed874513b",
+    "char": "𰹃",
+    "codepoint": "U+30E43",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹊": {
+    "_id": "5f523b00de54193ed8745142",
+    "char": "𰹊",
+    "codepoint": "U+30E4A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰹣": {
+    "_id": "5f523b00de54193ed874515b",
+    "char": "𰹣",
+    "codepoint": "U+30E63",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𰹨": {
+    "_id": "5f523b00de54193ed8745160",
+    "char": "𰹨",
+    "codepoint": "U+30E68",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰹩": {
+    "_id": "5f523b00de54193ed8745161",
+    "char": "𰹩",
+    "codepoint": "U+30E69",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𰹪": {
+    "_id": "5f523b00de54193ed8745162",
+    "char": "𰹪",
+    "codepoint": "U+30E6A",
+    "strokeCount": 22,
+    "sources": ["unicode"]
+  },
+  "𰹯": {
+    "_id": "5f523b00de54193ed8745167",
+    "char": "𰹯",
+    "codepoint": "U+30E6F",
+    "strokeCount": 5,
+    "tradVariants": ["𰹈"],
+    "sources": ["unicode"]
+  },
+  "𰺈": {
+    "_id": "5f523b00de54193ed8745180",
+    "char": "𰺈",
+    "codepoint": "U+30E88",
+    "strokeCount": 11,
+    "tradVariants": ["輑"],
+    "sources": ["unicode"]
+  },
+  "𰺉": {
+    "_id": "5f523b00de54193ed8745181",
+    "char": "𰺉",
+    "codepoint": "U+30E89",
+    "strokeCount": 12,
+    "tradVariants": ["輤"],
+    "sources": ["unicode"],
+    "gloss": "a pall to cover the hearse"
+  },
+  "𰺔": {
+    "_id": "5f523b00de54193ed874518c",
+    "char": "𰺔",
+    "codepoint": "U+30E94",
+    "strokeCount": 13,
+    "tradVariants": ["𨍈"],
+    "sources": ["unicode"]
+  },
+  "𰺞": {
+    "_id": "5f523b00de54193ed8745196",
+    "char": "𰺞",
+    "codepoint": "U+30E9E",
+    "strokeCount": 16,
+    "tradVariants": ["轏"],
+    "sources": ["unicode"],
+    "gloss": "sleeping cart"
+  },
+  "𰺹": {
+    "_id": "5f523b00de54193ed87451b1",
+    "char": "𰺹",
+    "codepoint": "U+30EB9",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻑": {
+    "_id": "5f523b00de54193ed87451c9",
+    "char": "𰻑",
+    "codepoint": "U+30ED1",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰻶": {
+    "_id": "5f523b00de54193ed87451ee",
+    "char": "𰻶",
+    "codepoint": "U+30EF6",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰻷": {
+    "_id": "5f523b00de54193ed87451ef",
+    "char": "𰻷",
+    "codepoint": "U+30EF7",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻼": {
+    "_id": "5f523b00de54193ed87451f4",
+    "char": "𰻼",
+    "codepoint": "U+30EFC",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰸃": {
+    "_id": "5f523b00de54193ed87450fb",
+    "char": "𰸃",
+    "codepoint": "U+30E03",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰸇": {
+    "_id": "5f523b00de54193ed87450ff",
+    "char": "𰸇",
+    "codepoint": "U+30E07",
+    "strokeCount": 11,
+    "tradVariants": ["𨇯"],
+    "sources": ["unicode"]
+  },
+  "𰸒": {
+    "_id": "5f523b00de54193ed874510a",
+    "char": "𰸒",
+    "codepoint": "U+30E12",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰸢": {
+    "_id": "5f523b00de54193ed874511a",
+    "char": "𰸢",
+    "codepoint": "U+30E22",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸰": {
+    "_id": "5f523b00de54193ed8745128",
+    "char": "𰸰",
+    "codepoint": "U+30E30",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰸱": {
+    "_id": "5f523b00de54193ed8745129",
+    "char": "𰸱",
+    "codepoint": "U+30E31",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "𰸴": {
+    "_id": "5f523b00de54193ed874512c",
+    "char": "𰸴",
+    "codepoint": "U+30E34",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𰹕": {
+    "_id": "5f523b00de54193ed874514d",
+    "char": "𰹕",
+    "codepoint": "U+30E55",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "𰹤": {
+    "_id": "5f523b00de54193ed874515c",
+    "char": "𰹤",
+    "codepoint": "U+30E64",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹧": {
+    "_id": "5f523b00de54193ed874515f",
+    "char": "𰹧",
+    "codepoint": "U+30E67",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹼": {
+    "_id": "5f523b00de54193ed8745174",
+    "char": "𰹼",
+    "codepoint": "U+30E7C",
+    "strokeCount": 9,
+    "tradVariants": ["輚"],
+    "sources": ["unicode"]
+  },
+  "𰺇": {
+    "_id": "5f523b00de54193ed874517f",
+    "char": "𰺇",
+    "codepoint": "U+30E87",
+    "strokeCount": 11,
+    "tradVariants": ["輐"],
+    "sources": ["unicode"]
+  },
+  "𰺮": {
+    "_id": "5f523b00de54193ed87451a6",
+    "char": "𰺮",
+    "codepoint": "U+30EAE",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𰺺": {
+    "_id": "5f523b00de54193ed87451b2",
+    "char": "𰺺",
+    "codepoint": "U+30EBA",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻅": {
+    "_id": "5f523b00de54193ed87451bd",
+    "char": "𰻅",
+    "codepoint": "U+30EC5",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻊": {
+    "_id": "5f523b00de54193ed87451c2",
+    "char": "𰻊",
+    "codepoint": "U+30ECA",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰻗": {
+    "_id": "5f523b00de54193ed87451cf",
+    "char": "𰻗",
+    "codepoint": "U+30ED7",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻚": {
+    "_id": "5f523b00de54193ed87451d2",
+    "char": "𰻚",
+    "codepoint": "U+30EDA",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰻧": {
+    "_id": "5f523b00de54193ed87451df",
+    "char": "𰻧",
+    "codepoint": "U+30EE7",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰸈": {
+    "_id": "5f523b00de54193ed8745100",
+    "char": "𰸈",
+    "codepoint": "U+30E08",
+    "strokeCount": 13,
+    "tradVariants": ["䠟"],
+    "sources": ["unicode"],
+    "gloss": "to trip up"
+  },
+  "𰸍": {
+    "_id": "5f523b00de54193ed8745105",
+    "char": "𰸍",
+    "codepoint": "U+30E0D",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰸓": {
+    "_id": "5f523b00de54193ed874510b",
+    "char": "𰸓",
+    "codepoint": "U+30E13",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰸜": {
+    "_id": "5f523b00de54193ed8745114",
+    "char": "𰸜",
+    "codepoint": "U+30E1C",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰸩": {
+    "_id": "5f523b00de54193ed8745121",
+    "char": "𰸩",
+    "codepoint": "U+30E29",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰸪": {
+    "_id": "5f523b00de54193ed8745122",
+    "char": "𰸪",
+    "codepoint": "U+30E2A",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "𰸬": {
+    "_id": "5f523b00de54193ed8745124",
+    "char": "𰸬",
+    "codepoint": "U+30E2C",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰸹": {
+    "_id": "5f523b00de54193ed8745131",
+    "char": "𰸹",
+    "codepoint": "U+30E39",
+    "strokeCount": 27,
+    "sources": ["unicode"]
+  },
+  "𰹀": {
+    "_id": "5f523b00de54193ed8745138",
+    "char": "𰹀",
+    "codepoint": "U+30E40",
+    "strokeCount": 15,
+    "tradVariants": ["軃"],
+    "sources": ["unicode"]
+  },
+  "𰹁": {
+    "_id": "5f523b00de54193ed8745139",
+    "char": "𰹁",
+    "codepoint": "U+30E41",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹛": {
+    "_id": "5f523b00de54193ed8745153",
+    "char": "𰹛",
+    "codepoint": "U+30E5B",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹸": {
+    "_id": "5f523b00de54193ed8745170",
+    "char": "𰹸",
+    "codepoint": "U+30E78",
+    "strokeCount": 8,
+    "tradVariants": ["軘"],
+    "sources": ["unicode"],
+    "gloss": "war car"
+  },
+  "𰺄": {
+    "_id": "5f523b00de54193ed874517c",
+    "char": "𰺄",
+    "codepoint": "U+30E84",
+    "strokeCount": 10,
+    "tradVariants": ["輁"],
+    "sources": ["unicode"]
+  },
+  "𰺑": {
+    "_id": "5f523b00de54193ed8745189",
+    "char": "𰺑",
+    "codepoint": "U+30E91",
+    "strokeCount": 12,
+    "tradVariants": ["䡝"],
+    "sources": ["unicode"],
+    "gloss": "a rear covering of a big carriage"
+  },
+  "𰺓": {
+    "_id": "5f523b00de54193ed874518b",
+    "char": "𰺓",
+    "codepoint": "U+30E93",
+    "strokeCount": 13,
+    "tradVariants": ["輹"],
+    "sources": ["unicode"],
+    "gloss": "two pieces of wood underneath a cart"
+  },
+  "𰺗": {
+    "_id": "5f523b00de54193ed874518f",
+    "char": "𰺗",
+    "codepoint": "U+30E97",
+    "strokeCount": 14,
+    "tradVariants": ["轞"],
+    "sources": ["unicode"],
+    "gloss": "a vehicle for transporting prisoners"
+  },
+  "𰺬": {
+    "_id": "5f523b00de54193ed87451a4",
+    "char": "𰺬",
+    "codepoint": "U+30EAC",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "𰻄": {
+    "_id": "5f523b00de54193ed87451bc",
+    "char": "𰻄",
+    "codepoint": "U+30EC4",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻇": {
+    "_id": "5f523b00de54193ed87451bf",
+    "char": "𰻇",
+    "codepoint": "U+30EC7",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  },
+  "𰻉": {
+    "_id": "5f523b00de54193ed87451c1",
+    "char": "𰻉",
+    "codepoint": "U+30EC9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "𰸎": {
+    "_id": "5f523b00de54193ed8745106",
+    "char": "𰸎",
+    "codepoint": "U+30E0E",
+    "strokeCount": 13,
+    "tradVariants": ["𨄉"],
+    "sources": ["unicode"]
+  },
+  "𰹄": {
+    "_id": "5f523b00de54193ed874513c",
+    "char": "𰹄",
+    "codepoint": "U+30E44",
+    "strokeCount": 16,
+    "sources": ["unicode"]
+  },
+  "𰹢": {
+    "_id": "5f523b00de54193ed874515a",
+    "char": "𰹢",
+    "codepoint": "U+30E62",
+    "strokeCount": 17,
+    "sources": ["unicode"]
+  },
+  "𰹦": {
+    "_id": "5f523b00de54193ed874515e",
+    "char": "𰹦",
+    "codepoint": "U+30E66",
+    "strokeCount": 19,
+    "sources": ["unicode"]
+  },
+  "𰹭": {
+    "_id": "5f523b00de54193ed8745165",
+    "char": "𰹭",
+    "codepoint": "U+30E6D",
+    "strokeCount": 26,
+    "sources": ["unicode"]
+  },
+  "𰹷": {
+    "_id": "5f523b00de54193ed874516f",
+    "char": "𰹷",
+    "codepoint": "U+30E77",
+    "strokeCount": 8,
+    "tradVariants": ["䡇"],
+    "sources": ["unicode"],
+    "gloss": "(same as 軏) the cross-bar at the end of the pole of a carriage"
+  },
+  "𰹺": {
+    "_id": "5f523b00de54193ed8745172",
+    "char": "𰹺",
+    "codepoint": "U+30E7A",
+    "strokeCount": 8,
+    "tradVariants": ["䡊"],
+    "sources": ["unicode"],
+    "gloss": "the protruded sides of a carriage (used in ancient times to screen off muddy dust)"
+  },
+  "𰺜": {
+    "_id": "5f523b00de54193ed8745194",
+    "char": "𰺜",
+    "codepoint": "U+30E9C",
+    "strokeCount": 16,
+    "tradVariants": ["轓"],
+    "sources": ["unicode"]
+  },
+  "𰻝": {
+    "_id": "5f523b00de54193ed87451d5",
+    "char": "𰻝",
+    "codepoint": "U+30EDD",
+    "strokeCount": 43,
+    "tradVariants": ["𰻞"],
+    "sources": ["unicode"],
+    "gloss": "biangbiang noodles"
+  },
+  "𰻫": {
+    "_id": "5f523b00de54193ed87451e3",
+    "char": "𰻫",
+    "codepoint": "U+30EEB",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻬": {
+    "_id": "5f523b00de54193ed87451e4",
+    "char": "𰻬",
+    "codepoint": "U+30EEC",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𰻰": {
+    "_id": "5f523b00de54193ed87451e8",
+    "char": "𰻰",
+    "codepoint": "U+30EF0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𰻲": {
+    "_id": "5f523b00de54193ed87451ea",
+    "char": "𰻲",
+    "codepoint": "U+30EF2",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𰻴": {
+    "_id": "5f523b00de54193ed87451ec",
+    "char": "𰻴",
+    "codepoint": "U+30EF4",
+    "strokeCount": 13,
+    "sources": ["unicode"]
+  }
+}

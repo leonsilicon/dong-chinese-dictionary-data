@@ -1,0 +1,2050 @@
+{
+  "寧": {
+    "_id": "5f523b00de54193ed87353bd",
+    "char": "寧",
+    "codepoint": "U+F95F",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "repose"
+  },
+  "陵": {
+    "_id": "5f523b00de54193ed87353b7",
+    "char": "陵",
+    "codepoint": "U+F959",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "hill"
+  },
+  "樂": {
+    "_id": "5f523b00de54193ed87353ba",
+    "char": "樂",
+    "codepoint": "U+F95C",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "happy"
+  },
+  "凉": {
+    "_id": "5f523b00de54193ed87353d7",
+    "char": "凉",
+    "codepoint": "U+F979",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "cool"
+  },
+  "略": {
+    "_id": "5f523b00de54193ed87353d4",
+    "char": "略",
+    "codepoint": "U+F976",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "approximately"
+  },
+  "濾": {
+    "_id": "5f523b00de54193ed87353e2",
+    "char": "濾",
+    "codepoint": "U+F984",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "strain out"
+  },
+  "麗": {
+    "_id": "5f523b00de54193ed87353e6",
+    "char": "麗",
+    "codepoint": "U+F988",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "beautiful"
+  },
+  "丹": {
+    "_id": "5f523b00de54193ed87353bc",
+    "char": "丹",
+    "codepoint": "U+F95E",
+    "strokeCount": 4,
+    "sources": ["unicode"],
+    "gloss": "cinnabar (native HgS)"
+  },
+  "怒": {
+    "_id": "5f523b00de54193ed87353be",
+    "char": "怒",
+    "codepoint": "U+F960",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "anger"
+  },
+  "磻": {
+    "_id": "5f523b00de54193ed87353c2",
+    "char": "磻",
+    "codepoint": "U+F964",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a tributary of the Wei river in Shanxi"
+  },
+  "亮": {
+    "_id": "5f523b00de54193ed87353d5",
+    "char": "亮",
+    "codepoint": "U+F977",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "bright"
+  },
+  "秊": {
+    "_id": "5f523b00de54193ed87353f3",
+    "char": "秊",
+    "codepoint": "U+F995",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "year"
+  },
+  "聯": {
+    "_id": "5f523b00de54193ed87353f5",
+    "char": "聯",
+    "codepoint": "U+F997",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "connect"
+  },
+  "歷": {
+    "_id": "5f523b00de54193ed87353ea",
+    "char": "歷",
+    "codepoint": "U+F98C",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "take place"
+  },
+  "北": {
+    "_id": "5f523b00de54193ed87353c1",
+    "char": "北",
+    "codepoint": "U+F963",
+    "strokeCount": 5,
+    "sources": ["unicode"],
+    "gloss": "north"
+  },
+  "拏": {
+    "_id": "5f523b00de54193ed87353b9",
+    "char": "拏",
+    "codepoint": "U+F95B",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "take"
+  },
+  "梁": {
+    "_id": "5f523b00de54193ed87353d8",
+    "char": "梁",
+    "codepoint": "U+F97A",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "bridge"
+  },
+  "糧": {
+    "_id": "5f523b00de54193ed87353d9",
+    "char": "糧",
+    "codepoint": "U+F97B",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "food"
+  },
+  "諒": {
+    "_id": "5f523b00de54193ed87353db",
+    "char": "諒",
+    "codepoint": "U+F97D",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "excuse"
+  },
+  "轢": {
+    "_id": "5f523b00de54193ed87353eb",
+    "char": "轢",
+    "codepoint": "U+F98D",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "run over something with a vehicle"
+  },
+  "率": {
+    "_id": "5f523b00de54193ed87353bf",
+    "char": "率",
+    "codepoint": "U+F961",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to lead"
+  },
+  "菱": {
+    "_id": "5f523b00de54193ed87353b6",
+    "char": "菱",
+    "codepoint": "U+F958",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "water-chestnut"
+  },
+  "葉": {
+    "_id": "5f523b00de54193ed87353cc",
+    "char": "葉",
+    "codepoint": "U+F96E",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "leaf"
+  },
+  "拾": {
+    "_id": "5f523b00de54193ed87353d1",
+    "char": "拾",
+    "codepoint": "U+F973",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "pick up"
+  },
+  "女": {
+    "_id": "5f523b00de54193ed87353df",
+    "char": "女",
+    "codepoint": "U+F981",
+    "strokeCount": 3,
+    "sources": ["unicode"],
+    "gloss": "woman"
+  },
+  "驪": {
+    "_id": "5f523b00de54193ed87353e5",
+    "char": "驪",
+    "codepoint": "U+F987",
+    "strokeCount": 29,
+    "sources": ["unicode"],
+    "gloss": "a pure black horse"
+  },
+  "黎": {
+    "_id": "5f523b00de54193ed87353e7",
+    "char": "黎",
+    "codepoint": "U+F989",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "surname"
+  },
+  "年": {
+    "_id": "5f523b00de54193ed87353ec",
+    "char": "年",
+    "codepoint": "U+F98E",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "year"
+  },
+  "撚": {
+    "_id": "5f523b00de54193ed87353ef",
+    "char": "撚",
+    "codepoint": "U+F991",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "twirl in fingers"
+  },
+  "璉": {
+    "_id": "5f523b00de54193ed87353f2",
+    "char": "璉",
+    "codepoint": "U+F994",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "vessel used to hold grain offerings"
+  },
+  "讀": {
+    "_id": "5f523b00de54193ed87353b8",
+    "char": "讀",
+    "codepoint": "U+F95A",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "read"
+  },
+  "數": {
+    "_id": "5f523b00de54193ed87353c7",
+    "char": "數",
+    "codepoint": "U+F969",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "number"
+  },
+  "掠": {
+    "_id": "5f523b00de54193ed87353d3",
+    "char": "掠",
+    "codepoint": "U+F975",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "rob"
+  },
+  "礪": {
+    "_id": "5f523b00de54193ed87353e3",
+    "char": "礪",
+    "codepoint": "U+F985",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "whetstone"
+  },
+  "力": {
+    "_id": "5f523b00de54193ed87353e8",
+    "char": "力",
+    "codepoint": "U+F98A",
+    "strokeCount": 2,
+    "sources": ["unicode"],
+    "gloss": "power"
+  },
+  "曆": {
+    "_id": "5f523b00de54193ed87353e9",
+    "char": "曆",
+    "codepoint": "U+F98B",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "calendar"
+  },
+  "塞": {
+    "_id": "5f523b00de54193ed87353ca",
+    "char": "塞",
+    "codepoint": "U+F96C",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "stop up"
+  },
+  "諾": {
+    "_id": "5f523b00de54193ed87353bb",
+    "char": "諾",
+    "codepoint": "U+F95D",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "promise"
+  },
+  "泌": {
+    "_id": "5f523b00de54193ed87353c6",
+    "char": "泌",
+    "codepoint": "U+F968",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "to seep out"
+  },
+  "便": {
+    "_id": "5f523b00de54193ed87353c3",
+    "char": "便",
+    "codepoint": "U+F965",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "convenience"
+  },
+  "辰": {
+    "_id": "5f523b00de54193ed87353cf",
+    "char": "辰",
+    "codepoint": "U+F971",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "early morning"
+  },
+  "若": {
+    "_id": "5f523b00de54193ed87353d2",
+    "char": "若",
+    "codepoint": "U+F974",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "if"
+  },
+  "索": {
+    "_id": "5f523b00de54193ed87353c8",
+    "char": "索",
+    "codepoint": "U+F96A",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "large rope"
+  },
+  "省": {
+    "_id": "5f523b00de54193ed87353cb",
+    "char": "省",
+    "codepoint": "U+F96D",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "province"
+  },
+  "沈": {
+    "_id": "5f523b00de54193ed87353d0",
+    "char": "沈",
+    "codepoint": "U+F972",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "sink"
+  },
+  "兩": {
+    "_id": "5f523b00de54193ed87353d6",
+    "char": "兩",
+    "codepoint": "U+F978",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "two"
+  },
+  "勵": {
+    "_id": "5f523b00de54193ed87353dd",
+    "char": "勵",
+    "codepoint": "U+F97F",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "strive"
+  },
+  "廬": {
+    "_id": "5f523b00de54193ed87353e0",
+    "char": "廬",
+    "codepoint": "U+F982",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "hut"
+  },
+  "參": {
+    "_id": "5f523b00de54193ed87353c9",
+    "char": "參",
+    "codepoint": "U+F96B",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "take part in"
+  },
+  "說": {
+    "_id": "5f523b00de54193ed87353cd",
+    "char": "說",
+    "codepoint": "U+F96F",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "speak"
+  },
+  "異": {
+    "_id": "5f523b00de54193ed87353c0",
+    "char": "異",
+    "codepoint": "U+F962",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "different"
+  },
+  "復": {
+    "_id": "5f523b00de54193ed87353c4",
+    "char": "復",
+    "codepoint": "U+F966",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "return"
+  },
+  "不": {
+    "_id": "5f523b00de54193ed87353c5",
+    "char": "不",
+    "codepoint": "U+F967",
+    "strokeCount": 4,
+    "sources": ["unicode"],
+    "gloss": "no"
+  },
+  "殺": {
+    "_id": "5f523b00de54193ed87353ce",
+    "char": "殺",
+    "codepoint": "U+F970",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "kill"
+  },
+  "旅": {
+    "_id": "5f523b00de54193ed87353e1",
+    "char": "旅",
+    "codepoint": "U+F983",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "trip"
+  },
+  "量": {
+    "_id": "5f523b00de54193ed87353dc",
+    "char": "量",
+    "codepoint": "U+F97E",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "measure"
+  },
+  "漣": {
+    "_id": "5f523b00de54193ed87353f0",
+    "char": "漣",
+    "codepoint": "U+F992",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "flowing water"
+  },
+  "呂": {
+    "_id": "5f523b00de54193ed87353de",
+    "char": "呂",
+    "codepoint": "U+F980",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "surname"
+  },
+  "煉": {
+    "_id": "5f523b00de54193ed87353f1",
+    "char": "煉",
+    "codepoint": "U+F993",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "smelt"
+  },
+  "閭": {
+    "_id": "5f523b00de54193ed87353e4",
+    "char": "閭",
+    "codepoint": "U+F986",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "village of twenty-five families"
+  },
+  "練": {
+    "_id": "5f523b00de54193ed87353f4",
+    "char": "練",
+    "codepoint": "U+F996",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "practice"
+  },
+  "戀": {
+    "_id": "5f523b00de54193ed87353ee",
+    "char": "戀",
+    "codepoint": "U+F990",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "love"
+  },
+  "良": {
+    "_id": "5f523b00de54193ed87353da",
+    "char": "良",
+    "codepoint": "U+F97C",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "good"
+  },
+  "憐": {
+    "_id": "5f523b00de54193ed87353ed",
+    "char": "憐",
+    "codepoint": "U+F98F",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "pity"
+  },
+  "鍊": {
+    "_id": "5f523b00de54193ed87353f9",
+    "char": "鍊",
+    "codepoint": "U+F99B",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "smelt metals"
+  },
+  "領": {
+    "_id": "5f523b00de54193ed8735412",
+    "char": "領",
+    "codepoint": "U+F9B4",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "neck"
+  },
+  "龍": {
+    "_id": "5f523b00de54193ed8735422",
+    "char": "龍",
+    "codepoint": "U+F9C4",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "dragon"
+  },
+  "禮": {
+    "_id": "5f523b00de54193ed8735414",
+    "char": "禮",
+    "codepoint": "U+F9B6",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "social custom"
+  },
+  "惡": {
+    "_id": "5f523b00de54193ed8735417",
+    "char": "惡",
+    "codepoint": "U+F9B9",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "evil"
+  },
+  "樂": {
+    "_id": "5f523b00de54193ed873541d",
+    "char": "樂",
+    "codepoint": "U+F9BF",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "happy"
+  },
+  "蓼": {
+    "_id": "5f523b00de54193ed8735420",
+    "char": "蓼",
+    "codepoint": "U+F9C2",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "smartweed"
+  },
+  "類": {
+    "_id": "5f523b00de54193ed873542e",
+    "char": "類",
+    "codepoint": "U+F9D0",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "class"
+  },
+  "陸": {
+    "_id": "5f523b00de54193ed8735431",
+    "char": "陸",
+    "codepoint": "U+F9D3",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "land"
+  },
+  "輪": {
+    "_id": "5f523b00de54193ed8735435",
+    "char": "輪",
+    "codepoint": "U+F9D7",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "wheel"
+  },
+  "律": {
+    "_id": "5f523b00de54193ed8735436",
+    "char": "律",
+    "codepoint": "U+F9D8",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "statute"
+  },
+  "璘": {
+    "_id": "5f523b00de54193ed873544d",
+    "char": "璘",
+    "codepoint": "U+F9EF",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "luster of jade"
+  },
+  "什": {
+    "_id": "5f523b00de54193ed873545b",
+    "char": "什",
+    "codepoint": "U+F9FD",
+    "strokeCount": 4,
+    "sources": ["unicode"],
+    "gloss": "file of ten soldiers"
+  },
+  "麟": {
+    "_id": "5f523b00de54193ed8735451",
+    "char": "麟",
+    "codepoint": "U+F9F3",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "female of Chinese unicorn"
+  },
+  "刺": {
+    "_id": "5f523b00de54193ed873545d",
+    "char": "刺",
+    "codepoint": "U+F9FF",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "stab"
+  },
+  "輦": {
+    "_id": "5f523b00de54193ed87353f6",
+    "char": "輦",
+    "codepoint": "U+F998",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a hand-cart"
+  },
+  "蓮": {
+    "_id": "5f523b00de54193ed87353f7",
+    "char": "蓮",
+    "codepoint": "U+F999",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "lotus"
+  },
+  "羚": {
+    "_id": "5f523b00de54193ed873540d",
+    "char": "羚",
+    "codepoint": "U+F9AF",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "species of antelope"
+  },
+  "靈": {
+    "_id": "5f523b00de54193ed8735411",
+    "char": "靈",
+    "codepoint": "U+F9B3",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "spirit"
+  },
+  "遼": {
+    "_id": "5f523b00de54193ed8735421",
+    "char": "遼",
+    "codepoint": "U+F9C3",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "distant"
+  },
+  "里": {
+    "_id": "5f523b00de54193ed8735447",
+    "char": "里",
+    "codepoint": "U+F9E9",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "unit of distance"
+  },
+  "藺": {
+    "_id": "5f523b00de54193ed873544e",
+    "char": "藺",
+    "codepoint": "U+F9F0",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "rush used in making mats"
+  },
+  "殮": {
+    "_id": "5f523b00de54193ed8735403",
+    "char": "殮",
+    "codepoint": "U+F9A5",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "dress corpse for burial"
+  },
+  "寧": {
+    "_id": "5f523b00de54193ed8735408",
+    "char": "寧",
+    "codepoint": "U+F9AA",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "repose"
+  },
+  "杻": {
+    "_id": "5f523b00de54193ed8735426",
+    "char": "杻",
+    "codepoint": "U+F9C8",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "Ligustrum sinense"
+  },
+  "流": {
+    "_id": "5f523b00de54193ed8735428",
+    "char": "流",
+    "codepoint": "U+F9CA",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "flow"
+  },
+  "淪": {
+    "_id": "5f523b00de54193ed8735434",
+    "char": "淪",
+    "codepoint": "U+F9D6",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "be lost"
+  },
+  "林": {
+    "_id": "5f523b00de54193ed8735452",
+    "char": "林",
+    "codepoint": "U+F9F4",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "forest"
+  },
+  "列": {
+    "_id": "5f523b00de54193ed87353fa",
+    "char": "列",
+    "codepoint": "U+F99C",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "a line"
+  },
+  "囹": {
+    "_id": "5f523b00de54193ed8735407",
+    "char": "囹",
+    "codepoint": "U+F9A9",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "prison"
+  },
+  "聆": {
+    "_id": "5f523b00de54193ed873540e",
+    "char": "聆",
+    "codepoint": "U+F9B0",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "listen"
+  },
+  "隸": {
+    "_id": "5f523b00de54193ed8735416",
+    "char": "隸",
+    "codepoint": "U+F9B8",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "be subservient to"
+  },
+  "倫": {
+    "_id": "5f523b00de54193ed8735432",
+    "char": "倫",
+    "codepoint": "U+F9D4",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "normal human relationships"
+  },
+  "隆": {
+    "_id": "5f523b00de54193ed873543a",
+    "char": "隆",
+    "codepoint": "U+F9DC",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "prosperous"
+  },
+  "易": {
+    "_id": "5f523b00de54193ed873543e",
+    "char": "易",
+    "codepoint": "U+F9E0",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "change"
+  },
+  "笠": {
+    "_id": "5f523b00de54193ed8735456",
+    "char": "笠",
+    "codepoint": "U+F9F8",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "bamboo hat"
+  },
+  "狀": {
+    "_id": "5f523b00de54193ed8735458",
+    "char": "狀",
+    "codepoint": "U+F9FA",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "form"
+  },
+  "戮": {
+    "_id": "5f523b00de54193ed8735430",
+    "char": "戮",
+    "codepoint": "U+F9D2",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "kill"
+  },
+  "慄": {
+    "_id": "5f523b00de54193ed8735437",
+    "char": "慄",
+    "codepoint": "U+F9D9",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "shiver"
+  },
+  "栗": {
+    "_id": "5f523b00de54193ed8735438",
+    "char": "栗",
+    "codepoint": "U+F9DA",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "chestnut tree"
+  },
+  "燐": {
+    "_id": "5f523b00de54193ed873544c",
+    "char": "燐",
+    "codepoint": "U+F9EE",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "phosphorus"
+  },
+  "廉": {
+    "_id": "5f523b00de54193ed8735400",
+    "char": "廉",
+    "codepoint": "U+F9A2",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "upright"
+  },
+  "裡": {
+    "_id": "5f523b00de54193ed8735446",
+    "char": "裡",
+    "codepoint": "U+F9E8",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "inside"
+  },
+  "獵": {
+    "_id": "5f523b00de54193ed8735405",
+    "char": "獵",
+    "codepoint": "U+F9A7",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "hunt"
+  },
+  "李": {
+    "_id": "5f523b00de54193ed873543f",
+    "char": "李",
+    "codepoint": "U+F9E1",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "plum"
+  },
+  "離": {
+    "_id": "5f523b00de54193ed8735448",
+    "char": "離",
+    "codepoint": "U+F9EA",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "leave"
+  },
+  "識": {
+    "_id": "5f523b00de54193ed873545a",
+    "char": "識",
+    "codepoint": "U+F9FC",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "recognize"
+  },
+  "溺": {
+    "_id": "5f523b00de54193ed873544a",
+    "char": "溺",
+    "codepoint": "U+F9EC",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "drown"
+  },
+  "隣": {
+    "_id": "5f523b00de54193ed873544f",
+    "char": "隣",
+    "codepoint": "U+F9F1",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "neighbor"
+  },
+  "炙": {
+    "_id": "5f523b00de54193ed8735459",
+    "char": "炙",
+    "codepoint": "U+F9FB",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "roast"
+  },
+  "茶": {
+    "_id": "5f523b00de54193ed873545c",
+    "char": "茶",
+    "codepoint": "U+F9FE",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "tea"
+  },
+  "咽": {
+    "_id": "5f523b00de54193ed87353fc",
+    "char": "咽",
+    "codepoint": "U+F99E",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "throat"
+  },
+  "了": {
+    "_id": "5f523b00de54193ed8735418",
+    "char": "了",
+    "codepoint": "U+F9BA",
+    "strokeCount": 2,
+    "sources": ["unicode"],
+    "gloss": "to finish"
+  },
+  "尿": {
+    "_id": "5f523b00de54193ed873541b",
+    "char": "尿",
+    "codepoint": "U+F9BD",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "urine"
+  },
+  "劉": {
+    "_id": "5f523b00de54193ed8735425",
+    "char": "劉",
+    "codepoint": "U+F9C7",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "surname"
+  },
+  "六": {
+    "_id": "5f523b00de54193ed873542f",
+    "char": "六",
+    "codepoint": "U+F9D1",
+    "strokeCount": 4,
+    "sources": ["unicode"],
+    "gloss": "number six"
+  },
+  "連": {
+    "_id": "5f523b00de54193ed87353f8",
+    "char": "連",
+    "codepoint": "U+F99A",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "join"
+  },
+  "寮": {
+    "_id": "5f523b00de54193ed873541a",
+    "char": "寮",
+    "codepoint": "U+F9BC",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "shanty"
+  },
+  "阮": {
+    "_id": "5f523b00de54193ed8735424",
+    "char": "阮",
+    "codepoint": "U+F9C6",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "ancient musical instrument"
+  },
+  "率": {
+    "_id": "5f523b00de54193ed8735439",
+    "char": "率",
+    "codepoint": "U+F9DB",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to lead"
+  },
+  "吏": {
+    "_id": "5f523b00de54193ed873543c",
+    "char": "吏",
+    "codepoint": "U+F9DE",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "government official"
+  },
+  "履": {
+    "_id": "5f523b00de54193ed873543d",
+    "char": "履",
+    "codepoint": "U+F9DF",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "footwear"
+  },
+  "泥": {
+    "_id": "5f523b00de54193ed8735441",
+    "char": "泥",
+    "codepoint": "U+F9E3",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "mud"
+  },
+  "吝": {
+    "_id": "5f523b00de54193ed873544b",
+    "char": "吝",
+    "codepoint": "U+F9ED",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "stingy"
+  },
+  "鱗": {
+    "_id": "5f523b00de54193ed8735450",
+    "char": "鱗",
+    "codepoint": "U+F9F2",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "fish scales"
+  },
+  "簾": {
+    "_id": "5f523b00de54193ed8735404",
+    "char": "簾",
+    "codepoint": "U+F9A6",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a blind"
+  },
+  "柳": {
+    "_id": "5f523b00de54193ed8735427",
+    "char": "柳",
+    "codepoint": "U+F9C9",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "willow tree"
+  },
+  "利": {
+    "_id": "5f523b00de54193ed873543b",
+    "char": "利",
+    "codepoint": "U+F9DD",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "gains"
+  },
+  "梨": {
+    "_id": "5f523b00de54193ed8735440",
+    "char": "梨",
+    "codepoint": "U+F9E2",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "pear"
+  },
+  "臨": {
+    "_id": "5f523b00de54193ed8735454",
+    "char": "臨",
+    "codepoint": "U+F9F6",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "draw near"
+  },
+  "劣": {
+    "_id": "5f523b00de54193ed87353fb",
+    "char": "劣",
+    "codepoint": "U+F99D",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "bad"
+  },
+  "烈": {
+    "_id": "5f523b00de54193ed87353fd",
+    "char": "烈",
+    "codepoint": "U+F99F",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "fiery"
+  },
+  "念": {
+    "_id": "5f523b00de54193ed8735401",
+    "char": "念",
+    "codepoint": "U+F9A3",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "think of"
+  },
+  "嶺": {
+    "_id": "5f523b00de54193ed8735409",
+    "char": "嶺",
+    "codepoint": "U+F9AB",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "mountain ridge"
+  },
+  "玲": {
+    "_id": "5f523b00de54193ed873540b",
+    "char": "玲",
+    "codepoint": "U+F9AD",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "tinkling of jade"
+  },
+  "例": {
+    "_id": "5f523b00de54193ed8735413",
+    "char": "例",
+    "codepoint": "U+F9B5",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "precedent"
+  },
+  "崙": {
+    "_id": "5f523b00de54193ed8735433",
+    "char": "崙",
+    "codepoint": "U+F9D5",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "Kunlun mountains in Jiangsu"
+  },
+  "立": {
+    "_id": "5f523b00de54193ed8735455",
+    "char": "立",
+    "codepoint": "U+F9F7",
+    "strokeCount": 5,
+    "sources": ["unicode"],
+    "gloss": "stand"
+  },
+  "粒": {
+    "_id": "5f523b00de54193ed8735457",
+    "char": "粒",
+    "codepoint": "U+F9F9",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "grain"
+  },
+  "裂": {
+    "_id": "5f523b00de54193ed87353fe",
+    "char": "裂",
+    "codepoint": "U+F9A0",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "split"
+  },
+  "說": {
+    "_id": "5f523b00de54193ed87353ff",
+    "char": "說",
+    "codepoint": "U+F9A1",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "speak"
+  },
+  "瑩": {
+    "_id": "5f523b00de54193ed873540c",
+    "char": "瑩",
+    "codepoint": "U+F9AE",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "lustre of gems"
+  },
+  "鈴": {
+    "_id": "5f523b00de54193ed873540f",
+    "char": "鈴",
+    "codepoint": "U+F9B1",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "bell"
+  },
+  "醴": {
+    "_id": "5f523b00de54193ed8735415",
+    "char": "醴",
+    "codepoint": "U+F9B7",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "sweet wine"
+  },
+  "僚": {
+    "_id": "5f523b00de54193ed8735419",
+    "char": "僚",
+    "codepoint": "U+F9BB",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "officials"
+  },
+  "暈": {
+    "_id": "5f523b00de54193ed8735423",
+    "char": "暈",
+    "codepoint": "U+F9C5",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "halo in sky"
+  },
+  "痢": {
+    "_id": "5f523b00de54193ed8735443",
+    "char": "痢",
+    "codepoint": "U+F9E5",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "dysentery"
+  },
+  "捻": {
+    "_id": "5f523b00de54193ed8735402",
+    "char": "捻",
+    "codepoint": "U+F9A4",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "to twist"
+  },
+  "令": {
+    "_id": "5f523b00de54193ed8735406",
+    "char": "令",
+    "codepoint": "U+F9A8",
+    "strokeCount": 5,
+    "sources": ["unicode"],
+    "gloss": "command"
+  },
+  "零": {
+    "_id": "5f523b00de54193ed8735410",
+    "char": "零",
+    "codepoint": "U+F9B2",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "zero"
+  },
+  "裏": {
+    "_id": "5f523b00de54193ed8735445",
+    "char": "裏",
+    "codepoint": "U+F9E7",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "inside"
+  },
+  "料": {
+    "_id": "5f523b00de54193ed873541c",
+    "char": "料",
+    "codepoint": "U+F9BE",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "consider"
+  },
+  "留": {
+    "_id": "5f523b00de54193ed873542b",
+    "char": "留",
+    "codepoint": "U+F9CD",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "stop"
+  },
+  "硫": {
+    "_id": "5f523b00de54193ed873542c",
+    "char": "硫",
+    "codepoint": "U+F9CE",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "sulfur"
+  },
+  "紐": {
+    "_id": "5f523b00de54193ed873542d",
+    "char": "紐",
+    "codepoint": "U+F9CF",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "knot"
+  },
+  "理": {
+    "_id": "5f523b00de54193ed8735442",
+    "char": "理",
+    "codepoint": "U+F9E4",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "reason"
+  },
+  "匿": {
+    "_id": "5f523b00de54193ed8735449",
+    "char": "匿",
+    "codepoint": "U+F9EB",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "hide"
+  },
+  "怜": {
+    "_id": "5f523b00de54193ed873540a",
+    "char": "怜",
+    "codepoint": "U+F9AC",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "pity"
+  },
+  "燎": {
+    "_id": "5f523b00de54193ed873541e",
+    "char": "燎",
+    "codepoint": "U+F9C0",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to burn"
+  },
+  "療": {
+    "_id": "5f523b00de54193ed873541f",
+    "char": "療",
+    "codepoint": "U+F9C1",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "be healed"
+  },
+  "溜": {
+    "_id": "5f523b00de54193ed8735429",
+    "char": "溜",
+    "codepoint": "U+F9CB",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "slide"
+  },
+  "琉": {
+    "_id": "5f523b00de54193ed873542a",
+    "char": "琉",
+    "codepoint": "U+F9CC",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "sparkling stone"
+  },
+  "罹": {
+    "_id": "5f523b00de54193ed8735444",
+    "char": "罹",
+    "codepoint": "U+F9E6",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "sorrow"
+  },
+  "淋": {
+    "_id": "5f523b00de54193ed8735453",
+    "char": "淋",
+    "codepoint": "U+F9F5",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "drip"
+  },
+  "藍": {
+    "_id": "5f523affde54193ed8735381",
+    "char": "藍",
+    "codepoint": "U+F923",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "blue"
+  },
+  "來": {
+    "_id": "5f523affde54193ed873538b",
+    "char": "來",
+    "codepoint": "U+F92D",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "come"
+  },
+  "櫓": {
+    "_id": "5f523affde54193ed873538f",
+    "char": "櫓",
+    "codepoint": "U+F931",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "oar"
+  },
+  "籠": {
+    "_id": "5f523affde54193ed87353a2",
+    "char": "籠",
+    "codepoint": "U+F944",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "cage"
+  },
+  "蘭": {
+    "_id": "5f523affde54193ed873537d",
+    "char": "蘭",
+    "codepoint": "U+F91F",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "orchid"
+  },
+  "菉": {
+    "_id": "5f523affde54193ed873539c",
+    "char": "菉",
+    "codepoint": "U+F93E",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "the green bamboo"
+  },
+  "屢": {
+    "_id": "5f523affde54193ed87353a9",
+    "char": "屢",
+    "codepoint": "U+F94B",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "frequently"
+  },
+  "樓": {
+    "_id": "5f523affde54193ed87353aa",
+    "char": "樓",
+    "codepoint": "U+F94C",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "building of two or more stories"
+  },
+  "漏": {
+    "_id": "5f523affde54193ed87353ac",
+    "char": "漏",
+    "codepoint": "U+F94E",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "leak"
+  },
+  "車": {
+    "_id": "5f523affde54193ed8735360",
+    "char": "車",
+    "codepoint": "U+F902",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "cart"
+  },
+  "滑": {
+    "_id": "5f523affde54193ed8735362",
+    "char": "滑",
+    "codepoint": "U+F904",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "slip"
+  },
+  "邏": {
+    "_id": "5f523affde54193ed8735371",
+    "char": "邏",
+    "codepoint": "U+F913",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "patrol"
+  },
+  "冷": {
+    "_id": "5f523affde54193ed873538c",
+    "char": "冷",
+    "codepoint": "U+F92E",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "cold"
+  },
+  "句": {
+    "_id": "5f523affde54193ed8735364",
+    "char": "句",
+    "codepoint": "U+F906",
+    "strokeCount": 5,
+    "sources": ["unicode"],
+    "gloss": "sentence"
+  },
+  "金": {
+    "_id": "5f523affde54193ed8735368",
+    "char": "金",
+    "codepoint": "U+F90A",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "gold"
+  },
+  "浪": {
+    "_id": "5f523affde54193ed8735388",
+    "char": "浪",
+    "codepoint": "U+F92A",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "wave"
+  },
+  "露": {
+    "_id": "5f523affde54193ed8735396",
+    "char": "露",
+    "codepoint": "U+F938",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "dew"
+  },
+  "鷺": {
+    "_id": "5f523affde54193ed8735398",
+    "char": "鷺",
+    "codepoint": "U+F93A",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "heron"
+  },
+  "累": {
+    "_id": "5f523affde54193ed87353ad",
+    "char": "累",
+    "codepoint": "U+F94F",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "tired"
+  },
+  "凜": {
+    "_id": "5f523affde54193ed87353b2",
+    "char": "凜",
+    "codepoint": "U+F954",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "shiver with cold or fear"
+  },
+  "龜": {
+    "_id": "5f523affde54193ed8735366",
+    "char": "龜",
+    "codepoint": "U+F908",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "turtle or tortoise"
+  },
+  "裸": {
+    "_id": "5f523affde54193ed8735370",
+    "char": "裸",
+    "codepoint": "U+F912",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "bare"
+  },
+  "樂": {
+    "_id": "5f523affde54193ed8735372",
+    "char": "樂",
+    "codepoint": "U+F914",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "happy"
+  },
+  "卵": {
+    "_id": "5f523affde54193ed873537a",
+    "char": "卵",
+    "codepoint": "U+F91C",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "egg"
+  },
+  "磊": {
+    "_id": "5f523affde54193ed87353a5",
+    "char": "磊",
+    "codepoint": "U+F947",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "pile of rocks or stones"
+  },
+  "爛": {
+    "_id": "5f523affde54193ed873537c",
+    "char": "爛",
+    "codepoint": "U+F91E",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "rotten"
+  },
+  "嵐": {
+    "_id": "5f523affde54193ed873537f",
+    "char": "嵐",
+    "codepoint": "U+F921",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "mountain mist"
+  },
+  "臘": {
+    "_id": "5f523affde54193ed8735384",
+    "char": "臘",
+    "codepoint": "U+F926",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "year end sacrifice"
+  },
+  "郎": {
+    "_id": "5f523affde54193ed873538a",
+    "char": "郎",
+    "codepoint": "U+F92C",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "gentleman"
+  },
+  "虜": {
+    "_id": "5f523affde54193ed8735394",
+    "char": "虜",
+    "codepoint": "U+F936",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "capture"
+  },
+  "錄": {
+    "_id": "5f523affde54193ed873539d",
+    "char": "錄",
+    "codepoint": "U+F93F",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "copy"
+  },
+  "螺": {
+    "_id": "5f523affde54193ed873536f",
+    "char": "螺",
+    "codepoint": "U+F911",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "spiral shell"
+  },
+  "朗": {
+    "_id": "5f523affde54193ed8735387",
+    "char": "朗",
+    "codepoint": "U+F929",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "clear"
+  },
+  "擄": {
+    "_id": "5f523affde54193ed873538e",
+    "char": "擄",
+    "codepoint": "U+F930",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "capture"
+  },
+  "魯": {
+    "_id": "5f523affde54193ed8735397",
+    "char": "魯",
+    "codepoint": "U+F939",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "foolish"
+  },
+  "肋": {
+    "_id": "5f523affde54193ed87353b1",
+    "char": "肋",
+    "codepoint": "U+F953",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "ribs"
+  },
+  "豈": {
+    "_id": "5f523affde54193ed873535e",
+    "char": "豈",
+    "codepoint": "U+F900",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "how? what?"
+  },
+  "癩": {
+    "_id": "5f523affde54193ed873536c",
+    "char": "癩",
+    "codepoint": "U+F90E",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "leprosy"
+  },
+  "蘿": {
+    "_id": "5f523affde54193ed873536e",
+    "char": "蘿",
+    "codepoint": "U+F910",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "type of creeping plant"
+  },
+  "老": {
+    "_id": "5f523affde54193ed8735392",
+    "char": "老",
+    "codepoint": "U+F934",
+    "strokeCount": 6,
+    "sources": ["unicode"],
+    "gloss": "old"
+  },
+  "碌": {
+    "_id": "5f523affde54193ed8735399",
+    "char": "碌",
+    "codepoint": "U+F93B",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "rough"
+  },
+  "鹿": {
+    "_id": "5f523affde54193ed873539e",
+    "char": "鹿",
+    "codepoint": "U+F940",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "deer"
+  },
+  "牢": {
+    "_id": "5f523affde54193ed87353a4",
+    "char": "牢",
+    "codepoint": "U+F946",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "prison"
+  },
+  "賂": {
+    "_id": "5f523affde54193ed87353a6",
+    "char": "賂",
+    "codepoint": "U+F948",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "bribe"
+  },
+  "縷": {
+    "_id": "5f523affde54193ed87353ae",
+    "char": "縷",
+    "codepoint": "U+F950",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "thread"
+  },
+  "陋": {
+    "_id": "5f523affde54193ed87353af",
+    "char": "陋",
+    "codepoint": "U+F951",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "narrow"
+  },
+  "契": {
+    "_id": "5f523affde54193ed8735367",
+    "char": "契",
+    "codepoint": "U+F909",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "deed"
+  },
+  "洛": {
+    "_id": "5f523affde54193ed8735373",
+    "char": "洛",
+    "codepoint": "U+F915",
+    "strokeCount": 9,
+    "sources": ["unicode"],
+    "gloss": "river in Shanxi province"
+  },
+  "烙": {
+    "_id": "5f523affde54193ed8735374",
+    "char": "烙",
+    "codepoint": "U+F916",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "brand"
+  },
+  "珞": {
+    "_id": "5f523affde54193ed8735375",
+    "char": "珞",
+    "codepoint": "U+F917",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "kind of necklace"
+  },
+  "雷": {
+    "_id": "5f523affde54193ed87353a7",
+    "char": "雷",
+    "codepoint": "U+F949",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "thunder"
+  },
+  "酪": {
+    "_id": "5f523affde54193ed8735377",
+    "char": "酪",
+    "codepoint": "U+F919",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "cream"
+  },
+  "濫": {
+    "_id": "5f523affde54193ed8735380",
+    "char": "濫",
+    "codepoint": "U+F922",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "flood"
+  },
+  "蘆": {
+    "_id": "5f523affde54193ed8735393",
+    "char": "蘆",
+    "codepoint": "U+F935",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "rushes"
+  },
+  "壘": {
+    "_id": "5f523affde54193ed87353a8",
+    "char": "壘",
+    "codepoint": "U+F94A",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "rampart"
+  },
+  "稜": {
+    "_id": "5f523affde54193ed87353b4",
+    "char": "稜",
+    "codepoint": "U+F956",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "corner"
+  },
+  "串": {
+    "_id": "5f523affde54193ed8735363",
+    "char": "串",
+    "codepoint": "U+F905",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "string"
+  },
+  "龜": {
+    "_id": "5f523affde54193ed8735365",
+    "char": "龜",
+    "codepoint": "U+F907",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "turtle or tortoise"
+  },
+  "駱": {
+    "_id": "5f523affde54193ed8735378",
+    "char": "駱",
+    "codepoint": "U+F91A",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "white horse with black mane"
+  },
+  "狼": {
+    "_id": "5f523affde54193ed8735389",
+    "char": "狼",
+    "codepoint": "U+F92B",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "wolf"
+  },
+  "綾": {
+    "_id": "5f523affde54193ed87353b5",
+    "char": "綾",
+    "codepoint": "U+F957",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "thin silk"
+  },
+  "喇": {
+    "_id": "5f523affde54193ed8735369",
+    "char": "喇",
+    "codepoint": "U+F90B",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "horn"
+  },
+  "奈": {
+    "_id": "5f523affde54193ed873536a",
+    "char": "奈",
+    "codepoint": "U+F90C",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "but"
+  },
+  "襤": {
+    "_id": "5f523affde54193ed8735382",
+    "char": "襤",
+    "codepoint": "U+F924",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "ragged"
+  },
+  "拉": {
+    "_id": "5f523affde54193ed8735383",
+    "char": "拉",
+    "codepoint": "U+F925",
+    "strokeCount": 8,
+    "sources": ["unicode"],
+    "gloss": "pull"
+  },
+  "爐": {
+    "_id": "5f523affde54193ed8735390",
+    "char": "爐",
+    "codepoint": "U+F932",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "fireplace"
+  },
+  "路": {
+    "_id": "5f523affde54193ed8735395",
+    "char": "路",
+    "codepoint": "U+F937",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "road"
+  },
+  "綠": {
+    "_id": "5f523affde54193ed873539b",
+    "char": "綠",
+    "codepoint": "U+F93D",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "green"
+  },
+  "弄": {
+    "_id": "5f523affde54193ed87353a1",
+    "char": "弄",
+    "codepoint": "U+F943",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "do"
+  },
+  "落": {
+    "_id": "5f523affde54193ed8735376",
+    "char": "落",
+    "codepoint": "U+F918",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "fall"
+  },
+  "勞": {
+    "_id": "5f523affde54193ed873538d",
+    "char": "勞",
+    "codepoint": "U+F92F",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "labor"
+  },
+  "盧": {
+    "_id": "5f523affde54193ed8735391",
+    "char": "盧",
+    "codepoint": "U+F933",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "cottage"
+  },
+  "祿": {
+    "_id": "5f523affde54193ed873539a",
+    "char": "祿",
+    "codepoint": "U+F93C",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "blessing"
+  },
+  "賈": {
+    "_id": "5f523affde54193ed8735361",
+    "char": "賈",
+    "codepoint": "U+F903",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "surname"
+  },
+  "懶": {
+    "_id": "5f523affde54193ed873536b",
+    "char": "懶",
+    "codepoint": "U+F90D",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "lazy"
+  },
+  "羅": {
+    "_id": "5f523affde54193ed873536d",
+    "char": "羅",
+    "codepoint": "U+F90F",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "net for catching birds"
+  },
+  "欄": {
+    "_id": "5f523affde54193ed873537b",
+    "char": "欄",
+    "codepoint": "U+F91D",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "railing"
+  },
+  "鸞": {
+    "_id": "5f523affde54193ed873537e",
+    "char": "鸞",
+    "codepoint": "U+F920",
+    "strokeCount": 30,
+    "sources": ["unicode"],
+    "gloss": "fabulous bird"
+  },
+  "論": {
+    "_id": "5f523affde54193ed873539f",
+    "char": "論",
+    "codepoint": "U+F941",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "debate"
+  },
+  "淚": {
+    "_id": "5f523affde54193ed87353ab",
+    "char": "淚",
+    "codepoint": "U+F94D",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "tears"
+  },
+  "更": {
+    "_id": "5f523affde54193ed873535f",
+    "char": "更",
+    "codepoint": "U+F901",
+    "strokeCount": 7,
+    "sources": ["unicode"],
+    "gloss": "more"
+  },
+  "蠟": {
+    "_id": "5f523affde54193ed8735385",
+    "char": "蠟",
+    "codepoint": "U+F927",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "wax"
+  },
+  "勒": {
+    "_id": "5f523affde54193ed87353b0",
+    "char": "勒",
+    "codepoint": "U+F952",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "strangle"
+  },
+  "亂": {
+    "_id": "5f523affde54193ed8735379",
+    "char": "亂",
+    "codepoint": "U+F91B",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "confusion"
+  },
+  "廊": {
+    "_id": "5f523affde54193ed8735386",
+    "char": "廊",
+    "codepoint": "U+F928",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "corridor"
+  },
+  "壟": {
+    "_id": "5f523affde54193ed87353a0",
+    "char": "壟",
+    "codepoint": "U+F942",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "grave"
+  },
+  "聾": {
+    "_id": "5f523affde54193ed87353a3",
+    "char": "聾",
+    "codepoint": "U+F945",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "deaf"
+  },
+  "凌": {
+    "_id": "5f523affde54193ed87353b3",
+    "char": "凌",
+    "codepoint": "U+F955",
+    "strokeCount": 10,
+    "sources": ["unicode"],
+    "gloss": "pure"
+  }
+}

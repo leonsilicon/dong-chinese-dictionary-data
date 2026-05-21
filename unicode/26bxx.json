@@ -1,0 +1,2993 @@
+{
+  "𦬁": {
+    "_id": "5f523b00de54193ed873c037",
+    "char": "𦬁",
+    "codepoint": "U+26B01",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬌": {
+    "_id": "5f523b00de54193ed873c042",
+    "char": "𦬌",
+    "codepoint": "U+26B0C",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬭": {
+    "_id": "5f523b00de54193ed873c063",
+    "char": "𦬭",
+    "codepoint": "U+26B2D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬠": {
+    "_id": "5f523b00de54193ed873c056",
+    "char": "𦬠",
+    "codepoint": "U+26B20",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_0.png",
+        "source": "academia-sinica",
+        "description": "亞共覃父乙簋(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_1.png",
+        "source": "academia-sinica",
+        "description": "師䢅鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_2.png",
+        "source": "academia-sinica",
+        "description": "禹鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_3.png",
+        "source": "academia-sinica",
+        "description": "楚王酓肯簠(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_4.png",
+        "source": "academia-sinica",
+        "description": "包2.239(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_5.png",
+        "source": "academia-sinica",
+        "description": "帛甲7.5(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_6.png",
+        "source": "academia-sinica",
+        "description": "郭.六.22(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_7.png",
+        "source": "academia-sinica",
+        "description": "郭.六.26(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_8.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_9.png",
+        "source": "academia-sinica",
+        "description": "說文‧共部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_10.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡24.24(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_11.png",
+        "source": "academia-sinica",
+        "description": "老子甲後195(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_12.png",
+        "source": "academia-sinica",
+        "description": "老子甲後195(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_13.png",
+        "source": "academia-sinica",
+        "description": "流沙簡.簡牘3.23(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A0_14.png",
+        "source": "academia-sinica",
+        "description": "華山廟碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“共，同也。从廿、廾。，古文共。”",
+    "variants": [{ "char": "共", "parts": "八", "source": "academia-sinica" }]
+  },
+  "𦭔": {
+    "_id": "5f523b00de54193ed873c08a",
+    "char": "𦭔",
+    "codepoint": "U+26B54",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦬡": {
+    "_id": "5f523b00de54193ed873c057",
+    "char": "𦬡",
+    "codepoint": "U+26B21",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦭕": {
+    "_id": "5f523b00de54193ed873c08b",
+    "char": "𦭕",
+    "codepoint": "U+26B55",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭃": {
+    "_id": "5f523b00de54193ed873c079",
+    "char": "𦭃",
+    "codepoint": "U+26B43",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭩": {
+    "_id": "5f523b00de54193ed873c09f",
+    "char": "𦭩",
+    "codepoint": "U+26B69",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭚": {
+    "_id": "5f523b00de54193ed873c090",
+    "char": "𦭚",
+    "codepoint": "U+26B5A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭺": {
+    "_id": "5f523b00de54193ed873c0b0",
+    "char": "𦭺",
+    "codepoint": "U+26B7A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭧": {
+    "_id": "5f523b00de54193ed873c09d",
+    "char": "𦭧",
+    "codepoint": "U+26B67",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦮡": {
+    "_id": "5f523b00de54193ed873c0d7",
+    "char": "𦮡",
+    "codepoint": "U+26BA1",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮍": {
+    "_id": "5f523b00de54193ed873c0c3",
+    "char": "𦮍",
+    "codepoint": "U+26B8D",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮥": {
+    "_id": "5f523b00de54193ed873c0db",
+    "char": "𦮥",
+    "codepoint": "U+26BA5",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮦": {
+    "_id": "5f523b00de54193ed873c0dc",
+    "char": "𦮦",
+    "codepoint": "U+26BA6",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮾": {
+    "_id": "5f523b00de54193ed873c0f4",
+    "char": "𦮾",
+    "codepoint": "U+26BBE",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦮽": {
+    "_id": "5f523b00de54193ed873c0f3",
+    "char": "𦮽",
+    "codepoint": "U+26BBD",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬆": {
+    "_id": "5f523b00de54193ed873c03c",
+    "char": "𦬆",
+    "codepoint": "U+26B06",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_0.png",
+        "source": "academia-sinica",
+        "description": "信2.023(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_1.png",
+        "source": "academia-sinica",
+        "description": "郭.語4.7(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_3.png",
+        "source": "academia-sinica",
+        "description": "老子乙232上(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_4.png",
+        "source": "academia-sinica",
+        "description": "春秋事語11(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_5.png",
+        "source": "academia-sinica",
+        "description": "馬姜墓記(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%86_6.png",
+        "source": "academia-sinica",
+        "description": "晉祀后土殘碑(隸)晉",
+        "type": "Clerical",
+        "era": "Jin dynasty (266-420 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“芒，艸耑。从艸，亾聲。”",
+    "variants": [{ "char": "芒", "parts": "艹亡", "source": "academia-sinica" }]
+  },
+  "𦬑": {
+    "_id": "5f523b00de54193ed873c047",
+    "char": "𦬑",
+    "codepoint": "U+26B11",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%91_0.png",
+        "source": "academia-sinica",
+        "description": "是尹番戈(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%91_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%91_2.png",
+        "source": "academia-sinica",
+        "description": "五十二病方249(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%91_3.png",
+        "source": "academia-sinica",
+        "description": "馬王堆易2(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%91_4.png",
+        "source": "academia-sinica",
+        "description": "衡方碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“茹，飤馬也。从艸，如聲。”",
+    "variants": [
+      { "char": "茹", "parts": "艹如", "source": "academia-sinica" },
+      { "char": "𦬑", "parts": "艹女", "source": "academia-sinica" }
+    ]
+  },
+  "𦬗": {
+    "_id": "5f523b00de54193ed873c04d",
+    "char": "𦬗",
+    "codepoint": "U+26B17",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬃": {
+    "_id": "5f523b00de54193ed873c039",
+    "char": "𦬃",
+    "codepoint": "U+26B03",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬣": {
+    "_id": "5f523b00de54193ed873c059",
+    "char": "𦬣",
+    "codepoint": "U+26B23",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬏": {
+    "_id": "5f523b00de54193ed873c045",
+    "char": "𦬏",
+    "codepoint": "U+26B0F",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬵": {
+    "_id": "5f523b00de54193ed873c06b",
+    "char": "𦬵",
+    "codepoint": "U+26B35",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬯": {
+    "_id": "5f523b00de54193ed873c065",
+    "char": "𦬯",
+    "codepoint": "U+26B2F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬹": {
+    "_id": "5f523b00de54193ed873c06f",
+    "char": "𦬹",
+    "codepoint": "U+26B39",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦬱": {
+    "_id": "5f523b00de54193ed873c067",
+    "char": "𦬱",
+    "codepoint": "U+26B31",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦭁": {
+    "_id": "5f523b00de54193ed873c077",
+    "char": "𦭁",
+    "codepoint": "U+26B41",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭂": {
+    "_id": "5f523b00de54193ed873c078",
+    "char": "𦭂",
+    "codepoint": "U+26B42",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭅": {
+    "_id": "5f523b00de54193ed873c07b",
+    "char": "𦭅",
+    "codepoint": "U+26B45",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭥": {
+    "_id": "5f523b00de54193ed873c09b",
+    "char": "𦭥",
+    "codepoint": "U+26B65",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭙": {
+    "_id": "5f523b00de54193ed873c08f",
+    "char": "𦭙",
+    "codepoint": "U+26B59",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭨": {
+    "_id": "5f523b00de54193ed873c09e",
+    "char": "𦭨",
+    "codepoint": "U+26B68",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭝": {
+    "_id": "5f523b00de54193ed873c093",
+    "char": "𦭝",
+    "codepoint": "U+26B5D",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭣": {
+    "_id": "5f523b00de54193ed873c099",
+    "char": "𦭣",
+    "codepoint": "U+26B63",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭮": {
+    "_id": "5f523b00de54193ed873c0a4",
+    "char": "𦭮",
+    "codepoint": "U+26B6E",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%AE_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，以艸補缺。从艸，聲。讀若陸。或以為綴。一曰約空也。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "許槤《讀說文記》：“讀若陸。段氏从鍇本作‘俠’；朱文藻曰：別本讀若執，則與直例反合。”"
+      }
+    ],
+    "variants": [{ "char": "𦭮", "parts": "艹㐁", "source": "academia-sinica" }]
+  },
+  "𦭹": {
+    "_id": "5f523b00de54193ed873c0af",
+    "char": "𦭹",
+    "codepoint": "U+26B79",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭷": {
+    "_id": "5f523b00de54193ed873c0ad",
+    "char": "𦭷",
+    "codepoint": "U+26B77",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%B7_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧麥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%B7_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“麰，來麰，麥也。从麥，牟聲。，麰或从艸。”",
+    "variants": [
+      { "char": "麰", "parts": "麥牟", "source": "academia-sinica" },
+      { "char": "𦭷", "parts": "艹牟", "source": "academia-sinica" }
+    ]
+  },
+  "𦮧": {
+    "_id": "5f523b00de54193ed873c0dd",
+    "char": "𦮧",
+    "codepoint": "U+26BA7",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭼": {
+    "_id": "5f523b00de54193ed873c0b2",
+    "char": "𦭼",
+    "codepoint": "U+26B7C",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮺": {
+    "_id": "5f523b00de54193ed873c0f0",
+    "char": "𦮺",
+    "codepoint": "U+26BBA",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%BA_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，茅秀也。从艸，私聲。”",
+    "variants": [{ "char": "𦮺", "parts": "艹私", "source": "academia-sinica" }]
+  },
+  "𦮇": {
+    "_id": "5f523b00de54193ed873c0bd",
+    "char": "𦮇",
+    "codepoint": "U+26B87",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮳": {
+    "_id": "5f523b00de54193ed873c0e9",
+    "char": "𦮳",
+    "codepoint": "U+26BB3",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮵": {
+    "_id": "5f523b00de54193ed873c0eb",
+    "char": "𦮵",
+    "codepoint": "U+26BB5",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮷": {
+    "_id": "5f523b00de54193ed873c0ed",
+    "char": "𦮷",
+    "codepoint": "U+26BB7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬋": {
+    "_id": "5f523b00de54193ed873c041",
+    "char": "𦬋",
+    "codepoint": "U+26B0B",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬟": {
+    "_id": "5f523b00de54193ed873c055",
+    "char": "𦬟",
+    "codepoint": "U+26B1F",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬲": {
+    "_id": "5f523b00de54193ed873c068",
+    "char": "𦬲",
+    "codepoint": "U+26B32",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬳": {
+    "_id": "5f523b00de54193ed873c069",
+    "char": "𦬳",
+    "codepoint": "U+26B33",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬸": {
+    "_id": "5f523b00de54193ed873c06e",
+    "char": "𦬸",
+    "codepoint": "U+26B38",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%B8_1.png",
+        "source": "academia-sinica",
+        "description": "武威醫簡9(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，山薊也。从艸，朮聲。”",
+    "comments": [
+      { "source": "academia-sinica", "text": "王筠句讀：“《釋草》省作朮。《本草》有白朮、赤朮。”" }
+    ],
+    "variants": [{ "char": "𦬸", "parts": "艹朮", "source": "academia-sinica" }]
+  },
+  "𦭄": {
+    "_id": "5f523b00de54193ed873c07a",
+    "char": "𦭄",
+    "codepoint": "U+26B44",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭎": {
+    "_id": "5f523b00de54193ed873c084",
+    "char": "𦭎",
+    "codepoint": "U+26B4E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭓": {
+    "_id": "5f523b00de54193ed873c089",
+    "char": "𦭓",
+    "codepoint": "U+26B53",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭞": {
+    "_id": "5f523b00de54193ed873c094",
+    "char": "𦭞",
+    "codepoint": "U+26B5E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭤": {
+    "_id": "5f523b00de54193ed873c09a",
+    "char": "𦭤",
+    "codepoint": "U+26B64",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭻": {
+    "_id": "5f523b00de54193ed873c0b1",
+    "char": "𦭻",
+    "codepoint": "U+26B7B",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮃": {
+    "_id": "5f523b00de54193ed873c0b9",
+    "char": "𦮃",
+    "codepoint": "U+26B83",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%83_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧𦫳部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，戾也。从而兆；兆，古文別。”",
+    "variants": [{ "char": "乖", "parts": "千北", "source": "academia-sinica" }]
+  },
+  "𦮙": {
+    "_id": "5f523b00de54193ed873c0cf",
+    "char": "𦮙",
+    "codepoint": "U+26B99",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮨": {
+    "_id": "5f523b00de54193ed873c0de",
+    "char": "𦮨",
+    "codepoint": "U+26BA8",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮬": {
+    "_id": "5f523b00de54193ed873c0e2",
+    "char": "𦮬",
+    "codepoint": "U+26BAC",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮮": {
+    "_id": "5f523b00de54193ed873c0e4",
+    "char": "𦮮",
+    "codepoint": "U+26BAE",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮻": {
+    "_id": "5f523b00de54193ed873c0f1",
+    "char": "𦮻",
+    "codepoint": "U+26BBB",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬎": {
+    "_id": "5f523b00de54193ed873c044",
+    "char": "𦬎",
+    "codepoint": "U+26B0E",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬘": {
+    "_id": "5f523b00de54193ed873c04e",
+    "char": "𦬘",
+    "codepoint": "U+26B18",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬚": {
+    "_id": "5f523b00de54193ed873c050",
+    "char": "𦬚",
+    "codepoint": "U+26B1A",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬛": {
+    "_id": "5f523b00de54193ed873c051",
+    "char": "𦬛",
+    "codepoint": "U+26B1B",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬜": {
+    "_id": "5f523b00de54193ed873c052",
+    "char": "𦬜",
+    "codepoint": "U+26B1C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬪": {
+    "_id": "5f523b00de54193ed873c060",
+    "char": "𦬪",
+    "codepoint": "U+26B2A",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬴": {
+    "_id": "5f523b00de54193ed873c06a",
+    "char": "𦬴",
+    "codepoint": "U+26B34",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬶": {
+    "_id": "5f523b00de54193ed873c06c",
+    "char": "𦬶",
+    "codepoint": "U+26B36",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬺": {
+    "_id": "5f523b00de54193ed873c070",
+    "char": "𦬺",
+    "codepoint": "U+26B3A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭈": {
+    "_id": "5f523b00de54193ed873c07e",
+    "char": "𦭈",
+    "codepoint": "U+26B48",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭏": {
+    "_id": "5f523b00de54193ed873c085",
+    "char": "𦭏",
+    "codepoint": "U+26B4F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭟": {
+    "_id": "5f523b00de54193ed873c095",
+    "char": "𦭟",
+    "codepoint": "U+26B5F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭡": {
+    "_id": "5f523b00de54193ed873c097",
+    "char": "𦭡",
+    "codepoint": "U+26B61",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭪": {
+    "_id": "5f523b00de54193ed873c0a0",
+    "char": "𦭪",
+    "codepoint": "U+26B6A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭸": {
+    "_id": "5f523b00de54193ed873c0ae",
+    "char": "𦭸",
+    "codepoint": "U+26B78",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮗": {
+    "_id": "5f523b00de54193ed873c0cd",
+    "char": "𦮗",
+    "codepoint": "U+26B97",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮚": {
+    "_id": "5f523b00de54193ed873c0d0",
+    "char": "𦮚",
+    "codepoint": "U+26B9A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮱": {
+    "_id": "5f523b00de54193ed873c0e7",
+    "char": "𦮱",
+    "codepoint": "U+26BB1",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮴": {
+    "_id": "5f523b00de54193ed873c0ea",
+    "char": "𦮴",
+    "codepoint": "U+26BB4",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮶": {
+    "_id": "5f523b00de54193ed873c0ec",
+    "char": "𦮶",
+    "codepoint": "U+26BB6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬍": {
+    "_id": "5f523b00de54193ed873c043",
+    "char": "𦬍",
+    "codepoint": "U+26B0D",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦭌": {
+    "_id": "5f523b00de54193ed873c082",
+    "char": "𦭌",
+    "codepoint": "U+26B4C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭍": {
+    "_id": "5f523b00de54193ed873c083",
+    "char": "𦭍",
+    "codepoint": "U+26B4D",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭘": {
+    "_id": "5f523b00de54193ed873c08e",
+    "char": "𦭘",
+    "codepoint": "U+26B58",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭢": {
+    "_id": "5f523b00de54193ed873c098",
+    "char": "𦭢",
+    "codepoint": "U+26B62",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%A2_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，艸浮水中皃。从艸，乏聲。”",
+    "variants": [{ "char": "䒦", "parts": "艹乏", "source": "academia-sinica" }]
+  },
+  "𦭯": {
+    "_id": "5f523b00de54193ed873c0a5",
+    "char": "𦭯",
+    "codepoint": "U+26B6F",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮉": {
+    "_id": "5f523b00de54193ed873c0bf",
+    "char": "𦮉",
+    "codepoint": "U+26B89",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%89_0.png",
+        "source": "academia-sinica",
+        "description": "宋公差戈(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%89_1.png",
+        "source": "academia-sinica",
+        "description": "郭.六.12(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%89_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%89_3.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“茆，鳧葵也。从艸，卯聲。《詩》曰：‘言釆其茆。’”",
+    "variants": [{ "char": "茆", "parts": "艹卯", "source": "academia-sinica" }]
+  },
+  "𦮋": {
+    "_id": "5f523b00de54193ed873c0c1",
+    "char": "𦮋",
+    "codepoint": "U+26B8B",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8B_0.png",
+        "source": "academia-sinica",
+        "description": "中山王昔壺(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8B_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8B_2.png",
+        "source": "academia-sinica",
+        "description": "蒼頡篇31(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8B_3.png",
+        "source": "academia-sinica",
+        "description": "石門頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“荒，蕪也。从艸，巟聲。一曰艸淹地也。”",
+    "variants": [{ "char": "荒", "parts": "艹巟", "source": "academia-sinica" }]
+  },
+  "𦮓": {
+    "_id": "5f523b00de54193ed873c0c9",
+    "char": "𦮓",
+    "codepoint": "U+26B93",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_0.png",
+        "source": "academia-sinica",
+        "description": "鼒簋(金)西周早期",
+        "type": "Oracle",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_1.png",
+        "source": "academia-sinica",
+        "description": "過伯簋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_2.png",
+        "source": "academia-sinica",
+        "description": "𤞷𩣓簋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_3.png",
+        "source": "academia-sinica",
+        "description": "師虎簋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_4.png",
+        "source": "academia-sinica",
+        "description": "史墻盤(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_5.png",
+        "source": "academia-sinica",
+        "description": "𨾊叔簋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_6.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_7.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_8.png",
+        "source": "academia-sinica",
+        "description": "五十二病方249(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_9.png",
+        "source": "academia-sinica",
+        "description": "春秋事語78(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_10.png",
+        "source": "academia-sinica",
+        "description": "元始鈁(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_11.png",
+        "source": "academia-sinica",
+        "description": "廣漢郡書刀二(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_12.png",
+        "source": "academia-sinica",
+        "description": "武梁祠畫象題字(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%93_13.png",
+        "source": "academia-sinica",
+        "description": "范式碑(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“荊，楚。木也。从艸，刑聲。，古文荊。”",
+    "variants": [
+      { "char": "荊", "parts": "艹刑", "source": "academia-sinica" },
+      { "char": "刅", "parts": "刃丶", "source": "academia-sinica" },
+      { "char": "刱", "parts": "井刅", "source": "academia-sinica" },
+      { "char": "㓝", "parts": "井刂", "source": "academia-sinica" }
+    ]
+  },
+  "𦮣": {
+    "_id": "5f523b00de54193ed873c0d9",
+    "char": "𦮣",
+    "codepoint": "U+26BA3",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮫": {
+    "_id": "5f523b00de54193ed873c0e1",
+    "char": "𦮫",
+    "codepoint": "U+26BAB",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬒": {
+    "_id": "5f523b00de54193ed873c048",
+    "char": "𦬒",
+    "codepoint": "U+26B12",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦭦": {
+    "_id": "5f523b00de54193ed873c09c",
+    "char": "𦭦",
+    "codepoint": "U+26B66",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦮈": {
+    "_id": "5f523b00de54193ed873c0be",
+    "char": "𦮈",
+    "codepoint": "U+26B88",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮎": {
+    "_id": "5f523b00de54193ed873c0c4",
+    "char": "𦮎",
+    "codepoint": "U+26B8E",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮒": {
+    "_id": "5f523b00de54193ed873c0c8",
+    "char": "𦮒",
+    "codepoint": "U+26B92",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮞": {
+    "_id": "5f523b00de54193ed873c0d4",
+    "char": "𦮞",
+    "codepoint": "U+26B9E",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮟": {
+    "_id": "5f523b00de54193ed873c0d5",
+    "char": "𦮟",
+    "codepoint": "U+26B9F",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮢": {
+    "_id": "5f523b00de54193ed873c0d8",
+    "char": "𦮢",
+    "codepoint": "U+26BA2",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮯": {
+    "_id": "5f523b00de54193ed873c0e5",
+    "char": "𦮯",
+    "codepoint": "U+26BAF",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬄": {
+    "_id": "5f523b00de54193ed873c03a",
+    "char": "𦬄",
+    "codepoint": "U+26B04",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬈": {
+    "_id": "5f523b00de54193ed873c03e",
+    "char": "𦬈",
+    "codepoint": "U+26B08",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬤": {
+    "_id": "5f523b00de54193ed873c05a",
+    "char": "𦬤",
+    "codepoint": "U+26B24",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬷": {
+    "_id": "5f523b00de54193ed873c06d",
+    "char": "𦬷",
+    "codepoint": "U+26B37",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭇": {
+    "_id": "5f523b00de54193ed873c07d",
+    "char": "𦭇",
+    "codepoint": "U+26B47",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭉": {
+    "_id": "5f523b00de54193ed873c07f",
+    "char": "𦭉",
+    "codepoint": "U+26B49",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭐": {
+    "_id": "5f523b00de54193ed873c086",
+    "char": "𦭐",
+    "codepoint": "U+26B50",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭿": {
+    "_id": "5f523b00de54193ed873c0b5",
+    "char": "𦭿",
+    "codepoint": "U+26B7F",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮁": {
+    "_id": "5f523b00de54193ed873c0b7",
+    "char": "𦮁",
+    "codepoint": "U+26B81",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮭": {
+    "_id": "5f523b00de54193ed873c0e3",
+    "char": "𦮭",
+    "codepoint": "U+26BAD",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬀": {
+    "_id": "5f523b00de54193ed873c036",
+    "char": "𦬀",
+    "codepoint": "U+26B00",
+    "strokeCount": 6,
+    "sources": ["unicode"]
+  },
+  "𦬊": {
+    "_id": "5f523b00de54193ed873c040",
+    "char": "𦬊",
+    "codepoint": "U+26B0A",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%8A_0.png",
+        "source": "academia-sinica",
+        "description": "子員廾夷土鼎(金)春秋晚期或戰國早期",
+        "type": "Bronze",
+        "era": "Early Warring States (~400 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%8A_1.png",
+        "source": "academia-sinica",
+        "description": "鄂君啟舟節(金)戰國中期",
+        "type": "Bronze",
+        "era": "Mid Warring States (~300 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%8A_2.png",
+        "source": "academia-sinica",
+        "description": "上(2).容.42(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%8A_3.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%8A_4.png",
+        "source": "academia-sinica",
+        "description": "熹.詩.出其東門(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“芸，艸也，似目宿。从艸，云聲。淮南子說，芸艸可以死復生。”",
+    "variants": [
+      { "char": "芸", "parts": "艹云", "source": "academia-sinica" },
+      { "char": "𦬊", "parts": "艹巳", "source": "academia-sinica" },
+      { "char": "蒷", "parts": "艹員", "source": "academia-sinica" }
+    ]
+  },
+  "𦬖": {
+    "_id": "5f523b00de54193ed873c04c",
+    "char": "𦬖",
+    "codepoint": "U+26B16",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬢": {
+    "_id": "5f523b00de54193ed873c058",
+    "char": "𦬢",
+    "codepoint": "U+26B22",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬥": {
+    "_id": "5f523b00de54193ed873c05b",
+    "char": "𦬥",
+    "codepoint": "U+26B25",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬰": {
+    "_id": "5f523b00de54193ed873c066",
+    "char": "𦬰",
+    "codepoint": "U+26B30",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬿": {
+    "_id": "5f523b00de54193ed873c075",
+    "char": "𦬿",
+    "codepoint": "U+26B3F",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭀": {
+    "_id": "5f523b00de54193ed873c076",
+    "char": "𦭀",
+    "codepoint": "U+26B40",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭋": {
+    "_id": "5f523b00de54193ed873c081",
+    "char": "𦭋",
+    "codepoint": "U+26B4B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭖": {
+    "_id": "5f523b00de54193ed873c08c",
+    "char": "𦭖",
+    "codepoint": "U+26B56",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭰": {
+    "_id": "5f523b00de54193ed873c0a6",
+    "char": "𦭰",
+    "codepoint": "U+26B70",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭵": {
+    "_id": "5f523b00de54193ed873c0ab",
+    "char": "𦭵",
+    "codepoint": "U+26B75",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮄": {
+    "_id": "5f523b00de54193ed873c0ba",
+    "char": "𦮄",
+    "codepoint": "U+26B84",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮕": {
+    "_id": "5f523b00de54193ed873c0cb",
+    "char": "𦮕",
+    "codepoint": "U+26B95",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮖": {
+    "_id": "5f523b00de54193ed873c0cc",
+    "char": "𦮖",
+    "codepoint": "U+26B96",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮘": {
+    "_id": "5f523b00de54193ed873c0ce",
+    "char": "𦮘",
+    "codepoint": "U+26B98",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮠": {
+    "_id": "5f523b00de54193ed873c0d6",
+    "char": "𦮠",
+    "codepoint": "U+26BA0",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮿": {
+    "_id": "5f523b00de54193ed873c0f5",
+    "char": "𦮿",
+    "codepoint": "U+26BBF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬐": {
+    "_id": "5f523b00de54193ed873c046",
+    "char": "𦬐",
+    "codepoint": "U+26B10",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬩": {
+    "_id": "5f523b00de54193ed873c05f",
+    "char": "𦬩",
+    "codepoint": "U+26B29",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬼": {
+    "_id": "5f523b00de54193ed873c072",
+    "char": "𦬼",
+    "codepoint": "U+26B3C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦬾": {
+    "_id": "5f523b00de54193ed873c074",
+    "char": "𦬾",
+    "codepoint": "U+26B3E",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭑": {
+    "_id": "5f523b00de54193ed873c087",
+    "char": "𦭑",
+    "codepoint": "U+26B51",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭬": {
+    "_id": "5f523b00de54193ed873c0a2",
+    "char": "𦭬",
+    "codepoint": "U+26B6C",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭶": {
+    "_id": "5f523b00de54193ed873c0ac",
+    "char": "𦭶",
+    "codepoint": "U+26B76",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮊": {
+    "_id": "5f523b00de54193ed873c0c0",
+    "char": "𦮊",
+    "codepoint": "U+26B8A",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮔": {
+    "_id": "5f523b00de54193ed873c0ca",
+    "char": "𦮔",
+    "codepoint": "U+26B94",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮛": {
+    "_id": "5f523b00de54193ed873c0d1",
+    "char": "𦮛",
+    "codepoint": "U+26B9B",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮰": {
+    "_id": "5f523b00de54193ed873c0e6",
+    "char": "𦮰",
+    "codepoint": "U+26BB0",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬇": {
+    "_id": "5f523b00de54193ed873c03d",
+    "char": "𦬇",
+    "codepoint": "U+26B07",
+    "strokeCount": 7,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_0.png",
+        "source": "academia-sinica",
+        "description": "亞共覃父乙簋(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_1.png",
+        "source": "academia-sinica",
+        "description": "師䢅鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_2.png",
+        "source": "academia-sinica",
+        "description": "禹鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_3.png",
+        "source": "academia-sinica",
+        "description": "楚王酓肯簠(金)戰國晚期",
+        "type": "Bronze",
+        "era": "Late Warring States (~250 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_4.png",
+        "source": "academia-sinica",
+        "description": "包2.239(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_5.png",
+        "source": "academia-sinica",
+        "description": "帛甲7.5(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_6.png",
+        "source": "academia-sinica",
+        "description": "郭.六.22(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_7.png",
+        "source": "academia-sinica",
+        "description": "郭.六.26(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_8.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_9.png",
+        "source": "academia-sinica",
+        "description": "說文‧共部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_10.png",
+        "source": "academia-sinica",
+        "description": "睡虎地簡24.24(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_11.png",
+        "source": "academia-sinica",
+        "description": "老子甲後195(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_12.png",
+        "source": "academia-sinica",
+        "description": "老子甲後195(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_13.png",
+        "source": "academia-sinica",
+        "description": "流沙簡.簡牘3.23(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%87_14.png",
+        "source": "academia-sinica",
+        "description": "華山廟碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“共，同也。从廿、廾。，古文共。”",
+    "variants": [{ "char": "共", "parts": "八", "source": "academia-sinica" }]
+  },
+  "𦬔": {
+    "_id": "5f523b00de54193ed873c04a",
+    "char": "𦬔",
+    "codepoint": "U+26B14",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬕": {
+    "_id": "5f523b00de54193ed873c04b",
+    "char": "𦬕",
+    "codepoint": "U+26B15",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%95_0.png",
+        "source": "academia-sinica",
+        "description": "中廾侯簋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%95_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%95_2.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，艸也。从艸，中聲。”",
+    "variants": [{ "char": "𦬕", "parts": "艹中", "source": "academia-sinica" }]
+  },
+  "𦬧": {
+    "_id": "5f523b00de54193ed873c05d",
+    "char": "𦬧",
+    "codepoint": "U+26B27",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_0.png",
+        "source": "academia-sinica",
+        "description": "菁1.1(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_1.png",
+        "source": "academia-sinica",
+        "description": "麥方鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_2.png",
+        "source": "academia-sinica",
+        "description": "史墻盤(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_3.png",
+        "source": "academia-sinica",
+        "description": "郭.語3.62(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_4.png",
+        "source": "academia-sinica",
+        "description": "郭.語4.23(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_5.png",
+        "source": "academia-sinica",
+        "description": "天卜(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_6.png",
+        "source": "academia-sinica",
+        "description": "郭.六.30(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_7.png",
+        "source": "academia-sinica",
+        "description": "郭.語3.6(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_8.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_9.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_10.png",
+        "source": "academia-sinica",
+        "description": "說文‧又部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_11.png",
+        "source": "academia-sinica",
+        "description": "老子乙前145下(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_12.png",
+        "source": "academia-sinica",
+        "description": "定縣竹簡91(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_13.png",
+        "source": "academia-sinica",
+        "description": "仙集題字(隸)東漢至魏晉",
+        "type": "Clerical",
+        "era": "Jin dynasty (266-420 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%A7_14.png",
+        "source": "academia-sinica",
+        "description": "熹.易.損(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“友，同志為友。从二又，相交友也。，古文友。。亦古文友。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "高鴻縉《中國字例》：“字从二又（手）合作，原為動詞，周末漸與朋字同稱，遂為名詞。”"
+      }
+    ],
+    "variants": [
+      { "char": "友", "parts": "𠂇又", "source": "academia-sinica" },
+      { "char": "", "parts": "友日", "source": "academia-sinica" },
+      { "char": "𦫹", "parts": "", "source": "academia-sinica" },
+      { "char": "𦐮", "parts": "𣅀", "source": "academia-sinica" }
+    ]
+  },
+  "𦬽": {
+    "_id": "5f523b00de54193ed873c073",
+    "char": "𦬽",
+    "codepoint": "U+26B3D",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭾": {
+    "_id": "5f523b00de54193ed873c0b4",
+    "char": "𦭾",
+    "codepoint": "U+26B7E",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮏": {
+    "_id": "5f523b00de54193ed873c0c5",
+    "char": "𦮏",
+    "codepoint": "U+26B8F",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_0.png",
+        "source": "academia-sinica",
+        "description": "鐵168.3(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_1.png",
+        "source": "academia-sinica",
+        "description": "前2.5.2(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_2.png",
+        "source": "academia-sinica",
+        "description": "史次鼎(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_3.png",
+        "source": "academia-sinica",
+        "description": "次卣(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_4.png",
+        "source": "academia-sinica",
+        "description": "王子嬰次盧(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_5.png",
+        "source": "academia-sinica",
+        "description": "其次句鑃(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_6.png",
+        "source": "academia-sinica",
+        "description": "說文古文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_7.png",
+        "source": "academia-sinica",
+        "description": "說文‧欠部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_8.png",
+        "source": "academia-sinica",
+        "description": "睡.封49(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_9.png",
+        "source": "academia-sinica",
+        "description": "睡.語8(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_10.png",
+        "source": "academia-sinica",
+        "description": "睡.法57(隸)秦",
+        "type": "Clerical",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_11.png",
+        "source": "academia-sinica",
+        "description": "新嘉量二(篆)新莽",
+        "type": "Seal",
+        "era": "Xin dynasty (9-23 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_12.png",
+        "source": "academia-sinica",
+        "description": "武榮碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%8F_13.png",
+        "source": "academia-sinica",
+        "description": "熹.易.夬(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“次，不前不精也。从欠，二聲。，古文次。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "王筠句讀：“不前者，逗留不進也。精者，擇也。不擇，則粗，是次也。”朱駿聲通訓定聲：“从欠从二，會意，二亦聲。”"
+      }
+    ],
+    "variants": [{ "char": "次", "parts": "二欠", "source": "academia-sinica" }]
+  },
+  "𦮐": {
+    "_id": "5f523b00de54193ed873c0c6",
+    "char": "𦮐",
+    "codepoint": "U+26B90",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮜": {
+    "_id": "5f523b00de54193ed873c0d2",
+    "char": "𦮜",
+    "codepoint": "U+26B9C",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮝": {
+    "_id": "5f523b00de54193ed873c0d3",
+    "char": "𦮝",
+    "codepoint": "U+26B9D",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮸": {
+    "_id": "5f523b00de54193ed873c0ee",
+    "char": "𦮸",
+    "codepoint": "U+26BB8",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦮼": {
+    "_id": "5f523b00de54193ed873c0f2",
+    "char": "𦮼",
+    "codepoint": "U+26BBC",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬂": {
+    "_id": "5f523b00de54193ed873c038",
+    "char": "𦬂",
+    "codepoint": "U+26B02",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬙": {
+    "_id": "5f523b00de54193ed873c04f",
+    "char": "𦬙",
+    "codepoint": "U+26B19",
+    "strokeCount": 8,
+    "tradVariants": ["𦿍"],
+    "sources": ["unicode"]
+  },
+  "𦬬": {
+    "_id": "5f523b00de54193ed873c062",
+    "char": "𦬬",
+    "codepoint": "U+26B2C",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦭆": {
+    "_id": "5f523b00de54193ed873c07c",
+    "char": "𦭆",
+    "codepoint": "U+26B46",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭲": {
+    "_id": "5f523b00de54193ed873c0a8",
+    "char": "𦭲",
+    "codepoint": "U+26B72",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭳": {
+    "_id": "5f523b00de54193ed873c0a9",
+    "char": "𦭳",
+    "codepoint": "U+26B73",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%B3_0.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "𦭳", "parts": "艹羽", "source": "academia-sinica" }]
+  },
+  "𦮌": {
+    "_id": "5f523b00de54193ed873c0c2",
+    "char": "𦮌",
+    "codepoint": "U+26B8C",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮪": {
+    "_id": "5f523b00de54193ed873c0e0",
+    "char": "𦮪",
+    "codepoint": "U+26BAA",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬝": {
+    "_id": "5f523b00de54193ed873c053",
+    "char": "𦬝",
+    "codepoint": "U+26B1D",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬻": {
+    "_id": "5f523b00de54193ed873c071",
+    "char": "𦬻",
+    "codepoint": "U+26B3B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭊": {
+    "_id": "5f523b00de54193ed873c080",
+    "char": "𦭊",
+    "codepoint": "U+26B4A",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭒": {
+    "_id": "5f523b00de54193ed873c088",
+    "char": "𦭒",
+    "codepoint": "U+26B52",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭗": {
+    "_id": "5f523b00de54193ed873c08d",
+    "char": "𦭗",
+    "codepoint": "U+26B57",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭴": {
+    "_id": "5f523b00de54193ed873c0aa",
+    "char": "𦭴",
+    "codepoint": "U+26B74",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%B4_0.png",
+        "source": "academia-sinica",
+        "description": "魏正始元年三角緣神獸鏡(隸)曹魏",
+        "type": "Clerical",
+        "era": "Cao Wei (Three Kingdoms: 222-280 AD)"
+      }
+    ],
+    "variants": [{ "char": "𦭴", "parts": "艹州", "source": "academia-sinica" }]
+  },
+  "𦮩": {
+    "_id": "5f523b00de54193ed873c0df",
+    "char": "𦮩",
+    "codepoint": "U+26BA9",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮹": {
+    "_id": "5f523b00de54193ed873c0ef",
+    "char": "𦮹",
+    "codepoint": "U+26BB9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦬅": {
+    "_id": "5f523b00de54193ed873c03b",
+    "char": "𦬅",
+    "codepoint": "U+26B05",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬮": {
+    "_id": "5f523b00de54193ed873c064",
+    "char": "𦬮",
+    "codepoint": "U+26B2E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦭜": {
+    "_id": "5f523b00de54193ed873c092",
+    "char": "𦭜",
+    "codepoint": "U+26B5C",
+    "strokeCount": 9,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%9C_0.png",
+        "source": "academia-sinica",
+        "description": "包簽(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%9C_1.png",
+        "source": "academia-sinica",
+        "description": "包2.258(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%9C_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AD%9C_3.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“芰，蔆也。从艸，支聲。杜林說：芰从多。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "桂馥義證：“芰從多者，多，聲也。……《論語》：‘多見其不知量也。’疏云：‘古人多祇同音。’本書移、栘竝從多聲。”"
+      }
+    ],
+    "variants": [
+      { "char": "芰", "parts": "艹支", "source": "academia-sinica" },
+      { "char": "茤", "parts": "艹多", "source": "academia-sinica" },
+      { "char": "𦭜", "parts": "艹只", "source": "academia-sinica" },
+      { "char": "", "parts": "艹枳", "source": "academia-sinica" }
+    ]
+  },
+  "𦭠": {
+    "_id": "5f523b00de54193ed873c096",
+    "char": "𦭠",
+    "codepoint": "U+26B60",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭫": {
+    "_id": "5f523b00de54193ed873c0a1",
+    "char": "𦭫",
+    "codepoint": "U+26B6B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭱": {
+    "_id": "5f523b00de54193ed873c0a7",
+    "char": "𦭱",
+    "codepoint": "U+26B71",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦭽": {
+    "_id": "5f523b00de54193ed873c0b3",
+    "char": "𦭽",
+    "codepoint": "U+26B7D",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮀": {
+    "_id": "5f523b00de54193ed873c0b6",
+    "char": "𦮀",
+    "codepoint": "U+26B80",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮅": {
+    "_id": "5f523b00de54193ed873c0bb",
+    "char": "𦮅",
+    "codepoint": "U+26B85",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮆": {
+    "_id": "5f523b00de54193ed873c0bc",
+    "char": "𦮆",
+    "codepoint": "U+26B86",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮑": {
+    "_id": "5f523b00de54193ed873c0c7",
+    "char": "𦮑",
+    "codepoint": "U+26B91",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮤": {
+    "_id": "5f523b00de54193ed873c0da",
+    "char": "𦮤",
+    "codepoint": "U+26BA4",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦬉": {
+    "_id": "5f523b00de54193ed873c03f",
+    "char": "𦬉",
+    "codepoint": "U+26B09",
+    "strokeCount": 7,
+    "sources": ["unicode"]
+  },
+  "𦬓": {
+    "_id": "5f523b00de54193ed873c049",
+    "char": "𦬓",
+    "codepoint": "U+26B13",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬞": {
+    "_id": "5f523b00de54193ed873c054",
+    "char": "𦬞",
+    "codepoint": "U+26B1E",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬦": {
+    "_id": "5f523b00de54193ed873c05c",
+    "char": "𦬦",
+    "codepoint": "U+26B26",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬨": {
+    "_id": "5f523b00de54193ed873c05e",
+    "char": "𦬨",
+    "codepoint": "U+26B28",
+    "strokeCount": 8,
+    "sources": ["unicode"]
+  },
+  "𦬫": {
+    "_id": "5f523b00de54193ed873c061",
+    "char": "𦬫",
+    "codepoint": "U+26B2B",
+    "strokeCount": 8,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%AB_0.png",
+        "source": "academia-sinica",
+        "description": "郭.性.22(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AC%AB_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "𦬫", "parts": "艹犬", "source": "academia-sinica" }]
+  },
+  "𦭛": {
+    "_id": "5f523b00de54193ed873c091",
+    "char": "𦭛",
+    "codepoint": "U+26B5B",
+    "strokeCount": 9,
+    "sources": ["unicode"]
+  },
+  "𦭭": {
+    "_id": "5f523b00de54193ed873c0a3",
+    "char": "𦭭",
+    "codepoint": "U+26B6D",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦮂": {
+    "_id": "5f523b00de54193ed873c0b8",
+    "char": "𦮂",
+    "codepoint": "U+26B82",
+    "strokeCount": 10,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%82_0.png",
+        "source": "academia-sinica",
+        "description": "包2.40(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%82_1.png",
+        "source": "academia-sinica",
+        "description": "包2.201(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%82_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%82_3.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AE%82_4.png",
+        "source": "academia-sinica",
+        "description": "鄭固碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“蓍，蒿屬。生十歲，百莖。《易》以為數：天子蓍九尺，諸侯七尺，大夫五尺，士三尺。从艸，耆聲。”",
+    "variants": [{ "char": "蓍", "parts": "艹耆", "source": "academia-sinica" }]
+  },
+  "𦮲": {
+    "_id": "5f523b00de54193ed873c0e8",
+    "char": "𦮲",
+    "codepoint": "U+26BB2",
+    "strokeCount": 10,
+    "sources": ["unicode"]
+  },
+  "𦯣": {
+    "_id": "5f523b00de54193ed873c119",
+    "char": "𦯣",
+    "codepoint": "U+26BE3",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯁": {
+    "_id": "5f523b00de54193ed873c0f7",
+    "char": "𦯁",
+    "codepoint": "U+26BC1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯄": {
+    "_id": "5f523b00de54193ed873c0fa",
+    "char": "𦯄",
+    "codepoint": "U+26BC4",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%84_0.png",
+        "source": "academia-sinica",
+        "description": "宋公差戈(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%84_1.png",
+        "source": "academia-sinica",
+        "description": "郭.六.12(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%84_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%84_3.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“茆，鳧葵也。从艸，卯聲。《詩》曰：‘言釆其茆。’”",
+    "variants": [{ "char": "茆", "parts": "艹卯", "source": "academia-sinica" }]
+  },
+  "𦯉": {
+    "_id": "5f523b00de54193ed873c0ff",
+    "char": "𦯉",
+    "codepoint": "U+26BC9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯋": {
+    "_id": "5f523b00de54193ed873c101",
+    "char": "𦯋",
+    "codepoint": "U+26BCB",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%8B_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，萹筑也。从艸，筑省聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "《正字通．艸部》：“𦯋，筑本字。”" }],
+    "variants": [{ "char": "茿", "parts": "艹巩", "source": "academia-sinica" }]
+  },
+  "𦯌": {
+    "_id": "5f523b00de54193ed873c102",
+    "char": "𦯌",
+    "codepoint": "U+26BCC",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%8C_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%8C_1.png",
+        "source": "academia-sinica",
+        "description": "孫臏141(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%8C_2.png",
+        "source": "academia-sinica",
+        "description": "徐美人墓志(隸)西晉",
+        "type": "Clerical",
+        "era": "Western Jin dynasty (266-316 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，杜榮也。从艸，心聲。”",
+    "variants": [{ "char": "莣", "parts": "艹忘", "source": "academia-sinica" }]
+  },
+  "𦯒": {
+    "_id": "5f523b00de54193ed873c108",
+    "char": "𦯒",
+    "codepoint": "U+26BD2",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯖": {
+    "_id": "5f523b00de54193ed873c10c",
+    "char": "𦯖",
+    "codepoint": "U+26BD6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯦": {
+    "_id": "5f523b00de54193ed873c11c",
+    "char": "𦯦",
+    "codepoint": "U+26BE6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯃": {
+    "_id": "5f523b00de54193ed873c0f9",
+    "char": "𦯃",
+    "codepoint": "U+26BC3",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯊": {
+    "_id": "5f523b00de54193ed873c100",
+    "char": "𦯊",
+    "codepoint": "U+26BCA",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯎": {
+    "_id": "5f523b00de54193ed873c104",
+    "char": "𦯎",
+    "codepoint": "U+26BCE",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯐": {
+    "_id": "5f523b00de54193ed873c106",
+    "char": "𦯐",
+    "codepoint": "U+26BD0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯛": {
+    "_id": "5f523b00de54193ed873c111",
+    "char": "𦯛",
+    "codepoint": "U+26BDB",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯳": {
+    "_id": "5f523b00de54193ed873c129",
+    "char": "𦯳",
+    "codepoint": "U+26BF3",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯴": {
+    "_id": "5f523b00de54193ed873c12a",
+    "char": "𦯴",
+    "codepoint": "U+26BF4",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯡": {
+    "_id": "5f523b00de54193ed873c117",
+    "char": "𦯡",
+    "codepoint": "U+26BE1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯺": {
+    "_id": "5f523b00de54193ed873c130",
+    "char": "𦯺",
+    "codepoint": "U+26BFA",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯔": {
+    "_id": "5f523b00de54193ed873c10a",
+    "char": "𦯔",
+    "codepoint": "U+26BD4",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯠": {
+    "_id": "5f523b00de54193ed873c116",
+    "char": "𦯠",
+    "codepoint": "U+26BE0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯕": {
+    "_id": "5f523b00de54193ed873c10b",
+    "char": "𦯕",
+    "codepoint": "U+26BD5",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯪": {
+    "_id": "5f523b00de54193ed873c120",
+    "char": "𦯪",
+    "codepoint": "U+26BEA",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯯": {
+    "_id": "5f523b00de54193ed873c125",
+    "char": "𦯯",
+    "codepoint": "U+26BEF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯰": {
+    "_id": "5f523b00de54193ed873c126",
+    "char": "𦯰",
+    "codepoint": "U+26BF0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯤": {
+    "_id": "5f523b00de54193ed873c11a",
+    "char": "𦯤",
+    "codepoint": "U+26BE4",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯮": {
+    "_id": "5f523b00de54193ed873c124",
+    "char": "𦯮",
+    "codepoint": "U+26BEE",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯂": {
+    "_id": "5f523b00de54193ed873c0f8",
+    "char": "𦯂",
+    "codepoint": "U+26BC2",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯏": {
+    "_id": "5f523b00de54193ed873c105",
+    "char": "𦯏",
+    "codepoint": "U+26BCF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯬": {
+    "_id": "5f523b00de54193ed873c122",
+    "char": "𦯬",
+    "codepoint": "U+26BEC",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯭": {
+    "_id": "5f523b00de54193ed873c123",
+    "char": "𦯭",
+    "codepoint": "U+26BED",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯱": {
+    "_id": "5f523b00de54193ed873c127",
+    "char": "𦯱",
+    "codepoint": "U+26BF1",
+    "strokeCount": 12,
+    "sources": ["unicode"]
+  },
+  "𦯙": {
+    "_id": "5f523b00de54193ed873c10f",
+    "char": "𦯙",
+    "codepoint": "U+26BD9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯝": {
+    "_id": "5f523b00de54193ed873c113",
+    "char": "𦯝",
+    "codepoint": "U+26BDD",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯩": {
+    "_id": "5f523b00de54193ed873c11f",
+    "char": "𦯩",
+    "codepoint": "U+26BE9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯆": {
+    "_id": "5f523b00de54193ed873c0fc",
+    "char": "𦯆",
+    "codepoint": "U+26BC6",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%86_0.png",
+        "source": "academia-sinica",
+        "description": "宋公差戈(金)春秋晚期",
+        "type": "Bronze",
+        "era": "Late Spring and Autumn (~500 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%86_1.png",
+        "source": "academia-sinica",
+        "description": "郭.六.12(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%86_2.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%86_3.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“茆，鳧葵也。从艸，卯聲。《詩》曰：‘言釆其茆。’”",
+    "variants": [{ "char": "茆", "parts": "艹卯", "source": "academia-sinica" }]
+  },
+  "𦯇": {
+    "_id": "5f523b00de54193ed873c0fd",
+    "char": "𦯇",
+    "codepoint": "U+26BC7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯜": {
+    "_id": "5f523b00de54193ed873c112",
+    "char": "𦯜",
+    "codepoint": "U+26BDC",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯶": {
+    "_id": "5f523b00de54193ed873c12c",
+    "char": "𦯶",
+    "codepoint": "U+26BF6",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯾": {
+    "_id": "5f523b00de54193ed873c134",
+    "char": "𦯾",
+    "codepoint": "U+26BFE",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯗": {
+    "_id": "5f523b00de54193ed873c10d",
+    "char": "𦯗",
+    "codepoint": "U+26BD7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯼": {
+    "_id": "5f523b00de54193ed873c132",
+    "char": "𦯼",
+    "codepoint": "U+26BFC",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯚": {
+    "_id": "5f523b00de54193ed873c110",
+    "char": "𦯚",
+    "codepoint": "U+26BDA",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9A_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，蔞，果蓏也。从艸，聲。”",
+    "variants": [{ "char": "䒷", "parts": "艹", "source": "academia-sinica" }]
+  },
+  "𦯢": {
+    "_id": "5f523b00de54193ed873c118",
+    "char": "𦯢",
+    "codepoint": "U+26BE2",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯧": {
+    "_id": "5f523b00de54193ed873c11d",
+    "char": "𦯧",
+    "codepoint": "U+26BE7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯨": {
+    "_id": "5f523b00de54193ed873c11e",
+    "char": "𦯨",
+    "codepoint": "U+26BE8",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯍": {
+    "_id": "5f523b00de54193ed873c103",
+    "char": "𦯍",
+    "codepoint": "U+26BCD",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯀": {
+    "_id": "5f523b00de54193ed873c0f6",
+    "char": "𦯀",
+    "codepoint": "U+26BC0",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯞": {
+    "_id": "5f523b00de54193ed873c114",
+    "char": "𦯞",
+    "codepoint": "U+26BDE",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_0.png",
+        "source": "academia-sinica",
+        "description": "鐵2.4(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_1.png",
+        "source": "academia-sinica",
+        "description": "前5.10.1(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_2.png",
+        "source": "academia-sinica",
+        "description": "𤰇盤(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_3.png",
+        "source": "academia-sinica",
+        "description": "𤰇冊戉父辛卣(金)商代晚期",
+        "type": "Bronze",
+        "era": "Late Shang dynasty (~1100 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_4.png",
+        "source": "academia-sinica",
+        "description": "羖簋蓋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_5.png",
+        "source": "academia-sinica",
+        "description": "毛公鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_6.png",
+        "source": "academia-sinica",
+        "description": "番生簋蓋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_7.png",
+        "source": "academia-sinica",
+        "description": "曾37(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_8.png",
+        "source": "academia-sinica",
+        "description": "望1.54(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%9E_9.png",
+        "source": "academia-sinica",
+        "description": "說文‧用部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，具也。从用，茍省。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "吳大澂《字說》：“𤰈為盛矢之器，後人加牛為𤛟，又通服。今經典通用服，而𤰈字之古義廢。”王國維《觀堂集林》以為𤰈即“古箙字”。"
+      }
+    ],
+    "variants": [
+      { "char": "𤰈", "parts": "用", "source": "academia-sinica" },
+      { "char": "𤰇", "parts": "用", "source": "academia-sinica" },
+      { "char": "箙", "parts": "服", "source": "academia-sinica" }
+    ]
+  },
+  "𦯥": {
+    "_id": "5f523b00de54193ed873c11b",
+    "char": "𦯥",
+    "codepoint": "U+26BE5",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯫": {
+    "_id": "5f523b00de54193ed873c121",
+    "char": "𦯫",
+    "codepoint": "U+26BEB",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯻": {
+    "_id": "5f523b00de54193ed873c131",
+    "char": "𦯻",
+    "codepoint": "U+26BFB",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯽": {
+    "_id": "5f523b00de54193ed873c133",
+    "char": "𦯽",
+    "codepoint": "U+26BFD",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯟": {
+    "_id": "5f523b00de54193ed873c115",
+    "char": "𦯟",
+    "codepoint": "U+26BDF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯸": {
+    "_id": "5f523b00de54193ed873c12e",
+    "char": "𦯸",
+    "codepoint": "U+26BF8",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯿": {
+    "_id": "5f523b00de54193ed873c135",
+    "char": "𦯿",
+    "codepoint": "U+26BFF",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯅": {
+    "_id": "5f523b00de54193ed873c0fb",
+    "char": "𦯅",
+    "codepoint": "U+26BC5",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯈": {
+    "_id": "5f523b00de54193ed873c0fe",
+    "char": "𦯈",
+    "codepoint": "U+26BC8",
+    "strokeCount": 11,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%F0%A6%AF%88_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧艸部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，覆也。从艸，省聲。”",
+    "variants": [{ "char": "𦯈", "parts": "艹𠬶", "source": "academia-sinica" }]
+  },
+  "𦯑": {
+    "_id": "5f523b00de54193ed873c107",
+    "char": "𦯑",
+    "codepoint": "U+26BD1",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯓": {
+    "_id": "5f523b00de54193ed873c109",
+    "char": "𦯓",
+    "codepoint": "U+26BD3",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯘": {
+    "_id": "5f523b00de54193ed873c10e",
+    "char": "𦯘",
+    "codepoint": "U+26BD8",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯵": {
+    "_id": "5f523b00de54193ed873c12b",
+    "char": "𦯵",
+    "codepoint": "U+26BF5",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯹": {
+    "_id": "5f523b00de54193ed873c12f",
+    "char": "𦯹",
+    "codepoint": "U+26BF9",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯲": {
+    "_id": "5f523b00de54193ed873c128",
+    "char": "𦯲",
+    "codepoint": "U+26BF2",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  },
+  "𦯷": {
+    "_id": "5f523b00de54193ed873c12d",
+    "char": "𦯷",
+    "codepoint": "U+26BF7",
+    "strokeCount": 11,
+    "sources": ["unicode"]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "◎": {
+    "_id": "5f523b00de54193ed8745643",
+    "char": "◎",
+    "codepoint": "U+2E97",
+    "sources": ["unicode", "dong-chinese"],
+    "hint": "Placeholder for components that are unknown objects or for which a character does not exist.",
+    "statistics": { "hskLevel": 0, "topWords": [] },
+    "gloss": "characterless component",
+    "isVerified": true
+  }
+}

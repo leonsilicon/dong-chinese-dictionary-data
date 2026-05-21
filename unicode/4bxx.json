@@ -1,0 +1,3322 @@
+{
+  "䬥": {
+    "_id": "5f523afdde54193ed872fedb",
+    "char": "䬥",
+    "codepoint": "U+4B25",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 饐) cooked food which has become mouldy"
+  },
+  "䬩": {
+    "_id": "5f523afdde54193ed872fedf",
+    "char": "䬩",
+    "codepoint": "U+4B29",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as 齋) to abstain from meat"
+  },
+  "䬭": {
+    "_id": "5f523afdde54193ed872fee3",
+    "char": "䬭",
+    "codepoint": "U+4B2D",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 饕) name of a legendary ferocious animal"
+  },
+  "䬿": {
+    "_id": "5f523afdde54193ed872fef5",
+    "char": "䬿",
+    "codepoint": "U+4B3F",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "small"
+  },
+  "䭁": {
+    "_id": "5f523afdde54193ed872fef7",
+    "char": "䭁",
+    "codepoint": "U+4B41",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "stinking smell"
+  },
+  "䭔": {
+    "_id": "5f523afdde54193ed872ff0a",
+    "char": "䭔",
+    "codepoint": "U+4B54",
+    "strokeCount": 19,
+    "simpVariants": ["𫗰"],
+    "sources": ["unicode"],
+    "gloss": "steamed dumplings"
+  },
+  "䭥": {
+    "_id": "5f523afdde54193ed872ff1b",
+    "char": "䭥",
+    "codepoint": "U+4B65",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form) a bait"
+  },
+  "䮷": {
+    "_id": "5f523afdde54193ed872ff6d",
+    "char": "䮷",
+    "codepoint": "U+4BB7",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "movement of a horse"
+  },
+  "䮺": {
+    "_id": "5f523afdde54193ed872ff70",
+    "char": "䮺",
+    "codepoint": "U+4BBA",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "luxuriant of the grass"
+  },
+  "䮾": {
+    "_id": "5f523afdde54193ed872ff74",
+    "char": "䮾",
+    "codepoint": "U+4BBE",
+    "strokeCount": 26,
+    "simpVariants": ["𩧪"],
+    "sources": ["unicode"],
+    "gloss": "(same as 龐) huge"
+  },
+  "䮿": {
+    "_id": "5f523afdde54193ed872ff75",
+    "char": "䮿",
+    "codepoint": "U+4BBF",
+    "strokeCount": 27,
+    "simpVariants": ["𬴏"],
+    "sources": ["unicode"],
+    "gloss": "(same as 蹇) lame"
+  },
+  "䯃": {
+    "_id": "5f523afdde54193ed872ff79",
+    "char": "䯃",
+    "codepoint": "U+4BC3",
+    "strokeCount": 16,
+    "tradVariants": ["𩣑"],
+    "sources": ["unicode"],
+    "gloss": "(same as U+978D 鞍) saddle"
+  },
+  "䯅": {
+    "_id": "5f523afdde54193ed872ff7b",
+    "char": "䯅",
+    "codepoint": "U+4BC5",
+    "strokeCount": 20,
+    "tradVariants": ["䯀"],
+    "sources": ["unicode"],
+    "gloss": "a swift horse"
+  },
+  "䯓": {
+    "_id": "5f523afdde54193ed872ff89",
+    "char": "䯓",
+    "codepoint": "U+4BD3",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "the head bone of livestock"
+  },
+  "䯯": {
+    "_id": "5f523afdde54193ed872ffa5",
+    "char": "䯯",
+    "codepoint": "U+4BEF",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 髿) hang down of the hair"
+  },
+  "䯳": {
+    "_id": "5f523afdde54193ed872ffa9",
+    "char": "䯳",
+    "codepoint": "U+4BF3",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 鬆) (said of hair) loosely arranged"
+  },
+  "䯶": {
+    "_id": "5f523afdde54193ed872ffac",
+    "char": "䯶",
+    "codepoint": "U+4BF6",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 鬘) fair of hair"
+  },
+  "䯾": {
+    "_id": "5f523afdde54193ed872ffb4",
+    "char": "䯾",
+    "codepoint": "U+4BFE",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%BE_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，髮多也。从髟，周聲。”",
+    "variants": [{ "char": "䯾", "parts": "髟周", "source": "academia-sinica" }],
+    "gloss": "hairy"
+  },
+  "䬖": {
+    "_id": "5f523afdde54193ed872fecc",
+    "char": "䬖",
+    "codepoint": "U+4B16",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as U+4B1D 䬝) a storm"
+  },
+  "䬚": {
+    "_id": "5f523afdde54193ed872fed0",
+    "char": "䬚",
+    "codepoint": "U+4B1A",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 颿) to move fast"
+  },
+  "䬛": {
+    "_id": "5f523afdde54193ed872fed1",
+    "char": "䬛",
+    "codepoint": "U+4B1B",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "the roaring of the wind"
+  },
+  "䬤": {
+    "_id": "5f523afdde54193ed872feda",
+    "char": "䬤",
+    "codepoint": "U+4B24",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A4_0.png",
+        "source": "academia-sinica",
+        "description": "史墻盤(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A4_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“饡，以羹澆飯也。从食，贊聲。”",
+    "variants": [
+      { "char": "饡", "parts": "飠贊", "source": "academia-sinica" },
+      { "char": "䬤", "parts": "尸食", "source": "academia-sinica" }
+    ],
+    "gloss": "(ancient form of 饡) to put the thick soup or broth on top of the rice (same as 饘) thick congee or porridge"
+  },
+  "䬱": {
+    "_id": "5f523afdde54193ed872fee7",
+    "char": "䬱",
+    "codepoint": "U+4B31",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "coarse grains such as corn"
+  },
+  "䬻": {
+    "_id": "5f523afdde54193ed872fef1",
+    "char": "䬻",
+    "codepoint": "U+4B3B",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(non-classical of 餞) to entertain a departing friend"
+  },
+  "䭓": {
+    "_id": "5f523afdde54193ed872ff09",
+    "char": "䭓",
+    "codepoint": "U+4B53",
+    "strokeCount": 19,
+    "simpVariants": ["𱃹"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%93_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，也。从食，豈聲。”",
+    "variants": [{ "char": "䭓", "parts": "飠豈", "source": "academia-sinica" }],
+    "gloss": "food (wheat gruel"
+  },
+  "䭮": {
+    "_id": "5f523afdde54193ed872ff24",
+    "char": "䭮",
+    "codepoint": "U+4B6E",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "jewelry"
+  },
+  "䮑": {
+    "_id": "5f523afdde54193ed872ff47",
+    "char": "䮑",
+    "codepoint": "U+4B91",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%91_0.png",
+        "source": "academia-sinica",
+        "description": "曾147(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "䮑", "parts": "馬寽", "source": "academia-sinica" }],
+    "gloss": "a gray horse"
+  },
+  "䮟": {
+    "_id": "5f523afdde54193ed872ff55",
+    "char": "䮟",
+    "codepoint": "U+4B9F",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "big and tall (said of horse)"
+  },
+  "䮢": {
+    "_id": "5f523afdde54193ed872ff58",
+    "char": "䮢",
+    "codepoint": "U+4BA2",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a walking horse"
+  },
+  "䮤": {
+    "_id": "5f523afdde54193ed872ff5a",
+    "char": "䮤",
+    "codepoint": "U+4BA4",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%A4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，苑名。一曰馬白頟。从馬，隺聲。”",
+    "variants": [{ "char": "䮤", "parts": "馬隺", "source": "academia-sinica" }],
+    "gloss": "one of the 36 gardens in Han Dynasty"
+  },
+  "䮧": {
+    "_id": "5f523afdde54193ed872ff5d",
+    "char": "䮧",
+    "codepoint": "U+4BA7",
+    "strokeCount": 20,
+    "simpVariants": ["𱅠"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%A7_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%A7_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，馬毛長也。从馬，倝聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "段玉裁本作“馬長毛者也”，並注云：“‘者’字依《文選．長楊賦》注補。”"
+      }
+    ],
+    "variants": [{ "char": "䮧", "parts": "倝馬", "source": "academia-sinica" }],
+    "gloss": "long-hair horse"
+  },
+  "䮨": {
+    "_id": "5f523afdde54193ed872ff5e",
+    "char": "䮨",
+    "codepoint": "U+4BA8",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a piebald horse"
+  },
+  "䮮": {
+    "_id": "5f523afdde54193ed872ff64",
+    "char": "䮮",
+    "codepoint": "U+4BAE",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of mule"
+  },
+  "䮶": {
+    "_id": "5f523afdde54193ed872ff6c",
+    "char": "䮶",
+    "codepoint": "U+4BB6",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(same as 驫) herd of horses stampeding"
+  },
+  "䮸": {
+    "_id": "5f523afdde54193ed872ff6e",
+    "char": "䮸",
+    "codepoint": "U+4BB8",
+    "strokeCount": 23,
+    "simpVariants": ["𬳸"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，馬行徐而疾也。从馬，學省聲。”",
+    "variants": [{ "char": "䮸", "parts": "馬", "source": "academia-sinica" }],
+    "gloss": "to move slowly and then swiftly (said of a horse)"
+  },
+  "䮽": {
+    "_id": "5f523afdde54193ed872ff73",
+    "char": "䮽",
+    "codepoint": "U+4BBD",
+    "strokeCount": 25,
+    "simpVariants": ["𬴍"],
+    "sources": ["unicode"],
+    "gloss": "(same as 鑣) bit for a horse"
+  },
+  "䯿": {
+    "_id": "5f523afdde54193ed872ffb5",
+    "char": "䯿",
+    "codepoint": "U+4BFF",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a coiffure with a topknot"
+  },
+  "䬂": {
+    "_id": "5f523afdde54193ed872feb8",
+    "char": "䬂",
+    "codepoint": "U+4B02",
+    "strokeCount": 14,
+    "simpVariants": ["𬱸"],
+    "sources": ["unicode"],
+    "gloss": "breeze"
+  },
+  "䬢": {
+    "_id": "5f523afdde54193ed872fed8",
+    "char": "䬢",
+    "codepoint": "U+4B22",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "(same as 饕) gluttonous"
+  },
+  "䬰": {
+    "_id": "5f523afdde54193ed872fee6",
+    "char": "䬰",
+    "codepoint": "U+4B30",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "light refreshment"
+  },
+  "䬳": {
+    "_id": "5f523afdde54193ed872fee9",
+    "char": "䬳",
+    "codepoint": "U+4B33",
+    "strokeCount": 14,
+    "simpVariants": ["𱃷"],
+    "sources": ["unicode"],
+    "gloss": "cakes made of rice flour"
+  },
+  "䭚": {
+    "_id": "5f523afdde54193ed872ff10",
+    "char": "䭚",
+    "codepoint": "U+4B5A",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "(same as standard form 噇) to eat"
+  },
+  "䭹": {
+    "_id": "5f523afdde54193ed872ff2f",
+    "char": "䭹",
+    "codepoint": "U+4B79",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%B9_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%B9_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%B9_2.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，，馬怒皃。从馬，卬聲。”",
+    "variants": [{ "char": "䭹", "parts": "馬卬", "source": "academia-sinica" }],
+    "gloss": "movement of a horse"
+  },
+  "䮁": {
+    "_id": "5f523afdde54193ed872ff37",
+    "char": "䮁",
+    "codepoint": "U+4B81",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%81_0.png",
+        "source": "academia-sinica",
+        "description": "大師人鼎(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      }
+    ],
+    "variants": [{ "char": "䮁", "parts": "馬弁", "source": "academia-sinica" }],
+    "gloss": "(same as 駢) a pair of horses"
+  },
+  "䮈": {
+    "_id": "5f523afdde54193ed872ff3e",
+    "char": "䮈",
+    "codepoint": "U+4B88",
+    "strokeCount": 16,
+    "simpVariants": ["𬳾"],
+    "sources": ["unicode"],
+    "gloss": "(same as 馳) to go swiftly"
+  },
+  "䮗": {
+    "_id": "5f523afdde54193ed872ff4d",
+    "char": "䮗",
+    "codepoint": "U+4B97",
+    "strokeCount": 18,
+    "simpVariants": ["𬴁"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%97_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，馬頭有發赤色者。从馬，岸聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "姚文田、嚴可均校議：“䮗，小徐《韵會．十五翰》引作‘馬頭有白發色’，無‘者’字。按：《玉篇》、《廣韵》皆云：‘馬白頟至唇’，則‘白’字不誤，當作‘馬頭發白色’。”"
+      }
+    ],
+    "variants": [{ "char": "䮗", "parts": "馬岸", "source": "academia-sinica" }],
+    "gloss": "white from forehead to lips of a horse"
+  },
+  "䮯": {
+    "_id": "5f523afdde54193ed872ff65",
+    "char": "䮯",
+    "codepoint": "U+4BAF",
+    "strokeCount": 21,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%AF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%AF_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，駿馬，以壬申日死乘馬忌之，从馬敖聲。”",
+    "variants": [
+      { "char": "驁", "parts": "敖馬", "source": "academia-sinica" },
+      { "char": "䮯", "parts": "馬敖", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 驁) fine horse"
+  },
+  "䯄": {
+    "_id": "5f523afdde54193ed872ff7a",
+    "char": "䯄",
+    "codepoint": "U+4BC4",
+    "strokeCount": 17,
+    "tradVariants": ["騧"],
+    "sources": ["unicode"],
+    "gloss": "a piebald horse",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䯆": {
+    "_id": "5f523afdde54193ed872ff7c",
+    "char": "䯆",
+    "codepoint": "U+4BC6",
+    "strokeCount": 11,
+    "sources": ["unicode"],
+    "gloss": "(same as 骮) small and thin piece of bones"
+  },
+  "䯙": {
+    "_id": "5f523afdde54193ed872ff8f",
+    "char": "䯙",
+    "codepoint": "U+4BD9",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "(same as 髆) the five lowest pieces of bone of the spinal column"
+  },
+  "䯠": {
+    "_id": "5f523afdde54193ed872ff96",
+    "char": "䯠",
+    "codepoint": "U+4BE0",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "the five lowest pieces of bone of the spinal column"
+  },
+  "䯭": {
+    "_id": "5f523afdde54193ed872ffa3",
+    "char": "䯭",
+    "codepoint": "U+4BED",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "of nice and good hair"
+  },
+  "䯼": {
+    "_id": "5f523afdde54193ed872ffb2",
+    "char": "䯼",
+    "codepoint": "U+4BFC",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a coiffure with a topknot"
+  },
+  "䬯": {
+    "_id": "5f523afdde54193ed872fee5",
+    "char": "䬯",
+    "codepoint": "U+4B2F",
+    "strokeCount": 14,
+    "simpVariants": ["𬲫"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%AF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，相謁食麥也。从食，占聲。”",
+    "variants": [{ "char": "䬯", "parts": "飠占", "source": "academia-sinica" }],
+    "gloss": "to have congee (wheat gruel) with friends in old times"
+  },
+  "䭉": {
+    "_id": "5f523afdde54193ed872feff",
+    "char": "䭉",
+    "codepoint": "U+4B49",
+    "strokeCount": 18,
+    "simpVariants": ["𬳅"],
+    "sources": ["unicode"],
+    "gloss": "mashed beans"
+  },
+  "䭠": {
+    "_id": "5f523afdde54193ed872ff16",
+    "char": "䭠",
+    "codepoint": "U+4B60",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "a snack"
+  },
+  "䭡": {
+    "_id": "5f523afdde54193ed872ff17",
+    "char": "䭡",
+    "codepoint": "U+4B61",
+    "strokeCount": 23,
+    "simpVariants": ["𱄉"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%A1_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，秦人謂相謁而食麥曰。从食，聲。”",
+    "variants": [{ "char": "䭡", "parts": "飠㥯", "source": "academia-sinica" }],
+    "gloss": "food (wheat gruel"
+  },
+  "䭭": {
+    "_id": "5f523afdde54193ed872ff23",
+    "char": "䭭",
+    "codepoint": "U+4B6D",
+    "strokeCount": 18,
+    "simpVariants": ["𬱯"],
+    "sources": ["unicode"],
+    "gloss": "the eldest son"
+  },
+  "䭯": {
+    "_id": "5f523afdde54193ed872ff25",
+    "char": "䭯",
+    "codepoint": "U+4B6F",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 馞) strong sweet smell"
+  },
+  "䮅": {
+    "_id": "5f523afdde54193ed872ff3b",
+    "char": "䮅",
+    "codepoint": "U+4B85",
+    "strokeCount": 15,
+    "sources": ["unicode"]
+  },
+  "䮍": {
+    "_id": "5f523afdde54193ed872ff43",
+    "char": "䮍",
+    "codepoint": "U+4B8D",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 褭 裊) curling up"
+  },
+  "䮥": {
+    "_id": "5f523afdde54193ed872ff5b",
+    "char": "䮥",
+    "codepoint": "U+4BA5",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "color of the horse"
+  },
+  "䮴": {
+    "_id": "5f523afdde54193ed872ff6a",
+    "char": "䮴",
+    "codepoint": "U+4BB4",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "unstable walking"
+  },
+  "䮹": {
+    "_id": "5f523afdde54193ed872ff6f",
+    "char": "䮹",
+    "codepoint": "U+4BB9",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "an angry horse"
+  },
+  "䯊": {
+    "_id": "5f523afdde54193ed872ff80",
+    "char": "䯊",
+    "codepoint": "U+4BCA",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "the pelvis"
+  },
+  "䯎": {
+    "_id": "5f523afdde54193ed872ff84",
+    "char": "䯎",
+    "codepoint": "U+4BCE",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as 骭) shinbone"
+  },
+  "䬉": {
+    "_id": "5f523afdde54193ed872febf",
+    "char": "䬉",
+    "codepoint": "U+4B09",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "hot wind"
+  },
+  "䬓": {
+    "_id": "5f523afdde54193ed872fec9",
+    "char": "䬓",
+    "codepoint": "U+4B13",
+    "strokeCount": 18,
+    "simpVariants": ["𫗊"],
+    "sources": ["unicode"],
+    "gloss": "hurricane"
+  },
+  "䬝": {
+    "_id": "5f523afdde54193ed872fed3",
+    "char": "䬝",
+    "codepoint": "U+4B1D",
+    "strokeCount": 21,
+    "simpVariants": ["𩙯"],
+    "sources": ["unicode"],
+    "gloss": "(same as U+4B16 䬖) a storm"
+  },
+  "䭧": {
+    "_id": "5f523afdde54193ed872ff1d",
+    "char": "䭧",
+    "codepoint": "U+4B67",
+    "strokeCount": 26,
+    "sources": ["unicode"],
+    "gloss": "to feed a baby"
+  },
+  "䭬": {
+    "_id": "5f523afdde54193ed872ff22",
+    "char": "䭬",
+    "codepoint": "U+4B6C",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AC_0.png",
+        "source": "academia-sinica",
+        "description": "沈子它簋蓋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AC_1.png",
+        "source": "academia-sinica",
+        "description": "戈冬方鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AC_2.png",
+        "source": "academia-sinica",
+        "description": "卯簋蓋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AC_3.png",
+        "source": "academia-sinica",
+        "description": "公臣簋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AC_4.png",
+        "source": "academia-sinica",
+        "description": "說文‧首部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，下首也。从，旨聲。”",
+    "variants": [
+      { "char": "䭫", "parts": "旨首", "source": "academia-sinica" },
+      { "char": "頁", "parts": "頁", "source": "academia-sinica" },
+      { "char": "𩒨", "parts": "旨頁", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 䭫) (interchangeable 稽) to kowtow"
+  },
+  "䮐": {
+    "_id": "5f523afdde54193ed872ff46",
+    "char": "䮐",
+    "codepoint": "U+4B90",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 駉) in good condition"
+  },
+  "䮕": {
+    "_id": "5f523afdde54193ed872ff4b",
+    "char": "䮕",
+    "codepoint": "U+4B95",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "horse with white forehead"
+  },
+  "䯕": {
+    "_id": "5f523afdde54193ed872ff8b",
+    "char": "䯕",
+    "codepoint": "U+4BD5",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "bony"
+  },
+  "䯗": {
+    "_id": "5f523afdde54193ed872ff8d",
+    "char": "䯗",
+    "codepoint": "U+4BD7",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "(same as 髀) buttocks"
+  },
+  "䯟": {
+    "_id": "5f523afdde54193ed872ff95",
+    "char": "䯟",
+    "codepoint": "U+4BDF",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "bone"
+  },
+  "䯪": {
+    "_id": "5f523afdde54193ed872ffa0",
+    "char": "䯪",
+    "codepoint": "U+4BEA",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "big head"
+  },
+  "䯮": {
+    "_id": "5f523afdde54193ed872ffa4",
+    "char": "䯮",
+    "codepoint": "U+4BEE",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "dishevelled hair"
+  },
+  "䬔": {
+    "_id": "5f523afdde54193ed872feca",
+    "char": "䬔",
+    "codepoint": "U+4B14",
+    "strokeCount": 18,
+    "simpVariants": ["𱃞"],
+    "sources": ["unicode"],
+    "gloss": "hurricane"
+  },
+  "䬕": {
+    "_id": "5f523afdde54193ed872fecb",
+    "char": "䬕",
+    "codepoint": "U+4B15",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "sound of the wind"
+  },
+  "䬦": {
+    "_id": "5f523afdde54193ed872fedc",
+    "char": "䬦",
+    "codepoint": "U+4B26",
+    "strokeCount": 13,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_0.png",
+        "source": "academia-sinica",
+        "description": "甲752(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_1.png",
+        "source": "academia-sinica",
+        "description": "甲1971(甲)",
+        "type": "Oracle",
+        "era": "(~1250-1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_2.png",
+        "source": "academia-sinica",
+        "description": "頌簋蓋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_3.png",
+        "source": "academia-sinica",
+        "description": "圅皇父簋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_4.png",
+        "source": "academia-sinica",
+        "description": "秦公簋(金)春秋中期",
+        "type": "Bronze",
+        "era": "Qin dynasty (221-206 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%A6_5.png",
+        "source": "academia-sinica",
+        "description": "說文‧殳部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，揉屈也。从殳，从。，古文叀字。廏字从此。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "林義光《文源》：“按：‘㲃’為‘揉屈’……皆無考。”李孝定《甲骨文字集釋》：“按：‘𠧢’為‘𣪘’之初文，‘㲃’則合體象形，‘簋’則為增體象形，蓋从竹言其質，从皿舉其類……至許書‘𣪘’訓‘揉屈’，蓋因‘𣪘’之初誼已為後起之‘簋’所專。初誼既湮，遂以他字之義羼入，復誤以象手持匕柶之形為从‘殳’，遂有此義耳。”"
+      }
+    ],
+    "variants": [
+      { "char": "㲃", "parts": "𠧢殳", "source": "academia-sinica" },
+      { "char": "𣪘", "parts": "皀殳", "source": "academia-sinica" },
+      { "char": "𣪕", "parts": "㿝殳", "source": "academia-sinica" }
+    ],
+    "gloss": "food items merely arranged for display purpose only"
+  },
+  "䬲": {
+    "_id": "5f523afdde54193ed872fee8",
+    "char": "䬲",
+    "codepoint": "U+4B32",
+    "strokeCount": 14,
+    "simpVariants": ["𬲯"],
+    "sources": ["unicode"],
+    "gloss": "to eat to the half full"
+  },
+  "䬺": {
+    "_id": "5f523afdde54193ed872fef0",
+    "char": "䬺",
+    "codepoint": "U+4B3A",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "same as 䭐"
+  },
+  "䭨": {
+    "_id": "5f523afdde54193ed872ff1e",
+    "char": "䭨",
+    "codepoint": "U+4B68",
+    "strokeCount": 27,
+    "sources": ["unicode"],
+    "gloss": "(same as 䬽) wine poured in a libation"
+  },
+  "䭩": {
+    "_id": "5f523afdde54193ed872ff1f",
+    "char": "䭩",
+    "codepoint": "U+4B69",
+    "strokeCount": 28,
+    "sources": ["unicode"],
+    "gloss": "to feed a baby"
+  },
+  "䭿": {
+    "_id": "5f523afdde54193ed872ff35",
+    "char": "䭿",
+    "codepoint": "U+4B7F",
+    "strokeCount": 15,
+    "simpVariants": ["𩧭"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%BF_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，馬有疾足。从馬，失聲。”",
+    "variants": [{ "char": "䭿", "parts": "馬失", "source": "academia-sinica" }],
+    "gloss": "a swift horse"
+  },
+  "䮚": {
+    "_id": "5f523afdde54193ed872ff50",
+    "char": "䮚",
+    "codepoint": "U+4B9A",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%9A_0.png",
+        "source": "academia-sinica",
+        "description": "北海相景君銘陰(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "variants": [{ "char": "䮚", "parts": "馬夌", "source": "academia-sinica" }],
+    "gloss": "diseases of horse"
+  },
+  "䮞": {
+    "_id": "5f523afdde54193ed872ff54",
+    "char": "䮞",
+    "codepoint": "U+4B9E",
+    "strokeCount": 19,
+    "simpVariants": ["𩨁"],
+    "sources": ["unicode"],
+    "gloss": "a piebald horse"
+  },
+  "䮩": {
+    "_id": "5f523afdde54193ed872ff5f",
+    "char": "䮩",
+    "codepoint": "U+4BA9",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a kind of animal (from Beihai)"
+  },
+  "䮬": {
+    "_id": "5f523afdde54193ed872ff62",
+    "char": "䮬",
+    "codepoint": "U+4BAC",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䯐": {
+    "_id": "5f523afdde54193ed872ff86",
+    "char": "䯐",
+    "codepoint": "U+4BD0",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 骸) shinbone"
+  },
+  "䬀": {
+    "_id": "5f523afdde54193ed872feb6",
+    "char": "䬀",
+    "codepoint": "U+4B00",
+    "strokeCount": 14,
+    "simpVariants": ["𱃖"],
+    "sources": ["unicode"],
+    "gloss": "sound of the wind"
+  },
+  "䬁": {
+    "_id": "5f523afdde54193ed872feb7",
+    "char": "䬁",
+    "codepoint": "U+4B01",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a light cyclone"
+  },
+  "䬒": {
+    "_id": "5f523afdde54193ed872fec8",
+    "char": "䬒",
+    "codepoint": "U+4B12",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%92_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧風部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文新附》：“，飂也。从風，叜聲。”",
+    "variants": [{ "char": "颼", "parts": "風叟", "source": "academia-sinica" }],
+    "gloss": "to blow chilly"
+  },
+  "䬧": {
+    "_id": "5f523afdde54193ed872fedd",
+    "char": "䬧",
+    "codepoint": "U+4B27",
+    "strokeCount": 13,
+    "simpVariants": ["𫗟"],
+    "sources": ["unicode"],
+    "gloss": "round shaped cakes"
+  },
+  "䭄": {
+    "_id": "5f523afdde54193ed872fefa",
+    "char": "䭄",
+    "codepoint": "U+4B44",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "gluttonous"
+  },
+  "䭇": {
+    "_id": "5f523afdde54193ed872fefd",
+    "char": "䭇",
+    "codepoint": "U+4B47",
+    "strokeCount": 17,
+    "simpVariants": ["𬳀"],
+    "sources": ["unicode"],
+    "gloss": "(same as 噎) to choke on food"
+  },
+  "䭜": {
+    "_id": "5f523afdde54193ed872ff12",
+    "char": "䭜",
+    "codepoint": "U+4B5C",
+    "strokeCount": 21,
+    "sources": ["unicode"]
+  },
+  "䭞": {
+    "_id": "5f523afdde54193ed872ff14",
+    "char": "䭞",
+    "codepoint": "U+4B5E",
+    "strokeCount": 22,
+    "simpVariants": ["𬲳"],
+    "sources": ["unicode"],
+    "gloss": "(same as 繹) a kind of sacrifice offered to gods or the deceased"
+  },
+  "䭴": {
+    "_id": "5f523afdde54193ed872ff2a",
+    "char": "䭴",
+    "codepoint": "U+4B74",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "an one-year-old horse"
+  },
+  "䮒": {
+    "_id": "5f523afdde54193ed872ff48",
+    "char": "䮒",
+    "codepoint": "U+4B92",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䮡": {
+    "_id": "5f523afdde54193ed872ff57",
+    "char": "䮡",
+    "codepoint": "U+4BA1",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "a supernatural horse"
+  },
+  "䮲": {
+    "_id": "5f523afdde54193ed872ff68",
+    "char": "䮲",
+    "codepoint": "U+4BB2",
+    "strokeCount": 22,
+    "simpVariants": ["𱅦"],
+    "sources": ["unicode"],
+    "gloss": "(same as 騜) horse with mixed colors of yellow and white"
+  },
+  "䮻": {
+    "_id": "5f523afdde54193ed872ff71",
+    "char": "䮻",
+    "codepoint": "U+4BBB",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "(same as 禂) to pray"
+  },
+  "䯻": {
+    "_id": "5f523afdde54193ed872ffb1",
+    "char": "䯻",
+    "codepoint": "U+4BFB",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "dressed hair"
+  },
+  "䬌": {
+    "_id": "5f523afdde54193ed872fec2",
+    "char": "䬌",
+    "codepoint": "U+4B0C",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "the wind blows"
+  },
+  "䬘": {
+    "_id": "5f523afdde54193ed872fece",
+    "char": "䬘",
+    "codepoint": "U+4B18",
+    "strokeCount": 19,
+    "simpVariants": ["𩙮"],
+    "sources": ["unicode"],
+    "gloss": "the wind blows"
+  },
+  "䬜": {
+    "_id": "5f523afdde54193ed872fed2",
+    "char": "䬜",
+    "codepoint": "U+4B1C",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as standard form 魑) evil spirits"
+  },
+  "䬡": {
+    "_id": "5f523afdde54193ed872fed7",
+    "char": "䬡",
+    "codepoint": "U+4B21",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "to soar"
+  },
+  "䬫": {
+    "_id": "5f523afdde54193ed872fee1",
+    "char": "䬫",
+    "codepoint": "U+4B2B",
+    "strokeCount": 14,
+    "simpVariants": ["𬲮"],
+    "sources": ["unicode"],
+    "gloss": "clarified butter (regarded as symbol of Buddhist wisdom or truth)"
+  },
+  "䬽": {
+    "_id": "5f523afdde54193ed872fef3",
+    "char": "䬽",
+    "codepoint": "U+4B3D",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%BD_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小餟也。从食，兑聲。”",
+    "variants": [{ "char": "䬽", "parts": "飠兌", "source": "academia-sinica" }],
+    "gloss": "wine poured in a libation"
+  },
+  "䭀": {
+    "_id": "5f523afdde54193ed872fef6",
+    "char": "䭀",
+    "codepoint": "U+4B40",
+    "strokeCount": 16,
+    "simpVariants": ["𩠇"],
+    "sources": ["unicode"],
+    "gloss": "food (of the Taoist)"
+  },
+  "䭈": {
+    "_id": "5f523afdde54193ed872fefe",
+    "char": "䭈",
+    "codepoint": "U+4B48",
+    "strokeCount": 18,
+    "simpVariants": ["𱄃"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%88_0.png",
+        "source": "academia-sinica",
+        "description": "信2.04(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%88_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧䰜部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%88_2.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%88_3.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%88_4.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，鬻也。餰，或从衍聲。”",
+    "variants": [
+      { "char": "餰", "parts": "飠衍", "source": "academia-sinica" },
+      { "char": "𩱡", "parts": "䰜侃", "source": "academia-sinica" },
+      { "char": "飦", "parts": "飠干", "source": "academia-sinica" },
+      { "char": "䭈", "parts": "飠建", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 餰) congee"
+  },
+  "䭕": {
+    "_id": "5f523afdde54193ed872ff0b",
+    "char": "䭕",
+    "codepoint": "U+4B55",
+    "strokeCount": 20,
+    "simpVariants": ["𬲕"],
+    "sources": ["unicode", "baxter-sagart"],
+    "gloss": "tasteless",
+    "oldPronunciations": [
+      {
+        "pinyin": "jiǎn",
+        "MC": "tsjemX",
+        "OC": "*Cə.ts[a]mʔ ",
+        "gloss": "insipid [not in GSR]",
+        "source": "baxter-sagart"
+      }
+    ]
+  },
+  "䭖": {
+    "_id": "5f523afdde54193ed872ff0c",
+    "char": "䭖",
+    "codepoint": "U+4B56",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "animal feeds"
+  },
+  "䭢": {
+    "_id": "5f523afdde54193ed872ff18",
+    "char": "䭢",
+    "codepoint": "U+4B62",
+    "strokeCount": 23,
+    "simpVariants": ["𬲲"],
+    "sources": ["unicode"],
+    "gloss": "rich"
+  },
+  "䭶": {
+    "_id": "5f523afdde54193ed872ff2c",
+    "char": "䭶",
+    "codepoint": "U+4B76",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 騏) dark-blue horse"
+  },
+  "䭺": {
+    "_id": "5f523afdde54193ed872ff30",
+    "char": "䭺",
+    "codepoint": "U+4B7A",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a horse to raise its head high"
+  },
+  "䭼": {
+    "_id": "5f523afdde54193ed872ff32",
+    "char": "䭼",
+    "codepoint": "U+4B7C",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 騏) dark-blue horse"
+  },
+  "䮓": {
+    "_id": "5f523afdde54193ed872ff49",
+    "char": "䮓",
+    "codepoint": "U+4B93",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "a walking horse"
+  },
+  "䮝": {
+    "_id": "5f523afdde54193ed872ff53",
+    "char": "䮝",
+    "codepoint": "U+4B9D",
+    "strokeCount": 19,
+    "simpVariants": ["𩧰"],
+    "sources": ["unicode"],
+    "gloss": "a legendary animal"
+  },
+  "䯍": {
+    "_id": "5f523afdde54193ed872ff83",
+    "char": "䯍",
+    "codepoint": "U+4BCD",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "bones"
+  },
+  "䯖": {
+    "_id": "5f523afdde54193ed872ff8c",
+    "char": "䯖",
+    "codepoint": "U+4BD6",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "the muscles of the thigh"
+  },
+  "䯚": {
+    "_id": "5f523afdde54193ed872ff90",
+    "char": "䯚",
+    "codepoint": "U+4BDA",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "the ribs"
+  },
+  "䬅": {
+    "_id": "5f523afdde54193ed872febb",
+    "char": "䬅",
+    "codepoint": "U+4B05",
+    "strokeCount": 15,
+    "simpVariants": ["𱃚"],
+    "sources": ["unicode"],
+    "gloss": "a gale"
+  },
+  "䬇": {
+    "_id": "5f523afdde54193ed872febd",
+    "char": "䬇",
+    "codepoint": "U+4B07",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "breeze"
+  },
+  "䬏": {
+    "_id": "5f523afdde54193ed872fec5",
+    "char": "䬏",
+    "codepoint": "U+4B0F",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "wind"
+  },
+  "䭗": {
+    "_id": "5f523afdde54193ed872ff0d",
+    "char": "䭗",
+    "codepoint": "U+4B57",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "(same as 䭘) well-stacked (figure"
+  },
+  "䭪": {
+    "_id": "5f523afdde54193ed872ff20",
+    "char": "䭪",
+    "codepoint": "U+4B6A",
+    "strokeCount": 21,
+    "tradVariants": ["𩞯"],
+    "sources": ["unicode"],
+    "gloss": "(simplified form) (same as 糧) grains"
+  },
+  "䮂": {
+    "_id": "5f523afdde54193ed872ff38",
+    "char": "䮂",
+    "codepoint": "U+4B82",
+    "strokeCount": 15,
+    "simpVariants": ["𱅄"],
+    "sources": ["unicode"],
+    "gloss": "horse with long hair"
+  },
+  "䮋": {
+    "_id": "5f523afdde54193ed872ff41",
+    "char": "䮋",
+    "codepoint": "U+4B8B",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䮔": {
+    "_id": "5f523afdde54193ed872ff4a",
+    "char": "䮔",
+    "codepoint": "U+4B94",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%94_0.png",
+        "source": "academia-sinica",
+        "description": "說文籀文",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%94_1.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，馬小皃。从馬，垂聲。讀若箠。，籀文从。”",
+    "variants": [{ "char": "䮔", "parts": "馬垂", "source": "academia-sinica" }],
+    "gloss": "a young and fleet-footed horse"
+  },
+  "䮱": {
+    "_id": "5f523afdde54193ed872ff67",
+    "char": "䮱",
+    "codepoint": "U+4BB1",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "a kind of beast"
+  },
+  "䯈": {
+    "_id": "5f523afdde54193ed872ff7e",
+    "char": "䯈",
+    "codepoint": "U+4BC8",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "the pelvis (髂=䯊)"
+  },
+  "䯌": {
+    "_id": "5f523afdde54193ed872ff82",
+    "char": "䯌",
+    "codepoint": "U+4BCC",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "the sacrum"
+  },
+  "䯡": {
+    "_id": "5f523afdde54193ed872ff97",
+    "char": "䯡",
+    "codepoint": "U+4BE1",
+    "strokeCount": 20,
+    "sources": ["unicode"]
+  },
+  "䯣": {
+    "_id": "5f523afdde54193ed872ff99",
+    "char": "䯣",
+    "codepoint": "U+4BE3",
+    "strokeCount": 22,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A3_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧骨部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，厀脛間骨也。从骨，貴聲。”",
+    "variants": [{ "char": "䯣", "parts": "骨貴", "source": "academia-sinica" }],
+    "gloss": "the kneecap"
+  },
+  "䬐": {
+    "_id": "5f523afdde54193ed872fec6",
+    "char": "䬐",
+    "codepoint": "U+4B10",
+    "strokeCount": 17,
+    "simpVariants": ["𱃜"],
+    "sources": ["unicode"],
+    "gloss": "breeze"
+  },
+  "䯬": {
+    "_id": "5f523afdde54193ed872ffa2",
+    "char": "䯬",
+    "codepoint": "U+4BEC",
+    "strokeCount": 25,
+    "sources": ["unicode"],
+    "gloss": "(same as 嚲) to hang down"
+  },
+  "䯸": {
+    "_id": "5f523afdde54193ed872ffae",
+    "char": "䯸",
+    "codepoint": "U+4BF8",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，用梳比也。从髟，次聲。”",
+    "variants": [{ "char": "䯸", "parts": "髟次", "source": "academia-sinica" }],
+    "gloss": "a wig"
+  },
+  "䬗": {
+    "_id": "5f523afdde54193ed872fecd",
+    "char": "䬗",
+    "codepoint": "U+4B17",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 颺) blown or tossed about by the wind"
+  },
+  "䬞": {
+    "_id": "5f523afdde54193ed872fed4",
+    "char": "䬞",
+    "codepoint": "U+4B1E",
+    "strokeCount": 23,
+    "simpVariants": ["𩙧"],
+    "sources": ["unicode"],
+    "gloss": "wind"
+  },
+  "䯺": {
+    "_id": "5f523afdde54193ed872ffb0",
+    "char": "䯺",
+    "codepoint": "U+4BFA",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%BA_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，潔髮也。从髟，聲。”",
+    "comments": [
+      {
+        "source": "academia-sinica",
+        "text": "邵瑛羣經正字：“䯺，今經典作髺。”《正字通．髟部》：“䯺，髺本字。”"
+      }
+    ],
+    "variants": [{ "char": "髺", "parts": "髟", "source": "academia-sinica" }],
+    "gloss": "(standard form of 髺) the hair dishevelled"
+  },
+  "䬴": {
+    "_id": "5f523afdde54193ed872feea",
+    "char": "䬴",
+    "codepoint": "U+4B34",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，食馬穀也。从食，末聲。”",
+    "variants": [{ "char": "䬴", "parts": "飠末", "source": "academia-sinica" }],
+    "gloss": "(same as 秣) fodder for animals"
+  },
+  "䬶": {
+    "_id": "5f523afdde54193ed872feec",
+    "char": "䬶",
+    "codepoint": "U+4B36",
+    "strokeCount": 15,
+    "simpVariants": ["𬲷"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B6_0.png",
+        "source": "academia-sinica",
+        "description": "老子甲後422(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [
+      { "char": "䬶", "parts": "飠艮", "source": "academia-sinica" },
+      { "char": "", "parts": "飠㫐", "source": "academia-sinica" }
+    ],
+    "gloss": "to starve"
+  },
+  "䭍": {
+    "_id": "5f523afdde54193ed872ff03",
+    "char": "䭍",
+    "codepoint": "U+4B4D",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(non-classical form of 餬) to live with another at his expense"
+  },
+  "䭤": {
+    "_id": "5f523afdde54193ed872ff1a",
+    "char": "䭤",
+    "codepoint": "U+4B64",
+    "strokeCount": 23,
+    "sources": ["unicode"],
+    "gloss": "to chew"
+  },
+  "䭰": {
+    "_id": "5f523afdde54193ed872ff26",
+    "char": "䭰",
+    "codepoint": "U+4B70",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "strong sweet smell"
+  },
+  "䭵": {
+    "_id": "5f523afdde54193ed872ff2b",
+    "char": "䭵",
+    "codepoint": "U+4B75",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(same as standard form 颿) a swift horse"
+  },
+  "䮀": {
+    "_id": "5f523afdde54193ed872ff36",
+    "char": "䮀",
+    "codepoint": "U+4B80",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "a kind of animal"
+  },
+  "䮃": {
+    "_id": "5f523afdde54193ed872ff39",
+    "char": "䮃",
+    "codepoint": "U+4B83",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "(same as 驅) to go before others"
+  },
+  "䮉": {
+    "_id": "5f523afdde54193ed872ff3f",
+    "char": "䮉",
+    "codepoint": "U+4B89",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "horses kept at a courier station in former times"
+  },
+  "䮠": {
+    "_id": "5f523afdde54193ed872ff56",
+    "char": "䮠",
+    "codepoint": "U+4BA0",
+    "strokeCount": 19,
+    "simpVariants": ["𩧿"],
+    "sources": ["unicode"],
+    "gloss": "a kind of animal"
+  },
+  "䮫": {
+    "_id": "5f523afdde54193ed872ff61",
+    "char": "䮫",
+    "codepoint": "U+4BAB",
+    "strokeCount": 21,
+    "simpVariants": ["𩨇"],
+    "sources": ["unicode"],
+    "gloss": "a big mule (same as 驢) an ass"
+  },
+  "䯒": {
+    "_id": "5f523afdde54193ed872ff88",
+    "char": "䯒",
+    "codepoint": "U+4BD2",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 胻) the upper part of the shinbone"
+  },
+  "䯜": {
+    "_id": "5f523afdde54193ed872ff92",
+    "char": "䯜",
+    "codepoint": "U+4BDC",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%9C_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧骨部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，骨間黃汁也。从骨，易聲。讀若《易》曰‘夕惕若厲’。”",
+    "variants": [{ "char": "䯜", "parts": "骨易", "source": "academia-sinica" }],
+    "gloss": "marrow"
+  },
+  "䯰": {
+    "_id": "5f523afdde54193ed872ffa6",
+    "char": "䯰",
+    "codepoint": "U+4BF0",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%B0_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，簪結也。从髟，介聲。”",
+    "variants": [{ "char": "䯰", "parts": "髟介", "source": "academia-sinica" }],
+    "gloss": "use a hair-pin to set and dress the hair"
+  },
+  "䯴": {
+    "_id": "5f523afdde54193ed872ffaa",
+    "char": "䯴",
+    "codepoint": "U+4BF4",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a coiffure with a topknot"
+  },
+  "䬙": {
+    "_id": "5f523afdde54193ed872fecf",
+    "char": "䬙",
+    "codepoint": "U+4B19",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 颻) to dance and toss about in the wind"
+  },
+  "䬼": {
+    "_id": "5f523afdde54193ed872fef2",
+    "char": "䬼",
+    "codepoint": "U+4B3C",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%BC_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "source": "dong-chinese",
+        "description": "楷体",
+        "type": "Regular",
+        "era": "Modern",
+        "data": {
+          "strokes": [
+            "M 210 493 Q 213 497 216 500 Q 279 576 347 690 Q 359 714 370 731 L 382 748 Q 391 761 401 770 Q 411 780 406 793 Q 402 806 374 828 Q 349 844 330 845 Q 312 844 320 822 Q 336 788 322 757 Q 280 658 218 567 Q 157 479 74 382 Q 64 372 63 366 Q 59 356 73 358 Q 103 362 195 473 L 210 493 Z",
+            "M 370 731 Q 374 722 398 706 Q 429 684 462 656 Q 475 646 488 648 Q 498 649 501 660 Q 504 673 495 699 Q 483 732 391 747 Q 385 748 382 748 C 358 750 358 750 370 731 Z",
+            "M 344 608 Q 380 569 406 560 Q 416 559 424 569 Q 428 579 426 592 Q 416 623 370 634 Q 336 640 333 638 Q 329 637 330 628 Q 331 619 344 608 Z",
+            "M 383 290 Q 402 265 417 258 Q 427 251 439 271 Q 452 295 470 422 Q 476 447 494 470 Q 504 480 494 492 Q 481 505 443 525 Q 430 531 374 513 Q 259 477 258 476 C 230 466 244 440 272 451 Q 314 469 389 488 Q 405 492 412 487 Q 425 478 423 459 Q 410 341 401 322 Q 400 322 400 321 C 389 293 379 294 383 290 Z",
+            "M 268 357 Q 274 363 378 381 Q 397 387 390 397 Q 380 410 356 411 Q 322 414 268 384 C 242 370 241 343 268 357 Z",
+            "M 266 264 Q 266 265 267 265 Q 331 280 383 290 C 412 296 429 313 400 321 Q 372 331 266 293 C 238 283 238 252 266 264 Z",
+            "M 377 189 Q 346 173 283 131 Q 274 125 270 129 Q 264 132 265 147 Q 265 213 266 264 L 266 293 Q 266 330 268 357 L 268 384 Q 268 438 272 451 C 274 467 274 467 258 476 Q 248 485 214 493 Q 211 494 210 493 C 181 499 179 498 195 473 Q 225 443 231 294 Q 230 288 231 280 Q 230 280 231 279 Q 228 141 186 83 Q 153 55 195 7 L 197 6 Q 207 -1 220 12 Q 262 67 388 176 C 411 196 403 203 377 189 Z",
+            "M 388 176 Q 401 160 415 138 Q 422 126 435 125 Q 444 124 449 133 Q 455 143 453 167 Q 450 194 381 226 Q 369 232 364 230 Q 360 229 359 218 Q 360 209 377 189 L 388 176 Z",
+            "M 598 721 Q 588 728 550 731 Q 538 734 535 728 Q 529 722 538 706 Q 569 652 591 563 Q 595 535 613 518 Q 632 497 637 514 Q 640 526 638 544 L 633 576 Q 614 660 608 690 C 602 719 602 719 598 721 Z",
+            "M 859 611 Q 886 674 920 696 Q 938 714 924 732 Q 843 798 796 766 Q 720 741 598 721 C 568 716 578 685 608 690 Q 644 696 798 727 Q 820 731 828 723 Q 840 707 804 613 C 793 585 847 584 859 611 Z",
+            "M 638 544 Q 641 544 646 545 Q 716 563 871 580 Q 881 581 882 589 Q 882 596 859 611 C 842 623 833 620 804 613 Q 710 589 633 576 C 603 571 608 540 638 544 Z",
+            "M 620 227 Q 623 276 627 312 L 629 339 Q 633 403 639 424 Q 639 427 639 428 L 627 459 Q 626 462 622 463 Q 594 479 576 479 Q 563 475 567 463 Q 616 346 557 150 Q 533 92 536 82 Q 536 55 553 30 Q 560 17 570 22 Q 606 43 616 168 Q 617 184 618 198 L 620 227 Z",
+            "M 639 428 Q 652 428 795 461 Q 813 465 821 455 Q 828 448 830 423 Q 845 225 841 105 Q 840 75 831 62 Q 827 56 804 61 Q 776 65 746 71 Q 724 77 727 67 Q 790 18 825 -18 Q 840 -37 856 -42 Q 866 -46 874 -35 Q 916 13 912 75 Q 879 402 903 444 Q 916 465 903 475 Q 879 494 841 510 Q 822 517 806 510 Q 737 473 627 459 C 597 455 609 423 639 428 Z",
+            "M 627 312 Q 630 312 634 312 Q 719 328 781 337 Q 803 341 795 353 Q 785 366 761 370 Q 737 373 629 339 C 600 330 597 312 627 312 Z",
+            "M 618 198 Q 622 198 628 198 Q 718 211 784 220 Q 808 224 799 236 Q 789 251 763 256 Q 738 262 620 227 C 591 219 588 198 618 198 Z"
+          ],
+          "medians": [
+            [
+              [330, 831],
+              [354, 808],
+              [365, 787],
+              [322, 695],
+              [272, 610],
+              [175, 474],
+              [109, 399],
+              [71, 366]
+            ],
+            [
+              [378, 732],
+              [399, 729],
+              [446, 705],
+              [472, 684],
+              [487, 662]
+            ],
+            [
+              [336, 632],
+              [384, 604],
+              [409, 578]
+            ],
+            [
+              [262, 470],
+              [278, 468],
+              [364, 499],
+              [407, 507],
+              [434, 500],
+              [452, 485],
+              [456, 477],
+              [438, 369],
+              [417, 294],
+              [423, 274]
+            ],
+            [
+              [272, 365],
+              [281, 377],
+              [315, 388],
+              [380, 392]
+            ],
+            [
+              [274, 272],
+              [281, 286],
+              [360, 302],
+              [395, 317]
+            ],
+            [
+              [203, 475],
+              [220, 473],
+              [241, 446],
+              [249, 300],
+              [238, 124],
+              [244, 98],
+              [295, 116],
+              [374, 174],
+              [375, 182]
+            ],
+            [
+              [367, 222],
+              [428, 164],
+              [437, 138]
+            ],
+            [
+              [544, 721],
+              [576, 697],
+              [625, 519]
+            ],
+            [
+              [610, 696],
+              [628, 711],
+              [703, 723],
+              [819, 752],
+              [844, 746],
+              [875, 715],
+              [839, 637],
+              [811, 623]
+            ],
+            [
+              [641, 550],
+              [657, 565],
+              [800, 592],
+              [852, 595],
+              [873, 589]
+            ],
+            [
+              [577, 468],
+              [607, 433],
+              [611, 370],
+              [592, 177],
+              [568, 78],
+              [565, 33]
+            ],
+            [
+              [637, 457],
+              [651, 446],
+              [819, 487],
+              [848, 472],
+              [864, 450],
+              [863, 358],
+              [876, 85],
+              [869, 45],
+              [854, 20],
+              [825, 26],
+              [737, 66]
+            ],
+            [
+              [631, 319],
+              [644, 331],
+              [752, 352],
+              [785, 347]
+            ],
+            [
+              [623, 205],
+              [637, 216],
+              [737, 235],
+              [766, 237],
+              [789, 230]
+            ]
+          ]
+        },
+        "fragments": [
+          [0, 1, 2, 3, 4, 5, 6, 7],
+          [8, 9, 10, 11, 12, 13, 14]
+        ]
+      }
+    ],
+    "shuowen": "《說文》：“，也。从食，肙聲。”",
+    "variants": [{ "char": "䬼", "parts": "飠肙", "source": "academia-sinica" }],
+    "gloss": "satiated",
+    "components": [
+      { "type": ["meaning"], "character": "飠", "hint": "飠 is a component form of 食." },
+      {
+        "type": ["sound", "iconic"],
+        "character": "肙",
+        "hint": "Depicts a mouth (口) eating a piece of meat (⺼) to be full."
+      }
+    ],
+    "data": {
+      "strokes": [
+        "M 210 493 Q 213 497 216 500 Q 279 576 347 690 Q 359 714 370 731 L 382 748 Q 391 761 401 770 Q 411 780 406 793 Q 402 806 374 828 Q 349 844 330 845 Q 312 844 320 822 Q 336 788 322 757 Q 280 658 218 567 Q 157 479 74 382 Q 64 372 63 366 Q 59 356 73 358 Q 103 362 195 473 L 210 493 Z",
+        "M 370 731 Q 374 722 398 706 Q 429 684 462 656 Q 475 646 488 648 Q 498 649 501 660 Q 504 673 495 699 Q 483 732 391 747 Q 385 748 382 748 C 358 750 358 750 370 731 Z",
+        "M 344 608 Q 380 569 406 560 Q 416 559 424 569 Q 428 579 426 592 Q 416 623 370 634 Q 336 640 333 638 Q 329 637 330 628 Q 331 619 344 608 Z",
+        "M 383 290 Q 402 265 417 258 Q 427 251 439 271 Q 452 295 470 422 Q 476 447 494 470 Q 504 480 494 492 Q 481 505 443 525 Q 430 531 374 513 Q 259 477 258 476 C 230 466 244 440 272 451 Q 314 469 389 488 Q 405 492 412 487 Q 425 478 423 459 Q 410 341 401 322 Q 400 322 400 321 C 389 293 379 294 383 290 Z",
+        "M 268 357 Q 274 363 378 381 Q 397 387 390 397 Q 380 410 356 411 Q 322 414 268 384 C 242 370 241 343 268 357 Z",
+        "M 266 264 Q 266 265 267 265 Q 331 280 383 290 C 412 296 429 313 400 321 Q 372 331 266 293 C 238 283 238 252 266 264 Z",
+        "M 377 189 Q 346 173 283 131 Q 274 125 270 129 Q 264 132 265 147 Q 265 213 266 264 L 266 293 Q 266 330 268 357 L 268 384 Q 268 438 272 451 C 274 467 274 467 258 476 Q 248 485 214 493 Q 211 494 210 493 C 181 499 179 498 195 473 Q 225 443 231 294 Q 230 288 231 280 Q 230 280 231 279 Q 228 141 186 83 Q 153 55 195 7 L 197 6 Q 207 -1 220 12 Q 262 67 388 176 C 411 196 403 203 377 189 Z",
+        "M 388 176 Q 401 160 415 138 Q 422 126 435 125 Q 444 124 449 133 Q 455 143 453 167 Q 450 194 381 226 Q 369 232 364 230 Q 360 229 359 218 Q 360 209 377 189 L 388 176 Z",
+        "M 598 721 Q 588 728 550 731 Q 538 734 535 728 Q 529 722 538 706 Q 569 652 591 563 Q 595 535 613 518 Q 632 497 637 514 Q 640 526 638 544 L 633 576 Q 614 660 608 690 C 602 719 602 719 598 721 Z",
+        "M 859 611 Q 886 674 920 696 Q 938 714 924 732 Q 843 798 796 766 Q 720 741 598 721 C 568 716 578 685 608 690 Q 644 696 798 727 Q 820 731 828 723 Q 840 707 804 613 C 793 585 847 584 859 611 Z",
+        "M 638 544 Q 641 544 646 545 Q 716 563 871 580 Q 881 581 882 589 Q 882 596 859 611 C 842 623 833 620 804 613 Q 710 589 633 576 C 603 571 608 540 638 544 Z",
+        "M 620 227 Q 623 276 627 312 L 629 339 Q 633 403 639 424 Q 639 427 639 428 L 627 459 Q 626 462 622 463 Q 594 479 576 479 Q 563 475 567 463 Q 616 346 557 150 Q 533 92 536 82 Q 536 55 553 30 Q 560 17 570 22 Q 606 43 616 168 Q 617 184 618 198 L 620 227 Z",
+        "M 639 428 Q 652 428 795 461 Q 813 465 821 455 Q 828 448 830 423 Q 845 225 841 105 Q 840 75 831 62 Q 827 56 804 61 Q 776 65 746 71 Q 724 77 727 67 Q 790 18 825 -18 Q 840 -37 856 -42 Q 866 -46 874 -35 Q 916 13 912 75 Q 879 402 903 444 Q 916 465 903 475 Q 879 494 841 510 Q 822 517 806 510 Q 737 473 627 459 C 597 455 609 423 639 428 Z",
+        "M 627 312 Q 630 312 634 312 Q 719 328 781 337 Q 803 341 795 353 Q 785 366 761 370 Q 737 373 629 339 C 600 330 597 312 627 312 Z",
+        "M 618 198 Q 622 198 628 198 Q 718 211 784 220 Q 808 224 799 236 Q 789 251 763 256 Q 738 262 620 227 C 591 219 588 198 618 198 Z"
+      ],
+      "medians": [
+        [
+          [330, 831],
+          [354, 808],
+          [365, 787],
+          [322, 695],
+          [272, 610],
+          [175, 474],
+          [109, 399],
+          [71, 366]
+        ],
+        [
+          [378, 732],
+          [399, 729],
+          [446, 705],
+          [472, 684],
+          [487, 662]
+        ],
+        [
+          [336, 632],
+          [384, 604],
+          [409, 578]
+        ],
+        [
+          [262, 470],
+          [278, 468],
+          [364, 499],
+          [407, 507],
+          [434, 500],
+          [452, 485],
+          [456, 477],
+          [438, 369],
+          [417, 294],
+          [423, 274]
+        ],
+        [
+          [272, 365],
+          [281, 377],
+          [315, 388],
+          [380, 392]
+        ],
+        [
+          [274, 272],
+          [281, 286],
+          [360, 302],
+          [395, 317]
+        ],
+        [
+          [203, 475],
+          [220, 473],
+          [241, 446],
+          [249, 300],
+          [238, 124],
+          [244, 98],
+          [295, 116],
+          [374, 174],
+          [375, 182]
+        ],
+        [
+          [367, 222],
+          [428, 164],
+          [437, 138]
+        ],
+        [
+          [544, 721],
+          [576, 697],
+          [625, 519]
+        ],
+        [
+          [610, 696],
+          [628, 711],
+          [703, 723],
+          [819, 752],
+          [844, 746],
+          [875, 715],
+          [839, 637],
+          [811, 623]
+        ],
+        [
+          [641, 550],
+          [657, 565],
+          [800, 592],
+          [852, 595],
+          [873, 589]
+        ],
+        [
+          [577, 468],
+          [607, 433],
+          [611, 370],
+          [592, 177],
+          [568, 78],
+          [565, 33]
+        ],
+        [
+          [637, 457],
+          [651, 446],
+          [819, 487],
+          [848, 472],
+          [864, 450],
+          [863, 358],
+          [876, 85],
+          [869, 45],
+          [854, 20],
+          [825, 26],
+          [737, 66]
+        ],
+        [
+          [631, 319],
+          [644, 331],
+          [752, 352],
+          [785, 347]
+        ],
+        [
+          [623, 205],
+          [637, 216],
+          [737, 235],
+          [766, 237],
+          [789, 230]
+        ]
+      ]
+    },
+    "fragments": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]],
+    "hint": "Phonosemantic compound. 肙 represents the sound and 飠 represents the meaning.",
+    "isVerified": true
+  },
+  "䭐": {
+    "_id": "5f523afdde54193ed872ff06",
+    "char": "䭐",
+    "codepoint": "U+4B50",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "cakes"
+  },
+  "䭒": {
+    "_id": "5f523afdde54193ed872ff08",
+    "char": "䭒",
+    "codepoint": "U+4B52",
+    "strokeCount": 19,
+    "simpVariants": ["𬳋"],
+    "sources": ["unicode"],
+    "gloss": "breath"
+  },
+  "䭘": {
+    "_id": "5f523afdde54193ed872ff0e",
+    "char": "䭘",
+    "codepoint": "U+4B58",
+    "strokeCount": 21,
+    "simpVariants": ["𬳑"],
+    "sources": ["unicode"],
+    "gloss": "well-stacked (figure"
+  },
+  "䯘": {
+    "_id": "5f523afdde54193ed872ff8e",
+    "char": "䯘",
+    "codepoint": "U+4BD8",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "the kneecap"
+  },
+  "䯢": {
+    "_id": "5f523afdde54193ed872ff98",
+    "char": "䯢",
+    "codepoint": "U+4BE2",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "partial paralysis"
+  },
+  "䯤": {
+    "_id": "5f523afdde54193ed872ff9a",
+    "char": "䯤",
+    "codepoint": "U+4BE4",
+    "strokeCount": 23,
+    "simpVariants": ["𩩈"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A4_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧骨部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，骨擿之可會髮者。从骨，會聲。《詩》曰：‘弁如星。’”",
+    "variants": [{ "char": "䯤", "parts": "骨會", "source": "academia-sinica" }],
+    "gloss": "boneware used to comb the hair"
+  },
+  "䯩": {
+    "_id": "5f523afdde54193ed872ff9f",
+    "char": "䯩",
+    "codepoint": "U+4BE9",
+    "strokeCount": 14,
+    "sources": ["unicode"]
+  },
+  "䯲": {
+    "_id": "5f523afdde54193ed872ffa8",
+    "char": "䯲",
+    "codepoint": "U+4BF2",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a coiffure with a topknot"
+  },
+  "䬆": {
+    "_id": "5f523afdde54193ed872febc",
+    "char": "䬆",
+    "codepoint": "U+4B06",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%86_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧風部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，風雨暴疾也。从風，利聲。”",
+    "variants": [{ "char": "䬆", "parts": "風利", "source": "academia-sinica" }],
+    "gloss": "a blustering gale"
+  },
+  "䬟": {
+    "_id": "5f523afdde54193ed872fed5",
+    "char": "䬟",
+    "codepoint": "U+4B1F",
+    "strokeCount": 24,
+    "simpVariants": ["𱃙"],
+    "sources": ["unicode"],
+    "gloss": "sound of wind"
+  },
+  "䭃": {
+    "_id": "5f523afdde54193ed872fef9",
+    "char": "䭃",
+    "codepoint": "U+4B43",
+    "strokeCount": 17,
+    "simpVariants": ["𩠈"],
+    "sources": ["unicode"],
+    "gloss": "to eat to until full (飽)"
+  },
+  "䭝": {
+    "_id": "5f523afdde54193ed872ff13",
+    "char": "䭝",
+    "codepoint": "U+4B5D",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "to eat"
+  },
+  "䭣": {
+    "_id": "5f523afdde54193ed872ff19",
+    "char": "䭣",
+    "codepoint": "U+4B63",
+    "strokeCount": 23,
+    "simpVariants": ["𬲶"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%A3_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%A3_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%A3_2.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%A3_3.png",
+        "source": "academia-sinica",
+        "description": "白石神君碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“餈，稻餅也，从食，次聲。，餈或从齊。粢，餈或从米。”",
+    "variants": [
+      { "char": "餈", "parts": "次食", "source": "academia-sinica" },
+      { "char": "䭣", "parts": "飠齊", "source": "academia-sinica" },
+      { "char": "粢", "parts": "次米", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 餈 粢 躄) rice cakes"
+  },
+  "䭦": {
+    "_id": "5f523afdde54193ed872ff1c",
+    "char": "䭦",
+    "codepoint": "U+4B66",
+    "strokeCount": 26,
+    "sources": ["unicode"],
+    "gloss": "cakes"
+  },
+  "䭫": {
+    "_id": "5f523afdde54193ed872ff21",
+    "char": "䭫",
+    "codepoint": "U+4B6B",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode", "baxter-sagart"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AB_0.png",
+        "source": "academia-sinica",
+        "description": "沈子它簋蓋(金)西周早期",
+        "type": "Bronze",
+        "era": "Early Western Zhou (~1000 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AB_1.png",
+        "source": "academia-sinica",
+        "description": "戈冬方鼎(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AB_2.png",
+        "source": "academia-sinica",
+        "description": "卯簋蓋(金)西周中期",
+        "type": "Bronze",
+        "era": "Mid Western Zhou (~900 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AB_3.png",
+        "source": "academia-sinica",
+        "description": "公臣簋(金)西周晚期",
+        "type": "Bronze",
+        "era": "Late Western Zhou (~800 BC)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%AB_4.png",
+        "source": "academia-sinica",
+        "description": "說文‧首部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，下首也。从，旨聲。”",
+    "variants": [
+      { "char": "䭫", "parts": "旨首", "source": "academia-sinica" },
+      { "char": "頁", "parts": "頁", "source": "academia-sinica" },
+      { "char": "𩒨", "parts": "旨頁", "source": "academia-sinica" }
+    ],
+    "gloss": "(interchangeable 稽) to kowtow",
+    "oldPronunciations": [
+      {
+        "pinyin": "qǐ",
+        "MC": "khejX",
+        "OC": "*kʰˤijʔ ",
+        "gloss": "bow the head to the ground",
+        "source": "baxter-sagart"
+      }
+    ]
+  },
+  "䭱": {
+    "_id": "5f523afdde54193ed872ff27",
+    "char": "䭱",
+    "codepoint": "U+4B71",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a little"
+  },
+  "䭲": {
+    "_id": "5f523afdde54193ed872ff28",
+    "char": "䭲",
+    "codepoint": "U+4B72",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "sweet-smelling"
+  },
+  "䭽": {
+    "_id": "5f523afdde54193ed872ff33",
+    "char": "䭽",
+    "codepoint": "U+4B7D",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as U+7FA3 群) group"
+  },
+  "䮏": {
+    "_id": "5f523afdde54193ed872ff45",
+    "char": "䮏",
+    "codepoint": "U+4B8F",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%8F_0.png",
+        "source": "academia-sinica",
+        "description": "春秋事語89(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%8F_1.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "䮏", "parts": "馬吾", "source": "academia-sinica" }],
+    "gloss": "name of a horse"
+  },
+  "䮘": {
+    "_id": "5f523afdde54193ed872ff4e",
+    "char": "䮘",
+    "codepoint": "U+4B98",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "young horse"
+  },
+  "䮰": {
+    "_id": "5f523afdde54193ed872ff66",
+    "char": "䮰",
+    "codepoint": "U+4BB0",
+    "strokeCount": 21,
+    "simpVariants": ["𫘮"],
+    "sources": ["unicode"],
+    "gloss": "a kind of beast"
+  },
+  "䮳": {
+    "_id": "5f523afdde54193ed872ff69",
+    "char": "䮳",
+    "codepoint": "U+4BB3",
+    "strokeCount": 22,
+    "simpVariants": ["𩨏"],
+    "sources": ["unicode"],
+    "gloss": "to give birth to"
+  },
+  "䯂": {
+    "_id": "5f523afdde54193ed872ff78",
+    "char": "䯂",
+    "codepoint": "U+4BC2",
+    "strokeCount": 34,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%82_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧木部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，衆盛也。从木，驫聲。《逸周書》曰：‘疑沮事闕。’”",
+    "variants": [{ "char": "䯂", "parts": "驫木", "source": "academia-sinica" }],
+    "gloss": "numerous"
+  },
+  "䯇": {
+    "_id": "5f523afdde54193ed872ff7d",
+    "char": "䯇",
+    "codepoint": "U+4BC7",
+    "strokeCount": 12,
+    "sources": ["unicode"],
+    "gloss": "to exert oneself"
+  },
+  "䯋": {
+    "_id": "5f523afdde54193ed872ff81",
+    "char": "䯋",
+    "codepoint": "U+4BCB",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "the shoulder blade"
+  },
+  "䯥": {
+    "_id": "5f523afdde54193ed872ff9b",
+    "char": "䯥",
+    "codepoint": "U+4BE5",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "with a high skull"
+  },
+  "䯵": {
+    "_id": "5f523afdde54193ed872ffab",
+    "char": "䯵",
+    "codepoint": "U+4BF5",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "hair style for little children"
+  },
+  "䯽": {
+    "_id": "5f523afdde54193ed872ffb3",
+    "char": "䯽",
+    "codepoint": "U+4BFD",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%BD_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧髟部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，髮皃。从髟，咅聲。”",
+    "variants": [{ "char": "䯽", "parts": "髟咅", "source": "academia-sinica" }],
+    "gloss": "fine hair"
+  },
+  "䬄": {
+    "_id": "5f523afdde54193ed872feba",
+    "char": "䬄",
+    "codepoint": "U+4B04",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "breeze"
+  },
+  "䬋": {
+    "_id": "5f523afdde54193ed872fec1",
+    "char": "䬋",
+    "codepoint": "U+4B0B",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "violent wind"
+  },
+  "䬍": {
+    "_id": "5f523afdde54193ed872fec3",
+    "char": "䬍",
+    "codepoint": "U+4B0D",
+    "strokeCount": 17,
+    "simpVariants": ["𬲀"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%8D_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧風部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，疾風也。从風，从忽，忽亦聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "嚴章福校議議：“當作忽聲。”" }],
+    "variants": [{ "char": "䬍", "parts": "風忽", "source": "academia-sinica" }],
+    "gloss": "the sound of wind"
+  },
+  "䬎": {
+    "_id": "5f523afdde54193ed872fec4",
+    "char": "䬎",
+    "codepoint": "U+4B0E",
+    "strokeCount": 17,
+    "simpVariants": ["𬱿"],
+    "sources": ["unicode"],
+    "gloss": "hot air"
+  },
+  "䬣": {
+    "_id": "5f523afdde54193ed872fed9",
+    "char": "䬣",
+    "codepoint": "U+4B23",
+    "strokeCount": 12,
+    "simpVariants": ["𱃱"],
+    "sources": ["unicode"],
+    "gloss": "(same as 餼) a sacrificial victim"
+  },
+  "䬪": {
+    "_id": "5f523afdde54193ed872fee0",
+    "char": "䬪",
+    "codepoint": "U+4B2A",
+    "strokeCount": 13,
+    "simpVariants": ["𱃳"],
+    "sources": ["unicode"],
+    "gloss": "(same as 餺) a kind of cooked noodle",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䬹": {
+    "_id": "5f523afdde54193ed872feef",
+    "char": "䬹",
+    "codepoint": "U+4B39",
+    "strokeCount": 15,
+    "simpVariants": ["𱃸"],
+    "sources": ["unicode"],
+    "gloss": "(same as 銍) a sickle"
+  },
+  "䭌": {
+    "_id": "5f523afdde54193ed872ff02",
+    "char": "䭌",
+    "codepoint": "U+4B4C",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 餬 糊) congee"
+  },
+  "䭸": {
+    "_id": "5f523afdde54193ed872ff2e",
+    "char": "䭸",
+    "codepoint": "U+4B78",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a stallion"
+  },
+  "䮄": {
+    "_id": "5f523afdde54193ed872ff3a",
+    "char": "䮄",
+    "codepoint": "U+4B84",
+    "strokeCount": 15,
+    "simpVariants": ["𫠊"],
+    "sources": ["unicode"],
+    "gloss": "an one-year-old horse"
+  },
+  "䮌": {
+    "_id": "5f523afdde54193ed872ff42",
+    "char": "䮌",
+    "codepoint": "U+4B8C",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "fine horse"
+  },
+  "䮎": {
+    "_id": "5f523afdde54193ed872ff44",
+    "char": "䮎",
+    "codepoint": "U+4B8E",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "a running horse"
+  },
+  "䮪": {
+    "_id": "5f523afdde54193ed872ff60",
+    "char": "䮪",
+    "codepoint": "U+4BAA",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "(corrupted form) (same as 騬) to geld a horse or ass"
+  },
+  "䯀": {
+    "_id": "5f523afdde54193ed872ff76",
+    "char": "䯀",
+    "codepoint": "U+4BC0",
+    "strokeCount": 28,
+    "simpVariants": ["䯅"],
+    "sources": ["unicode"],
+    "gloss": "a swift horse"
+  },
+  "䯔": {
+    "_id": "5f523afdde54193ed872ff8a",
+    "char": "䯔",
+    "codepoint": "U+4BD4",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "to incline"
+  },
+  "䯦": {
+    "_id": "5f523afdde54193ed872ff9c",
+    "char": "䯦",
+    "codepoint": "U+4BE6",
+    "strokeCount": 25,
+    "sources": ["unicode"],
+    "gloss": "tiny bone"
+  },
+  "䬵": {
+    "_id": "5f523afdde54193ed872feeb",
+    "char": "䬵",
+    "codepoint": "U+4B35",
+    "strokeCount": 15,
+    "sources": ["unicode"],
+    "gloss": "syrup"
+  },
+  "䬷": {
+    "_id": "5f523afdde54193ed872feed",
+    "char": "䬷",
+    "codepoint": "U+4B37",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B7_0.png",
+        "source": "academia-sinica",
+        "description": "漢印西漢",
+        "type": "Seal",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      }
+    ],
+    "variants": [{ "char": "䬷", "parts": "飠多", "source": "academia-sinica" }],
+    "gloss": "well-feed."
+  },
+  "䭂": {
+    "_id": "5f523afdde54193ed872fef8",
+    "char": "䭂",
+    "codepoint": "U+4B42",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "damp"
+  },
+  "䭆": {
+    "_id": "5f523afdde54193ed872fefc",
+    "char": "䭆",
+    "codepoint": "U+4B46",
+    "strokeCount": 17,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%86_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧臥部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%86_1.png",
+        "source": "academia-sinica",
+        "description": "耿勳碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，楚謂小兒嬾。从臥、食。”",
+    "variants": [{ "char": "䭆", "parts": "臥食", "source": "academia-sinica" }],
+    "gloss": "small children eat less"
+  },
+  "䭑": {
+    "_id": "5f523afdde54193ed872ff07",
+    "char": "䭑",
+    "codepoint": "U+4B51",
+    "strokeCount": 19,
+    "simpVariants": ["𫗱"],
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AD%91_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，嘰也。从食，兼聲。讀若風溓溓。一曰廉潔也。”",
+    "variants": [{ "char": "䭑", "parts": "飠兼", "source": "academia-sinica" }],
+    "gloss": "incorruptible"
+  },
+  "䭛": {
+    "_id": "5f523afdde54193ed872ff11",
+    "char": "䭛",
+    "codepoint": "U+4B5B",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "(same as 饏) tasteless"
+  },
+  "䭟": {
+    "_id": "5f523afdde54193ed872ff15",
+    "char": "䭟",
+    "codepoint": "U+4B5F",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(same as 䭎) cakes"
+  },
+  "䭳": {
+    "_id": "5f523afdde54193ed872ff29",
+    "char": "䭳",
+    "codepoint": "U+4B73",
+    "strokeCount": 27,
+    "sources": ["unicode"],
+    "gloss": "a kind of herb"
+  },
+  "䮊": {
+    "_id": "5f523afdde54193ed872ff40",
+    "char": "䮊",
+    "codepoint": "U+4B8A",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䮛": {
+    "_id": "5f523afdde54193ed872ff51",
+    "char": "䮛",
+    "codepoint": "U+4B9B",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 駙) extra horse harnessed by the side of the team"
+  },
+  "䮣": {
+    "_id": "5f523afdde54193ed872ff59",
+    "char": "䮣",
+    "codepoint": "U+4BA3",
+    "strokeCount": 20,
+    "sources": ["unicode"],
+    "gloss": "a yellow with a white tail"
+  },
+  "䮵": {
+    "_id": "5f523afdde54193ed872ff6b",
+    "char": "䮵",
+    "codepoint": "U+4BB5",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䮼": {
+    "_id": "5f523afdde54193ed872ff72",
+    "char": "䮼",
+    "codepoint": "U+4BBC",
+    "strokeCount": 24,
+    "sources": ["unicode"],
+    "gloss": "(standard form of 驎) (of horse) piebald"
+  },
+  "䯁": {
+    "_id": "5f523afdde54193ed872ff77",
+    "char": "䯁",
+    "codepoint": "U+4BC1",
+    "strokeCount": 29,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%81_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧馬部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%81_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“驘，驢父馬母。从馬，聲。”",
+    "comments": [{ "source": "academia-sinica", "text": "朱駿聲《通訓定聲》：“驘，俗字作騾。”" }],
+    "variants": [
+      { "char": "驘", "parts": "𦝠馬", "source": "academia-sinica" },
+      { "char": "䯁", "parts": "馬羸", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as abbreviated form U+9A58 騾) a mule"
+  },
+  "䯞": {
+    "_id": "5f523afdde54193ed872ff94",
+    "char": "䯞",
+    "codepoint": "U+4BDE",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "bone (the lowest pieces of bone of the spinal column and sides of the abdominal region)"
+  },
+  "䯧": {
+    "_id": "5f523afdde54193ed872ff9d",
+    "char": "䯧",
+    "codepoint": "U+4BE7",
+    "strokeCount": 12,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A7_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧高部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A7_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A7_2.png",
+        "source": "academia-sinica",
+        "description": "石門頌(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%A7_3.png",
+        "source": "academia-sinica",
+        "description": "樊敏碑(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，小堂也。从高省，冋聲。廎，或从广，頃聲。”",
+    "variants": [
+      { "char": "廎", "parts": "广頃", "source": "academia-sinica" },
+      { "char": "䯧", "parts": "冋", "source": "academia-sinica" }
+    ],
+    "gloss": "(same as 廎) a small hall"
+  },
+  "䯫": {
+    "_id": "5f523afdde54193ed872ffa1",
+    "char": "䯫",
+    "codepoint": "U+4BEB",
+    "strokeCount": 22,
+    "sources": ["unicode"],
+    "gloss": "(same as 顥) bright"
+  },
+  "䬈": {
+    "_id": "5f523afdde54193ed872febe",
+    "char": "䬈",
+    "codepoint": "U+4B08",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "breeze"
+  },
+  "䬊": {
+    "_id": "5f523afdde54193ed872fec0",
+    "char": "䬊",
+    "codepoint": "U+4B0A",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "a gale"
+  },
+  "䬠": {
+    "_id": "5f523afdde54193ed872fed6",
+    "char": "䬠",
+    "codepoint": "U+4B20",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 霏) the falling of snow and rain",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䬸": {
+    "_id": "5f523afdde54193ed872feee",
+    "char": "䬸",
+    "codepoint": "U+4B38",
+    "strokeCount": 15,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B8_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧食部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B8_1.png",
+        "source": "academia-sinica",
+        "description": "說文或體",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B8_2.png",
+        "source": "academia-sinica",
+        "description": "雲陽鼎(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%B8_3.png",
+        "source": "academia-sinica",
+        "description": "樓蘭古文書其一三(隸)東漢至魏晉",
+        "type": "Clerical",
+        "era": "Jin dynasty (266-420 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“餐，吞也。从食，聲。湌，餐或从水。”",
+    "variants": [
+      { "char": "餐", "parts": "𣦼食", "source": "academia-sinica" },
+      { "char": "湌", "parts": "氵食", "source": "academia-sinica" }
+    ],
+    "gloss": "(corrupted form of 餐) a meal"
+  },
+  "䭅": {
+    "_id": "5f523afdde54193ed872fefb",
+    "char": "䭅",
+    "codepoint": "U+4B45",
+    "strokeCount": 17,
+    "simpVariants": ["𬲾"],
+    "sources": ["unicode"],
+    "gloss": "cakes"
+  },
+  "䭊": {
+    "_id": "5f523afdde54193ed872ff00",
+    "char": "䭊",
+    "codepoint": "U+4B4A",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as U+4B58 䭘) well-stacked (figure"
+  },
+  "䭎": {
+    "_id": "5f523afdde54193ed872ff04",
+    "char": "䭎",
+    "codepoint": "U+4B4E",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "cakes"
+  },
+  "䭏": {
+    "_id": "5f523afdde54193ed872ff05",
+    "char": "䭏",
+    "codepoint": "U+4B4F",
+    "strokeCount": 18,
+    "sources": ["unicode"]
+  },
+  "䭙": {
+    "_id": "5f523afdde54193ed872ff0f",
+    "char": "䭙",
+    "codepoint": "U+4B59",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "exquisite"
+  },
+  "䭾": {
+    "_id": "5f523afdde54193ed872ff34",
+    "char": "䭾",
+    "codepoint": "U+4B7E",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as U+99B1 馱) to carry (a load) on the back",
+    "statistics": {
+      "hskLevel": 10,
+      "movieWordCount": 10,
+      "movieWordCountPercent": 2.980935486713434e-7,
+      "movieWordRank": 36530,
+      "movieWordContexts": 10,
+      "movieWordContextsPercent": 0.0016017940092904052,
+      "bookWordCount": 54894,
+      "bookWordCountPercent": 0.000003314843148436503,
+      "bookWordRank": 17762,
+      "bookCharCount": 1111,
+      "bookCharCountPercent": 0.000005741482846108136,
+      "bookCharRank": 3427,
+      "topWords": [
+        {
+          "word": "驮",
+          "share": 0.8980325271693061,
+          "trad": "䭾",
+          "gloss": "to carry on one's back"
+        },
+        { "word": "驮马", "share": 0.09810910982888744, "trad": "馱馬", "gloss": "pack horse" },
+        {
+          "word": "驮子",
+          "share": 0.0034549886879811993,
+          "trad": "馱子",
+          "gloss": "pack animal's load"
+        },
+        { "word": "驮篓", "share": 0.00040337431382521616, "trad": "馱簍", "gloss": "pannier" }
+      ],
+      "pinyinFrequency": 27
+    }
+  },
+  "䮇": {
+    "_id": "5f523afdde54193ed872ff3d",
+    "char": "䮇",
+    "codepoint": "U+4B87",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 驈) black horse with white thigh"
+  },
+  "䮖": {
+    "_id": "5f523afdde54193ed872ff4c",
+    "char": "䮖",
+    "codepoint": "U+4B96",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "name of a horse"
+  },
+  "䮙": {
+    "_id": "5f523afdde54193ed872ff4f",
+    "char": "䮙",
+    "codepoint": "U+4B99",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%99_0.png",
+        "source": "academia-sinica",
+        "description": "曾165(楚)",
+        "type": "Seal",
+        "era": "Chu (Warring States: 475-221 BC)"
+      }
+    ],
+    "variants": [{ "char": "䮙", "parts": "馬或", "source": "academia-sinica" }],
+    "gloss": "name of a horse"
+  },
+  "䮜": {
+    "_id": "5f523afdde54193ed872ff52",
+    "char": "䮜",
+    "codepoint": "U+4B9C",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 䮢) to gallop"
+  },
+  "䯏": {
+    "_id": "5f523afdde54193ed872ff85",
+    "char": "䯏",
+    "codepoint": "U+4BCF",
+    "strokeCount": 16,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%8F_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧骨部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，骨耑也。从骨，聲。”",
+    "variants": [{ "char": "䯏", "parts": "骨", "source": "academia-sinica" }],
+    "gloss": "the shoulder blade"
+  },
+  "䯑": {
+    "_id": "5f523afdde54193ed872ff87",
+    "char": "䯑",
+    "codepoint": "U+4BD1",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "the pelvis"
+  },
+  "䯨": {
+    "_id": "5f523afdde54193ed872ff9e",
+    "char": "䯨",
+    "codepoint": "U+4BE8",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 敲) to rap"
+  },
+  "䯷": {
+    "_id": "5f523afdde54193ed872ffad",
+    "char": "䯷",
+    "codepoint": "U+4BF7",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "fine hair"
+  },
+  "䬃": {
+    "_id": "5f523afdde54193ed872feb9",
+    "char": "䬃",
+    "codepoint": "U+4B03",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(same as 颯) the sound of wind",
+    "statistics": {
+      "hskLevel": 10,
+      "bookWordCount": 25351,
+      "bookWordCountPercent": 0.0000015308519812003824,
+      "bookWordRank": 26519,
+      "bookCharCount": 417,
+      "bookCharCountPercent": 0.000002154994011545538,
+      "bookCharRank": 4300,
+      "topWords": [
+        { "word": "飒飒", "share": 0.5, "trad": "颯颯", "gloss": "soughing" },
+        { "word": "飒", "share": 0.34092253899946207, "trad": "颯", "gloss": "valiant" },
+        {
+          "word": "英姿飒爽",
+          "share": 0.1562533620225928,
+          "trad": "英姿颯爽",
+          "gloss": "to carry oneself tall"
+        },
+        {
+          "word": "秋风飒飒",
+          "share": 0.0028240989779451317,
+          "trad": "秋風颯颯",
+          "gloss": "the autumn wind is soughing (idiom)"
+        }
+      ]
+    }
+  },
+  "䬑": {
+    "_id": "5f523afdde54193ed872fec7",
+    "char": "䬑",
+    "codepoint": "U+4B11",
+    "strokeCount": 18,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AC%91_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧風部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，大風也。从風，胃聲。”",
+    "variants": [{ "char": "䬑", "parts": "風胃", "source": "academia-sinica" }],
+    "gloss": "a gale"
+  },
+  "䬨": {
+    "_id": "5f523afdde54193ed872fede",
+    "char": "䬨",
+    "codepoint": "U+4B28",
+    "strokeCount": 13,
+    "sources": ["unicode"],
+    "gloss": "to eat to the full"
+  },
+  "䬬": {
+    "_id": "5f523afdde54193ed872fee2",
+    "char": "䬬",
+    "codepoint": "U+4B2C",
+    "strokeCount": 14,
+    "simpVariants": ["𱃵"],
+    "sources": ["unicode"],
+    "gloss": "to eat to the full"
+  },
+  "䬮": {
+    "_id": "5f523afdde54193ed872fee4",
+    "char": "䬮",
+    "codepoint": "U+4B2E",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(ancient form of 飴) syrup"
+  },
+  "䬾": {
+    "_id": "5f523afdde54193ed872fef4",
+    "char": "䬾",
+    "codepoint": "U+4B3E",
+    "strokeCount": 16,
+    "simpVariants": ["𬲻"],
+    "sources": ["unicode"],
+    "gloss": "cakes and biscuits"
+  },
+  "䭋": {
+    "_id": "5f523afdde54193ed872ff01",
+    "char": "䭋",
+    "codepoint": "U+4B4B",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "(same as 飽) to eat to the full"
+  },
+  "䭷": {
+    "_id": "5f523afdde54193ed872ff2d",
+    "char": "䭷",
+    "codepoint": "U+4B77",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "horse with long mane"
+  },
+  "䭻": {
+    "_id": "5f523afdde54193ed872ff31",
+    "char": "䭻",
+    "codepoint": "U+4B7B",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "a swift horse"
+  },
+  "䮆": {
+    "_id": "5f523afdde54193ed872ff3c",
+    "char": "䮆",
+    "codepoint": "U+4B86",
+    "strokeCount": 16,
+    "sources": ["unicode"],
+    "gloss": "(same as 駓) a horse with mixed color of yellow and white"
+  },
+  "䮦": {
+    "_id": "5f523afdde54193ed872ff5c",
+    "char": "䮦",
+    "codepoint": "U+4BA6",
+    "strokeCount": 20,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%A6_0.png",
+        "source": "academia-sinica",
+        "description": "老子甲107(隸)西漢",
+        "type": "Clerical",
+        "era": "Western Han dynasty (202 BC-9 AD)"
+      },
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AE%A6_1.png",
+        "source": "academia-sinica",
+        "description": "曹操宗族墓磚(隸)東漢",
+        "type": "Clerical",
+        "era": "Eastern Han dynasty (25-220 AD)"
+      }
+    ],
+    "variants": [{ "char": "䮦", "parts": "馬高", "source": "academia-sinica" }],
+    "gloss": "(non-classical form of 驕) untamed"
+  },
+  "䮭": {
+    "_id": "5f523afdde54193ed872ff63",
+    "char": "䮭",
+    "codepoint": "U+4BAD",
+    "strokeCount": 21,
+    "sources": ["unicode"],
+    "gloss": "to look at in surprise"
+  },
+  "䯉": {
+    "_id": "5f523afdde54193ed872ff7f",
+    "char": "䯉",
+    "codepoint": "U+4BC9",
+    "strokeCount": 14,
+    "sources": ["academia-sinica", "unicode"],
+    "images": [
+      {
+        "url": "https://data.dong-chinese.com/img/sinica/%E4%AF%89_0.png",
+        "source": "academia-sinica",
+        "description": "說文‧欠部",
+        "type": "Seal",
+        "era": "Shuowen (~100 AD)"
+      }
+    ],
+    "shuowen": "《說文》：“，咽中息不利也。从欠，骨聲。”",
+    "variants": [{ "char": "䯉", "parts": "骨欠", "source": "academia-sinica" }],
+    "gloss": "to choke"
+  },
+  "䯛": {
+    "_id": "5f523afdde54193ed872ff91",
+    "char": "䯛",
+    "codepoint": "U+4BDB",
+    "strokeCount": 18,
+    "sources": ["unicode"],
+    "gloss": "the knee bones"
+  },
+  "䯝": {
+    "_id": "5f523afdde54193ed872ff93",
+    "char": "䯝",
+    "codepoint": "U+4BDD",
+    "strokeCount": 19,
+    "sources": ["unicode"],
+    "gloss": "(same as 髓) marrow",
+    "statistics": { "hskLevel": 10, "topWords": [] }
+  },
+  "䯱": {
+    "_id": "5f523afdde54193ed872ffa7",
+    "char": "䯱",
+    "codepoint": "U+4BF1",
+    "strokeCount": 14,
+    "sources": ["unicode"],
+    "gloss": "(said of wild beasts) the hair stands up"
+  },
+  "䯹": {
+    "_id": "5f523afdde54193ed872ffaf",
+    "char": "䯹",
+    "codepoint": "U+4BF9",
+    "strokeCount": 17,
+    "sources": ["unicode"],
+    "gloss": "hair"
+  }
+}

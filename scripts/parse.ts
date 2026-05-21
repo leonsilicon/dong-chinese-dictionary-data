@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 
 const rootDir = path.resolve(fileURLToPath(import.meta.url), "../..");
 const assetsDir = path.join(rootDir, "assets");
-const strokesDir = path.join(rootDir, "strokes");
+const unicodeDir = path.join(rootDir, "unicode");
 
 const sourceArg = process.argv[2];
 const sourceFile = sourceArg
@@ -26,22 +26,29 @@ if (!sourceFile || !fs.existsSync(sourceFile)) {
 }
 
 console.log(
-  `Parsing ${path.relative(rootDir, sourceFile)} -> ${path.relative(rootDir, strokesDir)}/`,
+  `Parsing ${path.relative(rootDir, sourceFile)} -> ${path.relative(rootDir, unicodeDir)}/`,
 );
 
 const data = fs.readFileSync(sourceFile, "utf8");
 const entries = jsonl.parse(data) as Array<Record<string, unknown>>;
 
-fs.mkdirSync(strokesDir, { recursive: true });
+fs.rmSync(unicodeDir, { recursive: true, force: true });
+fs.mkdirSync(unicodeDir, { recursive: true });
 
 const IGNORED_ID_PREFIXES = ["AwEHQD", "Xu5z76", "wMjRhN", "zXhHr8"];
 const IGNORED_IDS = new Set([
   "5f523affde54193ed8735326", // 龰 U+9FB0 — duplicate with bad codepoint
 ]);
 
+function bucketKey(char: string): string {
+  const cp = char.codePointAt(0);
+  if (cp === undefined) throw new Error(`Empty char has no code point`);
+  return `${(cp >>> 8).toString(16)}xx`;
+}
+
 const seen = new Map<string, Record<string, unknown>>();
-// Map from stroke count to char->entry mapping
-const strokeGroups = new Map<number, Record<string, Record<string, unknown>>>();
+const buckets = new Map<string, Record<string, Record<string, unknown>>>();
+const charToBucket = new Map<string, string>();
 
 for (const entry of entries) {
   const id = entry["_id"] as string;
@@ -59,28 +66,29 @@ for (const entry of entries) {
     console.warn(
       `Warning: duplicate char "${char}"\n  existing: ${JSON.stringify(seen.get(char))}\n  new:      ${JSON.stringify(entry)}`,
     );
-  } else {
-    seen.set(char, entry);
-    const strokeCount = typeof entry["strokeCount"] === "number" ? entry["strokeCount"] : 0;
-    const group = strokeGroups.get(strokeCount) ?? {};
-    group[char] = entry;
-    strokeGroups.set(strokeCount, group);
+    continue;
   }
+
+  seen.set(char, entry);
+  const key = bucketKey(char);
+  const bucket = buckets.get(key) ?? {};
+  bucket[char] = entry;
+  buckets.set(key, bucket);
+  charToBucket.set(char, key);
 }
 
-for (const [strokeCount, groupEntries] of strokeGroups) {
-  fs.writeFileSync(path.join(strokesDir, `${strokeCount}.json`), JSON.stringify(groupEntries));
+for (const [key, bucketEntries] of buckets) {
+  fs.writeFileSync(path.join(unicodeDir, `${key}.json`), JSON.stringify(bucketEntries));
 }
 
 const chars = [...seen.keys()];
 const indexLines = chars.map((c) => {
-  const entry = seen.get(c)!;
-  const strokeCount = typeof entry["strokeCount"] === "number" ? entry["strokeCount"] : 0;
-  return `\t${JSON.stringify(c)}: async () => (await import('./strokes/${strokeCount}.json', { with: { type: 'json' } })).default[${JSON.stringify(c)}]`;
+  const key = charToBucket.get(c)!;
+  return `\t${JSON.stringify(c)}: async () => (await import('./unicode/${key}.json', { with: { type: 'json' } })).default[${JSON.stringify(c)}]`;
 });
 const indexJs = `const characters = {\n${indexLines.join(",\n")}\n};\n\nexport default characters;\n`;
 fs.writeFileSync(path.join(rootDir, "index.js"), indexJs);
 
 console.log(
-  `Wrote ${chars.length} entries across ${strokeGroups.size} stroke-count files to ${path.relative(rootDir, strokesDir)}/ and index.js`,
+  `Wrote ${chars.length} entries across ${buckets.size} unicode buckets to ${path.relative(rootDir, unicodeDir)}/ and index.js`,
 );
