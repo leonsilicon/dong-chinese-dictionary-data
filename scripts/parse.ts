@@ -84,9 +84,10 @@ for (const [key, bucketEntries] of buckets) {
 const chars = [...seen.keys()];
 const indexLines = chars.map((c) => {
   const key = charToBucket.get(c)!;
-  return `\t${JSON.stringify(c)}: async () => (await import('./unicode/${key}.json', { with: { type: 'json' } })).default[${JSON.stringify(c)}]`;
+  const q = JSON.stringify(c);
+  return `${q}:async()=>(await import('./unicode/${key}.json',{with:{type:'json'}})).default[${q}]`;
 });
-const indexJs = `const characters = {\n${indexLines.join(",\n")}\n};\n\nexport default characters;\n`;
+const indexJs = `const characters={\n${indexLines.join(",\n")}\n};\nexport default characters;\n`;
 fs.writeFileSync(path.join(rootDir, "index.js"), indexJs);
 
 console.log(

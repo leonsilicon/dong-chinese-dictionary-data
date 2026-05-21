@@ -12,6 +12,6 @@ export default defineConfig({
     },
   },
   fmt: {
-    ignorePatterns: ["index.js", "strokes/**", "assets/**"],
+    ignorePatterns: ["**"],
   },
 });
