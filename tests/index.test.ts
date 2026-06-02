@@ -2,7 +2,7 @@ import { describe, expect, test } from "vite-plus/test";
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { jsonl } from "js-jsonl";
-import characters from "../index.js";
+import characters from "../index.gen.js";
 
 describe("characters", () => {
   test("is an object with entries", () => {
@@ -39,7 +39,7 @@ describe("characters", () => {
     expect(data).toHaveProperty("char");
   });
 
-  test("every jsonl entry is referenced in index.js", () => {
+  test("every jsonl entry is referenced in index.gen.js", () => {
     const assetsDir = join(import.meta.dirname, "../assets");
     const sourceFile = readdirSync(assetsDir)
       .filter((f) => f.endsWith(".jsonl"))
@@ -66,7 +66,7 @@ describe("characters", () => {
 
     if (missing.length > 0) {
       throw new Error(
-        `${missing.length} character(s) from the JSONL are not referenced in index.js: ${missing.slice(0, 10).join(", ")}${missing.length > 10 ? "…" : ""}`,
+        `${missing.length} character(s) from the JSONL are not referenced in index.gen.js: ${missing.slice(0, 10).join(", ")}${missing.length > 10 ? "…" : ""}`,
       );
     }
   });

@@ -1,6 +1,6 @@
 {
   "name": "dong-chinese-dictionary-data",
-  "version": "1.20251225.0",
+  "version": "1.20251225.1",
   "description": "Chinese dictionary data from dong-chinese.com, packaged as a single JSON file with TypeScript types.",
   "keywords": [
     "chinese",
@@ -23,32 +23,32 @@
     "url": "git+https://github.com/leonsilicon/dong-chinese-dictionary-data.git"
   },
   "files": [
-    "index.js",
-    "index.d.ts",
+    "index.gen.js",
+    "index.gen.d.ts",
     "character-data.d.ts",
     "unicode-entry.d.ts",
-    "unicode"
+    "u"
   ],
   "type": "module",
   "sideEffects": false,
-  "main": "./index.js",
-  "types": "./index.d.ts",
+  "main": "./index.gen.js",
+  "types": "./index.gen.d.ts",
   "exports": {
     ".": {
-      "types": "./index.d.ts",
-      "default": "./index.js"
+      "types": "./index.gen.d.ts",
+      "default": "./index.gen.js"
     },
-    "./unicode/*": {
+    "./u/*": {
       "types": "./unicode-entry.d.ts",
-      "default": "./unicode/*"
+      "default": "./u/*"
     },
     "./package.json": "./package.json"
   },
   "scripts": {
-    "build": "bun run scripts/parse.ts",
+    "build": "bun run __build.ts",
     "test": "vp test",
     "check": "vp check",
-    "prepack": "bun run scripts/parse.ts",
+    "prepack": "bun run __build.ts",
     "prepare": "vp config"
   },
   "devDependencies": {

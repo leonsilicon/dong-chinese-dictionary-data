@@ -5,7 +5,7 @@ export default defineConfig({
     "*": "vp check --fix",
   },
   lint: {
-    ignorePatterns: ["index.js", "strokes/**", "assets/**"],
+    ignorePatterns: ["index.gen.js", "strokes/**", "assets/**"],
     options: {
       typeAware: true,
       typeCheck: true,
